@@ -1,0 +1,67 @@
+{
+  "id": 1209105229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.5725,33.8625,35.5725,33.8625",
+    "geom:latitude":33.8625,
+    "geom:longitude":35.5725,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Al Ghuwayyat",
+    "gn:cc2":"LB",
+    "gn:country_code":"LB",
+    "gn:dem":236,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":280142,
+    "gn:latitude":33.8625,
+    "gn:longitude":35.5725,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Al Ghuwayy\u0101t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Ghoieyat",
+        "Ghouayat",
+        "Al Ghuwayy\u0101t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":280142
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"7f9f718c4763fea508b8693f0189ead0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632533,
+            "locality_id":1209105229
+        }
+    ],
+    "wof:id":1209105229,
+    "wof:lastmodified":1537661271,
+    "wof:name":"Al Ghuwayyat",
+    "wof:parent_id":85632533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.5725,
+    33.8625,
+    35.5725,
+    33.8625
+],
+  "geometry": {"coordinates":[35.5725,33.8625],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226668891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.72528,34.05389,35.72528,34.05389",
+    "geom:latitude":34.05389,
+    "geom:longitude":35.72528,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Hai Mar Nohra",
+    "gn:country_code":"LB",
+    "gn:dem":922,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6279253,
+    "gn:latitude":34.05389,
+    "gn:longitude":35.72528,
+    "gn:modification_date":"2006-08-24",
+    "gn:name":"Ha\u00ef M\u00e2r Nohra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        421172015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6279253
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"5e746ba9e8f102b00f0daa0260e524aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421172015,
+            "locality_id":1226668891,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1226668891,
+    "wof:lastmodified":1536825252,
+    "wof:name":"Hai Mar Nohra",
+    "wof:parent_id":421172015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.72528,
+    34.05389,
+    35.72528,
+    34.05389
+],
+  "geometry": {"coordinates":[35.72528,34.05389],"type":"Point"}
+}

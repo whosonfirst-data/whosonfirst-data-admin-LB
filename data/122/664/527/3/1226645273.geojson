@@ -1,0 +1,71 @@
+{
+  "id": 1226645273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.6875,33.99417,35.6875,33.99417",
+    "geom:latitude":33.99417,
+    "geom:longitude":35.6875,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Qalaat Maarab",
+    "gn:country_code":"LB",
+    "gn:dem":981,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":269414,
+    "gn:latitude":33.99417,
+    "gn:longitude":35.6875,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Qalaat Maar\u00e2b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qal\u2018at Mi\u2018r\u0101b",
+        "Qalaat Maar\u00e2b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        421172015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":269414
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"9e2bc601c5288264481ace8ad6c46e51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421172015,
+            "locality_id":1226645273,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1226645273,
+    "wof:lastmodified":1537661035,
+    "wof:name":"Qalaat Maarab",
+    "wof:parent_id":421172015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.6875,
+    33.99417,
+    35.6875,
+    33.99417
+],
+  "geometry": {"coordinates":[35.6875,33.99417],"type":"Point"}
+}

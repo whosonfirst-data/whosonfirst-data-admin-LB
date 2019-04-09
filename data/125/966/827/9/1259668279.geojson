@@ -1,0 +1,67 @@
+{
+  "id": 1259668279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.77556,34.23139,35.77556,34.23139",
+    "geom:latitude":34.23139,
+    "geom:longitude":35.77556,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Aarbiya",
+    "gn:country_code":"LB",
+    "gn:dem":701,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6279745,
+    "gn:latitude":34.23139,
+    "gn:longitude":35.77556,
+    "gn:modification_date":"2006-08-24",
+    "gn:name":"Aarb\u00eeya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673483,
+        421204111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6279745
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"e38798ee96b790141f086d0b59591ee4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421204111,
+            "locality_id":1259668279,
+            "region_id":85673483
+        }
+    ],
+    "wof:id":1259668279,
+    "wof:lastmodified":1537085755,
+    "wof:name":"Aarbiya",
+    "wof:parent_id":421204111,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.77556,
+    34.23139,
+    35.77556,
+    34.23139
+],
+  "geometry": {"coordinates":[35.77556,34.23139],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1226142133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.48657,33.71925,35.48657,33.71925",
+    "geom:latitude":33.71925,
+    "geom:longitude":35.48657,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Er Roummane",
+    "gn:country_code":"LB",
+    "gn:dem":377,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":278417,
+    "gn:latitude":33.71925,
+    "gn:longitude":35.48657,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Er Roumm\u00e2n\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0631\u0645\u0627\u0646\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0631\u0645\u0651\u0627\u0646\u0629"
+    ],
+    "name:und_x_variant":[
+        "Er Rouman\u00e9",
+        "Ar Rumm\u0101nah",
+        "Er Roumm\u00e2n\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        1108691409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":278417
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"3ff9f0456da3061bdbdbe3c17a4e8072",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691409,
+            "locality_id":1226142133,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1226142133,
+    "wof:lastmodified":1537661210,
+    "wof:name":"Er Roummane",
+    "wof:parent_id":1108691409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.48657,
+    33.71925,
+    35.48657,
+    33.71925
+],
+  "geometry": {"coordinates":[35.48657,33.71925],"type":"Point"}
+}

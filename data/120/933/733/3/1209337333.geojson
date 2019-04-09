@@ -1,0 +1,65 @@
+{
+  "id": 1209337333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.71278,33.98694,35.71278,33.98694",
+    "geom:latitude":33.98694,
+    "geom:longitude":35.71278,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kroum el Fouaqa",
+    "gn:country_code":"LB",
+    "gn:dem":1099,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":272202,
+    "gn:latitude":33.98694,
+    "gn:longitude":35.71278,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kro\u00fbm el Fou\u00e2qa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kur\u016bm al Faww\u0101qah",
+        "Kro\u00fbm el Fou\u00e2qa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":272202
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"b66da16f754d2d490582f1b0b38cd3ce",
+    "wof:hierarchy":[
+        {
+            "country_id":85632533,
+            "locality_id":1209337333
+        }
+    ],
+    "wof:id":1209337333,
+    "wof:lastmodified":1537661071,
+    "wof:name":"Kroum el Fouaqa",
+    "wof:parent_id":85632533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.71278,
+    33.98694,
+    35.71278,
+    33.98694
+],
+  "geometry": {"coordinates":[35.71278,33.98694],"type":"Point"}
+}

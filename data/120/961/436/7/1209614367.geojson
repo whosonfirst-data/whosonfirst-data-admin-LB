@@ -1,0 +1,71 @@
+{
+  "id": 1209614367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.56361,33.69778,35.56361,33.69778",
+    "geom:latitude":33.69778,
+    "geom:longitude":35.56361,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Deir el Qamar",
+    "gn:country_code":"LB",
+    "gn:dem":786,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":275655,
+    "gn:latitude":33.69778,
+    "gn:longitude":35.56361,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"De\u00efr el Qamar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u064a\u0631 \u0627\u0644\u0642\u0645\u0631"
+    ],
+    "name:und_x_variant":[
+        "Deir el Qamer",
+        "Deir el Kamer",
+        "Dayr al Qamar",
+        "De\u00efr el Qamar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":275655,
+        "wk:page":"Deir_al-Qamar"
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"ae2417fa09fabb0115aaa893f76c386d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632533,
+            "locality_id":1209614367
+        }
+    ],
+    "wof:id":1209614367,
+    "wof:lastmodified":1537661135,
+    "wof:name":"Deir el Qamar",
+    "wof:parent_id":85632533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.56361,
+    33.69778,
+    35.56361,
+    33.69778
+],
+  "geometry": {"coordinates":[35.56361,33.69778],"type":"Point"}
+}

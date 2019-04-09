@@ -1,0 +1,72 @@
+{
+  "id": 1293578359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.16667,34.56667,36.16667,34.56667",
+    "geom:latitude":34.56667,
+    "geom:longitude":36.16667,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Dar `Ayn al `Awra'",
+    "gn:country_code":"LB",
+    "gn:dem":340,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":275790,
+    "gn:latitude":34.56667,
+    "gn:longitude":36.16667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"D\u0101r \u2018Ayn al \u2018Awr\u0101\u2019",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "D\u00e2r A\u00efn el Aaouro",
+        "Dar Ain el Aaoura",
+        "D\u0101r \u2018Ayn al \u2018Awr\u0101\u2019"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673483,
+        1108691407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":275790
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"c52440de12433c6983698c0246868ff3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691407,
+            "locality_id":1293578359,
+            "region_id":85673483
+        }
+    ],
+    "wof:id":1293578359,
+    "wof:lastmodified":1537661138,
+    "wof:name":"Dar `Ayn al `Awra'",
+    "wof:parent_id":1108691407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.16667,
+    34.56667,
+    36.16667,
+    34.56667
+],
+  "geometry": {"coordinates":[36.16667,34.56667],"type":"Point"}
+}

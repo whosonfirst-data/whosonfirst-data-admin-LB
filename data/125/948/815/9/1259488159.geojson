@@ -1,0 +1,71 @@
+{
+  "id": 1259488159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.82944,33.93194,35.82944,33.93194",
+    "geom:latitude":33.93194,
+    "geom:longitude":35.82944,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ouadi ed Deleb",
+    "gn:country_code":"LB",
+    "gn:dem":1421,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":266375,
+    "gn:latitude":33.93194,
+    "gn:longitude":35.82944,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ou\u00e2di ed Deleb",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "W\u0101d\u012b ad Dulb",
+        "Ou\u00e2di ed Deleb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        1108691425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":266375
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"21b6b50bed380f36505ea8cbe365a608",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691425,
+            "locality_id":1259488159,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1259488159,
+    "wof:lastmodified":1537661000,
+    "wof:name":"Ouadi ed Deleb",
+    "wof:parent_id":1108691425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.82944000000001,
+    33.93194,
+    35.82944000000001,
+    33.93194
+],
+  "geometry": {"coordinates":[35.82944000000001,33.93194],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1209607679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.595,33.57083,35.595,33.57083",
+    "geom:latitude":33.57083,
+    "geom:longitude":35.595,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Aaray",
+    "gn:country_code":"LB",
+    "gn:dem":626,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":278669,
+    "gn:latitude":33.57083,
+    "gn:longitude":35.595,
+    "gn:modification_date":"2018-03-28",
+    "gn:name":"Aaray",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0627\u0631\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "\u2018\u0100rayh",
+        "Chouqf\u00e2ne el Aar\u00e2yes",
+        "Aaray",
+        "\u2018\u0100rayah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":278669,
+        "wk:page":"Aray,_Lebanon"
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"4b8ffd187d5fb3f55814e50e9f9fa0dd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632533,
+            "locality_id":1209607679
+        }
+    ],
+    "wof:id":1209607679,
+    "wof:lastmodified":1537661215,
+    "wof:name":"Aaray",
+    "wof:parent_id":85632533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.595,
+    33.57083,
+    35.595,
+    33.57083
+],
+  "geometry": {"coordinates":[35.595,33.57083],"type":"Point"}
+}

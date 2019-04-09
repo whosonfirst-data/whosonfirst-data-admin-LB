@@ -1,0 +1,67 @@
+{
+  "id": 1327436285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.4645,33.74508,35.4645,33.74508",
+    "geom:latitude":33.74508,
+    "geom:longitude":35.4645,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Naameh",
+    "gn:country_code":"LB",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7839998,
+    "gn:latitude":33.74508,
+    "gn:longitude":35.4645,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Naameh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        1108691419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7839998
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"f032bd1d8d2b5bef576f0630e94479c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691419,
+            "locality_id":1327436285,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1327436285,
+    "wof:lastmodified":1536675126,
+    "wof:name":"Naameh",
+    "wof:parent_id":1108691419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.4645,
+    33.74508,
+    35.4645,
+    33.74508
+],
+  "geometry": {"coordinates":[35.4645,33.74508],"type":"Point"}
+}

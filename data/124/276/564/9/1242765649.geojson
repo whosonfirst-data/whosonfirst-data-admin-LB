@@ -1,0 +1,71 @@
+{
+  "id": 1242765649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.27667,34.2975,36.27667,34.2975",
+    "geom:latitude":34.2975,
+    "geom:longitude":36.27667,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Mrah Jouar el Qorra",
+    "gn:country_code":"LB",
+    "gn:dem":1633,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":271470,
+    "gn:latitude":34.2975,
+    "gn:longitude":36.27667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mr\u00e2h Jou\u00e2r el Qorra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mar\u0101\u1e29 Juwar al Qurrah",
+        "Mr\u00e2h Jou\u00e2r el Qorra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673479,
+        1108691421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":271470
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"ae1310c18d2390ef2ac41e84b5e431ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691421,
+            "locality_id":1242765649,
+            "region_id":85673479
+        }
+    ],
+    "wof:id":1242765649,
+    "wof:lastmodified":1537661062,
+    "wof:name":"Mrah Jouar el Qorra",
+    "wof:parent_id":1108691421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.27667,
+    34.2975,
+    36.27667,
+    34.2975
+],
+  "geometry": {"coordinates":[36.27667,34.2975],"type":"Point"}
+}

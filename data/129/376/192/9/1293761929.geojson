@@ -1,0 +1,71 @@
+{
+  "id": 1293761929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.07861,33.92139,36.07861,33.92139",
+    "geom:latitude":33.92139,
+    "geom:longitude":36.07861,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Es Sifri",
+    "gn:country_code":"LB",
+    "gn:dem":1001,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":277992,
+    "gn:latitude":33.92139,
+    "gn:longitude":36.07861,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Es Sifri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "As Sifr\u012b",
+        "Es Sifri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673479,
+        421171405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":277992
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"ea057f0a6e3c3fdc77cab710d04043cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421171405,
+            "locality_id":1293761929,
+            "region_id":85673479
+        }
+    ],
+    "wof:id":1293761929,
+    "wof:lastmodified":1537661200,
+    "wof:name":"Es Sifri",
+    "wof:parent_id":421171405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.07861,
+    33.92139,
+    36.07861,
+    33.92139
+],
+  "geometry": {"coordinates":[36.07861,33.92139],"type":"Point"}
+}

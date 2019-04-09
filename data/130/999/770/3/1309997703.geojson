@@ -1,0 +1,75 @@
+{
+  "id": 1309997703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.46194,33.35583,35.46194,33.35583",
+    "geom:latitude":33.35583,
+    "geom:longitude":35.46194,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Choukine",
+    "gn:country_code":"LB",
+    "gn:dem":530,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":267277,
+    "gn:latitude":33.35583,
+    "gn:longitude":35.46194,
+    "gn:modification_date":"2013-08-06",
+    "gn:name":"Chouk\u00eene",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0634\u0648\u0643\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "Sh\u016bk\u012bn",
+        "Chouk\u00eene",
+        "CHOUKIN"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673495,
+        1108691429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":267277
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"9be1b06775872e6980cd228ce0651719",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691429,
+            "locality_id":1309997703,
+            "region_id":85673495
+        }
+    ],
+    "wof:id":1309997703,
+    "wof:lastmodified":1537661012,
+    "wof:name":"Choukine",
+    "wof:parent_id":1108691429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.46194000000001,
+    33.35583,
+    35.46194000000001,
+    33.35583
+],
+  "geometry": {"coordinates":[35.46194000000001,33.35583],"type":"Point"}
+}

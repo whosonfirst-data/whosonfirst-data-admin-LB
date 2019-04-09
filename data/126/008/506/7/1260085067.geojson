@@ -1,0 +1,74 @@
+{
+  "id": 1260085067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.61167,33.88222,35.61167,33.88222",
+    "geom:latitude":33.88222,
+    "geom:longitude":35.61167,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Hai en Naas",
+    "gn:country_code":"LB",
+    "gn:dem":562,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6275162,
+    "gn:latitude":33.88222,
+    "gn:longitude":35.61167,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Ha\u00ef en Naas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u064a \u0627\u0644\u0646\u0639\u0635"
+    ],
+    "name:und_x_variant":[
+        "Ha\u00ef en Naas",
+        "\u1e28ayy an Na\u2018\u015f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        1108691425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6275162
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"49bd1c5b59974801b44ce82655b7c94c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691425,
+            "locality_id":1260085067,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1260085067,
+    "wof:lastmodified":1537661314,
+    "wof:name":"Hai en Naas",
+    "wof:parent_id":1108691425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.61167000000001,
+    33.88222,
+    35.61167000000001,
+    33.88222
+],
+  "geometry": {"coordinates":[35.61167000000001,33.88222],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1343363663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.58056,33.75417,35.58056,33.75417",
+    "geom:latitude":33.75417,
+    "geom:longitude":35.58056,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Doueir er Roummane",
+    "gn:country_code":"LB",
+    "gn:dem":485,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":275376,
+    "gn:latitude":33.75417,
+    "gn:longitude":35.58056,
+    "gn:modification_date":"2018-03-07",
+    "gn:name":"Doue\u00efr er Roummane",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u0648\u064a\u0631 \u0627\u0644\u0631\u0645\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Douer Roumm\u00e2ne",
+        "Dweir er-Remman",
+        "Doue\u00efr er Remmane",
+        "Doua\u00efr Roumm\u00e2ne",
+        "Duwayr ar Rumm\u0101n",
+        "Doue\u00efr er Roummane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        1108691409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":275376
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"05cc94038390bcc05077738f2ab7322c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691409,
+            "locality_id":1343363663,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1343363663,
+    "wof:lastmodified":1537661128,
+    "wof:name":"Doueir er Roummane",
+    "wof:parent_id":1108691409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.58056,
+    33.75417,
+    35.58056,
+    33.75417
+],
+  "geometry": {"coordinates":[35.58056,33.75417],"type":"Point"}
+}

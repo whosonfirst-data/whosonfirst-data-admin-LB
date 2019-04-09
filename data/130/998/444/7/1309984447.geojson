@@ -1,0 +1,72 @@
+{
+  "id": 1309984447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.16528,34.14833,36.16528,34.14833",
+    "geom:latitude":34.14833,
+    "geom:longitude":36.16528,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Safra",
+    "gn:country_code":"LB",
+    "gn:dem":1201,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":268454,
+    "gn:latitude":34.14833,
+    "gn:longitude":36.16528,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Safra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u015eafrah",
+        "Safra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673479,
+        421171405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":268454,
+        "wk:page":"Safra%2C_Lebanon"
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"b14153754f8acf902fa415ca4937e3aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421171405,
+            "locality_id":1309984447,
+            "region_id":85673479
+        }
+    ],
+    "wof:id":1309984447,
+    "wof:lastmodified":1537661021,
+    "wof:name":"Safra",
+    "wof:parent_id":421171405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.16528,
+    34.14833,
+    36.16528,
+    34.14833
+],
+  "geometry": {"coordinates":[36.16528,34.14833],"type":"Point"}
+}

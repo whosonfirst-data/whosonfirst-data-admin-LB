@@ -1,0 +1,71 @@
+{
+  "id": 1209738233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.76278,34.02806,35.76278,34.02806",
+    "geom:latitude":34.02806,
+    "geom:longitude":35.76278,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ain el Barde",
+    "gn:country_code":"LB",
+    "gn:dem":1221,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":277705,
+    "gn:latitude":34.02806,
+    "gn:longitude":35.76278,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"A\u00efn el B\u00e2rd\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u2018Ayn al B\u0101ridah",
+        "A\u00efn el B\u00e2rd\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        421172015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":277705
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"70813590aa46383f3d41ca13344bc494",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421172015,
+            "locality_id":1209738233,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1209738233,
+    "wof:lastmodified":1537661193,
+    "wof:name":"Ain el Barde",
+    "wof:parent_id":421172015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.76278,
+    34.02806,
+    35.76278,
+    34.02806
+],
+  "geometry": {"coordinates":[35.76278,34.02806],"type":"Point"}
+}

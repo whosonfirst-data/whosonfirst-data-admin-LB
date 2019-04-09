@@ -1,0 +1,71 @@
+{
+  "id": 1209103715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.32611,33.30806,35.32611,33.30806",
+    "geom:latitude":33.30806,
+    "geom:longitude":35.32611,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Halloussiyet et Tahta",
+    "gn:country_code":"LB",
+    "gn:dem":229,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":274708,
+    "gn:latitude":33.30806,
+    "gn:longitude":35.32611,
+    "gn:modification_date":"2018-03-28",
+    "gn:name":"Hallo\u00fbss\u00eeyet et Tahta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0644\u0648\u0633\u064a\u0629 \u0627\u0644\u062a\u062d\u062a\u0627"
+    ],
+    "name:und_x_variant":[
+        "Hallo\u00fbss\u00eeyet ett Tahta",
+        "\u1e28all\u016bs\u012byat at Ta\u1e29t\u0101",
+        "Hallo\u00fbss\u00eeyet et Tahta",
+        "HALOUSSIET"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":274708,
+        "wk:page":"Halloussiyeh"
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"618ea71e5fca8efe2ee6b6e58de510fa",
+    "wof:hierarchy":[
+        {
+            "country_id":85632533,
+            "locality_id":1209103715
+        }
+    ],
+    "wof:id":1209103715,
+    "wof:lastmodified":1537661121,
+    "wof:name":"Halloussiyet et Tahta",
+    "wof:parent_id":85632533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.32611,
+    33.30806,
+    35.32611,
+    33.30806
+],
+  "geometry": {"coordinates":[35.32611,33.30806],"type":"Point"}
+}

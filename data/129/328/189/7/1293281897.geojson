@@ -1,0 +1,76 @@
+{
+  "id": 1293281897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.7775,34.24639,35.7775,34.24639",
+    "geom:latitude":34.24639,
+    "geom:longitude":35.7775,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Jibla",
+    "gn:country_code":"LB",
+    "gn:dem":490,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":273344,
+    "gn:latitude":34.24639,
+    "gn:longitude":35.7775,
+    "gn:modification_date":"2014-03-08",
+    "gn:name":"Jibla",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u0628\u0644\u0627"
+    ],
+    "name:und_x_variant":[
+        "Jabla",
+        "Jebla",
+        "Jibla",
+        "Jabl\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673483,
+        421204111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":273344
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"0cab48437e6ccc17feafaae4516b64dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421204111,
+            "locality_id":1293281897,
+            "region_id":85673483
+        }
+    ],
+    "wof:id":1293281897,
+    "wof:lastmodified":1537661093,
+    "wof:name":"Jibla",
+    "wof:parent_id":421204111,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.7775,
+    34.24639000000001,
+    35.7775,
+    34.24639000000001
+],
+  "geometry": {"coordinates":[35.7775,34.24639000000001],"type":"Point"}
+}

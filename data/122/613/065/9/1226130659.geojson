@@ -1,0 +1,74 @@
+{
+  "id": 1226130659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.05694,34.0825,36.05694,34.0825",
+    "geom:latitude":34.0825,
+    "geom:longitude":36.05694,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Flaoue",
+    "gn:country_code":"LB",
+    "gn:dem":1203,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":275196,
+    "gn:latitude":34.0825,
+    "gn:longitude":36.05694,
+    "gn:modification_date":"2018-04-02",
+    "gn:name":"Fl\u00e2ou\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Flaoui",
+        "Flawi",
+        "Fl\u0101wah",
+        "Fl\u00e2ou\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        1377074353,
+        421171405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":275196,
+        "wk:page":"Flaoui"
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"28531f73fb67ad602057b5d63b03100e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421171405,
+            "locality_id":1226130659,
+            "region_id":1377074353
+        }
+    ],
+    "wof:id":1226130659,
+    "wof:lastmodified":1551727656,
+    "wof:name":"Flaoue",
+    "wof:parent_id":421171405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.05694,
+    34.0825,
+    36.05694,
+    34.0825
+],
+  "geometry": {"coordinates":[36.05694,34.0825],"type":"Point"}
+}

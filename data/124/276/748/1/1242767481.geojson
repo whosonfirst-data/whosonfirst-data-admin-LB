@@ -1,0 +1,76 @@
+{
+  "id": 1242767481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.91139,34.36222,35.91139,34.36222",
+    "geom:latitude":34.36222,
+    "geom:longitude":35.91139,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Iaal",
+    "gn:country_code":"LB",
+    "gn:dem":255,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":273755,
+    "gn:latitude":34.36222,
+    "gn:longitude":35.91139,
+    "gn:modification_date":"2014-03-08",
+    "gn:name":"Iaal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0625\u064a\u0639\u0627\u0644"
+    ],
+    "name:und_x_variant":[
+        "Ee\u2018al",
+        "\u012a\u2018\u0101l",
+        "Iaal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673483,
+        1108691445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":273755,
+        "wk:page":"Iaal"
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"79268bc7f6a32aca928d3d89ce4c25f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691445,
+            "locality_id":1242767481,
+            "region_id":85673483
+        }
+    ],
+    "wof:id":1242767481,
+    "wof:lastmodified":1537661100,
+    "wof:name":"Iaal",
+    "wof:parent_id":1108691445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.91139000000001,
+    34.36222,
+    35.91139000000001,
+    34.36222
+],
+  "geometry": {"coordinates":[35.91139000000001,34.36222],"type":"Point"}
+}

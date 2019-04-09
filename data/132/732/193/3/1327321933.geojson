@@ -1,0 +1,72 @@
+{
+  "id": 1327321933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.13472,34.15028,36.13472,34.15028",
+    "geom:latitude":34.15028,
+    "geom:longitude":36.13472,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Bechouat",
+    "gn:country_code":"LB",
+    "gn:dem":1256,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":276355,
+    "gn:latitude":34.15028,
+    "gn:longitude":36.13472,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bechou\u00e2t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bshaw\u0101t",
+        "Bechou\u00e2t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673479,
+        421171405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":276355,
+        "wk:page":"Bechouat"
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"16431f108ef9a31cc8968a99df1f10ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421171405,
+            "locality_id":1327321933,
+            "region_id":85673479
+        }
+    ],
+    "wof:id":1327321933,
+    "wof:lastmodified":1537661150,
+    "wof:name":"Bechouat",
+    "wof:parent_id":421171405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.13472,
+    34.15028,
+    36.13472,
+    34.15028
+],
+  "geometry": {"coordinates":[36.13472,34.15028],"type":"Point"}
+}

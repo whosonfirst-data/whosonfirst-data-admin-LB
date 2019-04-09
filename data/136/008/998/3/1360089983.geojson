@@ -1,0 +1,77 @@
+{
+  "id": 1360089983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.58111,33.73528,35.58111,33.73528",
+    "geom:latitude":33.73528,
+    "geom:longitude":35.58111,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ain Trez",
+    "gn:country_code":"LB",
+    "gn:dem":649,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":277397,
+    "gn:latitude":33.73528,
+    "gn:longitude":35.58111,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"A\u00efn Tr\u00eaz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u064a\u0646 \u062a\u0631\u0627\u0632"
+    ],
+    "name:und_x_variant":[
+        "\u2018Ayn Tir\u0101z",
+        "A\u00efn Tr\u00e2z",
+        "\u2018Ayn Tr\u0101z",
+        "A\u00efn Tr\u00eaz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        1108691409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":277397,
+        "wk:page":"Ain_Traz"
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"067b0838dd441247bdb2476e780f9658",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691409,
+            "locality_id":1360089983,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1360089983,
+    "wof:lastmodified":1537661184,
+    "wof:name":"Ain Trez",
+    "wof:parent_id":1108691409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.58110999999999,
+    33.73528,
+    35.58110999999999,
+    33.73528
+],
+  "geometry": {"coordinates":[35.58110999999999,33.73528],"type":"Point"}
+}

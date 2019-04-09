@@ -1,0 +1,74 @@
+{
+  "id": 1310336959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.48344,33.69376,35.48344,33.69376",
+    "geom:latitude":33.69376,
+    "geom:longitude":35.48344,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"El Moughaire",
+    "gn:country_code":"LB",
+    "gn:dem":240,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6271512,
+    "gn:latitude":33.69376,
+    "gn:longitude":35.48344,
+    "gn:modification_date":"2013-04-05",
+    "gn:name":"El Mougha\u00efr\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u063a\u064a\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "El Mougha\u00efr\u00e9",
+        "Al Mughayrah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        1108691419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6271512
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"a0e384cc1e1f9c4086f1bd4095258d45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691419,
+            "locality_id":1310336959,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1310336959,
+    "wof:lastmodified":1537661306,
+    "wof:name":"El Moughaire",
+    "wof:parent_id":1108691419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.48344,
+    33.69376,
+    35.48344,
+    33.69376
+],
+  "geometry": {"coordinates":[35.48344,33.69376],"type":"Point"}
+}

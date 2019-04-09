@@ -1,0 +1,71 @@
+{
+  "id": 1209799891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.90917,34.24694,35.90917,34.24694",
+    "geom:latitude":34.24694,
+    "geom:longitude":35.90917,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"El Aaoude",
+    "gn:country_code":"LB",
+    "gn:dem":1313,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":280432,
+    "gn:latitude":34.24694,
+    "gn:longitude":35.90917,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El Aaoud\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al \u2018Awdah",
+        "El Aaoud\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        1377074355,
+        1108691411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":280432
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"cfd339c71b0a2b1fa6799e6728b8050d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691411,
+            "locality_id":1209799891,
+            "region_id":1377074355
+        }
+    ],
+    "wof:id":1209799891,
+    "wof:lastmodified":1551727623,
+    "wof:name":"El Aaoude",
+    "wof:parent_id":1108691411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.90917,
+    34.24694,
+    35.90917,
+    34.24694
+],
+  "geometry": {"coordinates":[35.90917,34.24694],"type":"Point"}
+}

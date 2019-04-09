@@ -1,0 +1,71 @@
+{
+  "id": 1276538567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.04028,34.35694,36.04028,34.35694",
+    "geom:latitude":34.35694,
+    "geom:longitude":36.04028,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Ouadi en Njass",
+    "gn:country_code":"LB",
+    "gn:dem":1485,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":266361,
+    "gn:latitude":34.35694,
+    "gn:longitude":36.04028,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ou\u00e2di en Nj\u00e2ss",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "W\u0101d\u012b al Inj\u0101\u015f",
+        "Ou\u00e2di en Nj\u00e2ss"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673483,
+        1108691427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":266361
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"d883481bd845f0a8c706a0df068d623e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691427,
+            "locality_id":1276538567,
+            "region_id":85673483
+        }
+    ],
+    "wof:id":1276538567,
+    "wof:lastmodified":1537661000,
+    "wof:name":"Ouadi en Njass",
+    "wof:parent_id":1108691427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.04028,
+    34.35694,
+    36.04028,
+    34.35694
+],
+  "geometry": {"coordinates":[36.04028,34.35694],"type":"Point"}
+}

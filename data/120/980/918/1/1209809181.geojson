@@ -1,0 +1,75 @@
+{
+  "id": 1209809181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.28333,34.56667,36.28333,34.56667",
+    "geom:latitude":34.56667,
+    "geom:longitude":36.28333,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Qoubaiyat",
+    "gn:country_code":"LB",
+    "gn:dem":561,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":414026,
+    "gn:latitude":34.56667,
+    "gn:longitude":36.28333,
+    "gn:modification_date":"2018-03-05",
+    "gn:name":"Qoubaiyat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kobayat"
+    ],
+    "name:und_x_variant":[
+        "Al Qubayy\u0101t",
+        "Qoubaiyat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        1377074357,
+        1108691407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":414026,
+        "wk:page":"Al_Qoubaiyat"
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"6391d887ecb23043a01440c010b92799",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691407,
+            "locality_id":1209809181,
+            "region_id":1377074357
+        }
+    ],
+    "wof:id":1209809181,
+    "wof:lastmodified":1551727671,
+    "wof:name":"Qoubaiyat",
+    "wof:parent_id":1108691407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.28333,
+    34.56667,
+    36.28333,
+    34.56667
+],
+  "geometry": {"coordinates":[36.28333,34.56667],"type":"Point"}
+}

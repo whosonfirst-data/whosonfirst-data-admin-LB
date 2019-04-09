@@ -1,0 +1,76 @@
+{
+  "id": 1293314775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.32639,33.48194,35.32639,33.48194",
+    "geom:latitude":33.48194,
+    "geom:longitude":35.32639,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Mazraat Brak et Tall",
+    "gn:country_code":"LB",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":270621,
+    "gn:latitude":33.48194,
+    "gn:longitude":35.32639,
+    "gn:modification_date":"2013-08-06",
+    "gn:name":"Mazraat Br\u00e2k et Tall",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0632\u0631\u0639\u0629 \u0628\u0631\u0627\u0643 \u0627\u0644\u062a\u0644"
+    ],
+    "name:und_x_variant":[
+        "Brak et-Tel",
+        "Mazra\u2018at Br\u0101k at Tall",
+        "Mazraat Br\u00e2k et Tall",
+        "Mazra\u2018at Bar\u0101k at Tall"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673499,
+        890451987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":270621
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"2dcaa8ac513d4c063200b78a593e23ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":890451987,
+            "locality_id":1293314775,
+            "region_id":85673499
+        }
+    ],
+    "wof:id":1293314775,
+    "wof:lastmodified":1537661047,
+    "wof:name":"Mazraat Brak et Tall",
+    "wof:parent_id":890451987,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.32639,
+    33.48194,
+    35.32639,
+    33.48194
+],
+  "geometry": {"coordinates":[35.32639,33.48194],"type":"Point"}
+}

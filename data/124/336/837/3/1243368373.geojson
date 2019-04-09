@@ -1,0 +1,71 @@
+{
+  "id": 1243368373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.78,33.98417,35.78,33.98417",
+    "geom:latitude":33.98417,
+    "geom:longitude":35.78,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ez Zire",
+    "gn:country_code":"LB",
+    "gn:dem":1251,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":277263,
+    "gn:latitude":33.98417,
+    "gn:longitude":35.78,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ez Z\u00eer\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Az Z\u012brah",
+        "Ez Z\u00eer\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        421172015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":277263
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"da1389177159e91b442081ec75870fda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421172015,
+            "locality_id":1243368373,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1243368373,
+    "wof:lastmodified":1537661180,
+    "wof:name":"Ez Zire",
+    "wof:parent_id":421172015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.78,
+    33.98417,
+    35.78,
+    33.98417
+],
+  "geometry": {"coordinates":[35.78,33.98417],"type":"Point"}
+}

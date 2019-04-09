@@ -1,0 +1,76 @@
+{
+  "id": 1293788695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.90222,34.10611,35.90222,34.10611",
+    "geom:latitude":34.10611,
+    "geom:longitude":35.90222,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"El Mejdel",
+    "gn:country_code":"LB",
+    "gn:dem":1243,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":279590,
+    "gn:latitude":34.10611,
+    "gn:longitude":35.90222,
+    "gn:modification_date":"2013-10-07",
+    "gn:name":"El Mejdel",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u062c\u062f\u0644"
+    ],
+    "name:und_x_variant":[
+        "El Medjel",
+        "El Majdel",
+        "Al Majdal",
+        "El Mejdel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        421194845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":279590
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"f3fd3357ad8e5a0f652bc26405457357",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421194845,
+            "locality_id":1293788695,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1293788695,
+    "wof:lastmodified":1537661250,
+    "wof:name":"El Mejdel",
+    "wof:parent_id":421194845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.90222,
+    34.10611,
+    35.90222,
+    34.10611
+],
+  "geometry": {"coordinates":[35.90222,34.10611],"type":"Point"}
+}

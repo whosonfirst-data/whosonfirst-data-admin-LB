@@ -1,0 +1,71 @@
+{
+  "id": 1293772763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.02806,34.51222,36.02806,34.51222",
+    "geom:latitude":34.51222,
+    "geom:longitude":36.02806,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Mar Touma",
+    "gn:country_code":"LB",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":271098,
+    "gn:latitude":34.51222,
+    "gn:longitude":36.02806,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"M\u00e2r To\u00fbma",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "M\u0101r T\u016bm\u0101",
+        "M\u00e2r To\u00fbma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673483,
+        1108691407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":271098
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"a399a683182fe9f0d0ac2ab9b0f3513c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691407,
+            "locality_id":1293772763,
+            "region_id":85673483
+        }
+    ],
+    "wof:id":1293772763,
+    "wof:lastmodified":1537661058,
+    "wof:name":"Mar Touma",
+    "wof:parent_id":1108691407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.02806,
+    34.51222,
+    36.02806,
+    34.51222
+],
+  "geometry": {"coordinates":[36.02806,34.51222],"type":"Point"}
+}

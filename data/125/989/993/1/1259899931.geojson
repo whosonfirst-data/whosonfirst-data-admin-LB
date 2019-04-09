@@ -1,0 +1,80 @@
+{
+  "id": 1259899931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.8021,33.48424,35.8021,33.48424",
+    "geom:latitude":33.48424,
+    "geom:longitude":35.8021,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Beit Lahia",
+    "gn:country_code":"LB",
+    "gn:dem":949,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":276710,
+    "gn:latitude":33.48424,
+    "gn:longitude":35.8021,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Be\u00eft Lahia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a \u0644\u0647\u064a\u0647"
+    ],
+    "name:ara_x_variant":[
+        "\u0628\u064a\u062a \u0644\u0647\u064a\u0629",
+        "\u0628\u064a\u062a \u0644\u0647\u064a\u0627"
+    ],
+    "name:und_x_variant":[
+        "Bayt Lahy\u0101",
+        "Be\u00eft Lahia",
+        "Bayt Lahiyah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673479,
+        1108691439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":276710,
+        "wk:page":"Beit_Lahia_%28Lebanon%29"
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"e76cc5e0b1c533b8333cdf358de3fe41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691439,
+            "locality_id":1259899931,
+            "region_id":85673479
+        }
+    ],
+    "wof:id":1259899931,
+    "wof:lastmodified":1537661166,
+    "wof:name":"Beit Lahia",
+    "wof:parent_id":1108691439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.8021,
+    33.48424,
+    35.8021,
+    33.48424
+],
+  "geometry": {"coordinates":[35.8021,33.48424],"type":"Point"}
+}

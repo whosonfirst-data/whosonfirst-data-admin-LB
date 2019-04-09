@@ -1,0 +1,71 @@
+{
+  "id": 1326753097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.92611,34.14389,35.92611,34.14389",
+    "geom:latitude":34.14389,
+    "geom:longitude":35.92611,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ain ed Dobb",
+    "gn:country_code":"LB",
+    "gn:dem":1803,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":277739,
+    "gn:latitude":34.14389,
+    "gn:longitude":35.92611,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"A\u00efn ed Dobb",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u2018Ayn ad Dubb",
+        "A\u00efn ed Dobb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        421194845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":277739
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"9814a3d857b74e220e203f057109da4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421194845,
+            "locality_id":1326753097,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1326753097,
+    "wof:lastmodified":1537661194,
+    "wof:name":"Ain ed Dobb",
+    "wof:parent_id":421194845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.92610999999999,
+    34.14389,
+    35.92610999999999,
+    34.14389
+],
+  "geometry": {"coordinates":[35.92610999999999,34.14389],"type":"Point"}
+}

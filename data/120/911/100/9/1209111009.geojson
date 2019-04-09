@@ -1,0 +1,65 @@
+{
+  "id": 1209111009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.86917,34.15083,35.86917,34.15083",
+    "geom:latitude":34.15083,
+    "geom:longitude":35.86917,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ain es Salib",
+    "gn:country_code":"LB",
+    "gn:dem":1738,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":277548,
+    "gn:latitude":34.15083,
+    "gn:longitude":35.86917,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"A\u00efn es Sal\u00eeb",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u2018Ayn a\u015f \u015eal\u012bb",
+        "A\u00efn es Sal\u00eeb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":277548
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"6d822034922296d79df95f137d14bd57",
+    "wof:hierarchy":[
+        {
+            "country_id":85632533,
+            "locality_id":1209111009
+        }
+    ],
+    "wof:id":1209111009,
+    "wof:lastmodified":1537661190,
+    "wof:name":"Ain es Salib",
+    "wof:parent_id":85632533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.86917000000001,
+    34.15083,
+    35.86917000000001,
+    34.15083
+],
+  "geometry": {"coordinates":[35.86917000000001,34.15083],"type":"Point"}
+}

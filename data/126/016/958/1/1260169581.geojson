@@ -1,0 +1,71 @@
+{
+  "id": 1260169581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.36,34.42528,36.36,34.42528",
+    "geom:latitude":34.42528,
+    "geom:longitude":36.36,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Zighrine et Tahte",
+    "gn:country_code":"LB",
+    "gn:dem":1009,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":265823,
+    "gn:latitude":34.42528,
+    "gn:longitude":36.36,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Zighr\u00eene et Tahte",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zighr\u012bn at Ta\u1e29t\u0101",
+        "Zighr\u00eene et Tahte"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673479,
+        1108691421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":265823
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"a980a9c3e518c00dbef2f85e92647613",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691421,
+            "locality_id":1260169581,
+            "region_id":85673479
+        }
+    ],
+    "wof:id":1260169581,
+    "wof:lastmodified":1537660992,
+    "wof:name":"Zighrine et Tahte",
+    "wof:parent_id":1108691421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.36,
+    34.42528,
+    36.36,
+    34.42528
+],
+  "geometry": {"coordinates":[36.36,34.42528],"type":"Point"}
+}

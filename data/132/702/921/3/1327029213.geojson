@@ -1,0 +1,78 @@
+{
+  "id": 1327029213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.78,34.10083,35.78,34.10083",
+    "geom:latitude":34.10083,
+    "geom:longitude":35.78,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Hai el Faouqa",
+    "gn:country_code":"LB",
+    "gn:dem":984,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":274135,
+    "gn:latitude":34.10083,
+    "gn:longitude":35.78,
+    "gn:modification_date":"2014-03-08",
+    "gn:name":"Ha\u00ef el Faouqa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u064a \u0627\u0644\u0641\u0648\u0642\u0627"
+    ],
+    "name:ara_x_variant":[
+        "\u0639\u0644\u0645\u0627\u062a \u0627\u0644\u062c\u0646\u0648\u0628\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "\u1e28ayy al Fawq\u0101",
+        "Ha\u00ef el Faouqa",
+        "\u2018Alm\u0101t al Jan\u016bb\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        421194845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":274135
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"b29923b0f74c39f38f026ea8237e737d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421194845,
+            "locality_id":1327029213,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1327029213,
+    "wof:lastmodified":1537661107,
+    "wof:name":"Hai el Faouqa",
+    "wof:parent_id":421194845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.78,
+    34.10083,
+    35.78,
+    34.10083
+],
+  "geometry": {"coordinates":[35.78,34.10083],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1277108489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.69778,33.75083,35.69778,33.75083",
+    "geom:latitude":33.75083,
+    "geom:longitude":35.69778,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Nabaa es Safa",
+    "gn:country_code":"LB",
+    "gn:dem":959,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":270018,
+    "gn:latitude":33.75083,
+    "gn:longitude":35.69778,
+    "gn:modification_date":"2018-03-07",
+    "gn:name":"Nabaa es Safa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0646\u0647\u0631 \u0627\u0644\u0635\u0641\u0627"
+    ],
+    "name:und_x_variant":[
+        "Es-Safa",
+        "Nab\u2018 a\u015f \u015eaf\u0101",
+        "Nabaa es Safa",
+        "Nahr a\u015f \u015eaf\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        1108691419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":270018
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"11fcafa5866623f22f4ab1b5078d4180",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691419,
+            "locality_id":1277108489,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1277108489,
+    "wof:lastmodified":1537661038,
+    "wof:name":"Nabaa es Safa",
+    "wof:parent_id":1108691419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.69778,
+    33.75083,
+    35.69778,
+    33.75083
+],
+  "geometry": {"coordinates":[35.69778,33.75083],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1193002815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.9225,34.31583,35.9225,34.31583",
+    "geom:latitude":34.31583,
+    "geom:longitude":35.9225,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Aaqabet Hairouna",
+    "gn:country_code":"LB",
+    "gn:dem":762,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":278757,
+    "gn:latitude":34.31583,
+    "gn:longitude":35.9225,
+    "gn:modification_date":"2014-03-08",
+    "gn:name":"Aaqabet Ha\u00efro\u00fbna",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0642\u0628\u0629 \u062d\u064a\u0631\u0648\u0646\u0627"
+    ],
+    "name:und_x_variant":[
+        "\u2018Aqabat \u1e28ayr\u016bn\u0101",
+        "Aaqabet Ha\u00efro\u00fbna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        1377074355,
+        1108691445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":278757
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"488a65b55f7663cd64256a143d6c96d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691445,
+            "locality_id":1193002815,
+            "region_id":1377074355
+        }
+    ],
+    "wof:id":1193002815,
+    "wof:lastmodified":1551727614,
+    "wof:name":"Aaqabet Hairouna",
+    "wof:parent_id":1108691445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.9225,
+    34.31583,
+    35.9225,
+    34.31583
+],
+  "geometry": {"coordinates":[35.9225,34.31583],"type":"Point"}
+}

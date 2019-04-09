@@ -1,0 +1,71 @@
+{
+  "id": 1327034797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.80333,34.02,35.80333,34.02",
+    "geom:latitude":34.02,
+    "geom:longitude":35.80333,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ain el Marj",
+    "gn:country_code":"LB",
+    "gn:dem":1338,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":277611,
+    "gn:latitude":34.02,
+    "gn:longitude":35.80333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"A\u00efn el Marj",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u2018Ayn al Marj",
+        "A\u00efn el Marj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        421172015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":277611
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"bc6f05e4b151103be5ab4e17f084f6dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421172015,
+            "locality_id":1327034797,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1327034797,
+    "wof:lastmodified":1537661191,
+    "wof:name":"Ain el Marj",
+    "wof:parent_id":421172015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.80332999999999,
+    34.02,
+    35.80332999999999,
+    34.02
+],
+  "geometry": {"coordinates":[35.80332999999999,34.02],"type":"Point"}
+}

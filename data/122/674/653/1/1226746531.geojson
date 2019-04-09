@@ -1,0 +1,71 @@
+{
+  "id": 1226746531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.59722,33.93833,35.59722,33.93833",
+    "geom:latitude":33.93833,
+    "geom:longitude":35.59722,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Haret el Bellane",
+    "gn:country_code":"LB",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":274490,
+    "gn:latitude":33.93833,
+    "gn:longitude":35.59722,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Haret el B\u00e9llan\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1e28\u0101rat al Ball\u0101nah",
+        "Haret el B\u00e9llan\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        1108691425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":274490
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"f41b9e28f27a74fa54229994767b62c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691425,
+            "locality_id":1226746531,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1226746531,
+    "wof:lastmodified":1537661118,
+    "wof:name":"Haret el Bellane",
+    "wof:parent_id":1108691425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.59722,
+    33.93833,
+    35.59722,
+    33.93833
+],
+  "geometry": {"coordinates":[35.59722,33.93833],"type":"Point"}
+}

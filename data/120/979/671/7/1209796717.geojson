@@ -1,0 +1,67 @@
+{
+  "id": 1209796717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.38944,34.4025,36.38944,34.4025",
+    "geom:latitude":34.4025,
+    "geom:longitude":36.38944,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Ed Daoura",
+    "gn:country_code":"LB",
+    "gn:dem":751,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6277914,
+    "gn:latitude":34.4025,
+    "gn:longitude":36.38944,
+    "gn:modification_date":"2006-08-23",
+    "gn:name":"Ed Daoura",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        1377074353,
+        1108691421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6277914
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"60ab66b3ac6b650e030f769c14653744",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691421,
+            "locality_id":1209796717,
+            "region_id":1377074353
+        }
+    ],
+    "wof:id":1209796717,
+    "wof:lastmodified":1551727653,
+    "wof:name":"Ed Daoura",
+    "wof:parent_id":1108691421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.38944,
+    34.4025,
+    36.38944,
+    34.4025
+],
+  "geometry": {"coordinates":[36.38944,34.4025],"type":"Point"}
+}

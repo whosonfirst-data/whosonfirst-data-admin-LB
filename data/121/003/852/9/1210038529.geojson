@@ -1,0 +1,77 @@
+{
+  "id": 1210038529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.23615,33.22053,35.23615,33.22053",
+    "geom:latitude":33.22053,
+    "geom:longitude":35.23615,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Es Smaiye",
+    "gn:country_code":"LB",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":278058,
+    "gn:latitude":33.22053,
+    "gn:longitude":35.23615,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Es Sm\u00e2\u00efy\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0633\u0645\u0627\u0639\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Es-Sma\u2018iyah",
+        "Es Samaq\u00eey\u00e9",
+        "As Sam\u0101\u2018\u012byah",
+        "Es Sm\u00e2\u00efy\u00e9",
+        "As Samm\u0101\u2018\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673499,
+        1108691441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":278058
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"5cac4297cd2c71c78f1ea505d0b4094f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691441,
+            "locality_id":1210038529,
+            "region_id":85673499
+        }
+    ],
+    "wof:id":1210038529,
+    "wof:lastmodified":1537661202,
+    "wof:name":"Es Smaiye",
+    "wof:parent_id":1108691441,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.23615,
+    33.22053,
+    35.23615,
+    33.22053
+],
+  "geometry": {"coordinates":[35.23615,33.22053],"type":"Point"}
+}

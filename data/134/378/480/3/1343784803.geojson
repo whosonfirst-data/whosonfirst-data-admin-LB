@@ -1,0 +1,75 @@
+{
+  "id": 1343784803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.6675,34.12167,35.6675,34.12167",
+    "geom:latitude":34.12167,
+    "geom:longitude":35.6675,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kfar Zbouna",
+    "gn:country_code":"LB",
+    "gn:dem":233,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":272798,
+    "gn:latitude":34.12167,
+    "gn:longitude":35.6675,
+    "gn:modification_date":"2014-03-08",
+    "gn:name":"Kfar Zbo\u00fbna",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0641\u0631 \u0632\u0628\u0648\u0646\u0627"
+    ],
+    "name:und_x_variant":[
+        "Kafr Zb\u016bn\u0101",
+        "Kfar Zbo\u00fbna",
+        "Kafr Zab\u016bn\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        421194845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":272798
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"c56b437831d66789c99c6e9b61de8069",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421194845,
+            "locality_id":1343784803,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1343784803,
+    "wof:lastmodified":1537661078,
+    "wof:name":"Kfar Zbouna",
+    "wof:parent_id":421194845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.6675,
+    34.12167,
+    35.6675,
+    34.12167
+],
+  "geometry": {"coordinates":[35.6675,34.12167],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1343556723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.17278,34.51889,36.17278,34.51889",
+    "geom:latitude":34.51889,
+    "geom:longitude":36.17278,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Beit Daoud",
+    "gn:country_code":"LB",
+    "gn:dem":595,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":276733,
+    "gn:latitude":34.51889,
+    "gn:longitude":36.17278,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Be\u00eft Daoud",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Be\u00eft D\u00e2n\u00fbd",
+        "Bayt D\u0101w\u016bd",
+        "Be\u00eft Daoud"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673483,
+        1108691407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":276733
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"3ec5bfd4b3002aa6df7587b5494ac133",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691407,
+            "locality_id":1343556723,
+            "region_id":85673483
+        }
+    ],
+    "wof:id":1343556723,
+    "wof:lastmodified":1537661167,
+    "wof:name":"Beit Daoud",
+    "wof:parent_id":1108691407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.17278,
+    34.51889,
+    36.17278,
+    34.51889
+],
+  "geometry": {"coordinates":[36.17278,34.51889],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1209026215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.99444,33.84861,35.99444,33.84861",
+    "geom:latitude":33.84861,
+    "geom:longitude":35.99444,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Haouch Hala",
+    "gn:country_code":"LB",
+    "gn:dem":913,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":274192,
+    "gn:latitude":33.84861,
+    "gn:longitude":35.99444,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Haouch H\u00e2la",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Haush Hala",
+        "\u1e28awsh \u1e28\u0101l\u0101",
+        "Haouch H\u00e2la"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        1377074351,
+        421172017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":274192
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"b1e34cae9f5e6c9754f951e58079ccb6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421172017,
+            "locality_id":1209026215,
+            "region_id":1377074351
+        }
+    ],
+    "wof:id":1209026215,
+    "wof:lastmodified":1551727598,
+    "wof:name":"Haouch Hala",
+    "wof:parent_id":421172017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.99444000000001,
+    33.84861,
+    35.99444000000001,
+    33.84861
+],
+  "geometry": {"coordinates":[35.99444000000001,33.84861],"type":"Point"}
+}

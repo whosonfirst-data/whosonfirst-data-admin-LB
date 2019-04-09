@@ -1,0 +1,72 @@
+{
+  "id": 1209796725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.02222,33.98333,36.02222,33.98333",
+    "geom:latitude":33.98333,
+    "geom:longitude":36.02222,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Taraya",
+    "gn:country_code":"LB",
+    "gn:dem":1172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":266818,
+    "gn:latitude":33.98333,
+    "gn:longitude":36.02222,
+    "gn:modification_date":"2018-03-29",
+    "gn:name":"T\u00e2ray\u00e2",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u0162\u0101rayy\u0101",
+        "T\u00e2ray\u00e2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        1377074353,
+        421171405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":266818,
+        "wk:page":"Taraya"
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"1d19187db37e1dd22048173d1fe345bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421171405,
+            "locality_id":1209796725,
+            "region_id":1377074353
+        }
+    ],
+    "wof:id":1209796725,
+    "wof:lastmodified":1551727653,
+    "wof:name":"Taraya",
+    "wof:parent_id":421171405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.02222000000001,
+    33.98333,
+    36.02222000000001,
+    33.98333
+],
+  "geometry": {"coordinates":[36.02222000000001,33.98333],"type":"Point"}
+}

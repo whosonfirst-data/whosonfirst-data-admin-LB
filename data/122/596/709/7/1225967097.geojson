@@ -1,0 +1,75 @@
+{
+  "id": 1225967097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.66528,33.83194,35.66528,33.83194",
+    "geom:latitude":33.83194,
+    "geom:longitude":35.66528,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Deir Khouna",
+    "gn:country_code":"LB",
+    "gn:dem":536,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":275633,
+    "gn:latitude":33.83194,
+    "gn:longitude":35.66528,
+    "gn:modification_date":"2018-03-07",
+    "gn:name":"De\u00efr Kho\u00fbna",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u064a\u0631 \u062e\u0648\u0646\u0627"
+    ],
+    "name:und_x_variant":[
+        "Deir Khona",
+        "Dayr Kh\u016bn\u0101",
+        "De\u00efr Kho\u00fbna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        421202301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":275633
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"0cf997c5c30c7e020675dfcd94367ddd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421202301,
+            "locality_id":1225967097,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1225967097,
+    "wof:lastmodified":1537661134,
+    "wof:name":"Deir Khouna",
+    "wof:parent_id":421202301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.66528,
+    33.83194,
+    35.66528,
+    33.83194
+],
+  "geometry": {"coordinates":[35.66528,33.83194],"type":"Point"}
+}

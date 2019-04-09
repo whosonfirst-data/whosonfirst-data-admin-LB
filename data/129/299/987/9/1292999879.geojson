@@ -1,0 +1,75 @@
+{
+  "id": 1292999879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.52917,33.77111,35.52917,33.77111",
+    "geom:latitude":33.77111,
+    "geom:longitude":35.52917,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Rouaisse",
+    "gn:country_code":"LB",
+    "gn:dem":414,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":272637,
+    "gn:latitude":33.77111,
+    "gn:longitude":35.52917,
+    "gn:modification_date":"2018-03-07",
+    "gn:name":"Roua\u00efss\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0631\u0648\u064a\u0633\u0629"
+    ],
+    "name:und_x_variant":[
+        "Khalaw\u0101t ar Ru\u2019aysah",
+        "Roua\u00efss\u00e9",
+        "Ar Ruwaysah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        1108691409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":272637
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"f2b48258377d1956c1ef92b271534755",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691409,
+            "locality_id":1292999879,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1292999879,
+    "wof:lastmodified":1537661076,
+    "wof:name":"Rouaisse",
+    "wof:parent_id":1108691409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.52917,
+    33.77111,
+    35.52917,
+    33.77111
+],
+  "geometry": {"coordinates":[35.52917,33.77111],"type":"Point"}
+}

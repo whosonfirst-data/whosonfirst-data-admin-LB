@@ -1,0 +1,67 @@
+{
+  "id": 1209900057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.03722,34.49806,36.03722,34.49806",
+    "geom:latitude":34.49806,
+    "geom:longitude":36.03722,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Majdala",
+    "gn:country_code":"LB",
+    "gn:dem":225,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":271868,
+    "gn:latitude":34.49806,
+    "gn:longitude":36.03722,
+    "gn:modification_date":"2006-07-27",
+    "gn:name":"Majdal\u00e2",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        1377074357,
+        1108691407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":271868
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"1ed30d1d02ab021ce3d1a76e79ff819d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691407,
+            "locality_id":1209900057,
+            "region_id":1377074357
+        }
+    ],
+    "wof:id":1209900057,
+    "wof:lastmodified":1551727670,
+    "wof:name":"Majdala",
+    "wof:parent_id":1108691407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.03722,
+    34.49806,
+    36.03722,
+    34.49806
+],
+  "geometry": {"coordinates":[36.03722,34.49806],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1344256269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.66861,34.00667,35.66861,34.00667",
+    "geom:latitude":34.00667,
+    "geom:longitude":35.66861,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Chenan Aair",
+    "gn:country_code":"LB",
+    "gn:dem":398,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":267303,
+    "gn:latitude":34.00667,
+    "gn:longitude":35.66861,
+    "gn:modification_date":"2018-03-29",
+    "gn:name":"Chenan Aa\u00efr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0634\u0646\u0646\u0639\u064a\u0631"
+    ],
+    "name:und_x_variant":[
+        "Chenan A\u00efr",
+        "Chnanha\u00efr",
+        "Shnan\u2018\u012br",
+        "Chenan Aa\u00efr",
+        "Shanan\u2018ayr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        421172015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":267303,
+        "wk:page":"Chnaniir"
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"30d6941ab781c6b82fcd9382427660f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421172015,
+            "locality_id":1344256269,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1344256269,
+    "wof:lastmodified":1537661013,
+    "wof:name":"Chenan Aair",
+    "wof:parent_id":421172015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.66861,
+    34.00667,
+    35.66861,
+    34.00667
+],
+  "geometry": {"coordinates":[35.66861,34.00667],"type":"Point"}
+}

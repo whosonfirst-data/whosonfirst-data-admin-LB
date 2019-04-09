@@ -1,0 +1,70 @@
+{
+  "id": 1193268075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.03139,34.40028,36.03139,34.40028",
+    "geom:latitude":34.40028,
+    "geom:longitude":36.03139,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Qraine",
+    "gn:country_code":"LB",
+    "gn:dem":719,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":279076,
+    "gn:latitude":34.40028,
+    "gn:longitude":36.03139,
+    "gn:modification_date":"2006-08-22",
+    "gn:name":"Qra\u00efne",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Qurayn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        1377074355,
+        1108691427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":279076
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"297cd45700b576d85f4106810ce8719d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691427,
+            "locality_id":1193268075,
+            "region_id":1377074355
+        }
+    ],
+    "wof:id":1193268075,
+    "wof:lastmodified":1551727617,
+    "wof:name":"Qraine",
+    "wof:parent_id":1108691427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.03139,
+    34.40028,
+    36.03139,
+    34.40028
+],
+  "geometry": {"coordinates":[36.03139,34.40028],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1310600229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.77528,34.13944,35.77528,34.13944",
+    "geom:latitude":34.13944,
+    "geom:longitude":35.77528,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ghommas Youssef",
+    "gn:country_code":"LB",
+    "gn:dem":1180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":275045,
+    "gn:latitude":34.13944,
+    "gn:longitude":35.77528,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ghomm\u00e2s Yo\u00fbssef",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ghamm\u0101s Y\u016bsuf",
+        "Ghomm\u00e2s Yo\u00fbssef"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        421194845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":275045
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"3b0a1740a28e914b4d0d4f9ab666de9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421194845,
+            "locality_id":1310600229,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1310600229,
+    "wof:lastmodified":1537661125,
+    "wof:name":"Ghommas Youssef",
+    "wof:parent_id":421194845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.77528,
+    34.13944,
+    35.77528,
+    34.13944
+],
+  "geometry": {"coordinates":[35.77528,34.13944],"type":"Point"}
+}

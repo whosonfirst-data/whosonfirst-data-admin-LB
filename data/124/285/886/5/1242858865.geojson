@@ -1,0 +1,75 @@
+{
+  "id": 1242858865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.85222,34.27444,35.85222,34.27444",
+    "geom:latitude":34.27444,
+    "geom:longitude":35.85222,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Bnahrane",
+    "gn:country_code":"LB",
+    "gn:dem":559,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":276419,
+    "gn:latitude":34.27444,
+    "gn:longitude":35.85222,
+    "gn:modification_date":"2014-03-08",
+    "gn:name":"Bnahr\u00e2ne",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0646\u0647\u0631\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Bnahr\u0101n",
+        "Bnahr\u00e2ne",
+        "Binahr\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        1377074355,
+        1108691423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":276419
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"53378e705bc4124990ec5e020d041cfa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691423,
+            "locality_id":1242858865,
+            "region_id":1377074355
+        }
+    ],
+    "wof:id":1242858865,
+    "wof:lastmodified":1551727619,
+    "wof:name":"Bnahrane",
+    "wof:parent_id":1108691423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.85222,
+    34.27444000000001,
+    35.85222,
+    34.27444000000001
+],
+  "geometry": {"coordinates":[35.85222,34.27444000000001],"type":"Point"}
+}

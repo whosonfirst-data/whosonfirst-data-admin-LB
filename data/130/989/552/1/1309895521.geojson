@@ -1,0 +1,71 @@
+{
+  "id": 1309895521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.7875,34.21778,35.7875,34.21778",
+    "geom:latitude":34.21778,
+    "geom:longitude":35.7875,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Frachta",
+    "gn:country_code":"LB",
+    "gn:dem":771,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":275193,
+    "gn:latitude":34.21778,
+    "gn:longitude":35.7875,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Frachta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Frasht\u0101",
+        "Frachta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673483,
+        421204111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":275193
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"184a69f091294cc94ccaff7c782f90f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421204111,
+            "locality_id":1309895521,
+            "region_id":85673483
+        }
+    ],
+    "wof:id":1309895521,
+    "wof:lastmodified":1537661126,
+    "wof:name":"Frachta",
+    "wof:parent_id":421204111,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.7875,
+    34.21778,
+    35.7875,
+    34.21778
+],
+  "geometry": {"coordinates":[35.7875,34.21778],"type":"Point"}
+}

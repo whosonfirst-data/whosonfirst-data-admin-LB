@@ -1,0 +1,67 @@
+{
+  "id": 1293521241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.68917,34.07333,35.68917,34.07333",
+    "geom:latitude":34.07333,
+    "geom:longitude":35.68917,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Rakti",
+    "gn:country_code":"LB",
+    "gn:dem":614,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":268857,
+    "gn:latitude":34.07333,
+    "gn:longitude":35.68917,
+    "gn:modification_date":"2006-07-26",
+    "gn:name":"Rakti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        421172015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":268857
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"6115f03a7b4e1dce56f4f3e2616f95c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421172015,
+            "locality_id":1293521241,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1293521241,
+    "wof:lastmodified":1536738361,
+    "wof:name":"Rakti",
+    "wof:parent_id":421172015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.68917000000001,
+    34.07333,
+    35.68917000000001,
+    34.07333
+],
+  "geometry": {"coordinates":[35.68917000000001,34.07333],"type":"Point"}
+}

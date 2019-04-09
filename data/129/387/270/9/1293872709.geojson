@@ -1,0 +1,71 @@
+{
+  "id": 1293872709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.28917,34.62667,36.28917,34.62667",
+    "geom:latitude":34.62667,
+    "geom:longitude":36.28917,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Khirbet er Roummane",
+    "gn:country_code":"LB",
+    "gn:dem":373,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":272398,
+    "gn:latitude":34.62667,
+    "gn:longitude":36.28917,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Khirbet er Roummane",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khirbat ar Rumm\u0101n",
+        "Khirbet er Roummane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673483,
+        1108691407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":272398
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"63c2aea47d9f48a3e25b61ef16ca8ad4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691407,
+            "locality_id":1293872709,
+            "region_id":85673483
+        }
+    ],
+    "wof:id":1293872709,
+    "wof:lastmodified":1537661075,
+    "wof:name":"Khirbet er Roummane",
+    "wof:parent_id":1108691407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.28917,
+    34.62667,
+    36.28917,
+    34.62667
+],
+  "geometry": {"coordinates":[36.28917,34.62667],"type":"Point"}
+}

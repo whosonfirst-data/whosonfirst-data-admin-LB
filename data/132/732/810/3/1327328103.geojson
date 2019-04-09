@@ -1,0 +1,79 @@
+{
+  "id": 1327328103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.9525,34.26139,35.9525,34.26139",
+    "geom:latitude":34.26139,
+    "geom:longitude":35.9525,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Blaouza",
+    "gn:country_code":"LB",
+    "gn:dem":1298,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":276430,
+    "gn:latitude":34.26139,
+    "gn:longitude":35.9525,
+    "gn:modification_date":"2014-03-08",
+    "gn:name":"Blaouza",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0644\u0648\u0632\u0627"
+    ],
+    "name:und_x_variant":[
+        "Blaouza el Ou\u00e2di",
+        "Blouza",
+        "Blawzah",
+        "Blawz\u0101",
+        "Blaouza",
+        "Bilawz\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673483,
+        1108691411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":276430,
+        "wk:page":"Blaouza"
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"3efd0e02fcdd722bdb28d4d5c2eb3362",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691411,
+            "locality_id":1327328103,
+            "region_id":85673483
+        }
+    ],
+    "wof:id":1327328103,
+    "wof:lastmodified":1537661156,
+    "wof:name":"Blaouza",
+    "wof:parent_id":1108691411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.9525,
+    34.26139000000001,
+    35.9525,
+    34.26139000000001
+],
+  "geometry": {"coordinates":[35.9525,34.26139000000001],"type":"Point"}
+}

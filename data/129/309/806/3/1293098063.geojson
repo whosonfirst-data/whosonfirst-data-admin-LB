@@ -1,0 +1,73 @@
+{
+  "id": 1293098063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.80553,34.06639,35.80553,34.06639",
+    "geom:latitude":34.06639,
+    "geom:longitude":35.80553,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Qamez",
+    "gn:country_code":"LB",
+    "gn:dem":1280,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6280631,
+    "gn:latitude":34.06639,
+    "gn:longitude":35.80553,
+    "gn:modification_date":"2013-10-09",
+    "gn:name":"Qamez",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0647\u0645\u0632"
+    ],
+    "name:und_x_variant":[
+        "Qahmaz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        421194845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6280631
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"8dab1ab1c5dcfbe4df6a388302bee252",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421194845,
+            "locality_id":1293098063,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1293098063,
+    "wof:lastmodified":1537661318,
+    "wof:name":"Qamez",
+    "wof:parent_id":421194845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.80553,
+    34.06639000000001,
+    35.80553,
+    34.06639000000001
+],
+  "geometry": {"coordinates":[35.80553,34.06639000000001],"type":"Point"}
+}

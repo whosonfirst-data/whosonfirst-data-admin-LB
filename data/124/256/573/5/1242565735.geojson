@@ -1,0 +1,71 @@
+{
+  "id": 1242565735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.99528,34.01972,35.99528,34.01972",
+    "geom:latitude":34.01972,
+    "geom:longitude":35.99528,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Masnaa ez Zohr",
+    "gn:country_code":"LB",
+    "gn:dem":1386,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":270901,
+    "gn:latitude":34.01972,
+    "gn:longitude":35.99528,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Masnaa ez Zohr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ma\u015fna\u2018 az Zuhr",
+        "Masnaa ez Zohr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        1377074353,
+        421171405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":270901
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"c7942e1a948d659e4cd0376f0f53e9ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421171405,
+            "locality_id":1242565735,
+            "region_id":1377074353
+        }
+    ],
+    "wof:id":1242565735,
+    "wof:lastmodified":1551727646,
+    "wof:name":"Masnaa ez Zohr",
+    "wof:parent_id":421171405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.99528,
+    34.01972,
+    35.99528,
+    34.01972
+],
+  "geometry": {"coordinates":[35.99528,34.01972],"type":"Point"}
+}

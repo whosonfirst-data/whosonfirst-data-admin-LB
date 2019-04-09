@@ -1,0 +1,74 @@
+{
+  "id": 1243368381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.8575,34.1025,35.8575,34.1025",
+    "geom:latitude":34.1025,
+    "geom:longitude":35.8575,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Aabboud",
+    "gn:country_code":"LB",
+    "gn:dem":1158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":281056,
+    "gn:latitude":34.1025,
+    "gn:longitude":35.8575,
+    "gn:modification_date":"2014-03-08",
+    "gn:name":"Aabbo\u00fbd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0628\u0648\u062f"
+    ],
+    "name:und_x_variant":[
+        "\u2018Abb\u016bd",
+        "Aabbo\u00fbd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        421194845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":281056
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"a5bef3a03875b5f087df0cb1735fea6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421194845,
+            "locality_id":1243368381,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1243368381,
+    "wof:lastmodified":1537661299,
+    "wof:name":"Aabboud",
+    "wof:parent_id":421194845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.8575,
+    34.1025,
+    35.8575,
+    34.1025
+],
+  "geometry": {"coordinates":[35.8575,34.1025],"type":"Point"}
+}

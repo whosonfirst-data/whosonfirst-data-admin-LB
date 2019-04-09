@@ -1,0 +1,75 @@
+{
+  "id": 1310089961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.83222,34.39639,35.83222,34.39639",
+    "geom:latitude":34.39639,
+    "geom:longitude":35.83222,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Ras Masqa ej Jenoubiye",
+    "gn:country_code":"LB",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":268720,
+    "gn:latitude":34.39639,
+    "gn:longitude":35.83222,
+    "gn:modification_date":"2013-10-07",
+    "gn:name":"R\u00e2s Masqa ej Jeno\u00fbb\u00eey\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0631\u0623\u0633 \u0645\u0633\u0642\u0627 \u0627\u0644\u062c\u0646\u0648\u0628\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Ra\u2019s Masq\u00e1 al Jan\u016bb\u012byah",
+        "R\u00e2s Masqa ej Jeno\u00fbb\u00eey\u00e9",
+        "Ra\u2019s Masq\u0101 al Jan\u016bb\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673483,
+        1108691423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":268720
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"b85efa9ee482ca062457589bd6c3c47a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691423,
+            "locality_id":1310089961,
+            "region_id":85673483
+        }
+    ],
+    "wof:id":1310089961,
+    "wof:lastmodified":1537661025,
+    "wof:name":"Ras Masqa ej Jenoubiye",
+    "wof:parent_id":1108691423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.83222,
+    34.39639,
+    35.83222,
+    34.39639
+],
+  "geometry": {"coordinates":[35.83222,34.39639],"type":"Point"}
+}

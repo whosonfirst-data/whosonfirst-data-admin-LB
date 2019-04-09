@@ -1,0 +1,128 @@
+{
+  "id": 1260000957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.48383,33.37717,35.48383,33.37717",
+    "geom:latitude":33.37717,
+    "geom:longitude":35.48383,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Nabatieh",
+    "gn:country_code":"LB",
+    "gn:dem":426,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7870014,
+    "gn:latitude":33.37717,
+    "gn:longitude":35.48383,
+    "gn:modification_date":"2016-09-13",
+    "gn:name":"Nabatieh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0646\u0628\u0637\u064a\u0629"
+    ],
+    "name:deu_x_preferred":[
+        "Nabat\u00e4a"
+    ],
+    "name:est_x_preferred":[
+        "An-Naba\u0163\u012byah at-Ta\u1e29t\u0101"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0628\u0637\u06cc\u0647\u060c \u0644\u0628\u0646\u0627\u0646"
+    ],
+    "name:hbs_x_preferred":[
+        "Nabatea"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0-\u05e0\u05d1\u05d8\u05d9\u05d4"
+    ],
+    "name:ita_x_preferred":[
+        "Nabatiye"
+    ],
+    "name:kor_x_preferred":[
+        "\ub098\ubc14\ud2f0\uc608"
+    ],
+    "name:lit_x_preferred":[
+        "Nabatija"
+    ],
+    "name:mzn_x_preferred":[
+        "\u0646\u0628\u0637\u06cc\u0647"
+    ],
+    "name:nld_x_preferred":[
+        "Nabatiye"
+    ],
+    "name:nor_x_preferred":[
+        "Nabatiye"
+    ],
+    "name:pol_x_preferred":[
+        "An-Nabatijja"
+    ],
+    "name:por_x_preferred":[
+        "Nabatiye"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u043d-\u041d\u0430\u0431\u0430\u0442\u0438\u044f"
+    ],
+    "name:srp_x_preferred":[
+        "\u041d\u0430\u0431\u0430\u0442\u0438\u0458\u0430"
+    ],
+    "name:tur_x_preferred":[
+        "Nebatiye"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041d\u0430\u0431\u0430\u0442\u0456\u044f"
+    ],
+    "name:und_x_variant":[
+        "Nabatiyeh El Tahta"
+    ],
+    "name:zho_x_preferred":[
+        "\u7d0d\u5df4\u6cf0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673495,
+        1108691429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7870014,
+        "wk:page":"Nabatieh"
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"d27395866e0018b9a3f7713c6557a893",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691429,
+            "locality_id":1260000957,
+            "region_id":85673495
+        }
+    ],
+    "wof:id":1260000957,
+    "wof:lastmodified":1537661320,
+    "wof:name":"Nabatieh",
+    "wof:parent_id":1108691429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.48383,
+    33.37717,
+    35.48383,
+    33.37717
+],
+  "geometry": {"coordinates":[35.48383,33.37717],"type":"Point"}
+}

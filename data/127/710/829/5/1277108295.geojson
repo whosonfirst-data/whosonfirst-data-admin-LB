@@ -1,0 +1,75 @@
+{
+  "id": 1277108295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.53028,33.77111,35.53028,33.77111",
+    "geom:latitude":33.77111,
+    "geom:longitude":35.53028,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Srahmoul",
+    "gn:country_code":"LB",
+    "gn:dem":422,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":267103,
+    "gn:latitude":33.77111,
+    "gn:longitude":35.53028,
+    "gn:modification_date":"2018-03-07",
+    "gn:name":"Srahmoul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u0631\u062d\u0645\u0648\u0644"
+    ],
+    "name:und_x_variant":[
+        "Sra\u1e29m\u016bl",
+        "Srahmoul",
+        "Sara\u1e29m\u016bl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        1108691409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":267103
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"17ed8fa210a97225fda4b9e6ec92b0d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691409,
+            "locality_id":1277108295,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1277108295,
+    "wof:lastmodified":1537661009,
+    "wof:name":"Srahmoul",
+    "wof:parent_id":1108691409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.53028,
+    33.77111,
+    35.53028,
+    33.77111
+],
+  "geometry": {"coordinates":[35.53028,33.77111],"type":"Point"}
+}

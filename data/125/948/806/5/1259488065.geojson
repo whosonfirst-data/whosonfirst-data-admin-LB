@@ -1,0 +1,71 @@
+{
+  "id": 1259488065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.62972,34.02583,35.62972,34.02583",
+    "geom:latitude":34.02583,
+    "geom:longitude":35.62972,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Dahr el Mdaqqa",
+    "gn:country_code":"LB",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":275901,
+    "gn:latitude":34.02583,
+    "gn:longitude":35.62972,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dahr el Mdaqqa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1e10ahr al Midaqqah",
+        "Dahr el Mdaqqa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        421172015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":275901
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"dcb671ee1d9c1a3a69ffd6f40dc782ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421172015,
+            "locality_id":1259488065,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1259488065,
+    "wof:lastmodified":1537661140,
+    "wof:name":"Dahr el Mdaqqa",
+    "wof:parent_id":421172015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.62972,
+    34.02583,
+    35.62972,
+    34.02583
+],
+  "geometry": {"coordinates":[35.62972,34.02583],"type":"Point"}
+}

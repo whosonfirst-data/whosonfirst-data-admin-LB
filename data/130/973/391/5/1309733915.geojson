@@ -1,0 +1,74 @@
+{
+  "id": 1309733915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.60222,33.52167,35.60222,33.52167",
+    "geom:latitude":33.52167,
+    "geom:longitude":35.60222,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Ain Majdalaine",
+    "gn:country_code":"LB",
+    "gn:dem":1320,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":277441,
+    "gn:latitude":33.52167,
+    "gn:longitude":35.60222,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"A\u00efn Majdala\u00efne",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u064a\u0646 \u0645\u062c\u062f\u0644\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "\u2018Ayn Majdalayn",
+        "A\u00efn Majdala\u00efne"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673499,
+        1108691435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":277441
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"d439596967ae3ed8bd15450d1764bc76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691435,
+            "locality_id":1309733915,
+            "region_id":85673499
+        }
+    ],
+    "wof:id":1309733915,
+    "wof:lastmodified":1537661185,
+    "wof:name":"Ain Majdalaine",
+    "wof:parent_id":1108691435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.60222,
+    33.52167,
+    35.60222,
+    33.52167
+],
+  "geometry": {"coordinates":[35.60222,33.52167],"type":"Point"}
+}

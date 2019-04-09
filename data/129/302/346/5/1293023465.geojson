@@ -1,0 +1,76 @@
+{
+  "id": 1293023465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.515,33.63028,35.515,33.63028",
+    "geom:latitude":33.63028,
+    "geom:longitude":35.515,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Aanout",
+    "gn:country_code":"LB",
+    "gn:dem":734,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":278789,
+    "gn:latitude":33.63028,
+    "gn:longitude":35.515,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"\u00c2ano\u00fbt",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0627\u0646\u0648\u062a"
+    ],
+    "name:und_x_variant":[
+        "\u2018Anout",
+        "A\u00e2no\u00fbte",
+        "\u2018\u0100n\u016bt",
+        "\u00c2ano\u00fbt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        1108691419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":278789
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"022f722944be72bcc93b5efa9139c41c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691419,
+            "locality_id":1293023465,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1293023465,
+    "wof:lastmodified":1537661217,
+    "wof:name":"Aanout",
+    "wof:parent_id":1108691419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.515,
+    33.63028,
+    35.515,
+    33.63028
+],
+  "geometry": {"coordinates":[35.515,33.63028],"type":"Point"}
+}

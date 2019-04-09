@@ -1,0 +1,79 @@
+{
+  "id": 1259974149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.92944,34.24944,35.92944,34.24944",
+    "geom:latitude":34.24944,
+    "geom:longitude":35.92944,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Hadet ej Jobbe",
+    "gn:country_code":"LB",
+    "gn:dem":1452,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":274846,
+    "gn:latitude":34.24944,
+    "gn:longitude":35.92944,
+    "gn:modification_date":"2018-03-28",
+    "gn:name":"Hadet ej Jobb\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u062f\u062b \u0627\u0644\u062c\u0628\u0629"
+    ],
+    "name:und_x_variant":[
+        "Hadeth esh Shibbe",
+        "Hadath el-Jubbah",
+        "Hadeth ej Joubb\u00e9",
+        "Hadeth el Joubbe",
+        "\u1e28adath al Jubbah",
+        "Hadet ej Jobb\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673483,
+        1108691411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":274846,
+        "wk:page":"Hadath_El_Jebbeh"
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"4b073b4f3e15c1ad4c0fa524a604da46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691411,
+            "locality_id":1259974149,
+            "region_id":85673483
+        }
+    ],
+    "wof:id":1259974149,
+    "wof:lastmodified":1537661122,
+    "wof:name":"Hadet ej Jobbe",
+    "wof:parent_id":1108691411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.92944,
+    34.24944,
+    35.92944,
+    34.24944
+],
+  "geometry": {"coordinates":[35.92944,34.24944],"type":"Point"}
+}

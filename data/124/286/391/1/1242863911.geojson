@@ -1,0 +1,72 @@
+{
+  "id": 1242863911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.91028,34.19417,35.91028,34.19417",
+    "geom:latitude":34.19417,
+    "geom:longitude":35.91028,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Khormaalaya",
+    "gn:country_code":"LB",
+    "gn:dem":1521,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":272332,
+    "gn:latitude":34.19417,
+    "gn:longitude":35.91028,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Khormaal\u00e2ya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Koursi",
+        "Khurma\u2018l\u0101y\u0101",
+        "Khormaal\u00e2ya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673483,
+        421204111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":272332
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"2fd3b72a5a3422ffb498849de0511a76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421204111,
+            "locality_id":1242863911,
+            "region_id":85673483
+        }
+    ],
+    "wof:id":1242863911,
+    "wof:lastmodified":1537661074,
+    "wof:name":"Khormaalaya",
+    "wof:parent_id":421204111,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.91028,
+    34.19417,
+    35.91028,
+    34.19417
+],
+  "geometry": {"coordinates":[35.91028,34.19417],"type":"Point"}
+}

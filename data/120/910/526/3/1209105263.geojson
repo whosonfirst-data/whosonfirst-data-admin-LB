@@ -1,0 +1,70 @@
+{
+  "id": 1209105263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.73778,33.89972,35.73778,33.89972",
+    "geom:latitude":33.89972,
+    "geom:longitude":35.73778,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Bnabil",
+    "gn:country_code":"LB",
+    "gn:dem":972,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":276423,
+    "gn:latitude":33.89972,
+    "gn:longitude":35.73778,
+    "gn:modification_date":"2018-04-06",
+    "gn:name":"Bn\u00e2b\u00eel",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0646\u0627\u0628\u064a\u0644"
+    ],
+    "name:und_x_variant":[
+        "A\u00efn Safsaf",
+        "A\u00efn es Safsaf",
+        "Bn\u00e2b\u00eel",
+        "Ban\u0101b\u012bl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":276423
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"1141e11ec983f384e66ec82d1775e9c6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632533,
+            "locality_id":1209105263
+        }
+    ],
+    "wof:id":1209105263,
+    "wof:lastmodified":1537661155,
+    "wof:name":"Bnabil",
+    "wof:parent_id":85632533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.73778,
+    33.89972,
+    35.73778,
+    33.89972
+],
+  "geometry": {"coordinates":[35.73778,33.89972],"type":"Point"}
+}

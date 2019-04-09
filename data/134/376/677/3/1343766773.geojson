@@ -1,0 +1,74 @@
+{
+  "id": 1343766773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.73333,33.84306,35.73333,33.84306",
+    "geom:latitude":33.84306,
+    "geom:longitude":35.73333,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Bhala",
+    "gn:country_code":"LB",
+    "gn:dem":1150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6276297,
+    "gn:latitude":33.84306,
+    "gn:longitude":35.73333,
+    "gn:modification_date":"2018-04-07",
+    "gn:name":"Bh\u00e2la",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u062d\u0627\u0644\u0627"
+    ],
+    "name:und_x_variant":[
+        "Bh\u00e2la",
+        "B\u1e29\u0101l\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        421202301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6276297
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"b7ed1793244486d0325a4d16f59b91c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421202301,
+            "locality_id":1343766773,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1343766773,
+    "wof:lastmodified":1537661316,
+    "wof:name":"Bhala",
+    "wof:parent_id":421202301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.73333,
+    33.84305999999999,
+    35.73333,
+    33.84305999999999
+],
+  "geometry": {"coordinates":[35.73333,33.84305999999999],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1343952427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.37833,33.21639,35.37833,33.21639",
+    "geom:latitude":33.21639,
+    "geom:longitude":35.37833,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Dabchet es Sahra",
+    "gn:country_code":"LB",
+    "gn:dem":588,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":434017,
+    "gn:latitude":33.21639,
+    "gn:longitude":35.37833,
+    "gn:modification_date":"2018-01-11",
+    "gn:name":"Dabchet es Sahra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u0628\u0634\u0629 \u0627\u0644\u0635\u062d\u0631\u0627"
+    ],
+    "name:und_x_variant":[
+        "Dabshat a\u015f \u015ea\u1e29r\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673495,
+        1108691417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":434017
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"7ddc444e3624b4ddfde95acfbbb14113",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691417,
+            "locality_id":1343952427,
+            "region_id":85673495
+        }
+    ],
+    "wof:id":1343952427,
+    "wof:lastmodified":1537661301,
+    "wof:name":"Dabchet es Sahra",
+    "wof:parent_id":1108691417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.37833,
+    33.21639,
+    35.37833,
+    33.21639
+],
+  "geometry": {"coordinates":[35.37833,33.21639],"type":"Point"}
+}

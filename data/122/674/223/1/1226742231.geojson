@@ -1,0 +1,80 @@
+{
+  "id": 1226742231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.34472,33.47139,35.34472,33.47139",
+    "geom:latitude":33.47139,
+    "geom:longitude":35.34472,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"El Aaddoussiye",
+    "gn:country_code":"LB",
+    "gn:dem":117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":280555,
+    "gn:latitude":33.47139,
+    "gn:longitude":35.34472,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"El Aaddo\u00fbss\u00eey\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0639\u062f\u0648\u0633\u064a\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0639\u062f\u0651\u0648\u0633\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "\u2018Addousiyah",
+        "El-\u2018Addousiyah",
+        "Al \u2018Add\u016bs\u012byah",
+        "El Aaddo\u00fbss\u00eey\u00e9",
+        "Aaddoussiyeh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673499,
+        890451987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":280555
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"516189143d8edabd6c1dd6ce54b75cf0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":890451987,
+            "locality_id":1226742231,
+            "region_id":85673499
+        }
+    ],
+    "wof:id":1226742231,
+    "wof:lastmodified":1537661289,
+    "wof:name":"El Aaddoussiye",
+    "wof:parent_id":890451987,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.34472,
+    33.47139,
+    35.34472,
+    33.47139
+],
+  "geometry": {"coordinates":[35.34472,33.47139],"type":"Point"}
+}

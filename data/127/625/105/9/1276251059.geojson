@@ -1,0 +1,75 @@
+{
+  "id": 1276251059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.24722,33.11222,35.24722,33.11222",
+    "geom:latitude":33.11222,
+    "geom:longitude":35.24722,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Mazraat ez Zalloutiye",
+    "gn:country_code":"LB",
+    "gn:dem":436,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":270632,
+    "gn:latitude":33.11222,
+    "gn:longitude":35.24722,
+    "gn:modification_date":"2013-07-06",
+    "gn:name":"Mazraat ez Zallo\u00fbt\u00eey\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0632\u0631\u0639\u0629 \u0627\u0644\u0632\u0644\u0648\u0637\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Mazra\u2018at az Zall\u016b\u0163\u012byah",
+        "Ez-Zalloutiyah",
+        "Mazraat ez Zallo\u00fbt\u00eey\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673499,
+        1108691441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":270632
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"6205457ed339f0aabb35f3cd7909eea3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691441,
+            "locality_id":1276251059,
+            "region_id":85673499
+        }
+    ],
+    "wof:id":1276251059,
+    "wof:lastmodified":1537661048,
+    "wof:name":"Mazraat ez Zalloutiye",
+    "wof:parent_id":1108691441,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.24722,
+    33.11222,
+    35.24722,
+    33.11222
+],
+  "geometry": {"coordinates":[35.24722,33.11222],"type":"Point"}
+}

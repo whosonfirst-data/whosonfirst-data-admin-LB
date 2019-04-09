@@ -1,0 +1,81 @@
+{
+  "id": 1293806091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.23583,33.12306,35.23583,33.12306",
+    "geom:latitude":33.12306,
+    "geom:longitude":35.23583,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Ej Jibbain",
+    "gn:country_code":"LB",
+    "gn:dem":436,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":279875,
+    "gn:latitude":33.12306,
+    "gn:longitude":35.23583,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Ej Jibba\u00efn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u0628\u064a\u0646"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u062c\u0628\u0651\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "Al Jibbayn",
+        "Ej Jibbain",
+        "Ej J\u00e9b\u00eene",
+        "El-Jibbein",
+        "Ej Jibba\u00efn",
+        "Jubbayn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673499,
+        1108691441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":279875
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"fa6f9360345b17242d21eee1051db231",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691441,
+            "locality_id":1293806091,
+            "region_id":85673499
+        }
+    ],
+    "wof:id":1293806091,
+    "wof:lastmodified":1537661261,
+    "wof:name":"Ej Jibbain",
+    "wof:parent_id":1108691441,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.23583,
+    33.12306,
+    35.23583,
+    33.12306
+],
+  "geometry": {"coordinates":[35.23583,33.12306],"type":"Point"}
+}

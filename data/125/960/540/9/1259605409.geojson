@@ -1,0 +1,74 @@
+{
+  "id": 1259605409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.33815,33.44528,35.33815,33.44528",
+    "geom:latitude":33.44528,
+    "geom:longitude":35.33815,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Mazraat Tibna",
+    "gn:country_code":"LB",
+    "gn:dem":183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":270572,
+    "gn:latitude":33.44528,
+    "gn:longitude":35.33815,
+    "gn:modification_date":"2013-08-06",
+    "gn:name":"Mazraat Tibn\u00e2",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0632\u0631\u0639\u0629 \u062a\u0628\u0646\u0627"
+    ],
+    "name:und_x_variant":[
+        "Mazra\u2018at Tibn\u0101",
+        "Mazraat Tibn\u00e2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673499,
+        890451987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":270572
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"264b12ed93ed44d24922338a49195d35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":890451987,
+            "locality_id":1259605409,
+            "region_id":85673499
+        }
+    ],
+    "wof:id":1259605409,
+    "wof:lastmodified":1537661043,
+    "wof:name":"Mazraat Tibna",
+    "wof:parent_id":890451987,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.33815,
+    33.44528,
+    35.33815,
+    33.44528
+],
+  "geometry": {"coordinates":[35.33815,33.44528],"type":"Point"}
+}

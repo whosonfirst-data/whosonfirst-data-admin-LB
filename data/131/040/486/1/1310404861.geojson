@@ -1,0 +1,76 @@
+{
+  "id": 1310404861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.62028,33.66306,35.62028,33.66306",
+    "geom:latitude":33.66306,
+    "geom:longitude":35.62028,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Boutme",
+    "gn:country_code":"LB",
+    "gn:dem":923,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":276038,
+    "gn:latitude":33.66306,
+    "gn:longitude":35.62028,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Boutm\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0637\u0645\u0629"
+    ],
+    "name:und_x_variant":[
+        "Batma",
+        "Boutini",
+        "Bu\u0163mah",
+        "Boutm\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        1108691419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":276038
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"727e9867f9cd86acc776d813769ad570",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691419,
+            "locality_id":1310404861,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1310404861,
+    "wof:lastmodified":1537661143,
+    "wof:name":"Boutme",
+    "wof:parent_id":1108691419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.62028,
+    33.66305999999999,
+    35.62028,
+    33.66305999999999
+],
+  "geometry": {"coordinates":[35.62028,33.66305999999999],"type":"Point"}
+}

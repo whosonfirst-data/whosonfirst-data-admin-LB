@@ -1,0 +1,74 @@
+{
+  "id": 1209102819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.86917,33.82278,35.86917,33.82278",
+    "geom:latitude":33.82278,
+    "geom:longitude":35.86917,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Hai ed Dhaini",
+    "gn:country_code":"LB",
+    "gn:dem":937,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":274156,
+    "gn:latitude":33.82278,
+    "gn:longitude":35.86917,
+    "gn:modification_date":"2018-03-07",
+    "gn:name":"Ha\u00ef ed Dha\u00efni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u064a \u0627\u0644\u062f\u0647\u064a\u0646\u064a"
+    ],
+    "name:und_x_variant":[
+        "\u1e28ayy ad Duhayn\u012b",
+        "Ha\u00ef ed Dha\u00efni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        1377074351,
+        421172017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":274156
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"38979a41dfd92bf151f4d133945dac23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421172017,
+            "locality_id":1209102819,
+            "region_id":1377074351
+        }
+    ],
+    "wof:id":1209102819,
+    "wof:lastmodified":1551727599,
+    "wof:name":"Hai ed Dhaini",
+    "wof:parent_id":421172017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.86917000000001,
+    33.82278,
+    35.86917000000001,
+    33.82278
+],
+  "geometry": {"coordinates":[35.86917000000001,33.82278],"type":"Point"}
+}

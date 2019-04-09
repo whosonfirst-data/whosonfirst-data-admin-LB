@@ -1,0 +1,71 @@
+{
+  "id": 1326534479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.72778,34.09,35.72778,34.09",
+    "geom:latitude":34.09,
+    "geom:longitude":35.72778,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Dahr el Hsoun",
+    "gn:country_code":"LB",
+    "gn:dem":806,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":275907,
+    "gn:latitude":34.09,
+    "gn:longitude":35.72778,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dahr el Hso\u00fbn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1e10ahr al \u1e28u\u015f\u016bn",
+        "Dahr el Hso\u00fbn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        421194845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":275907
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"e7b90f765bca76c59780710083fb9766",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421194845,
+            "locality_id":1326534479,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1326534479,
+    "wof:lastmodified":1537661140,
+    "wof:name":"Dahr el Hsoun",
+    "wof:parent_id":421194845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.72778,
+    34.09,
+    35.72778,
+    34.09
+],
+  "geometry": {"coordinates":[35.72778,34.09],"type":"Point"}
+}

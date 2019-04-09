@@ -1,0 +1,71 @@
+{
+  "id": 1210005735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.03,34.55028,36.03,34.55028",
+    "geom:latitude":34.55028,
+    "geom:longitude":36.03,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Tell Sebael",
+    "gn:country_code":"LB",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":266876,
+    "gn:latitude":34.55028,
+    "gn:longitude":36.03,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tell Sebael",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tall Sib\u2018il",
+        "Tell Sebael"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        1377074357,
+        1108691407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":266876
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"65fa3ac6846f4c4485c453dcc265f37b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691407,
+            "locality_id":1210005735,
+            "region_id":1377074357
+        }
+    ],
+    "wof:id":1210005735,
+    "wof:lastmodified":1551727667,
+    "wof:name":"Tell Sebael",
+    "wof:parent_id":1108691407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.03,
+    34.55028,
+    36.03,
+    34.55028
+],
+  "geometry": {"coordinates":[36.03,34.55028],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1360269771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.89778,34.42694,35.89778,34.42694",
+    "geom:latitude":34.42694,
+    "geom:longitude":35.89778,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Aalma",
+    "gn:country_code":"LB",
+    "gn:dem":209,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":279642,
+    "gn:latitude":34.42694,
+    "gn:longitude":35.89778,
+    "gn:modification_date":"2018-03-28",
+    "gn:name":"Aalma",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0644\u0645\u0627"
+    ],
+    "name:und_x_variant":[
+        "\u2018Almah",
+        "\u2018Alm\u0101",
+        "Aalma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        1377074355,
+        1108691445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":279642,
+        "wk:page":"Alma,_Lebanon"
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"24466150c7ac8692e9a3d6d2e6369bb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691445,
+            "locality_id":1360269771,
+            "region_id":1377074355
+        }
+    ],
+    "wof:id":1360269771,
+    "wof:lastmodified":1551727613,
+    "wof:name":"Aalma",
+    "wof:parent_id":1108691445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.89778,
+    34.42694,
+    35.89778,
+    34.42694
+],
+  "geometry": {"coordinates":[35.89778,34.42694],"type":"Point"}
+}

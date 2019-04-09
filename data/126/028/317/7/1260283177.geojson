@@ -1,0 +1,78 @@
+{
+  "id": 1260283177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.73667,34.01611,35.73667,34.01611",
+    "geom:latitude":34.01611,
+    "geom:longitude":35.73667,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ouata Tabriye",
+    "gn:country_code":"LB",
+    "gn:dem":1352,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":266181,
+    "gn:latitude":34.01611,
+    "gn:longitude":35.73667,
+    "gn:modification_date":"2013-10-07",
+    "gn:name":"Ouata Tabriy\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0648\u0637\u0649 \u0637\u0628\u0631\u064a\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u0637\u0628\u0631\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Wa\u0163\u0101\u2019 \u0162abar\u012byah",
+        "Ouata Tabriy\u00e9",
+        "Tabar\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        421172015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":266181
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"6b2411c4d5326b790e615727370c9e18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421172015,
+            "locality_id":1260283177,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1260283177,
+    "wof:lastmodified":1537660996,
+    "wof:name":"Ouata Tabriye",
+    "wof:parent_id":421172015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.73667000000001,
+    34.01611,
+    35.73667000000001,
+    34.01611
+],
+  "geometry": {"coordinates":[35.73667000000001,34.01611],"type":"Point"}
+}

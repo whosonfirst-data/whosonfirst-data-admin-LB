@@ -1,0 +1,79 @@
+{
+  "id": 1276656109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.72854,34.05822,35.72854,34.05822",
+    "geom:latitude":34.05822,
+    "geom:longitude":35.72854,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Haql er Rayess",
+    "gn:country_code":"LB",
+    "gn:dem":973,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":274545,
+    "gn:latitude":34.05822,
+    "gn:longitude":35.72854,
+    "gn:modification_date":"2013-10-07",
+    "gn:name":"Haql er Rayess",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0642\u0644 \u0627\u0644\u0631\u064a\u0633"
+    ],
+    "name:und_x_variant":[
+        "Alk er Rayess",
+        "Haql er-Reiyes",
+        "Haql er Ra\u00efyess",
+        "Hakl er Rayess",
+        "Har\u2019har\u00eeya el Qatt\u00eene",
+        "\u1e28aql ar Rayyis",
+        "Haql er Rayess"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        421172015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":274545
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"db99d4e5f8f14510794bf51510216c17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421172015,
+            "locality_id":1276656109,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1276656109,
+    "wof:lastmodified":1537661119,
+    "wof:name":"Haql er Rayess",
+    "wof:parent_id":421172015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.72854,
+    34.05822,
+    35.72854,
+    34.05822
+],
+  "geometry": {"coordinates":[35.72854,34.05822],"type":"Point"}
+}

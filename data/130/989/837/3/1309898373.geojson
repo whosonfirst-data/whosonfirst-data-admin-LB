@@ -1,0 +1,77 @@
+{
+  "id": 1309898373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.39083,33.57667,35.39083,33.57667",
+    "geom:latitude":33.57667,
+    "geom:longitude":35.39083,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Bramiye et Tahta",
+    "gn:country_code":"LB",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":276395,
+    "gn:latitude":33.57667,
+    "gn:longitude":35.39083,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Br\u00e2m\u00eey\u00e9 et Tahta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0631\u0627\u0645\u064a\u0629 \u0627\u0644\u062a\u062d\u062a\u0627"
+    ],
+    "name:und_x_variant":[
+        "Br\u0101m\u012byah at Ta\u1e29t\u0101",
+        "Al Bar\u0101m\u012byah",
+        "Bramiy\u00e9",
+        "Br\u00e2m\u00eey\u00e9 et Tahta",
+        "Bar\u0101m\u012byat at Ta\u1e29t\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673499,
+        890451987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":276395
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"f95a904a98ec5a1b04dabd8bf3eb65e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":890451987,
+            "locality_id":1309898373,
+            "region_id":85673499
+        }
+    ],
+    "wof:id":1309898373,
+    "wof:lastmodified":1537661153,
+    "wof:name":"Bramiye et Tahta",
+    "wof:parent_id":890451987,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.39083,
+    33.57667,
+    35.39083,
+    33.57667
+],
+  "geometry": {"coordinates":[35.39083,33.57667],"type":"Point"}
+}

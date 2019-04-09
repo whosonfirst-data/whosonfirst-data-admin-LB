@@ -1,0 +1,76 @@
+{
+  "id": 1343284275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.04472,33.82972,36.04472,33.82972",
+    "geom:latitude":33.82972,
+    "geom:longitude":36.04472,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Raite",
+    "gn:country_code":"LB",
+    "gn:dem":1066,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":268663,
+    "gn:latitude":33.82972,
+    "gn:longitude":36.04472,
+    "gn:modification_date":"2018-03-07",
+    "gn:name":"Ra\u00efte",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0631\u0639\u064a\u062a"
+    ],
+    "name:und_x_variant":[
+        "\u2018Aytah",
+        "R\u2018\u012bt",
+        "Ra\u00efte",
+        "Ra\u2018\u012bt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673479,
+        421172017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":268663
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"fd95b96c15490acf6c97672e08c12f47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421172017,
+            "locality_id":1343284275,
+            "region_id":85673479
+        }
+    ],
+    "wof:id":1343284275,
+    "wof:lastmodified":1537661024,
+    "wof:name":"Raite",
+    "wof:parent_id":421172017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.04472,
+    33.82972,
+    36.04472,
+    33.82972
+],
+  "geometry": {"coordinates":[36.04472,33.82972],"type":"Point"}
+}

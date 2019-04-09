@@ -1,0 +1,74 @@
+{
+  "id": 1310404865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.53139,33.84083,35.53139,33.84083",
+    "geom:latitude":33.84083,
+    "geom:longitude":35.53139,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Sahet el Ain",
+    "gn:country_code":"LB",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6275287,
+    "gn:latitude":33.84083,
+    "gn:longitude":35.53139,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Sahet el A\u00efn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u0627\u062d\u0629 \u0627\u0644\u0639\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "Sahet el A\u00efn",
+        "S\u0101\u1e29at al \u2018Ayn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        421202301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6275287
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"bee2fcc9eedabd9b036d09240a73f367",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421202301,
+            "locality_id":1310404865,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1310404865,
+    "wof:lastmodified":1537661315,
+    "wof:name":"Sahet el Ain",
+    "wof:parent_id":421202301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.53139,
+    33.84083,
+    35.53139,
+    33.84083
+],
+  "geometry": {"coordinates":[35.53139,33.84083],"type":"Point"}
+}

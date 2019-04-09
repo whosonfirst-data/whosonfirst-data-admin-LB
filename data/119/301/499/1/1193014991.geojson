@@ -1,0 +1,74 @@
+{
+  "id": 1193014991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.7586,34.10927,35.7586,34.10927",
+    "geom:latitude":34.10927,
+    "geom:longitude":35.7586,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Tourzaiya",
+    "gn:country_code":"LB",
+    "gn:dem":920,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":266589,
+    "gn:latitude":34.10927,
+    "gn:longitude":35.7586,
+    "gn:modification_date":"2014-03-08",
+    "gn:name":"Tourza\u00efya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0637\u0648\u0631\u0632\u064a\u0627"
+    ],
+    "name:und_x_variant":[
+        "\u0162\u016brzayy\u0101",
+        "Tourza\u00efya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        421194845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":266589
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"a31a1d8b5d0e37f967579b959dc48b48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421194845,
+            "locality_id":1193014991,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1193014991,
+    "wof:lastmodified":1537661001,
+    "wof:name":"Tourzaiya",
+    "wof:parent_id":421194845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.7586,
+    34.10927,
+    35.7586,
+    34.10927
+],
+  "geometry": {"coordinates":[35.7586,34.10927],"type":"Point"}
+}

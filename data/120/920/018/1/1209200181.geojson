@@ -1,0 +1,70 @@
+{
+  "id": 1209200181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.64889,33.4325,35.64889,33.4325",
+    "geom:latitude":33.4325,
+    "geom:longitude":35.64889,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Dellafi",
+    "gn:country_code":"LB",
+    "gn:dem":615,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":275846,
+    "gn:latitude":33.4325,
+    "gn:longitude":35.64889,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Dell\u00e2fi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u0644\u0627\u0641\u064a"
+    ],
+    "name:und_x_variant":[
+        "Dill\u0101f\u012b",
+        "Dillafah",
+        "Dall\u0101fah",
+        "Dell\u00e2fi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":275846
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"f6312a1b97a82da70f0a23224335d14a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632533,
+            "locality_id":1209200181
+        }
+    ],
+    "wof:id":1209200181,
+    "wof:lastmodified":1537661138,
+    "wof:name":"Dellafi",
+    "wof:parent_id":85632533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.64889,
+    33.4325,
+    35.64889,
+    33.4325
+],
+  "geometry": {"coordinates":[35.64889,33.4325],"type":"Point"}
+}

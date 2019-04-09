@@ -1,0 +1,71 @@
+{
+  "id": 1209414077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.88972,34.16417,35.88972,34.16417",
+    "geom:latitude":34.16417,
+    "geom:longitude":35.88972,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"El Qhaf",
+    "gn:country_code":"LB",
+    "gn:dem":1827,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":280542,
+    "gn:latitude":34.16417,
+    "gn:longitude":35.88972,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El Qh\u00e2f",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al A\u1e29q\u0101f",
+        "El Qh\u00e2f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        1377074355,
+        421204111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":280542
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"07cb9bfa3403e63e17c51cdf3f0d4d46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421204111,
+            "locality_id":1209414077,
+            "region_id":1377074355
+        }
+    ],
+    "wof:id":1209414077,
+    "wof:lastmodified":1551727618,
+    "wof:name":"El Qhaf",
+    "wof:parent_id":421204111,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.88972000000001,
+    34.16417,
+    35.88972000000001,
+    34.16417
+],
+  "geometry": {"coordinates":[35.88972000000001,34.16417],"type":"Point"}
+}

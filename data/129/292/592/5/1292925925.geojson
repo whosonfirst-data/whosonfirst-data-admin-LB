@@ -1,0 +1,70 @@
+{
+  "id": 1292925925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.98306,33.81806,35.98306,33.81806",
+    "geom:latitude":33.81806,
+    "geom:longitude":35.98306,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Terbol",
+    "gn:country_code":"LB",
+    "gn:dem":901,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":266604,
+    "gn:latitude":33.81806,
+    "gn:longitude":35.98306,
+    "gn:modification_date":"2006-08-21",
+    "gn:name":"Terbol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Turbul"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673479,
+        421172017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":266604
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"b6cb97a20aaecb92a9ab1cac6fa43753",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421172017,
+            "locality_id":1292925925,
+            "region_id":85673479
+        }
+    ],
+    "wof:id":1292925925,
+    "wof:lastmodified":1537661002,
+    "wof:name":"Terbol",
+    "wof:parent_id":421172017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.98305999999999,
+    33.81806,
+    35.98305999999999,
+    33.81806
+],
+  "geometry": {"coordinates":[35.98305999999999,33.81806],"type":"Point"}
+}

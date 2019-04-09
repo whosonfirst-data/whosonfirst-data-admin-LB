@@ -1,0 +1,75 @@
+{
+  "id": 1226142015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.67222,33.93083,35.67222,33.93083",
+    "geom:latitude":33.93083,
+    "geom:longitude":35.67222,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Beit Chabab",
+    "gn:country_code":"LB",
+    "gn:dem":642,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":276692,
+    "gn:latitude":33.93083,
+    "gn:longitude":35.67222,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Be\u00eft Chab\u00e2b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Beit Shebab",
+        "Be\u00eft Ch\u00e9bab",
+        "Bayt Chebab",
+        "Bayt Shab\u0101b",
+        "Be\u00eft Chab\u00e2b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        1108691425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":276692,
+        "wk:page":"Beit_Chabab"
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"a6cd6aa2cb6c20c92250e966ee7b9ce8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691425,
+            "locality_id":1226142015,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1226142015,
+    "wof:lastmodified":1537661165,
+    "wof:name":"Beit Chabab",
+    "wof:parent_id":1108691425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.67222,
+    33.93083,
+    35.67222,
+    33.93083
+],
+  "geometry": {"coordinates":[35.67222,33.93083],"type":"Point"}
+}

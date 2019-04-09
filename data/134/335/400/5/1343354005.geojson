@@ -1,0 +1,77 @@
+{
+  "id": 1343354005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.3525,33.46972,35.3525,33.46972",
+    "geom:latitude":33.46972,
+    "geom:longitude":35.3525,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Mazraat es Saknouniye",
+    "gn:country_code":"LB",
+    "gn:dem":215,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":270648,
+    "gn:latitude":33.46972,
+    "gn:longitude":35.3525,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Mazraat es Sakno\u00fbniy\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0632\u0631\u0639\u0629 \u0627\u0644\u0633\u0643\u0648\u0646\u064a\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u0645\u0632\u0631\u0639\u0629 \u0627\u0644\u0633\u0643\u0646\u0648\u0646\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Mazra\u2018at as Sakn\u016bn\u012byah",
+        "Mazraat es Sakno\u00fbniy\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673499,
+        890451987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":270648
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"452ddcccf7be806431b65525b03f9443",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":890451987,
+            "locality_id":1343354005,
+            "region_id":85673499
+        }
+    ],
+    "wof:id":1343354005,
+    "wof:lastmodified":1537661049,
+    "wof:name":"Mazraat es Saknouniye",
+    "wof:parent_id":890451987,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.3525,
+    33.46972,
+    35.3525,
+    33.46972
+],
+  "geometry": {"coordinates":[35.3525,33.46972],"type":"Point"}
+}

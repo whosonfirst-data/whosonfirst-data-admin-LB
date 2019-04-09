@@ -1,0 +1,71 @@
+{
+  "id": 1310585657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.92361,34.19056,35.92361,34.19056",
+    "geom:latitude":34.19056,
+    "geom:longitude":35.92361,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Qlaa el Borj",
+    "gn:country_code":"LB",
+    "gn:dem":1802,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":269102,
+    "gn:latitude":34.19056,
+    "gn:longitude":35.92361,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ql\u00e2a el Borj",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qil\u0101\u2018 al Burj",
+        "Ql\u00e2a el Borj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673483,
+        421204111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":269102
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"f5a67e39960de5527e98ca46bb86d87f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421204111,
+            "locality_id":1310585657,
+            "region_id":85673483
+        }
+    ],
+    "wof:id":1310585657,
+    "wof:lastmodified":1537661031,
+    "wof:name":"Qlaa el Borj",
+    "wof:parent_id":421204111,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.92361,
+    34.19056,
+    35.92361,
+    34.19056
+],
+  "geometry": {"coordinates":[35.92361,34.19056],"type":"Point"}
+}

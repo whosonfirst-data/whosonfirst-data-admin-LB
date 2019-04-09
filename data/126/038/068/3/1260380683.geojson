@@ -1,0 +1,72 @@
+{
+  "id": 1260380683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.07889,34.41333,36.07889,34.41333",
+    "geom:latitude":34.41333,
+    "geom:longitude":36.07889,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Es Snoubar",
+    "gn:country_code":"LB",
+    "gn:dem":1113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":278050,
+    "gn:latitude":34.41333,
+    "gn:longitude":36.07889,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Es Sno\u00fbbar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Es Snao\u00fbbar",
+        "A\u015f \u015eanawbar",
+        "Es Sno\u00fbbar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673483,
+        1108691427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":278050
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"6905c278eba278b85496a111d7b23173",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691427,
+            "locality_id":1260380683,
+            "region_id":85673483
+        }
+    ],
+    "wof:id":1260380683,
+    "wof:lastmodified":1537661202,
+    "wof:name":"Es Snoubar",
+    "wof:parent_id":1108691427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.07889,
+    34.41333,
+    36.07889,
+    34.41333
+],
+  "geometry": {"coordinates":[36.07889,34.41333],"type":"Point"}
+}

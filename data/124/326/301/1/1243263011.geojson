@@ -1,0 +1,78 @@
+{
+  "id": 1243263011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.70198,34.07517,35.70198,34.07517",
+    "geom:latitude":34.07517,
+    "geom:longitude":35.70198,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"El Qarn",
+    "gn:country_code":"LB",
+    "gn:dem":692,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":279192,
+    "gn:latitude":34.07517,
+    "gn:longitude":35.70198,
+    "gn:modification_date":"2013-10-07",
+    "gn:name":"El Qarn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0642\u0631\u0646"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0645\u0632\u0631\u0639\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al Qarn",
+        "El Qarn",
+        "Al Mazra\u2018ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        421172015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":279192
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"2db29dd5f4f6134b29c9bba0a64e6f46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421172015,
+            "locality_id":1243263011,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1243263011,
+    "wof:lastmodified":1537661234,
+    "wof:name":"El Qarn",
+    "wof:parent_id":421172015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.70198,
+    34.07517,
+    35.70198,
+    34.07517
+],
+  "geometry": {"coordinates":[35.70198,34.07517],"type":"Point"}
+}

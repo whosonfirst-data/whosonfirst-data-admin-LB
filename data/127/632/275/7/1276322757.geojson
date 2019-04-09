@@ -1,0 +1,71 @@
+{
+  "id": 1276322757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.24472,34.57694,36.24472,34.57694",
+    "geom:latitude":34.57694,
+    "geom:longitude":36.24472,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Sindianet Zeidane",
+    "gn:country_code":"LB",
+    "gn:dem":528,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":267164,
+    "gn:latitude":34.57694,
+    "gn:longitude":36.24472,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sindianet Ze\u00efdane",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sindiy\u0101nat Rayd\u0101n",
+        "Sindianet Ze\u00efdane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673483,
+        1108691407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":267164
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"4f99deda940ab5cc0eb1c6ce3f2e18e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691407,
+            "locality_id":1276322757,
+            "region_id":85673483
+        }
+    ],
+    "wof:id":1276322757,
+    "wof:lastmodified":1537661010,
+    "wof:name":"Sindianet Zeidane",
+    "wof:parent_id":1108691407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.24472,
+    34.57694,
+    36.24472,
+    34.57694
+],
+  "geometry": {"coordinates":[36.24472,34.57694],"type":"Point"}
+}

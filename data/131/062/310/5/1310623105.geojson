@@ -1,0 +1,80 @@
+{
+  "id": 1310623105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.32333,33.18972,35.32333,33.18972",
+    "geom:latitude":33.18972,
+    "geom:longitude":35.32333,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Recheknanay",
+    "gn:country_code":"LB",
+    "gn:dem":393,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":268666,
+    "gn:latitude":33.18972,
+    "gn:longitude":35.32333,
+    "gn:modification_date":"2018-03-28",
+    "gn:name":"Recheknan\u00e2y",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0631\u0634\u0643\u0646\u0627\u0646\u064a\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u0631\u0634\u0643\u0646\u0646\u0627\u064a"
+    ],
+    "name:und_x_variant":[
+        "Rishkn\u0101n\u012byah",
+        "Recheknan\u00e2y",
+        "Rishkan\u0101n\u012byah",
+        "Rishkanan\u0101y"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673499,
+        1108691441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":268666,
+        "wk:page":"Rechknanay"
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"c9d0b43bd62f30e9100e322f6a358ac4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691441,
+            "locality_id":1310623105,
+            "region_id":85673499
+        }
+    ],
+    "wof:id":1310623105,
+    "wof:lastmodified":1537661024,
+    "wof:name":"Recheknanay",
+    "wof:parent_id":1108691441,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.32333,
+    33.18972,
+    35.32333,
+    33.18972
+],
+  "geometry": {"coordinates":[35.32333,33.18972],"type":"Point"}
+}

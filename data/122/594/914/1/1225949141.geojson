@@ -1,0 +1,74 @@
+{
+  "id": 1225949141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.67333,33.70778,35.67333,33.70778",
+    "geom:latitude":33.70778,
+    "geom:longitude":35.67333,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Jisr el Misri",
+    "gn:country_code":"LB",
+    "gn:dem":1075,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":273297,
+    "gn:latitude":33.70778,
+    "gn:longitude":35.67333,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Jisr el Misri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u0633\u0631 \u0627\u0644\u0645\u0635\u0631\u064a"
+    ],
+    "name:und_x_variant":[
+        "Jisr al Mi\u015fr\u012b",
+        "Jisr el Misri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        1108691419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":273297
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"ec3d0c9d7a718dc3c0dac03cbcdf0dfe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691419,
+            "locality_id":1225949141,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1225949141,
+    "wof:lastmodified":1537661092,
+    "wof:name":"Jisr el Misri",
+    "wof:parent_id":1108691419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.67333,
+    33.70778,
+    35.67333,
+    33.70778
+],
+  "geometry": {"coordinates":[35.67333,33.70778],"type":"Point"}
+}

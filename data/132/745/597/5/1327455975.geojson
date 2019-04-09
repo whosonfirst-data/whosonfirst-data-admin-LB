@@ -1,0 +1,79 @@
+{
+  "id": 1327455975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.40255,33.50605,35.40255,33.50605",
+    "geom:latitude":33.50605,
+    "geom:longitude":35.40255,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Aarnaba",
+    "gn:country_code":"LB",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":273679,
+    "gn:latitude":33.50605,
+    "gn:longitude":35.40255,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Aarn\u00e2ba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0631\u0646\u0628\u0627"
+    ],
+    "name:ara_x_variant":[
+        "\u0639\u0631\u0646\u0627\u0628\u0629"
+    ],
+    "name:und_x_variant":[
+        "\u2018Irn\u0101b\u0101",
+        "Aarn\u00e2ba",
+        "\u2018Irnab\u0101",
+        "\u2018Arn\u0101bah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673499,
+        890451987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":273679
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"2e87b2a99bf9d3e4b36620681c2a58e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":890451987,
+            "locality_id":1327455975,
+            "region_id":85673499
+        }
+    ],
+    "wof:id":1327455975,
+    "wof:lastmodified":1537661098,
+    "wof:name":"Aarnaba",
+    "wof:parent_id":890451987,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.40255,
+    33.50605,
+    35.40255,
+    33.50605
+],
+  "geometry": {"coordinates":[35.40255,33.50605],"type":"Point"}
+}

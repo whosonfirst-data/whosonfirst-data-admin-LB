@@ -1,0 +1,77 @@
+{
+  "id": 1260181129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.64528,33.76028,35.64528,33.76028",
+    "geom:latitude":33.76028,
+    "geom:longitude":35.64528,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Habramoun",
+    "gn:country_code":"LB",
+    "gn:dem":608,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":274858,
+    "gn:latitude":33.76028,
+    "gn:longitude":35.64528,
+    "gn:modification_date":"2018-03-07",
+    "gn:name":"Habramo\u00fbn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0628\u0631\u0645\u0648\u0646"
+    ],
+    "name:und_x_variant":[
+        "Habrammoun",
+        "Jaramo\u00fbn",
+        "\u1e28abramm\u016bn",
+        "Habramo\u00fbn",
+        "\u1e28abram\u016bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        1108691409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":274858
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"1eb3a55dc53cee268bedcbc0873ca23d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691409,
+            "locality_id":1260181129,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1260181129,
+    "wof:lastmodified":1537661122,
+    "wof:name":"Habramoun",
+    "wof:parent_id":1108691409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.64528,
+    33.76028,
+    35.64528,
+    33.76028
+],
+  "geometry": {"coordinates":[35.64528,33.76028],"type":"Point"}
+}

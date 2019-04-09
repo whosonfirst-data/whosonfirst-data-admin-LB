@@ -1,0 +1,71 @@
+{
+  "id": 1293132675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.75278,33.91333,35.75278,33.91333",
+    "geom:latitude":33.91333,
+    "geom:longitude":35.75278,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Er Rouaisse",
+    "gn:country_code":"LB",
+    "gn:dem":1220,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":278447,
+    "gn:latitude":33.91333,
+    "gn:longitude":35.75278,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Er Roua\u00efss\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ar Ru\u2019aysah",
+        "Er Roua\u00efss\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        1108691425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":278447
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"7889fcc3fddcc4464bfca2939df88748",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691425,
+            "locality_id":1293132675,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1293132675,
+    "wof:lastmodified":1537661211,
+    "wof:name":"Er Rouaisse",
+    "wof:parent_id":1108691425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.75278,
+    33.91333,
+    35.75278,
+    33.91333
+],
+  "geometry": {"coordinates":[35.75278,33.91333],"type":"Point"}
+}

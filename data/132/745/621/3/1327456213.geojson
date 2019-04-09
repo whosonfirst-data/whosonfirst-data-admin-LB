@@ -1,0 +1,78 @@
+{
+  "id": 1327456213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.4775,33.55833,35.4775,33.55833",
+    "geom:latitude":33.55833,
+    "geom:longitude":35.4775,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Marous el Jouaniye",
+    "gn:country_code":"LB",
+    "gn:dem":436,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":271088,
+    "gn:latitude":33.55833,
+    "gn:longitude":35.4775,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Maro\u00fbs el Jou\u00e2n\u00eey\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u0645\u0627\u0631\u0648\u0633 \u0627\u0644\u062c\u0648\u0627\u0646\u064a\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u0645\u0631\u0648\u0633 \u0627\u0644\u062c\u0648\u0627\u0646\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "M\u0101r\u016bs al Jaww\u0101n\u012byah",
+        "Maro\u00fbs el Jou\u00e2n\u00eey\u00e9",
+        "Mar\u016bs al Jaww\u0101n\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673499,
+        1108691435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":271088
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"66065b86984f9b80c88f606f5de1c17b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691435,
+            "locality_id":1327456213,
+            "region_id":85673499
+        }
+    ],
+    "wof:id":1327456213,
+    "wof:lastmodified":1537661058,
+    "wof:name":"Marous el Jouaniye",
+    "wof:parent_id":1108691435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.4775,
+    33.55833,
+    35.4775,
+    33.55833
+],
+  "geometry": {"coordinates":[35.4775,33.55833],"type":"Point"}
+}

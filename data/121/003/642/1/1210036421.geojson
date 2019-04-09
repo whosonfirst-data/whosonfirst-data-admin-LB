@@ -1,0 +1,77 @@
+{
+  "id": 1210036421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.78417,33.62694,35.78417,33.62694",
+    "geom:latitude":33.62694,
+    "geom:longitude":35.78417,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Joubb Jannine",
+    "gn:country_code":"LB",
+    "gn:dem":945,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":273185,
+    "gn:latitude":33.62694,
+    "gn:longitude":35.78417,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Joubb Jann\u00eene",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u0628 \u062c\u0646\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "Djeb Djennin",
+        "Jubb Jann\u012bn",
+        "Joub Jannine",
+        "Joubb Jann\u00eene"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        1377074351,
+        421173359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":273185,
+        "wk:page":"Joub_Jannine"
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"c37fa0acc253a82fb24907e20a1c0790",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421173359,
+            "locality_id":1210036421,
+            "region_id":1377074351
+        }
+    ],
+    "wof:id":1210036421,
+    "wof:lastmodified":1551727598,
+    "wof:name":"Joubb Jannine",
+    "wof:parent_id":421173359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.78417,
+    33.62694,
+    35.78417,
+    33.62694
+],
+  "geometry": {"coordinates":[35.78417,33.62694],"type":"Point"}
+}

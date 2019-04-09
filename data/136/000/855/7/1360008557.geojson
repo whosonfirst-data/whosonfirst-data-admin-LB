@@ -1,0 +1,74 @@
+{
+  "id": 1360008557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.70278,34.11111,35.70278,34.11111",
+    "geom:latitude":34.11111,
+    "geom:longitude":35.70278,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Souq el Firi",
+    "gn:country_code":"LB",
+    "gn:dem":670,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":267011,
+    "gn:latitude":34.11111,
+    "gn:longitude":35.70278,
+    "gn:modification_date":"2014-03-08",
+    "gn:name":"Souq el Firi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u0648\u0642 \u0627\u0644\u0641\u0631\u064a"
+    ],
+    "name:und_x_variant":[
+        "S\u016bq al Fir\u012b",
+        "Souq el Firi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        421194845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":267011
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"6449726512a6f0399b975c223e1b6a47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421194845,
+            "locality_id":1360008557,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1360008557,
+    "wof:lastmodified":1537661008,
+    "wof:name":"Souq el Firi",
+    "wof:parent_id":421194845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.70278,
+    34.11111,
+    35.70278,
+    34.11111
+],
+  "geometry": {"coordinates":[35.70278,34.11111],"type":"Point"}
+}

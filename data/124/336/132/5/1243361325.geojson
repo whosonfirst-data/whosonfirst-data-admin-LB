@@ -1,0 +1,74 @@
+{
+  "id": 1243361325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.38278,33.55972,35.38278,33.55972",
+    "geom:latitude":33.55972,
+    "geom:longitude":35.38278,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Er Rabatiye",
+    "gn:country_code":"LB",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":435092,
+    "gn:latitude":33.55972,
+    "gn:longitude":35.38278,
+    "gn:modification_date":"2018-01-11",
+    "gn:name":"Er Rabat\u00eey\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0631\u0628\u0637\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Er Rabat\u00eey\u00e9",
+        "Ar Raba\u0163\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673499,
+        890451987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":435092
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"ccbc04780b84d863ebaf6b5b9428b56f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":890451987,
+            "locality_id":1243361325,
+            "region_id":85673499
+        }
+    ],
+    "wof:id":1243361325,
+    "wof:lastmodified":1537661303,
+    "wof:name":"Er Rabatiye",
+    "wof:parent_id":890451987,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.38278,
+    33.55972,
+    35.38278,
+    33.55972
+],
+  "geometry": {"coordinates":[35.38278,33.55972],"type":"Point"}
+}

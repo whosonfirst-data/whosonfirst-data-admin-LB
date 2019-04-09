@@ -1,0 +1,74 @@
+{
+  "id": 1343363773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.68056,33.89889,35.68056,33.89889",
+    "geom:latitude":33.89889,
+    "geom:longitude":35.68056,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"El Aaraar",
+    "gn:country_code":"LB",
+    "gn:dem":904,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":280468,
+    "gn:latitude":33.89889,
+    "gn:longitude":35.68056,
+    "gn:modification_date":"2018-04-06",
+    "gn:name":"El Aara\u00e2r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0639\u0631\u0639\u0627\u0631"
+    ],
+    "name:und_x_variant":[
+        "Al \u2018Ar\u2018\u0101r",
+        "El Aara\u00e2r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        1108691425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":280468
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"5d760bf10a3c0b420685ea0b7e06ace1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691425,
+            "locality_id":1343363773,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1343363773,
+    "wof:lastmodified":1537661286,
+    "wof:name":"El Aaraar",
+    "wof:parent_id":1108691425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.68056,
+    33.89889,
+    35.68056,
+    33.89889
+],
+  "geometry": {"coordinates":[35.68056,33.89889],"type":"Point"}
+}

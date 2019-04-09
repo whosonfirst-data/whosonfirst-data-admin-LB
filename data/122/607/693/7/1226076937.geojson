@@ -1,0 +1,71 @@
+{
+  "id": 1226076937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.66667,34.11778,35.66667,34.11778",
+    "geom:latitude":34.11778,
+    "geom:longitude":35.66667,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Hourata",
+    "gn:country_code":"LB",
+    "gn:dem":196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":273815,
+    "gn:latitude":34.11778,
+    "gn:longitude":35.66667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Hour\u00e2t\u00e2",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1e28\u016br\u0101t\u0101",
+        "Hour\u00e2t\u00e2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        421194845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":273815
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"fcd3deace46fbc811630889d6aca3265",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421194845,
+            "locality_id":1226076937,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1226076937,
+    "wof:lastmodified":1537661100,
+    "wof:name":"Hourata",
+    "wof:parent_id":421194845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.66667,
+    34.11778,
+    35.66667,
+    34.11778
+],
+  "geometry": {"coordinates":[35.66667,34.11778],"type":"Point"}
+}

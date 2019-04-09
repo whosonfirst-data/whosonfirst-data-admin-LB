@@ -1,0 +1,68 @@
+{
+  "id": 1310129881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-03-01",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.51487,33.89559,35.51487,33.89559",
+    "geom:latitude":33.89559,
+    "geom:longitude":35.51487,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Haddad",
+    "gn:country_code":"LB",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7838995,
+    "gn:latitude":33.89559,
+    "gn:longitude":35.51487,
+    "gn:modification_date":"2011-05-27",
+    "gn:name":"Haddad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7838995
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"47883eedbf985cb925dc396c8bb7701e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "locality_id":1310129881,
+            "region_id":85673487
+        }
+    ],
+    "wof:id":1310129881,
+    "wof:lastmodified":1551727694,
+    "wof:name":"Haddad",
+    "wof:parent_id":85673487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[
+        1377074371
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.51487,
+    33.89559000000001,
+    35.51487,
+    33.89559000000001
+],
+  "geometry": {"coordinates":[35.51487,33.89559000000001],"type":"Point"}
+}

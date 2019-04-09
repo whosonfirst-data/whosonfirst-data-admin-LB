@@ -1,0 +1,71 @@
+{
+  "id": 1293467987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.30667,34.32556,36.30667,34.32556",
+    "geom:latitude":34.32556,
+    "geom:longitude":36.30667,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Beit Hassan Hsain",
+    "gn:country_code":"LB",
+    "gn:dem":1277,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":276726,
+    "gn:latitude":34.32556,
+    "gn:longitude":36.30667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Be\u00eft Hassan Hsa\u00efn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bayt \u1e28asan \u1e28usayn",
+        "Be\u00eft Hassan Hsa\u00efn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673479,
+        1108691421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":276726
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"92a70e264a7265f1927554a66f4fe9c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691421,
+            "locality_id":1293467987,
+            "region_id":85673479
+        }
+    ],
+    "wof:id":1293467987,
+    "wof:lastmodified":1537661167,
+    "wof:name":"Beit Hassan Hsain",
+    "wof:parent_id":1108691421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.30667,
+    34.32556,
+    36.30667,
+    34.32556
+],
+  "geometry": {"coordinates":[36.30667,34.32556],"type":"Point"}
+}

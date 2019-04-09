@@ -1,0 +1,71 @@
+{
+  "id": 1293612035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.68167,34.00667,35.68167,34.00667",
+    "geom:latitude":34.00667,
+    "geom:longitude":35.68167,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"El Ksayer",
+    "gn:country_code":"LB",
+    "gn:dem":541,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":279812,
+    "gn:latitude":34.00667,
+    "gn:longitude":35.68167,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El Ks\u00e2yer",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Kas\u0101\u2019ir",
+        "El Ks\u00e2yer"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        421172015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":279812
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"fc3d22156d6bc6ff155c75789e2bc23d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421172015,
+            "locality_id":1293612035,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1293612035,
+    "wof:lastmodified":1537661258,
+    "wof:name":"El Ksayer",
+    "wof:parent_id":421172015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.68167000000001,
+    34.00667,
+    35.68167000000001,
+    34.00667
+],
+  "geometry": {"coordinates":[35.68167000000001,34.00667],"type":"Point"}
+}

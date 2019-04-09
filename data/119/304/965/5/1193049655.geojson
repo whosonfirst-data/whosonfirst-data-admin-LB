@@ -1,0 +1,81 @@
+{
+  "id": 1193049655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.71335,34.12589,35.71335,34.12589",
+    "geom:latitude":34.12589,
+    "geom:longitude":35.71335,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Mrah Sghir",
+    "gn:country_code":"LB",
+    "gn:dem":806,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":271522,
+    "gn:latitude":34.12589,
+    "gn:longitude":35.71335,
+    "gn:modification_date":"2014-03-08",
+    "gn:name":"Mr\u00e2h Sgh\u00eer",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0631\u0627\u062d \u0635\u063a\u064a\u0631"
+    ],
+    "name:ara_x_variant":[
+        "\u062d\u0645\u0627\u0631 \u0635\u063a\u064a\u0631"
+    ],
+    "name:und_x_variant":[
+        "Ahmar Zr\u00eer",
+        "Houmar ez Zrhir",
+        "Mar\u0101\u1e29 a\u015f \u015eagh\u012br",
+        "Mr\u00e2h Sgh\u00eer",
+        "Mar\u0101\u1e29 \u015eagh\u012br",
+        "\u1e28am\u0101r \u015eagh\u012br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        421194845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":271522
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"6ff6c65a1ae92673acdaf356a629d580",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421194845,
+            "locality_id":1193049655,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1193049655,
+    "wof:lastmodified":1537661063,
+    "wof:name":"Mrah Sghir",
+    "wof:parent_id":421194845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.71335,
+    34.12589000000001,
+    35.71335,
+    34.12589000000001
+],
+  "geometry": {"coordinates":[35.71335,34.12589000000001],"type":"Point"}
+}

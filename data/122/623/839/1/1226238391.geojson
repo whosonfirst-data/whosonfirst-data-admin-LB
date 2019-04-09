@@ -1,0 +1,75 @@
+{
+  "id": 1226238391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.92028,34.30778,35.92028,34.30778",
+    "geom:latitude":34.30778,
+    "geom:longitude":35.92028,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Aitou",
+    "gn:country_code":"LB",
+    "gn:dem":956,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":277362,
+    "gn:latitude":34.30778,
+    "gn:longitude":35.92028,
+    "gn:modification_date":"2014-03-08",
+    "gn:name":"A\u00eftou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u064a\u0637\u0648"
+    ],
+    "name:und_x_variant":[
+        "Ay\u0163\u016b",
+        "A\u00eftou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        1377074355,
+        1108691445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":277362,
+        "wk:page":"Aitou"
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"15461ff0128322a16da04ed15928cf5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691445,
+            "locality_id":1226238391,
+            "region_id":1377074355
+        }
+    ],
+    "wof:id":1226238391,
+    "wof:lastmodified":1551727627,
+    "wof:name":"Aitou",
+    "wof:parent_id":1108691445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.92028,
+    34.30778,
+    35.92028,
+    34.30778
+],
+  "geometry": {"coordinates":[35.92028,34.30778],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1242773659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.75456,34.12095,35.75456,34.12095",
+    "geom:latitude":34.12095,
+    "geom:longitude":35.75456,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Mrouj",
+    "gn:country_code":"LB",
+    "gn:dem":1177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8717847,
+    "gn:latitude":34.12095,
+    "gn:longitude":35.75456,
+    "gn:modification_date":"2014-03-11",
+    "gn:name":"Mrouj",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0631\u0648\u062c"
+    ],
+    "name:ara_x_variant":[
+        "Al Mur\u016bj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        421194845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8717847
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"09f2d6cbcd0e39ec76711568da0e15f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421194845,
+            "locality_id":1242773659,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1242773659,
+    "wof:lastmodified":1537661324,
+    "wof:name":"Mrouj",
+    "wof:parent_id":421194845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.75456,
+    34.12095,
+    35.75456,
+    34.12095
+],
+  "geometry": {"coordinates":[35.75456,34.12095],"type":"Point"}
+}

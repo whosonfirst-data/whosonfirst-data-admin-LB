@@ -1,0 +1,73 @@
+{
+  "id": 1225828911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.10417,34.58722,36.10417,34.58722",
+    "geom:latitude":34.58722,
+    "geom:longitude":36.10417,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Haouchab",
+    "gn:country_code":"LB",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":274208,
+    "gn:latitude":34.58722,
+    "gn:longitude":36.10417,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Haouchab",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El-Haushab",
+        "Haushab",
+        "\u1e28awshab",
+        "Haouchab"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        1377074357,
+        1108691407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":274208
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"16a38cd88e9223a3a62af0960d369b4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691407,
+            "locality_id":1225828911,
+            "region_id":1377074357
+        }
+    ],
+    "wof:id":1225828911,
+    "wof:lastmodified":1551727669,
+    "wof:name":"Haouchab",
+    "wof:parent_id":1108691407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.10417,
+    34.58722,
+    36.10417,
+    34.58722
+],
+  "geometry": {"coordinates":[36.10417,34.58722],"type":"Point"}
+}

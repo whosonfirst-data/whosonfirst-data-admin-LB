@@ -1,0 +1,78 @@
+{
+  "id": 1226560891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.78417,34.35333,35.78417,34.35333",
+    "geom:latitude":34.35333,
+    "geom:longitude":35.78417,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Dahr es Safa",
+    "gn:country_code":"LB",
+    "gn:dem":413,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":275888,
+    "gn:latitude":34.35333,
+    "gn:longitude":35.78417,
+    "gn:modification_date":"2014-03-08",
+    "gn:name":"Dahr es Safa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0636\u0647\u0631 \u0627\u0644\u0635\u0641\u0627"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0631\u0648\u064a\u0633"
+    ],
+    "name:und_x_variant":[
+        "\u1e10ahr a\u015f \u015eaf\u0101",
+        "Dahr es Safa",
+        "Ar Ruways"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        1377074355,
+        1108691423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":275888
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"7142714d432f2a842143dddd7d0a5b4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691423,
+            "locality_id":1226560891,
+            "region_id":1377074355
+        }
+    ],
+    "wof:id":1226560891,
+    "wof:lastmodified":1551727625,
+    "wof:name":"Dahr es Safa",
+    "wof:parent_id":1108691423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.78417,
+    34.35333,
+    35.78417,
+    34.35333
+],
+  "geometry": {"coordinates":[35.78417,34.35333],"type":"Point"}
+}

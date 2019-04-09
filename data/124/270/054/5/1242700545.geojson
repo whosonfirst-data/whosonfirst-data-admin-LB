@@ -1,0 +1,74 @@
+{
+  "id": 1242700545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.56944,33.88139,35.56944,33.88139",
+    "geom:latitude":33.88139,
+    "geom:longitude":35.56944,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Fanar ej Jdid",
+    "gn:country_code":"LB",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6274995,
+    "gn:latitude":33.88139,
+    "gn:longitude":35.56944,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Fanar ej Jd\u00eed",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0641\u0646\u0627\u0631 \u0627\u0644\u062c\u062f\u064a\u062f\u0629"
+    ],
+    "name:und_x_variant":[
+        "Fanar ej Jd\u00eed",
+        "Fan\u0101r al Jad\u012bdah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        1108691425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6274995
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"f91af66dbb906e9993346fec57a584ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691425,
+            "locality_id":1242700545,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1242700545,
+    "wof:lastmodified":1537661313,
+    "wof:name":"Fanar ej Jdid",
+    "wof:parent_id":1108691425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.56944,
+    33.88139,
+    35.56944,
+    33.88139
+],
+  "geometry": {"coordinates":[35.56944,33.88139],"type":"Point"}
+}

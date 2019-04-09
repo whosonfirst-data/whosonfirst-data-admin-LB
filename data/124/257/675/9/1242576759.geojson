@@ -1,0 +1,71 @@
+{
+  "id": 1242576759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.76194,34.03111,35.76194,34.03111",
+    "geom:latitude":34.03111,
+    "geom:longitude":35.76194,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Qateaa el Baainiye",
+    "gn:country_code":"LB",
+    "gn:dem":1217,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":269202,
+    "gn:latitude":34.03111,
+    "gn:longitude":35.76194,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Q\u00e2teaa el Baa\u00efn\u00eey\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Q\u0101\u0163i\u2018 al Bu\u2018ayn\u012byah",
+        "Q\u00e2teaa el Baa\u00efn\u00eey\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        421172015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":269202
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"bf713de30d6cb73cacb77297f832142e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421172015,
+            "locality_id":1242576759,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1242576759,
+    "wof:lastmodified":1537661032,
+    "wof:name":"Qateaa el Baainiye",
+    "wof:parent_id":421172015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.76194,
+    34.03111,
+    35.76194,
+    34.03111
+],
+  "geometry": {"coordinates":[35.76194,34.03111],"type":"Point"}
+}

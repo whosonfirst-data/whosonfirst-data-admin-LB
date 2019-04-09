@@ -1,0 +1,75 @@
+{
+  "id": 421173007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.205615,34.006637,36.205615,34.006637",
+    "geom:latitude":34.006637,
+    "geom:longitude":36.205615,
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"\u0628\u0639\u0644\u0628\u0643",
+    "qs:name_adm0":"\u0644\u0628\u0646\u0627\u0646",
+    "qs:name_adm1":"\u0628\u0639\u0644\u0628\u0643 \u0627\u0644\u0647\u0631\u0645\u0644",
+    "qs:photos":2029,
+    "qs:photos_1k":411,
+    "qs:photos_9k":9,
+    "qs:photos_9r":9,
+    "qs:photos_all":2029,
+    "qs:photos_sr":15,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":424796,
+    "qs:woe_adm0":23424873,
+    "qs:woe_id":1960257,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        1377074353,
+        421171405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1960257,
+        "qs:id":424796
+    },
+    "wof:country":"LB",
+    "wof:created":1459008962,
+    "wof:geomhash":"ade4d0d83050de6fc41ea75b6514ffc9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421171405,
+            "locality_id":421173007,
+            "region_id":1377074353
+        }
+    ],
+    "wof:id":421173007,
+    "wof:lastmodified":1551727648,
+    "wof:name":"\u0628\u0639\u0644\u0628\u0643",
+    "wof:parent_id":421171405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.205615,
+    34.006637,
+    36.205615,
+    34.006637
+],
+  "geometry": {"coordinates":[36.205615,34.006637],"type":"Point"}
+}

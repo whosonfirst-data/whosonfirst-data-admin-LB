@@ -1,0 +1,67 @@
+{
+  "id": 1259377647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.74333,34.24861,35.74333,34.24861",
+    "geom:latitude":34.24861,
+    "geom:longitude":35.74333,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Ed Daiaa",
+    "gn:country_code":"LB",
+    "gn:dem":360,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6279663,
+    "gn:latitude":34.24861,
+    "gn:longitude":35.74333,
+    "gn:modification_date":"2006-08-24",
+    "gn:name":"Ed Da\u00efaa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673483,
+        421204111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6279663
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"b74115f5944092be633aa40537fd4824",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421204111,
+            "locality_id":1259377647,
+            "region_id":85673483
+        }
+    ],
+    "wof:id":1259377647,
+    "wof:lastmodified":1537009992,
+    "wof:name":"Ed Daiaa",
+    "wof:parent_id":421204111,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.74333,
+    34.24861,
+    35.74333,
+    34.24861
+],
+  "geometry": {"coordinates":[35.74333,34.24861],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276321647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.20194,33.87361,36.20194,33.87361",
+    "geom:latitude":33.87361,
+    "geom:longitude":36.20194,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Ham",
+    "gn:country_code":"LB",
+    "gn:dem":1465,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":274700,
+    "gn:latitude":33.87361,
+    "gn:longitude":36.20194,
+    "gn:modification_date":"2006-07-20",
+    "gn:name":"H\u00e2m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673479,
+        421171405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":274700
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"117387437c473b3fe2807850e5c7efba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421171405,
+            "locality_id":1276321647,
+            "region_id":85673479
+        }
+    ],
+    "wof:id":1276321647,
+    "wof:lastmodified":1536794653,
+    "wof:name":"Ham",
+    "wof:parent_id":421171405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.20194,
+    33.87361,
+    36.20194,
+    33.87361
+],
+  "geometry": {"coordinates":[36.20194,33.87361],"type":"Point"}
+}

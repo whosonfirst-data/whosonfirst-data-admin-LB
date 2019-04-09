@@ -1,0 +1,77 @@
+{
+  "id": 1260103019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.58139,33.90833,35.58139,33.90833",
+    "geom:latitude":33.90833,
+    "geom:longitude":35.58139,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Jall Al Dieb",
+    "gn:country_code":"LB",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":273535,
+    "gn:latitude":33.90833,
+    "gn:longitude":35.58139,
+    "gn:modification_date":"2011-02-11",
+    "gn:name":"Jall Al Dieb",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u0644 \u0627\u0644\u062f\u064a\u0628"
+    ],
+    "name:und_x_variant":[
+        "Jel el Dib",
+        "Jall ad D\u012bb",
+        "Jell ed Dib",
+        "Jall adh Dhi\u2019b",
+        "Jall ed D\u00eeb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        1108691425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":273535
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"ca5a2abec53c99131244e3e62a3f456d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691425,
+            "locality_id":1260103019,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1260103019,
+    "wof:lastmodified":1537661095,
+    "wof:name":"Jall Al Dieb",
+    "wof:parent_id":1108691425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.58139,
+    33.90833,
+    35.58139,
+    33.90833
+],
+  "geometry": {"coordinates":[35.58139,33.90833],"type":"Point"}
+}

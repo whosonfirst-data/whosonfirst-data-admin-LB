@@ -1,0 +1,71 @@
+{
+  "id": 1193020851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.76667,33.98417,35.76667,33.98417",
+    "geom:latitude":33.98417,
+    "geom:longitude":35.76667,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Mazraat Kfardibiane",
+    "gn:country_code":"LB",
+    "gn:dem":1264,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":270598,
+    "gn:latitude":33.98417,
+    "gn:longitude":35.76667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mazraat Kfardibi\u00e2ne",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mazra\u2018at Kafr Dhiby\u0101n",
+        "Mazraat Kfardibi\u00e2ne"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        421172015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":270598
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"f16933c8580b27722d5234c5000cf3c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421172015,
+            "locality_id":1193020851,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1193020851,
+    "wof:lastmodified":1537661045,
+    "wof:name":"Mazraat Kfardibiane",
+    "wof:parent_id":421172015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.76667,
+    33.98417,
+    35.76667,
+    33.98417
+],
+  "geometry": {"coordinates":[35.76667,33.98417],"type":"Point"}
+}

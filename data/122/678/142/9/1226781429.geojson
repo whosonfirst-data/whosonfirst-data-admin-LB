@@ -1,0 +1,76 @@
+{
+  "id": 1226781429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.69556,33.76389,35.69556,33.76389",
+    "geom:latitude":33.76389,
+    "geom:longitude":35.69556,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Eghmid",
+    "gn:country_code":"LB",
+    "gn:dem":1119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":280643,
+    "gn:latitude":33.76389,
+    "gn:longitude":35.69556,
+    "gn:modification_date":"2018-03-07",
+    "gn:name":"Eghm\u00eed",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u063a\u0645\u064a\u062f"
+    ],
+    "name:und_x_variant":[
+        "Ahrm\u00eed",
+        "Arhm\u00eed",
+        "Aghm\u012bd",
+        "Eghm\u00eed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        1108691409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":280643
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"3c327a3d36da9ce429856af1e5bb9c72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691409,
+            "locality_id":1226781429,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1226781429,
+    "wof:lastmodified":1537661290,
+    "wof:name":"Eghmid",
+    "wof:parent_id":1108691409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.69556,
+    33.76389,
+    35.69556,
+    33.76389
+],
+  "geometry": {"coordinates":[35.69556,33.76389],"type":"Point"}
+}

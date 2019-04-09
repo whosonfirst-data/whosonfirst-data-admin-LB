@@ -1,0 +1,71 @@
+{
+  "id": 1292989993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.155,34.61722,36.155,34.61722",
+    "geom:latitude":34.61722,
+    "geom:longitude":36.155,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Qachlaq",
+    "gn:country_code":"LB",
+    "gn:dem":210,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":268925,
+    "gn:latitude":34.61722,
+    "gn:longitude":36.155,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Qachlaq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qushluq",
+        "Qachlaq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673483,
+        1108691407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":268925
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"4ac3afb2c4d5566cd3861d2e718d147a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691407,
+            "locality_id":1292989993,
+            "region_id":85673483
+        }
+    ],
+    "wof:id":1292989993,
+    "wof:lastmodified":1537661028,
+    "wof:name":"Qachlaq",
+    "wof:parent_id":1108691407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.155,
+    34.61722,
+    36.155,
+    34.61722
+],
+  "geometry": {"coordinates":[36.155,34.61722],"type":"Point"}
+}

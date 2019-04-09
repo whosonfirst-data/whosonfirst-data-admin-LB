@@ -1,0 +1,73 @@
+{
+  "id": 1243157713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.81833,33.82667,35.81833,33.82667",
+    "geom:latitude":33.82667,
+    "geom:longitude":35.81833,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Nabaa el Aassal",
+    "gn:country_code":"LB",
+    "gn:dem":1348,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":270031,
+    "gn:latitude":33.82667,
+    "gn:longitude":35.81833,
+    "gn:modification_date":"2018-03-07",
+    "gn:name":"Nabaa el Aassal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0646\u0628\u0639 \u0627\u0644\u0639\u0633\u0644"
+    ],
+    "name:und_x_variant":[
+        "Nab\u2018 al \u2018Asal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673479,
+        421172017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":270031
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"b9ec59a3962ef882f08188234633e8f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421172017,
+            "locality_id":1243157713,
+            "region_id":85673479
+        }
+    ],
+    "wof:id":1243157713,
+    "wof:lastmodified":1537661038,
+    "wof:name":"Nabaa el Aassal",
+    "wof:parent_id":421172017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.81833,
+    33.82667,
+    35.81833,
+    33.82667
+],
+  "geometry": {"coordinates":[35.81833,33.82667],"type":"Point"}
+}

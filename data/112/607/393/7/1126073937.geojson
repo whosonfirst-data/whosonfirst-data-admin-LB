@@ -1,0 +1,93 @@
+{
+  "id": 1126073937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.48333,33.9,35.48333,33.9",
+    "geom:latitude":33.9,
+    "geom:longitude":35.48333,
+    "gn:gn_country":"LB",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "iso:country":"LB",
+    "lbl:latitude":33.9,
+    "lbl:longitude":35.48333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"LB",
+    "qs_pg:gn_country":"LB",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":279213,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Al Qan\u0163\u0101r\u012b",
+    "qs_pg:name_adm0":"\u0644\u0628\u0646\u0627\u0646",
+    "qs_pg:name_adm1":"\u0628\u064a\u0631\u0648\u062a",
+    "qs_pg:photos":397,
+    "qs_pg:photos_1k":80,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":397,
+    "qs_pg:photos_sr":6,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":900086,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424873,
+    "qs_pg:woe_id":1959736,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424873,
+    "woe:name_adm0":"\u0644\u0628\u0646\u0627\u0646",
+    "woe:name_adm1":"\u0628\u064a\u0631\u0648\u062a",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        85673487,
+        102191569,
+        85632533,
+        1108691413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":279213,
+        "gp:id":1959736,
+        "qs_pg:id":900086
+    },
+    "wof:country":"LB",
+    "wof:created":1497310548,
+    "wof:geomhash":"d910d2331dc2b95cc39728b4a70cf251",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691413,
+            "locality_id":-1,
+            "neighbourhood_id":1126073937,
+            "region_id":85673487
+        }
+    ],
+    "wof:id":1126073937,
+    "wof:lastmodified":1534379375,
+    "wof:name":"Al Qan\u0163\u0101r\u012b",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[
+        85903051
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.48333,
+    33.9,
+    35.48333,
+    33.9
+],
+  "geometry": {"coordinates":[35.48333,33.9],"type":"Point"}
+}

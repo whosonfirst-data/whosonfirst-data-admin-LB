@@ -1,0 +1,79 @@
+{
+  "id": 1193270637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.29948,33.44948,35.29948,33.44948",
+    "geom:latitude":33.44948,
+    "geom:longitude":35.29948,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Sarafand",
+    "gn:country_code":"LB",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":278040,
+    "gn:latitude":33.44948,
+    "gn:longitude":35.29948,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Sarafand",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0635\u0631\u0641\u0646\u062f"
+    ],
+    "name:ara_x_variant":[
+        "\u0635\u0631\u0641\u0646\u062f"
+    ],
+    "name:und_x_variant":[
+        "Es-Sarafand",
+        "A\u015f \u015earafand",
+        "Sarafand",
+        "\u015earafand"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673499,
+        890451987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":278040
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"a2976e2dd042dd6cebf22c59e51a1a1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":890451987,
+            "locality_id":1193270637,
+            "region_id":85673499
+        }
+    ],
+    "wof:id":1193270637,
+    "wof:lastmodified":1537661202,
+    "wof:name":"Sarafand",
+    "wof:parent_id":890451987,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.29948,
+    33.44948,
+    35.29948,
+    33.44948
+],
+  "geometry": {"coordinates":[35.29948,33.44948],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1209935327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.73667,34.23556,35.73667,34.23556",
+    "geom:latitude":34.23556,
+    "geom:longitude":35.73667,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Kour",
+    "gn:country_code":"LB",
+    "gn:dem":417,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":272234,
+    "gn:latitude":34.23556,
+    "gn:longitude":35.73667,
+    "gn:modification_date":"2014-03-08",
+    "gn:name":"Ko\u00fbr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0648\u0631"
+    ],
+    "name:und_x_variant":[
+        "El-kour",
+        "K\u016br",
+        "Ko\u00fbr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        1377074355,
+        421204111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":272234
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"79ff4162c73841e14382c9764955b3bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421204111,
+            "locality_id":1209935327,
+            "region_id":1377074355
+        }
+    ],
+    "wof:id":1209935327,
+    "wof:lastmodified":1551727621,
+    "wof:name":"Kour",
+    "wof:parent_id":421204111,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.73667000000001,
+    34.23556,
+    35.73667000000001,
+    34.23556
+],
+  "geometry": {"coordinates":[35.73667000000001,34.23556],"type":"Point"}
+}

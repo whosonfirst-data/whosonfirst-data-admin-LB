@@ -1,0 +1,71 @@
+{
+  "id": 1193002841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.76528,34.23639,35.76528,34.23639",
+    "geom:latitude":34.23639,
+    "geom:longitude":35.76528,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Dahr Sourat",
+    "gn:country_code":"LB",
+    "gn:dem":534,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":275873,
+    "gn:latitude":34.23639,
+    "gn:longitude":35.76528,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dahr So\u00fbr\u00e2t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1e10ahr \u015e\u016br\u0101t",
+        "Dahr So\u00fbr\u00e2t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        1377074355,
+        421204111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":275873
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"e53e34e17eea8c47a077077f4ba188ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421204111,
+            "locality_id":1193002841,
+            "region_id":1377074355
+        }
+    ],
+    "wof:id":1193002841,
+    "wof:lastmodified":1551727614,
+    "wof:name":"Dahr Sourat",
+    "wof:parent_id":421204111,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.76528,
+    34.23639,
+    35.76528,
+    34.23639
+],
+  "geometry": {"coordinates":[35.76528,34.23639],"type":"Point"}
+}

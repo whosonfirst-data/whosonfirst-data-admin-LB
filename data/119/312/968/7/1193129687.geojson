@@ -1,0 +1,75 @@
+{
+  "id": 1193129687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.37153,33.40837,35.37153,33.40837",
+    "geom:latitude":33.40837,
+    "geom:longitude":35.37153,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Khartoum",
+    "gn:country_code":"LB",
+    "gn:dem":331,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":272484,
+    "gn:latitude":33.40837,
+    "gn:longitude":35.37153,
+    "gn:modification_date":"2013-08-06",
+    "gn:name":"Kharto\u00fbm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0631\u0637\u0648\u0645"
+    ],
+    "name:und_x_variant":[
+        "El-Khartoum",
+        "Khar\u0163\u016bm",
+        "Kharto\u00fbm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673499,
+        890451987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":272484
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"461a9df233f6ef7780c8b6d181949a2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":890451987,
+            "locality_id":1193129687,
+            "region_id":85673499
+        }
+    ],
+    "wof:id":1193129687,
+    "wof:lastmodified":1537661075,
+    "wof:name":"Khartoum",
+    "wof:parent_id":890451987,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.37153,
+    33.40837,
+    35.37153,
+    33.40837
+],
+  "geometry": {"coordinates":[35.37153,33.40837],"type":"Point"}
+}

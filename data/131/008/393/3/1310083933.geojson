@@ -1,0 +1,72 @@
+{
+  "id": 1310083933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.04056,34.06778,36.04056,34.06778",
+    "geom:latitude":34.06778,
+    "geom:longitude":36.04056,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Mrah Bou Brahim",
+    "gn:country_code":"LB",
+    "gn:dem":1245,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":271485,
+    "gn:latitude":34.06778,
+    "gn:longitude":36.04056,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mr\u00e2h Bou Brah\u00eem",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Merah Abou Ibrahim",
+        "Mar\u0101\u1e29 B\u016b Ibr\u0101h\u012bm",
+        "Mr\u00e2h Bou Brah\u00eem"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673479,
+        421171405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":271485
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"4158bd9844b9b3e21953279d20c67b52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421171405,
+            "locality_id":1310083933,
+            "region_id":85673479
+        }
+    ],
+    "wof:id":1310083933,
+    "wof:lastmodified":1537661062,
+    "wof:name":"Mrah Bou Brahim",
+    "wof:parent_id":421171405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.04056,
+    34.06778,
+    36.04056,
+    34.06778
+],
+  "geometry": {"coordinates":[36.04056,34.06778],"type":"Point"}
+}

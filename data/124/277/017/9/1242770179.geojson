@@ -1,0 +1,79 @@
+{
+  "id": 1242770179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.48111,33.55194,35.48111,33.55194",
+    "geom:latitude":33.55194,
+    "geom:longitude":35.48111,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Marous el Barraniye",
+    "gn:country_code":"LB",
+    "gn:dem":437,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":271089,
+    "gn:latitude":33.55194,
+    "gn:longitude":35.48111,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Maro\u00fbs el Barran\u00eey\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0627\u0631\u0648\u0633 \u0627\u0644\u062a\u062d\u062a\u0627\u0646\u064a\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u0645\u0631\u0648\u0633 \u0627\u0644\u0628\u0631\u0627\u0646\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "M\u0101r\u016bs al Barr\u0101n\u012byah",
+        "Maro\u00fbs el Barran\u00eey\u00e9",
+        "M\u0101r\u016bs at Ta\u1e29t\u0101n\u012byah",
+        "Mar\u016bs al Barr\u0101n\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673499,
+        1108691435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":271089
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"e345e72c4de2292d497ee03667fb6f25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691435,
+            "locality_id":1242770179,
+            "region_id":85673499
+        }
+    ],
+    "wof:id":1242770179,
+    "wof:lastmodified":1537661058,
+    "wof:name":"Marous el Barraniye",
+    "wof:parent_id":1108691435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.48111,
+    33.55194,
+    35.48111,
+    33.55194
+],
+  "geometry": {"coordinates":[35.48111,33.55194],"type":"Point"}
+}

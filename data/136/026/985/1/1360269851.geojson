@@ -1,0 +1,78 @@
+{
+  "id": 1360269851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.98848,34.34413,35.98848,34.34413",
+    "geom:latitude":34.34413,
+    "geom:longitude":35.98848,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Bchennata",
+    "gn:country_code":"LB",
+    "gn:dem":1352,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":276349,
+    "gn:latitude":34.34413,
+    "gn:longitude":35.98848,
+    "gn:modification_date":"2013-10-07",
+    "gn:name":"Bchenn\u00e2ta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0634\u0646\u0627\u062a\u0627"
+    ],
+    "name:ara_x_variant":[
+        "Bishinn\u0101t\u0101"
+    ],
+    "name:und_x_variant":[
+        "Bshinn\u0101t\u0101",
+        "Bchenn\u00e2te",
+        "Bchenn\u00e2ta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        1377074355,
+        1108691427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":276349
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"91c445f6d493de3a5937d256f552c4cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691427,
+            "locality_id":1360269851,
+            "region_id":1377074355
+        }
+    ],
+    "wof:id":1360269851,
+    "wof:lastmodified":1551727613,
+    "wof:name":"Bchennata",
+    "wof:parent_id":1108691427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.98848,
+    34.34413,
+    35.98848,
+    34.34413
+],
+  "geometry": {"coordinates":[35.98848,34.34413],"type":"Point"}
+}

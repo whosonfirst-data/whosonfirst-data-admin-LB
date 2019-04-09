@@ -1,0 +1,77 @@
+{
+  "id": 1193142005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.56278,33.66222,35.56278,33.66222",
+    "geom:latitude":33.66222,
+    "geom:longitude":35.56278,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Aanbal",
+    "gn:country_code":"LB",
+    "gn:dem":784,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":278931,
+    "gn:latitude":33.66222,
+    "gn:longitude":35.56278,
+    "gn:modification_date":"2018-03-29",
+    "gn:name":"Aanb\u00e2l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0646\u0628\u0627\u0644"
+    ],
+    "name:und_x_variant":[
+        "Aannb\u00e2l",
+        "A\u00efn Ba\u00e2l",
+        "\u2018Anb\u0101l",
+        "Aanb\u00e2l"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        1108691419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":278931,
+        "wk:page":"Ainbal"
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"aa6e88cf71f9803c053e7c1dcd8391d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691419,
+            "locality_id":1193142005,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1193142005,
+    "wof:lastmodified":1537661223,
+    "wof:name":"Aanbal",
+    "wof:parent_id":1108691419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.56278,
+    33.66222,
+    35.56278,
+    33.66222
+],
+  "geometry": {"coordinates":[35.56278,33.66222],"type":"Point"}
+}

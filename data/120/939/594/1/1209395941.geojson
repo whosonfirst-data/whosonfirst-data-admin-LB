@@ -1,0 +1,71 @@
+{
+  "id": 1209395941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.04639,34.09417,36.04639,34.09417",
+    "geom:latitude":34.09417,
+    "geom:longitude":36.04639,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Ez Zarayeb",
+    "gn:country_code":"LB",
+    "gn:dem":1294,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":277287,
+    "gn:latitude":34.09417,
+    "gn:longitude":36.04639,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ez Zar\u00e2yeb",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Az Zar\u0101\u2019ib",
+        "Ez Zar\u00e2yeb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        1377074353,
+        421171405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":277287
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"9d9afb14cae2b99f1b903f61847225ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421171405,
+            "locality_id":1209395941,
+            "region_id":1377074353
+        }
+    ],
+    "wof:id":1209395941,
+    "wof:lastmodified":1551727651,
+    "wof:name":"Ez Zarayeb",
+    "wof:parent_id":421171405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.04639,
+    34.09417,
+    36.04639,
+    34.09417
+],
+  "geometry": {"coordinates":[36.04639,34.09417],"type":"Point"}
+}

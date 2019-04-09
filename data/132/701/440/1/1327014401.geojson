@@ -1,0 +1,67 @@
+{
+  "id": 1327014401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.89417,34.35167,35.89417,34.35167",
+    "geom:latitude":34.35167,
+    "geom:longitude":35.89417,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Ez Zraqi",
+    "gn:country_code":"LB",
+    "gn:dem":227,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":434935,
+    "gn:latitude":34.35167,
+    "gn:longitude":35.89417,
+    "gn:modification_date":"2006-10-31",
+    "gn:name":"Ez Zr\u00e2qi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673483,
+        1108691445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":434935
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"2907fcd68196de500cea1c88ac65e05e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691445,
+            "locality_id":1327014401,
+            "region_id":85673483
+        }
+    ],
+    "wof:id":1327014401,
+    "wof:lastmodified":1536786980,
+    "wof:name":"Ez Zraqi",
+    "wof:parent_id":1108691445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.89417,
+    34.35167,
+    35.89417,
+    34.35167
+],
+  "geometry": {"coordinates":[35.89417,34.35167],"type":"Point"}
+}

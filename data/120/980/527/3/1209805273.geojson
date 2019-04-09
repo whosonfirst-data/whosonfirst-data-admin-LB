@@ -1,0 +1,71 @@
+{
+  "id": 1209805273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.04306,34.39056,36.04306,34.39056",
+    "geom:latitude":34.39056,
+    "geom:longitude":36.04306,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"El Hazmiye",
+    "gn:country_code":"LB",
+    "gn:dem":785,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":280021,
+    "gn:latitude":34.39056,
+    "gn:longitude":36.04306,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El H\u00e2zm\u00eey\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al \u1e28\u0101zim\u012byah",
+        "El H\u00e2zm\u00eey\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        1377074355,
+        1108691427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":280021
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"719641543ac39a4764dff1e4abce46e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691427,
+            "locality_id":1209805273,
+            "region_id":1377074355
+        }
+    ],
+    "wof:id":1209805273,
+    "wof:lastmodified":1551727622,
+    "wof:name":"El Hazmiye",
+    "wof:parent_id":1108691427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.04306,
+    34.39056,
+    36.04306,
+    34.39056
+],
+  "geometry": {"coordinates":[36.04306,34.39056],"type":"Point"}
+}

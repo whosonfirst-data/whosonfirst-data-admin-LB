@@ -1,0 +1,76 @@
+{
+  "id": 1260174187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.34861,33.30889,35.34861,33.30889",
+    "geom:latitude":33.30889,
+    "geom:longitude":35.34861,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Tair Falsay",
+    "gn:country_code":"LB",
+    "gn:dem":262,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":266753,
+    "gn:latitude":33.30889,
+    "gn:longitude":35.34861,
+    "gn:modification_date":"2018-03-28",
+    "gn:name":"Ta\u00efr Falsay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0637\u064a\u0631 \u0641\u0644\u0633\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "\u0162ayr Falsayh",
+        "Ta\u00efr Falsay",
+        "\u0162ayr Falsayah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673499,
+        1108691441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":266753,
+        "wk:page":"Tayrfelsay"
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"eeb7b46eb6e79df55988ed4a774a0cdd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691441,
+            "locality_id":1260174187,
+            "region_id":85673499
+        }
+    ],
+    "wof:id":1260174187,
+    "wof:lastmodified":1537661004,
+    "wof:name":"Tair Falsay",
+    "wof:parent_id":1108691441,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.34861,
+    33.30889000000001,
+    35.34861,
+    33.30889000000001
+],
+  "geometry": {"coordinates":[35.34861,33.30889000000001],"type":"Point"}
+}

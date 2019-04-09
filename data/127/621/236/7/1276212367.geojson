@@ -1,0 +1,75 @@
+{
+  "id": 1276212367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.71694,33.64056,35.71694,33.64056",
+    "geom:latitude":33.64056,
+    "geom:longitude":35.71694,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Khirbet Qanafar",
+    "gn:country_code":"LB",
+    "gn:dem":1031,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":272384,
+    "gn:latitude":33.64056,
+    "gn:longitude":35.71694,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Khirbet Qanaf\u00e2r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0631\u0628\u0629 \u0642\u0646\u0641\u0627\u0631"
+    ],
+    "name:und_x_variant":[
+        "Khirbat Qan\u0101f\u0101r",
+        "Khirbet Qanaf\u00e2r",
+        "Khirbat Qanaf\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673479,
+        421173359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":272384
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"0958b62bad67babfa736066692b2a3bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421173359,
+            "locality_id":1276212367,
+            "region_id":85673479
+        }
+    ],
+    "wof:id":1276212367,
+    "wof:lastmodified":1537661075,
+    "wof:name":"Khirbet Qanafar",
+    "wof:parent_id":421173359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.71694,
+    33.64056,
+    35.71694,
+    33.64056
+],
+  "geometry": {"coordinates":[35.71694,33.64056],"type":"Point"}
+}

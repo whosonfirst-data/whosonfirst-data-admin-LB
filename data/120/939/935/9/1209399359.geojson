@@ -1,0 +1,73 @@
+{
+  "id": 1209399359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.81981,34.34733,35.81981,34.34733",
+    "geom:latitude":34.34733,
+    "geom:longitude":35.81981,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Bdebba",
+    "gn:country_code":"LB",
+    "gn:dem":283,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":276639,
+    "gn:latitude":34.34733,
+    "gn:longitude":35.81981,
+    "gn:modification_date":"2008-10-17",
+    "gn:name":"Bdebba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bdabb\u0101",
+        "Bdubb\u0101",
+        "Bdibb\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        1377074355,
+        1108691423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":276639,
+        "wk:page":"Bdebba"
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"9067a9a9721037a597831dfa4850d41e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691423,
+            "locality_id":1209399359,
+            "region_id":1377074355
+        }
+    ],
+    "wof:id":1209399359,
+    "wof:lastmodified":1551727621,
+    "wof:name":"Bdebba",
+    "wof:parent_id":1108691423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.81981,
+    34.34733,
+    35.81981,
+    34.34733
+],
+  "geometry": {"coordinates":[35.81981,34.34733],"type":"Point"}
+}

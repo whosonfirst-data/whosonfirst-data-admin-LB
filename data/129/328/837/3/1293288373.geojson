@@ -1,0 +1,73 @@
+{
+  "id": 1293288373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.14667,34.58222,36.14667,34.58222",
+    "geom:latitude":34.58222,
+    "geom:longitude":36.14667,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Charbila",
+    "gn:country_code":"LB",
+    "gn:dem":271,
+    "gn:elevation":"300.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":267603,
+    "gn:latitude":34.58222,
+    "gn:longitude":36.14667,
+    "gn:modification_date":"2018-01-12",
+    "gn:name":"Charbila",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Charb\u00eela",
+        "Sharbila"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673483,
+        1108691407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":267603,
+        "wk:page":"Charbila"
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"27b9db6961ded95e7f41f0545a8900e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691407,
+            "locality_id":1293288373,
+            "region_id":85673483
+        }
+    ],
+    "wof:id":1293288373,
+    "wof:lastmodified":1537661016,
+    "wof:name":"Charbila",
+    "wof:parent_id":1108691407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.14667,
+    34.58222,
+    36.14667,
+    34.58222
+],
+  "geometry": {"coordinates":[36.14667,34.58222],"type":"Point"}
+}

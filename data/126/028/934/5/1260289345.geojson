@@ -1,0 +1,67 @@
+{
+  "id": 1260289345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.469,33.66382,35.469,33.66382",
+    "geom:latitude":33.66382,
+    "geom:longitude":35.469,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Halioune Et Tahta",
+    "gn:country_code":"LB",
+    "gn:dem":386,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7839994,
+    "gn:latitude":33.66382,
+    "gn:longitude":35.469,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Halioune Et Tahta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        1108691419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7839994
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"1c56ea8833104f6834430c168f1a946d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691419,
+            "locality_id":1260289345,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1260289345,
+    "wof:lastmodified":1536704339,
+    "wof:name":"Halioune Et Tahta",
+    "wof:parent_id":1108691419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.469,
+    33.66382,
+    35.469,
+    33.66382
+],
+  "geometry": {"coordinates":[35.469,33.66382],"type":"Point"}
+}

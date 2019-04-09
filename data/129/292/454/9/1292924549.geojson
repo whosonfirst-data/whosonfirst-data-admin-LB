@@ -1,0 +1,74 @@
+{
+  "id": 1292924549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.01278,34.38583,36.01278,34.38583",
+    "geom:latitude":34.38583,
+    "geom:longitude":36.01278,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Aassoun",
+    "gn:country_code":"LB",
+    "gn:dem":943,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":277940,
+    "gn:latitude":34.38583,
+    "gn:longitude":36.01278,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"A\u00e2sso\u00fbn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u00e2ss\u00fbn",
+        "Assoun",
+        "A\u015fn\u016bn",
+        "\u2018\u0100\u015f\u016bn",
+        "A\u00e2sso\u00fbn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673483,
+        1108691427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":277940
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"f2e580ece35faaf952893490781381a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691427,
+            "locality_id":1292924549,
+            "region_id":85673483
+        }
+    ],
+    "wof:id":1292924549,
+    "wof:lastmodified":1537661197,
+    "wof:name":"Aassoun",
+    "wof:parent_id":1108691427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.01278,
+    34.38583,
+    36.01278,
+    34.38583
+],
+  "geometry": {"coordinates":[36.01278,34.38583],"type":"Point"}
+}

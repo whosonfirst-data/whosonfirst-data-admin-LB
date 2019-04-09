@@ -1,0 +1,76 @@
+{
+  "id": 1293486655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.5825,33.61667,35.5825,33.61667",
+    "geom:latitude":33.61667,
+    "geom:longitude":35.5825,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Beiqoun",
+    "gn:country_code":"LB",
+    "gn:dem":842,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":276783,
+    "gn:latitude":33.61667,
+    "gn:longitude":35.5825,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Be\u00efqo\u00fbn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u0642\u0648\u0646"
+    ],
+    "name:und_x_variant":[
+        "Beikoun",
+        "Be\u00efqo\u00fbn",
+        "Bayq\u016bn",
+        "Ba\u00efqo\u00fbn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        1108691419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":276783
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"a4e3943ad829ca98b38802d08c35939a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691419,
+            "locality_id":1293486655,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1293486655,
+    "wof:lastmodified":1537661170,
+    "wof:name":"Beiqoun",
+    "wof:parent_id":1108691419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.5825,
+    33.61667,
+    35.5825,
+    33.61667
+],
+  "geometry": {"coordinates":[35.5825,33.61667],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1226334651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.29972,33.14889,35.29972,33.14889",
+    "geom:latitude":33.14889,
+    "geom:longitude":35.29972,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Bmaryamine",
+    "gn:country_code":"LB",
+    "gn:dem":599,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":276425,
+    "gn:latitude":33.14889,
+    "gn:longitude":35.29972,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Bmaryamine",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0645\u0631\u064a\u0645\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "Bmaryam\u012bn",
+        "Bmaryamine"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673499,
+        1108691441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":276425
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"914067cef184fab3c88f84f5ef1ac6d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691441,
+            "locality_id":1226334651,
+            "region_id":85673499
+        }
+    ],
+    "wof:id":1226334651,
+    "wof:lastmodified":1537661155,
+    "wof:name":"Bmaryamine",
+    "wof:parent_id":1108691441,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.29972,
+    33.14889,
+    35.29972,
+    33.14889
+],
+  "geometry": {"coordinates":[35.29972,33.14889],"type":"Point"}
+}

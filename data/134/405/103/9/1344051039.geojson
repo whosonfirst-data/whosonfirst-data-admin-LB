@@ -1,0 +1,71 @@
+{
+  "id": 1344051039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.07361,34.61139,36.07361,34.61139",
+    "geom:latitude":34.61139,
+    "geom:longitude":36.07361,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Tell Kindi",
+    "gn:country_code":"LB",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":266881,
+    "gn:latitude":34.61139,
+    "gn:longitude":36.07361,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tell Kindi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tall Kind\u012b",
+        "Tell Kindi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673483,
+        1108691407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":266881
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"4089e63f253d89a36d1365a4ab609a30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691407,
+            "locality_id":1344051039,
+            "region_id":85673483
+        }
+    ],
+    "wof:id":1344051039,
+    "wof:lastmodified":1537661006,
+    "wof:name":"Tell Kindi",
+    "wof:parent_id":1108691407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.07361,
+    34.61139,
+    36.07361,
+    34.61139
+],
+  "geometry": {"coordinates":[36.07361,34.61139],"type":"Point"}
+}

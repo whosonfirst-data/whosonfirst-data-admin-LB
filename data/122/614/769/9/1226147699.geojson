@@ -1,0 +1,73 @@
+{
+  "id": 1226147699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.40802,33.6308,35.40802,33.6308",
+    "geom:latitude":33.6308,
+    "geom:longitude":35.40802,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Jadra",
+    "gn:country_code":"LB",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":273568,
+    "gn:latitude":33.6308,
+    "gn:longitude":35.40802,
+    "gn:modification_date":"2013-04-04",
+    "gn:name":"Jadra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u062f\u0631\u0627"
+    ],
+    "name:und_x_variant":[
+        "Jadr\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        1108691419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":273568
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"9124e66e4b308a07d6fe24b0d142ac52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691419,
+            "locality_id":1226147699,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1226147699,
+    "wof:lastmodified":1537661096,
+    "wof:name":"Jadra",
+    "wof:parent_id":1108691419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.40802,
+    33.6308,
+    35.40802,
+    33.6308
+],
+  "geometry": {"coordinates":[35.40802,33.6308],"type":"Point"}
+}

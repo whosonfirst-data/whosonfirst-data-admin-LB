@@ -1,0 +1,68 @@
+{
+  "id": 1209520437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.45278,33.5775,35.45278,33.5775",
+    "geom:latitude":33.5775,
+    "geom:longitude":35.45278,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kroum el Hamr",
+    "gn:country_code":"LB",
+    "gn:dem":386,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":435393,
+    "gn:latitude":33.5775,
+    "gn:longitude":35.45278,
+    "gn:modification_date":"2018-01-11",
+    "gn:name":"Kro\u00fbm el Hamr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0631\u0648\u0645 \u0627\u0644\u062d\u0645\u0631"
+    ],
+    "name:und_x_variant":[
+        "Kro\u00fbm el Hamr",
+        "Kur\u016bm al \u1e28umr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":435393
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"5149d01eef0e6c8bcfc9cd715f9008ff",
+    "wof:hierarchy":[
+        {
+            "country_id":85632533,
+            "locality_id":1209520437
+        }
+    ],
+    "wof:id":1209520437,
+    "wof:lastmodified":1537661304,
+    "wof:name":"Kroum el Hamr",
+    "wof:parent_id":85632533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.45278,
+    33.5775,
+    35.45278,
+    33.5775
+],
+  "geometry": {"coordinates":[35.45278,33.5775],"type":"Point"}
+}

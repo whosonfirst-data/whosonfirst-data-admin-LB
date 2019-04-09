@@ -1,0 +1,83 @@
+{
+  "id": 1210002045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.77212,33.47919,35.77212,33.47919",
+    "geom:latitude":33.47919,
+    "geom:longitude":35.77212,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"El Qinnaabe",
+    "gn:country_code":"LB",
+    "gn:dem":864,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":269044,
+    "gn:latitude":33.47919,
+    "gn:longitude":35.77212,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"El Qinnaab\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0646\u0639\u0628\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0642\u0646\u0639\u0628\u0629"
+    ],
+    "name:und_x_variant":[
+        "El Qennah\u2018bah",
+        "Qna\u2018bah",
+        "Al Qann\u0101bah",
+        "Al Qan\u2018abah",
+        "El Qinnaab\u00e9",
+        "Qn\u00e2ab\u00e9",
+        "Qana\u2018bah",
+        "Al Qin\u2018abah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        1377074351,
+        1108691439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":269044
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"8205ced843d9ced80b1e5169921f0a22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691439,
+            "locality_id":1210002045,
+            "region_id":1377074351
+        }
+    ],
+    "wof:id":1210002045,
+    "wof:lastmodified":1551727597,
+    "wof:name":"El Qinnaabe",
+    "wof:parent_id":1108691439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.77212,
+    33.47919,
+    35.77212,
+    33.47919
+],
+  "geometry": {"coordinates":[35.77212,33.47919],"type":"Point"}
+}

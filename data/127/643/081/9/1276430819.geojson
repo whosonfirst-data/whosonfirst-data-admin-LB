@@ -1,0 +1,67 @@
+{
+  "id": 1276430819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.77194,34.24889,35.77194,34.24889",
+    "geom:latitude":34.24889,
+    "geom:longitude":35.77194,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Abou Saad",
+    "gn:country_code":"LB",
+    "gn:dem":417,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6279714,
+    "gn:latitude":34.24889,
+    "gn:longitude":35.77194,
+    "gn:modification_date":"2006-08-24",
+    "gn:name":"Abou Saad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673483,
+        421204111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6279714
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"4016b60176783b33a0574962a5e39ca3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421204111,
+            "locality_id":1276430819,
+            "region_id":85673483
+        }
+    ],
+    "wof:id":1276430819,
+    "wof:lastmodified":1536647632,
+    "wof:name":"Abou Saad",
+    "wof:parent_id":421204111,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.77194,
+    34.24889,
+    35.77194,
+    34.24889
+],
+  "geometry": {"coordinates":[35.77194,34.24889],"type":"Point"}
+}

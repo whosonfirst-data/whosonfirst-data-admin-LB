@@ -1,0 +1,75 @@
+{
+  "id": 1360074093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.17806,34.58167,36.17806,34.58167",
+    "geom:latitude":34.58167,
+    "geom:longitude":36.17806,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Aadouiye",
+    "gn:country_code":"LB",
+    "gn:dem":336,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":280842,
+    "gn:latitude":34.58167,
+    "gn:longitude":36.17806,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Aadouiy\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ed-Dweir",
+        "Dweir",
+        "Doueir Aadouiy\u00e9",
+        "Doua\u00efr Aadouiy\u00e9",
+        "\u2018Adaw\u012byah",
+        "Aadouiy\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        1377074357,
+        1108691407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":280842
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"f518611a9f1497340df97e797a97fd23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691407,
+            "locality_id":1360074093,
+            "region_id":1377074357
+        }
+    ],
+    "wof:id":1360074093,
+    "wof:lastmodified":1551727667,
+    "wof:name":"Aadouiye",
+    "wof:parent_id":1108691407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.17806,
+    34.58167,
+    36.17806,
+    34.58167
+],
+  "geometry": {"coordinates":[36.17806,34.58167],"type":"Point"}
+}

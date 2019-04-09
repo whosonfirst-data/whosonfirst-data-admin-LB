@@ -1,0 +1,70 @@
+{
+  "id": 1309825831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.86556,33.81806,35.86556,33.81806",
+    "geom:latitude":33.81806,
+    "geom:longitude":35.86556,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Hai el Baal",
+    "gn:country_code":"LB",
+    "gn:dem":920,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":274143,
+    "gn:latitude":33.81806,
+    "gn:longitude":35.86556,
+    "gn:modification_date":"2006-08-22",
+    "gn:name":"Ha\u00ef el Baal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1e28ayy al Ba`l"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673479,
+        421172017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":274143
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"336391ccda55fcf23f778011f663bfbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421172017,
+            "locality_id":1309825831,
+            "region_id":85673479
+        }
+    ],
+    "wof:id":1309825831,
+    "wof:lastmodified":1537661108,
+    "wof:name":"Hai el Baal",
+    "wof:parent_id":421172017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.86555999999999,
+    33.81806,
+    35.86555999999999,
+    33.81806
+],
+  "geometry": {"coordinates":[35.86555999999999,33.81806],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1293768119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.84684,34.28748,35.84684,34.28748",
+    "geom:latitude":34.28748,
+    "geom:longitude":35.84684,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Ain Aakrine",
+    "gn:country_code":"LB",
+    "gn:dem":630,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":277465,
+    "gn:latitude":34.28748,
+    "gn:longitude":35.84684,
+    "gn:modification_date":"2018-03-28",
+    "gn:name":"A\u00efn Aakr\u00eene",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u064a\u0646 \u0639\u0643\u0631\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "\u2018Ayn \u2018Ikr\u012bn",
+        "A\u00efn Aakr\u00eene"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673483,
+        1108691423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":277465,
+        "wk:page":"Ain_Akrine"
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"c588525b590112dede269bf3cb94d490",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691423,
+            "locality_id":1293768119,
+            "region_id":85673483
+        }
+    ],
+    "wof:id":1293768119,
+    "wof:lastmodified":1537661187,
+    "wof:name":"Ain Aakrine",
+    "wof:parent_id":1108691423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.84684,
+    34.28748,
+    35.84684,
+    34.28748
+],
+  "geometry": {"coordinates":[35.84684,34.28748],"type":"Point"}
+}

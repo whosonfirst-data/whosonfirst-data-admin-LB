@@ -1,0 +1,72 @@
+{
+  "id": 1259772397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.08972,34.46778,36.08972,34.46778",
+    "geom:latitude":34.46778,
+    "geom:longitude":36.08972,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Habchit",
+    "gn:country_code":"LB",
+    "gn:dem":598,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":274855,
+    "gn:latitude":34.46778,
+    "gn:longitude":36.08972,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Habch\u00eet",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Habch\u00eete",
+        "\u1e28absh\u012bt",
+        "Habch\u00eet"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673483,
+        1108691407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":274855
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"f7cf74df89147c1288cfad99cca0f3b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691407,
+            "locality_id":1259772397,
+            "region_id":85673483
+        }
+    ],
+    "wof:id":1259772397,
+    "wof:lastmodified":1537661122,
+    "wof:name":"Habchit",
+    "wof:parent_id":1108691407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.08972,
+    34.46778,
+    36.08972,
+    34.46778
+],
+  "geometry": {"coordinates":[36.08972,34.46778],"type":"Point"}
+}

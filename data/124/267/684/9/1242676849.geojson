@@ -1,0 +1,75 @@
+{
+  "id": 1242676849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.55194,33.83611,35.55194,33.83611",
+    "geom:latitude":33.83611,
+    "geom:longitude":35.55194,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Yarze",
+    "gn:country_code":"LB",
+    "gn:dem":349,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6274968,
+    "gn:latitude":33.83611,
+    "gn:longitude":35.55194,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Yarz\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u064a\u0632\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "Yarz\u00e9",
+        "Al Yazrah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        421202301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6274968,
+        "wk:page":"Yarze"
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"a497ebbf4dddb7ef690b074f01ce40fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421202301,
+            "locality_id":1242676849,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1242676849,
+    "wof:lastmodified":1537661312,
+    "wof:name":"Yarze",
+    "wof:parent_id":421202301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.55194,
+    33.83611,
+    35.55194,
+    33.83611
+],
+  "geometry": {"coordinates":[35.55194,33.83611],"type":"Point"}
+}

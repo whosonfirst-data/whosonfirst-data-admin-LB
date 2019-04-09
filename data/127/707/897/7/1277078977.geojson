@@ -1,0 +1,74 @@
+{
+  "id": 1277078977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.51111,33.82611,35.51111,33.82611",
+    "geom:latitude":33.82611,
+    "geom:longitude":35.51111,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Hai es Sellom",
+    "gn:country_code":"LB",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6273707,
+    "gn:latitude":33.82611,
+    "gn:longitude":35.51111,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Ha\u00ef es Sellom",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u064a \u0627\u0644\u0633\u0644\u0645"
+    ],
+    "name:und_x_variant":[
+        "Ha\u00ef es Sellom",
+        "\u1e28ayy as Sullam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        1108691409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6273707
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"0dae983cfd9b2cd4b129c28cbb6bccc9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691409,
+            "locality_id":1277078977,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1277078977,
+    "wof:lastmodified":1537661308,
+    "wof:name":"Hai es Sellom",
+    "wof:parent_id":1108691409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.51110999999999,
+    33.82611,
+    35.51110999999999,
+    33.82611
+],
+  "geometry": {"coordinates":[35.51110999999999,33.82611],"type":"Point"}
+}

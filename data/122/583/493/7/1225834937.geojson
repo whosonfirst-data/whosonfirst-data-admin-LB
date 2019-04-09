@@ -1,0 +1,76 @@
+{
+  "id": 1225834937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.73139,34.21472,35.73139,34.21472",
+    "geom:latitude":34.21472,
+    "geom:longitude":35.73139,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Diria",
+    "gn:country_code":"LB",
+    "gn:dem":477,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":275506,
+    "gn:latitude":34.21472,
+    "gn:longitude":35.73139,
+    "gn:modification_date":"2014-03-08",
+    "gn:name":"Diria",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u0631\u064a\u0627"
+    ],
+    "name:und_x_variant":[
+        "D\u00e9ria",
+        "Daria",
+        "Diry\u0101",
+        "Diria"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        1377074355,
+        421204111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":275506
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"afb36c4c3562b237e71c34a8e25982ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421204111,
+            "locality_id":1225834937,
+            "region_id":1377074355
+        }
+    ],
+    "wof:id":1225834937,
+    "wof:lastmodified":1551727616,
+    "wof:name":"Diria",
+    "wof:parent_id":421204111,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.73139000000001,
+    34.21472,
+    35.73139000000001,
+    34.21472
+],
+  "geometry": {"coordinates":[35.73139000000001,34.21472],"type":"Point"}
+}

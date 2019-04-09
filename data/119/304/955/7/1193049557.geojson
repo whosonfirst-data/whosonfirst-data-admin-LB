@@ -1,0 +1,67 @@
+{
+  "id": 1193049557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.83222,33.94611,35.83222,33.94611",
+    "geom:latitude":33.94611,
+    "geom:longitude":35.83222,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ech Chakhroub",
+    "gn:country_code":"LB",
+    "gn:dem":1529,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6275522,
+    "gn:latitude":33.94611,
+    "gn:longitude":35.83222,
+    "gn:modification_date":"2006-08-23",
+    "gn:name":"Ech Chakhro\u00fbb",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        1108691425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6275522
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"a40fa6ef70dedd7b3403916d0e3d3b4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691425,
+            "locality_id":1193049557,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1193049557,
+    "wof:lastmodified":1536367115,
+    "wof:name":"Ech Chakhroub",
+    "wof:parent_id":1108691425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.83222,
+    33.94611,
+    35.83222,
+    33.94611
+],
+  "geometry": {"coordinates":[35.83222,33.94611],"type":"Point"}
+}

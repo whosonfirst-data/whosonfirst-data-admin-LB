@@ -1,0 +1,71 @@
+{
+  "id": 1327017971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.36222,34.43167,36.36222,34.43167",
+    "geom:latitude":34.43167,
+    "geom:longitude":36.36222,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Mrah el Mechref",
+    "gn:country_code":"LB",
+    "gn:dem":998,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":271550,
+    "gn:latitude":34.43167,
+    "gn:longitude":36.36222,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mr\u00e2h el Mechref",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mar\u0101\u1e29 al Mashraf",
+        "Mr\u00e2h el Mechref"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673479,
+        1108691421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":271550
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"a58a8cdbf0837d093c0247cb3e760953",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691421,
+            "locality_id":1327017971,
+            "region_id":85673479
+        }
+    ],
+    "wof:id":1327017971,
+    "wof:lastmodified":1537661065,
+    "wof:name":"Mrah el Mechref",
+    "wof:parent_id":1108691421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.36222,
+    34.43167,
+    36.36222,
+    34.43167
+],
+  "geometry": {"coordinates":[36.36222,34.43167],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1209404435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.92411,34.43904,35.92411,34.43904",
+    "geom:latitude":34.43904,
+    "geom:longitude":35.92411,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Boussit",
+    "gn:country_code":"LB",
+    "gn:dem":603,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":276081,
+    "gn:latitude":34.43904,
+    "gn:longitude":35.92411,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Bouss\u00eet",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0648\u0633\u064a\u0637"
+    ],
+    "name:und_x_variant":[
+        "Bouseet",
+        "Bouss\u00eet",
+        "B\u016bs\u012b\u0163",
+        "Bo\u00fbss\u00eete"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        1377074355,
+        1108691445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":276081
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"c946db8eea82a6c907f8786a324e1d01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691445,
+            "locality_id":1209404435,
+            "region_id":1377074355
+        }
+    ],
+    "wof:id":1209404435,
+    "wof:lastmodified":1551727619,
+    "wof:name":"Boussit",
+    "wof:parent_id":1108691445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.92411,
+    34.43904000000001,
+    35.92411,
+    34.43904000000001
+],
+  "geometry": {"coordinates":[35.92411,34.43904000000001],"type":"Point"}
+}

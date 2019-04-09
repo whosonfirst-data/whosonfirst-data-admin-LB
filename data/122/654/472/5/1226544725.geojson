@@ -1,0 +1,71 @@
+{
+  "id": 1226544725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.88611,34.10667,35.88611,34.10667",
+    "geom:latitude":34.10667,
+    "geom:longitude":35.88611,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Haret el Qadi",
+    "gn:country_code":"LB",
+    "gn:dem":1153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":274461,
+    "gn:latitude":34.10667,
+    "gn:longitude":35.88611,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"H\u00e2ret el Q\u00e2di",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1e28\u0101rat al Q\u0101\u1e11\u012b",
+        "H\u00e2ret el Q\u00e2di"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        421194845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":274461
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"66f7b598a9038cb8fb50b9cb1bea8e68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421194845,
+            "locality_id":1226544725,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1226544725,
+    "wof:lastmodified":1537661116,
+    "wof:name":"Haret el Qadi",
+    "wof:parent_id":421194845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.88610999999999,
+    34.10667,
+    35.88610999999999,
+    34.10667
+],
+  "geometry": {"coordinates":[35.88610999999999,34.10667],"type":"Point"}
+}

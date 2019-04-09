@@ -1,0 +1,78 @@
+{
+  "id": 1226426817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.81583,34.21694,35.81583,34.21694",
+    "geom:latitude":34.21694,
+    "geom:longitude":35.81583,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Brarikha",
+    "gn:country_code":"LB",
+    "gn:dem":979,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":276394,
+    "gn:latitude":34.21694,
+    "gn:longitude":35.81583,
+    "gn:modification_date":"2014-03-08",
+    "gn:name":"Br\u00e2r\u00eekha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0631\u0627\u0631\u064a\u062e\u0627"
+    ],
+    "name:ara_x_variant":[
+        "\u0642\u0631\u0646\u0629 \u0627\u0644\u0645\u0631\u0627\u062d"
+    ],
+    "name:und_x_variant":[
+        "Br\u00e2r\u00eekha",
+        "Bar\u0101r\u012bkh\u0101",
+        "Qurnat al Mar\u0101\u1e29"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        1377074355,
+        421204111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":276394
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"210be204dc6e3f3d25b24745a0783ee9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421204111,
+            "locality_id":1226426817,
+            "region_id":1377074355
+        }
+    ],
+    "wof:id":1226426817,
+    "wof:lastmodified":1551727627,
+    "wof:name":"Brarikha",
+    "wof:parent_id":421204111,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.81583,
+    34.21694,
+    35.81583,
+    34.21694
+],
+  "geometry": {"coordinates":[35.81583,34.21694],"type":"Point"}
+}

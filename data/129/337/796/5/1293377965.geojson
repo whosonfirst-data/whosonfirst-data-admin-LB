@@ -1,0 +1,71 @@
+{
+  "id": 1293377965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.30833,34.38917,36.30833,34.38917",
+    "geom:latitude":34.38917,
+    "geom:longitude":36.30833,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Ras Aaqabet er Ratl",
+    "gn:country_code":"LB",
+    "gn:dem":1692,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":268750,
+    "gn:latitude":34.38917,
+    "gn:longitude":36.30833,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"R\u00e2s Aaqabet er Ratl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ra\u2019s \u2018Aqabat ar Ra\u0163l",
+        "R\u00e2s Aaqabet er Ratl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673479,
+        1108691421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":268750
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"81429f9ed2f2175275a1408c279bc111",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691421,
+            "locality_id":1293377965,
+            "region_id":85673479
+        }
+    ],
+    "wof:id":1293377965,
+    "wof:lastmodified":1537661026,
+    "wof:name":"Ras Aaqabet er Ratl",
+    "wof:parent_id":1108691421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.30833,
+    34.38917,
+    36.30833,
+    34.38917
+],
+  "geometry": {"coordinates":[36.30833,34.38917],"type":"Point"}
+}

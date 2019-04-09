@@ -1,0 +1,68 @@
+{
+  "id": 890455643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.27306,34.62111,36.27306,34.62111",
+    "geom:latitude":34.62111,
+    "geom:longitude":36.27306,
+    "gn:country":"LB",
+    "gn:fcode":"PPL",
+    "gn:pop":500,
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Esh-Sheikh Lar"
+    ],
+    "qs:name":"Che\u00efkhlar",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        1377074357,
+        1108691407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":267478,
+        "qs:id":546973
+    },
+    "wof:country":"LB",
+    "wof:created":1469052965,
+    "wof:geomhash":"b43c7e03a96613a8f883b2e9c9f5f729",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691407,
+            "locality_id":890455643,
+            "region_id":1377074357
+        }
+    ],
+    "wof:id":890455643,
+    "wof:lastmodified":1551727669,
+    "wof:name":"Che\u00efkhlar",
+    "wof:parent_id":1108691407,
+    "wof:placetype":"locality",
+    "wof:population":500,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.27306,
+    34.62111,
+    36.27306,
+    34.62111
+],
+  "geometry": {"coordinates":[36.27306,34.62111],"type":"Point"}
+}

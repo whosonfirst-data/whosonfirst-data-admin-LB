@@ -1,0 +1,75 @@
+{
+  "id": 1310700779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.76861,34.13972,35.76861,34.13972",
+    "geom:latitude":34.13972,
+    "geom:longitude":35.76861,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Khaabiya",
+    "gn:country_code":"LB",
+    "gn:dem":1155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":272660,
+    "gn:latitude":34.13972,
+    "gn:longitude":35.76861,
+    "gn:modification_date":"2014-03-08",
+    "gn:name":"Khaab\u00eeya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0639\u0628\u064a\u0627"
+    ],
+    "name:und_x_variant":[
+        "Kha\u2018b\u012by\u0101",
+        "Khaab\u00eeya",
+        "Kha\u2018biy\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        421194845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":272660
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"28835b1b7f3ddf3d8d3239fd08d8d4f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421194845,
+            "locality_id":1310700779,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1310700779,
+    "wof:lastmodified":1537661077,
+    "wof:name":"Khaabiya",
+    "wof:parent_id":421194845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.76860999999999,
+    34.13972,
+    35.76860999999999,
+    34.13972
+],
+  "geometry": {"coordinates":[35.76860999999999,34.13972],"type":"Point"}
+}

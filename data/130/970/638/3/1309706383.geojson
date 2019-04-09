@@ -1,0 +1,71 @@
+{
+  "id": 1309706383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.11556,34.54028,36.11556,34.54028",
+    "geom:latitude":34.54028,
+    "geom:longitude":36.11556,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Machha",
+    "gn:country_code":"LB",
+    "gn:dem":349,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":270989,
+    "gn:latitude":34.54028,
+    "gn:longitude":36.11556,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Machha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mash\u1e29\u0101",
+        "Machha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673483,
+        1108691407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":270989
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"9c091c45500cefa16f67aed9db7970e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691407,
+            "locality_id":1309706383,
+            "region_id":85673483
+        }
+    ],
+    "wof:id":1309706383,
+    "wof:lastmodified":1537661057,
+    "wof:name":"Machha",
+    "wof:parent_id":1108691407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.11556,
+    34.54028,
+    36.11556,
+    34.54028
+],
+  "geometry": {"coordinates":[36.11556,34.54028],"type":"Point"}
+}

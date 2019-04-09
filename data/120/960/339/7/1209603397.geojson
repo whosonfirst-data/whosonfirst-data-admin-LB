@@ -1,0 +1,74 @@
+{
+  "id": 1209603397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.31611,34.44361,36.31611,34.44361",
+    "geom:latitude":34.44361,
+    "geom:longitude":36.31611,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Braisse",
+    "gn:country_code":"LB",
+    "gn:dem":1260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":276389,
+    "gn:latitude":34.44361,
+    "gn:longitude":36.31611,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bra\u00efss\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ech Ch\u00e2rb\u00eene",
+        "Ash Sharb\u012bn",
+        "Charbine",
+        "Bray\u015fah",
+        "Bra\u00efss\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        1377074353,
+        1108691421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":276389
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"7c36be0cceef4aa8dbf7ab8176d92e4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691421,
+            "locality_id":1209603397,
+            "region_id":1377074353
+        }
+    ],
+    "wof:id":1209603397,
+    "wof:lastmodified":1551727652,
+    "wof:name":"Braisse",
+    "wof:parent_id":1108691421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.31611,
+    34.44361,
+    36.31611,
+    34.44361
+],
+  "geometry": {"coordinates":[36.31611,34.44361],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1259978779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.60917,33.77944,35.60917,33.77944",
+    "geom:latitude":33.77944,
+    "geom:longitude":35.60917,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ain el Fardiss",
+    "gn:country_code":"LB",
+    "gn:dem":930,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":277685,
+    "gn:latitude":33.77944,
+    "gn:longitude":35.60917,
+    "gn:modification_date":"2018-03-07",
+    "gn:name":"A\u00efn el Fardiss",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u064a\u0646 \u0627\u0644\u0641\u0631\u062f\u064a\u0633"
+    ],
+    "name:und_x_variant":[
+        "\u2018Ain el Freidees",
+        "A\u00efn Fra\u00efd\u00ees",
+        "A\u00efn el Fra\u00efdis",
+        "\u2018Ayn al Furayd\u012bs",
+        "A\u00efn el Fardiss",
+        "\u2018Ayn al Fard\u012bs"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        1108691409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":277685
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"eedd9a6b541d69fa8e0e3c5cee7fee28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691409,
+            "locality_id":1259978779,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1259978779,
+    "wof:lastmodified":1537661193,
+    "wof:name":"Ain el Fardiss",
+    "wof:parent_id":1108691409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.60917,
+    33.77944,
+    35.60917,
+    33.77944
+],
+  "geometry": {"coordinates":[35.60917,33.77944],"type":"Point"}
+}

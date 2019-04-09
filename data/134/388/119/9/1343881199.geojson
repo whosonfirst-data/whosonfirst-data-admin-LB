@@ -1,0 +1,71 @@
+{
+  "id": 1343881199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.77361,34.16528,35.77361,34.16528",
+    "geom:latitude":34.16528,
+    "geom:longitude":35.77361,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Hai Mar Estefane",
+    "gn:country_code":"LB",
+    "gn:dem":1020,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":274069,
+    "gn:latitude":34.16528,
+    "gn:longitude":35.77361,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ha\u00ef M\u00e2r Estef\u00e2ne",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1e28ayy M\u0101r Is\u0163if\u0101n",
+        "Ha\u00ef M\u00e2r Estef\u00e2ne"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        421194845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":274069
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"3932b55b87101d4fe54d1c1e6fd5e2da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421194845,
+            "locality_id":1343881199,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1343881199,
+    "wof:lastmodified":1537661105,
+    "wof:name":"Hai Mar Estefane",
+    "wof:parent_id":421194845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.77361,
+    34.16528,
+    35.77361,
+    34.16528
+],
+  "geometry": {"coordinates":[35.77361,34.16528],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1259870357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.0275,33.85583,36.0275,33.85583",
+    "geom:latitude":33.85583,
+    "geom:longitude":36.0275,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Ali en Nahri",
+    "gn:country_code":"LB",
+    "gn:dem":948,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":279938,
+    "gn:latitude":33.85583,
+    "gn:longitude":36.0275,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ali en Nahri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aali enn Nahri",
+        "A\u00efn Ennakri",
+        "\u2018Al\u012b an Nahr\u012b",
+        "Ali en Nahri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673479,
+        421172017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":279938
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"5de585f99b7c634f2434fbc2506943fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421172017,
+            "locality_id":1259870357,
+            "region_id":85673479
+        }
+    ],
+    "wof:id":1259870357,
+    "wof:lastmodified":1537661263,
+    "wof:name":"Ali en Nahri",
+    "wof:parent_id":421172017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.0275,
+    33.85583,
+    36.0275,
+    33.85583
+],
+  "geometry": {"coordinates":[36.0275,33.85583],"type":"Point"}
+}

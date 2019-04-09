@@ -1,0 +1,71 @@
+{
+  "id": 1276985455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.69444,34.00806,35.69444,34.00806",
+    "geom:latitude":34.00806,
+    "geom:longitude":35.69444,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ech Chahout",
+    "gn:country_code":"LB",
+    "gn:dem":721,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":278306,
+    "gn:latitude":34.00806,
+    "gn:longitude":35.69444,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ech Ch\u00e2ho\u00fbt",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ash Sh\u0101\u1e29\u016b\u0163",
+        "Ech Ch\u00e2ho\u00fbt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        421172015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":278306
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"a656eae24747a19be5ea95f1fee1de8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421172015,
+            "locality_id":1276985455,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1276985455,
+    "wof:lastmodified":1537661209,
+    "wof:name":"Ech Chahout",
+    "wof:parent_id":421172015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.69444,
+    34.00806,
+    35.69444,
+    34.00806
+],
+  "geometry": {"coordinates":[35.69444,34.00806],"type":"Point"}
+}

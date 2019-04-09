@@ -1,0 +1,73 @@
+{
+  "id": 1309884017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.1225,34.02583,36.1225,34.02583",
+    "geom:latitude":34.02583,
+    "geom:longitude":36.1225,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Haouch ed Dahab",
+    "gn:country_code":"LB",
+    "gn:dem":1011,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":274205,
+    "gn:latitude":34.02583,
+    "gn:longitude":36.1225,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Haouch ed Dahab",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Haouche ed Dahab",
+        "Haouche Dahab",
+        "\u1e28awsh adh Dhahab",
+        "Haouch ed Dahab"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673479,
+        421171405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":274205
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"5cae5dfe20f2173978f77e358d4b22d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421171405,
+            "locality_id":1309884017,
+            "region_id":85673479
+        }
+    ],
+    "wof:id":1309884017,
+    "wof:lastmodified":1537661110,
+    "wof:name":"Haouch ed Dahab",
+    "wof:parent_id":421171405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.1225,
+    34.02583,
+    36.1225,
+    34.02583
+],
+  "geometry": {"coordinates":[36.1225,34.02583],"type":"Point"}
+}

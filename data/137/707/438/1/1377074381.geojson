@@ -1,0 +1,69 @@
+{
+  "id": 1377074381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.48278,33.86972,35.48278,33.86972",
+    "geom:latitude":33.86972,
+    "geom:longitude":35.48278,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Ramlet el Bayda",
+    "gn:country_code":"LB",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6275265,
+    "gn:latitude":33.86972,
+    "gn:longitude":35.48278,
+    "gn:modification_date":"2006-08-23",
+    "gn:name":"Ramlet el Bayda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        890442383,
+        85632533,
+        85673487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6275265
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"c5fb1b03488acc95b51bae21e4857751",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "locality_id":890442383,
+            "neighbourhood_id":1377074381,
+            "region_id":85673487
+        }
+    ],
+    "wof:id":1377074381,
+    "wof:lastmodified":1551727710,
+    "wof:name":"Ramlet el Bayda",
+    "wof:parent_id":890442383,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1310029673
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.48278,
+    33.86972,
+    35.48278,
+    33.86972
+],
+  "geometry": {"coordinates":[35.48278,33.86972],"type":"Point"}
+}

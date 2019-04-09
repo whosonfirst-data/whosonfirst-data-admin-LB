@@ -1,0 +1,67 @@
+{
+  "id": 1242566705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.99111,34.48972,35.99111,34.48972",
+    "geom:latitude":34.48972,
+    "geom:longitude":35.99111,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Baddouaa",
+    "gn:country_code":"LB",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6279308,
+    "gn:latitude":34.48972,
+    "gn:longitude":35.99111,
+    "gn:modification_date":"2006-08-24",
+    "gn:name":"Baddo\u00fbaa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        1377074357,
+        1108691407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6279308
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"5ef932dc85bcca2560adaef984ad1042",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691407,
+            "locality_id":1242566705,
+            "region_id":1377074357
+        }
+    ],
+    "wof:id":1242566705,
+    "wof:lastmodified":1551727666,
+    "wof:name":"Baddouaa",
+    "wof:parent_id":1108691407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.99111,
+    34.48972,
+    35.99111,
+    34.48972
+],
+  "geometry": {"coordinates":[35.99111,34.48972],"type":"Point"}
+}

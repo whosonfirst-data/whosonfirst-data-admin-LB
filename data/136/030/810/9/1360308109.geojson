@@ -1,0 +1,75 @@
+{
+  "id": 1360308109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.61861,33.83194,35.61861,33.83194",
+    "geom:latitude":33.83194,
+    "geom:longitude":35.61861,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Rmaile",
+    "gn:country_code":"LB",
+    "gn:dem":786,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6273737,
+    "gn:latitude":33.83194,
+    "gn:longitude":35.61861,
+    "gn:modification_date":"2018-03-29",
+    "gn:name":"Rma\u00efl\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0631\u0645\u064a\u0644"
+    ],
+    "name:und_x_variant":[
+        "Rma\u00efl\u00e9",
+        "Ar Rumayl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        421202301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6273737,
+        "wk:page":"Rmeileh"
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"93f04e07126008ba4f417324410ac8bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421202301,
+            "locality_id":1360308109,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1360308109,
+    "wof:lastmodified":1537661309,
+    "wof:name":"Rmaile",
+    "wof:parent_id":421202301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.61861,
+    33.83194,
+    35.61861,
+    33.83194
+],
+  "geometry": {"coordinates":[35.61861,33.83194],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1260103085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.53694,33.81556,35.53694,33.81556",
+    "geom:latitude":33.81556,
+    "geom:longitude":35.53694,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Balouh",
+    "gn:country_code":"LB",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":277048,
+    "gn:latitude":33.81556,
+    "gn:longitude":35.53694,
+    "gn:modification_date":"2018-03-07",
+    "gn:name":"Balo\u00fbh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0627\u0644\u0648\u0639"
+    ],
+    "name:und_x_variant":[
+        "Beloua",
+        "Balwah",
+        "Balo\u00fbh",
+        "B\u0101l\u016b\u2018"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        421202301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":277048
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"9b55a6eae0a04bff7fb102ee5c79e5c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421202301,
+            "locality_id":1260103085,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1260103085,
+    "wof:lastmodified":1537661175,
+    "wof:name":"Balouh",
+    "wof:parent_id":421202301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.53694,
+    33.81556,
+    35.53694,
+    33.81556
+],
+  "geometry": {"coordinates":[35.53694,33.81556],"type":"Point"}
+}

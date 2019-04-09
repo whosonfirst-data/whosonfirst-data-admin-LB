@@ -1,0 +1,71 @@
+{
+  "id": 1226668849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.79667,33.90333,35.79667,33.90333",
+    "geom:latitude":33.90333,
+    "geom:longitude":35.79667,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ouadi el Ammine",
+    "gn:country_code":"LB",
+    "gn:dem":1615,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":266374,
+    "gn:latitude":33.90333,
+    "gn:longitude":35.79667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ou\u00e2di el Amm\u00eene",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "W\u0101d\u012b al Amm\u012bn",
+        "Ou\u00e2di el Amm\u00eene"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        1108691425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":266374
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"295179f4f8344820dca2d550d4870ef8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691425,
+            "locality_id":1226668849,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1226668849,
+    "wof:lastmodified":1537661000,
+    "wof:name":"Ouadi el Ammine",
+    "wof:parent_id":1108691425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.79667,
+    33.90333,
+    35.79667,
+    33.90333
+],
+  "geometry": {"coordinates":[35.79667,33.90333],"type":"Point"}
+}

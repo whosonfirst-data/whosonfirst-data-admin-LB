@@ -1,0 +1,75 @@
+{
+  "id": 1309693395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.06111,34.06111,36.06111,34.06111",
+    "geom:latitude":34.06111,
+    "geom:longitude":36.06111,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Boudai",
+    "gn:country_code":"LB",
+    "gn:dem":1073,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":276294,
+    "gn:latitude":34.06111,
+    "gn:longitude":36.06111,
+    "gn:modification_date":"2018-04-02",
+    "gn:name":"Bouda\u00ef",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u016bd\u0101\u2019\u012b",
+        "Bouday\u00e9",
+        "B\u016bd\u0101y",
+        "Bouda\u00ef",
+        "Bouday"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673479,
+        421171405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":276294,
+        "wk:page":"Bodai"
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"b6be94bb8172da9f06a93aa604addd17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421171405,
+            "locality_id":1309693395,
+            "region_id":85673479
+        }
+    ],
+    "wof:id":1309693395,
+    "wof:lastmodified":1537661147,
+    "wof:name":"Boudai",
+    "wof:parent_id":421171405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.06111,
+    34.06111,
+    36.06111,
+    34.06111
+],
+  "geometry": {"coordinates":[36.06111,34.06111],"type":"Point"}
+}

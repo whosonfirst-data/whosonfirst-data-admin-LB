@@ -1,0 +1,74 @@
+{
+  "id": 1327125035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.801,33.47406,35.801,33.47406",
+    "geom:latitude":33.47406,
+    "geom:longitude":35.801,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Tannoura",
+    "gn:country_code":"LB",
+    "gn:dem":988,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":266841,
+    "gn:latitude":33.47406,
+    "gn:longitude":35.801,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Tanno\u00fbra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0646\u0651\u0648\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "Tann\u016brah",
+        "Tanno\u00fbra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673479,
+        1108691439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":266841
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"133e56d830fff78b8a82c87feab53070",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691439,
+            "locality_id":1327125035,
+            "region_id":85673479
+        }
+    ],
+    "wof:id":1327125035,
+    "wof:lastmodified":1537661005,
+    "wof:name":"Tannoura",
+    "wof:parent_id":1108691439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.801,
+    33.47405999999999,
+    35.801,
+    33.47405999999999
+],
+  "geometry": {"coordinates":[35.801,33.47405999999999],"type":"Point"}
+}

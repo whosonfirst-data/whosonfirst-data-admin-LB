@@ -1,0 +1,79 @@
+{
+  "id": 1310095181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.98983,34.3605,35.98983,34.3605",
+    "geom:latitude":34.3605,
+    "geom:longitude":35.98983,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Ech Chalout",
+    "gn:country_code":"LB",
+    "gn:dem":1185,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":278298,
+    "gn:latitude":34.3605,
+    "gn:longitude":35.98983,
+    "gn:modification_date":"2013-10-07",
+    "gn:name":"Ech Ch\u00e2lo\u00fbt",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0634\u0627\u0644\u0648\u062a"
+    ],
+    "name:ara_x_variant":[
+        "Ash Sh\u0101l\u016bt",
+        "Sh\u0101l\u016b\u0163",
+        "\u0634\u0627\u0644\u0648\u0637"
+    ],
+    "name:und_x_variant":[
+        "Ash Sh\u0101l\u016b\u0163",
+        "Ech Ch\u00e2lo\u00fbt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673483,
+        1108691427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":278298
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"5283eef6ff4fe1a71d6f58e4d80e30ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691427,
+            "locality_id":1310095181,
+            "region_id":85673483
+        }
+    ],
+    "wof:id":1310095181,
+    "wof:lastmodified":1537661209,
+    "wof:name":"Ech Chalout",
+    "wof:parent_id":1108691427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.98983,
+    34.3605,
+    35.98983,
+    34.3605
+],
+  "geometry": {"coordinates":[35.98983,34.3605],"type":"Point"}
+}

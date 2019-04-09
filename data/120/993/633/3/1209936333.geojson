@@ -1,0 +1,75 @@
+{
+  "id": 1209936333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.815,33.67944,35.815,33.67944",
+    "geom:latitude":33.67944,
+    "geom:longitude":35.815,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Mansoura",
+    "gn:country_code":"LB",
+    "gn:dem":864,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":279548,
+    "gn:latitude":33.67944,
+    "gn:longitude":35.815,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Manso\u00fbra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0646\u0635\u0648\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "El Mannsoura",
+        "Al Man\u015f\u016brah",
+        "Manso\u00fbra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        1377074351,
+        421173359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":279548
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"08a652aa0221fca0633e273bb7484e7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421173359,
+            "locality_id":1209936333,
+            "region_id":1377074351
+        }
+    ],
+    "wof:id":1209936333,
+    "wof:lastmodified":1551727602,
+    "wof:name":"Mansoura",
+    "wof:parent_id":421173359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.815,
+    33.67944,
+    35.815,
+    33.67944
+],
+  "geometry": {"coordinates":[35.815,33.67944],"type":"Point"}
+}

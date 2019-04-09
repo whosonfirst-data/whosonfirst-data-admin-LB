@@ -1,0 +1,71 @@
+{
+  "id": 1292989823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.00361,34.63944,36.00361,34.63944",
+    "geom:latitude":34.63944,
+    "geom:longitude":36.00361,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Es Sammaqiye",
+    "gn:country_code":"LB",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":277958,
+    "gn:latitude":34.63944,
+    "gn:longitude":36.00361,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Es Samm\u00e2q\u00eey\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "As Summ\u0101a\u012byah",
+        "Es Samm\u00e2q\u00eey\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673483,
+        1108691407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":277958
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"0dfd2f39238d79f4f2c7a8bdf3a525aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691407,
+            "locality_id":1292989823,
+            "region_id":85673483
+        }
+    ],
+    "wof:id":1292989823,
+    "wof:lastmodified":1537661198,
+    "wof:name":"Es Sammaqiye",
+    "wof:parent_id":1108691407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.00360999999999,
+    34.63944,
+    36.00360999999999,
+    34.63944
+],
+  "geometry": {"coordinates":[36.00360999999999,34.63944],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1293474401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.92667,34.42972,35.92667,34.42972",
+    "geom:latitude":34.42972,
+    "geom:longitude":35.92667,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Bchama",
+    "gn:country_code":"LB",
+    "gn:dem":384,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":276361,
+    "gn:latitude":34.42972,
+    "gn:longitude":35.92667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bch\u00e2ma",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bsh\u0101m\u0101",
+        "Bch\u00e2ma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673483,
+        1108691445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":276361
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"65df708622b0efac8a19340b60a67548",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691445,
+            "locality_id":1293474401,
+            "region_id":85673483
+        }
+    ],
+    "wof:id":1293474401,
+    "wof:lastmodified":1537661151,
+    "wof:name":"Bchama",
+    "wof:parent_id":1108691445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.92667,
+    34.42972,
+    35.92667,
+    34.42972
+],
+  "geometry": {"coordinates":[35.92667,34.42972],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1310685765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.94028,34.19083,35.94028,34.19083",
+    "geom:latitude":34.19083,
+    "geom:longitude":35.94028,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"El Ksara",
+    "gn:country_code":"LB",
+    "gn:dem":1788,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":279679,
+    "gn:latitude":34.19083,
+    "gn:longitude":35.94028,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El Ks\u00e2ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Ks\u0101rah",
+        "El Ks\u00e2ra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673483,
+        421204111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":279679
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"c432da54c06b6d1385c96ba6e4d8043c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421204111,
+            "locality_id":1310685765,
+            "region_id":85673483
+        }
+    ],
+    "wof:id":1310685765,
+    "wof:lastmodified":1537661253,
+    "wof:name":"El Ksara",
+    "wof:parent_id":421204111,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.94028,
+    34.19083,
+    35.94028,
+    34.19083
+],
+  "geometry": {"coordinates":[35.94028,34.19083],"type":"Point"}
+}

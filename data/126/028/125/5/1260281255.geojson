@@ -1,0 +1,67 @@
+{
+  "id": 1260281255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.39583,33.2725,35.39583,33.2725",
+    "geom:latitude":33.2725,
+    "geom:longitude":35.39583,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Niha",
+    "gn:country_code":"LB",
+    "gn:dem":400,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":269799,
+    "gn:latitude":33.2725,
+    "gn:longitude":35.39583,
+    "gn:modification_date":"2006-07-22",
+    "gn:name":"N\u00eeha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673499,
+        1108691441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":269799
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"eedae537339a93ddca2971b8339c28c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691441,
+            "locality_id":1260281255,
+            "region_id":85673499
+        }
+    ],
+    "wof:id":1260281255,
+    "wof:lastmodified":1536715264,
+    "wof:name":"Niha",
+    "wof:parent_id":1108691441,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.39583,
+    33.2725,
+    35.39583,
+    33.2725
+],
+  "geometry": {"coordinates":[35.39583,33.2725],"type":"Point"}
+}

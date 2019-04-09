@@ -1,0 +1,76 @@
+{
+  "id": 1243446953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.41694,33.53917,35.41694,33.53917",
+    "geom:latitude":33.53917,
+    "geom:longitude":35.41694,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"El Qraiye",
+    "gn:country_code":"LB",
+    "gn:dem":154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":279075,
+    "gn:latitude":33.53917,
+    "gn:longitude":35.41694,
+    "gn:modification_date":"2013-04-04",
+    "gn:name":"El Qra\u00efy\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0642\u0631\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al Qurayyah",
+        "El Qra\u00eey\u00e9",
+        "El Kraya",
+        "El Qra\u00efy\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673499,
+        890451987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":279075
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"d96f52f2a4ef7ca0fbed8c2e5250d424",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":890451987,
+            "locality_id":1243446953,
+            "region_id":85673499
+        }
+    ],
+    "wof:id":1243446953,
+    "wof:lastmodified":1537661229,
+    "wof:name":"El Qraiye",
+    "wof:parent_id":890451987,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.41694000000001,
+    33.53917,
+    35.41694000000001,
+    33.53917
+],
+  "geometry": {"coordinates":[35.41694000000001,33.53917],"type":"Point"}
+}

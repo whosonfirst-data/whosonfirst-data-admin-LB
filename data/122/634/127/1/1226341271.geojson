@@ -1,0 +1,72 @@
+{
+  "id": 1226341271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.65917,33.98222,35.65917,33.98222",
+    "geom:latitude":33.98222,
+    "geom:longitude":35.65917,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Harissa",
+    "gn:country_code":"LB",
+    "gn:dem":641,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":274349,
+    "gn:latitude":33.98222,
+    "gn:longitude":35.65917,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Har\u00eessa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1e28ar\u012b\u015f\u0101",
+        "Har\u00eessa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        421172015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":274349,
+        "wk:page":"Harissa%2C_Lebanon"
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"ff5c10311927b8a148f2948ed09bd8ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421172015,
+            "locality_id":1226341271,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1226341271,
+    "wof:lastmodified":1537661112,
+    "wof:name":"Harissa",
+    "wof:parent_id":421172015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.65917,
+    33.98222,
+    35.65917,
+    33.98222
+],
+  "geometry": {"coordinates":[35.65917,33.98222],"type":"Point"}
+}

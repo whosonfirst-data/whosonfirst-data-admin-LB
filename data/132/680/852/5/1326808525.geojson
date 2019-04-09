@@ -1,0 +1,73 @@
+{
+  "id": 1326808525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.38778,34.24861,36.38778,34.24861",
+    "geom:latitude":34.24861,
+    "geom:longitude":36.38778,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Jdaide",
+    "gn:country_code":"LB",
+    "gn:dem":954,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":279852,
+    "gn:latitude":34.24861,
+    "gn:longitude":36.38778,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Jda\u00efd\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ej Jda\u00efde",
+        "Al Jdaydah",
+        "Al Judaydah",
+        "Jda\u00efd\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673479,
+        421171405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":279852
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"2da46321f911905fb1e66acd89f46a14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421171405,
+            "locality_id":1326808525,
+            "region_id":85673479
+        }
+    ],
+    "wof:id":1326808525,
+    "wof:lastmodified":1537661259,
+    "wof:name":"Jdaide",
+    "wof:parent_id":421171405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.38778,
+    34.24861,
+    36.38778,
+    34.24861
+],
+  "geometry": {"coordinates":[36.38778,34.24861],"type":"Point"}
+}

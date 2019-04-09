@@ -1,0 +1,102 @@
+{
+  "id": 890422271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.65972,33.80861,35.65972,33.80861",
+    "geom:latitude":33.80861,
+    "geom:longitude":35.65972,
+    "gn:country":"LB",
+    "gn:fcode":"PPL",
+    "gn:pop":5000,
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0628\u062d\u0645\u062f\u0648\u0646"
+    ],
+    "name:dut_x_preferred":[
+        "Bhamdoun"
+    ],
+    "name:eng_x_preferred":[
+        "Bhamdoun"
+    ],
+    "name:fre_x_preferred":[
+        "Bhamdoun"
+    ],
+    "name:ger_x_preferred":[
+        "Bhamdoun"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d7\u05de\u05d3\u05d5\u05df"
+    ],
+    "name:nno_x_preferred":[
+        "Bhamdoun"
+    ],
+    "name:per_x_preferred":[
+        "\u0628\u062d\u0645\u062f\u0648\u0646"
+    ],
+    "name:pol_x_preferred":[
+        "Bahamdun"
+    ],
+    "name:swe_x_preferred":[
+        "Bhamdo\u00fbn el Mhatta"
+    ],
+    "name:unk_x_variant":[
+        "Bhamdo\u00fbn"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u062d\u0645\u062f\u0648\u0646"
+    ],
+    "qs:name":"Bhamdo\u00fbn el Mhatta",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        1108691409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":276632,
+        "qs:id":546989,
+        "wd:id":"Q2900650"
+    },
+    "wof:country":"LB",
+    "wof:created":1469051434,
+    "wof:geomhash":"5885e3a95e94da80920ea0af054c5a7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691409,
+            "locality_id":890422271,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":890422271,
+    "wof:lastmodified":1514470142,
+    "wof:name":"Bhamdo\u00fbn el Mhatta",
+    "wof:parent_id":1108691409,
+    "wof:placetype":"locality",
+    "wof:population":5000,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.65972,
+    33.80861,
+    35.65972,
+    33.80861
+],
+  "geometry": {"coordinates":[35.65972,33.80861],"type":"Point"}
+}

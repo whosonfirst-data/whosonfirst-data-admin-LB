@@ -1,0 +1,73 @@
+{
+  "id": 1226131599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.11333,34.59528,36.11333,34.59528",
+    "geom:latitude":34.59528,
+    "geom:longitude":36.11333,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Ghzaile",
+    "gn:country_code":"LB",
+    "gn:dem":195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":274888,
+    "gn:latitude":34.59528,
+    "gn:longitude":36.11333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ghza\u00efl\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El-Ghzeilah",
+        "Ghzeilah",
+        "Ghuzaylah",
+        "Ghza\u00efl\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        1377074357,
+        1108691407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":274888
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"ee2a017b4412f5076d9222efd53a16eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691407,
+            "locality_id":1226131599,
+            "region_id":1377074357
+        }
+    ],
+    "wof:id":1226131599,
+    "wof:lastmodified":1551727673,
+    "wof:name":"Ghzaile",
+    "wof:parent_id":1108691407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.11333,
+    34.59528,
+    36.11333,
+    34.59528
+],
+  "geometry": {"coordinates":[36.11333,34.59528],"type":"Point"}
+}

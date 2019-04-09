@@ -1,0 +1,76 @@
+{
+  "id": 1209025295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.89493,34.39739,35.89493,34.39739",
+    "geom:latitude":34.39739,
+    "geom:longitude":35.89493,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Zgharta",
+    "gn:country_code":"LB",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":265846,
+    "gn:latitude":34.39739,
+    "gn:longitude":35.89493,
+    "gn:modification_date":"2013-10-07",
+    "gn:name":"Zghart\u0101",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0632\u063a\u0631\u062a\u0627"
+    ],
+    "name:und_x_variant":[
+        "Ezgharta",
+        "Zghart\u0101",
+        "Zaghart\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        1377074355,
+        1108691445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":265846,
+        "wk:page":"Zgharta"
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"894a397b1ac0228a9e83a9ff51655b1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691445,
+            "locality_id":1209025295,
+            "region_id":1377074355
+        }
+    ],
+    "wof:id":1209025295,
+    "wof:lastmodified":1551727614,
+    "wof:name":"Zgharta",
+    "wof:parent_id":1108691445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.89493,
+    34.39739,
+    35.89493,
+    34.39739
+],
+  "geometry": {"coordinates":[35.89493,34.39739],"type":"Point"}
+}

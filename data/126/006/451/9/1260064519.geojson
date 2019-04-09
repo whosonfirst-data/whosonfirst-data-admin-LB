@@ -1,0 +1,71 @@
+{
+  "id": 1260064519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.88333,34.18222,35.88333,34.18222",
+    "geom:latitude":34.18222,
+    "geom:longitude":35.88333,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Ed Dghale",
+    "gn:country_code":"LB",
+    "gn:dem":1542,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":280743,
+    "gn:latitude":34.18222,
+    "gn:longitude":35.88333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ed Dgh\u00e2l\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ad Digh\u0101lah",
+        "Ed Dgh\u00e2l\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673483,
+        421204111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":280743
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"73f4066a68a160f9610a225b98594b9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421204111,
+            "locality_id":1260064519,
+            "region_id":85673483
+        }
+    ],
+    "wof:id":1260064519,
+    "wof:lastmodified":1537661295,
+    "wof:name":"Ed Dghale",
+    "wof:parent_id":421204111,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.88333,
+    34.18222,
+    35.88333,
+    34.18222
+],
+  "geometry": {"coordinates":[35.88333,34.18222],"type":"Point"}
+}

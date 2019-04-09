@@ -1,0 +1,82 @@
+{
+  "id": 1193142067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.65417,34.07139,35.65417,34.07139",
+    "geom:latitude":34.07139,
+    "geom:longitude":35.65417,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Chqaif",
+    "gn:country_code":"LB",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":267302,
+    "gn:latitude":34.07139,
+    "gn:longitude":35.65417,
+    "gn:modification_date":"2013-10-07",
+    "gn:name":"Chqa\u00eff",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0634\u0642\u064a\u0641"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0634\u0642\u064a\u0642"
+    ],
+    "name:und_x_variant":[
+        "Chqif",
+        "Chak\u00eek",
+        "Chqa\u00efq et Tahta",
+        "Shq\u012bq",
+        "Chqa\u00eff",
+        "Ash Shuqayq",
+        "Shuqayf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        421194845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":267302
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"dce0631e5d7fc0372e2c3b11cd2b261e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421194845,
+            "locality_id":1193142067,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1193142067,
+    "wof:lastmodified":1537661013,
+    "wof:name":"Chqaif",
+    "wof:parent_id":421194845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.65417,
+    34.07139,
+    35.65417,
+    34.07139
+],
+  "geometry": {"coordinates":[35.65417,34.07139],"type":"Point"}
+}

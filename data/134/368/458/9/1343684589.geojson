@@ -1,0 +1,77 @@
+{
+  "id": 1343684589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.79833,34.12861,35.79833,34.12861",
+    "geom:latitude":34.12861,
+    "geom:longitude":35.79833,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Bkarta",
+    "gn:country_code":"LB",
+    "gn:dem":1237,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":276448,
+    "gn:latitude":34.12861,
+    "gn:longitude":35.79833,
+    "gn:modification_date":"2014-03-08",
+    "gn:name":"Bkarta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0643\u0631\u062a\u0627"
+    ],
+    "name:ara_x_variant":[
+        "\u0628\u0642\u0631\u062a\u0627"
+    ],
+    "name:und_x_variant":[
+        "Bikart\u0101",
+        "Biqart\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        421194845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":276448
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"224cfdbd4d4624943234fc213438c21a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421194845,
+            "locality_id":1343684589,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1343684589,
+    "wof:lastmodified":1537661157,
+    "wof:name":"Bkarta",
+    "wof:parent_id":421194845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.79833,
+    34.12860999999999,
+    35.79833,
+    34.12860999999999
+],
+  "geometry": {"coordinates":[35.79833,34.12860999999999],"type":"Point"}
+}

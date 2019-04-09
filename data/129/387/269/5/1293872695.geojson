@@ -1,0 +1,72 @@
+{
+  "id": 1293872695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.14111,34.59639,36.14111,34.59639",
+    "geom:latitude":34.59639,
+    "geom:longitude":36.14111,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Et Tleil",
+    "gn:country_code":"LB",
+    "gn:dem":292,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":277866,
+    "gn:latitude":34.59639,
+    "gn:longitude":36.14111,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Et Tle\u00efl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ett Tla\u00efl",
+        "At Tulayl",
+        "Et Tle\u00efl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673483,
+        1108691407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":277866
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"c53763843702c97bf22b5129c47acf47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691407,
+            "locality_id":1293872695,
+            "region_id":85673483
+        }
+    ],
+    "wof:id":1293872695,
+    "wof:lastmodified":1537661196,
+    "wof:name":"Et Tleil",
+    "wof:parent_id":1108691407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.14111,
+    34.59639,
+    36.14111,
+    34.59639
+],
+  "geometry": {"coordinates":[36.14111,34.59639],"type":"Point"}
+}

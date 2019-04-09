@@ -1,0 +1,72 @@
+{
+  "id": 1226028517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.15972,34.59167,36.15972,34.59167",
+    "geom:latitude":34.59167,
+    "geom:longitude":36.15972,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Msalla",
+    "gn:country_code":"LB",
+    "gn:dem":298,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":279301,
+    "gn:latitude":34.59167,
+    "gn:longitude":36.15972,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Msalla",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Moussa\u00eflha",
+        "Al Mu\u015fall\u00e1",
+        "Msalla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        1377074357,
+        1108691407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":279301
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"30cf5b34be5383abd544e35f79c46202",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691407,
+            "locality_id":1226028517,
+            "region_id":1377074357
+        }
+    ],
+    "wof:id":1226028517,
+    "wof:lastmodified":1551727672,
+    "wof:name":"Msalla",
+    "wof:parent_id":1108691407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.15972,
+    34.59167,
+    36.15972,
+    34.59167
+],
+  "geometry": {"coordinates":[36.15972,34.59167],"type":"Point"}
+}

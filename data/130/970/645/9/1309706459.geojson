@@ -1,0 +1,72 @@
+{
+  "id": 1309706459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.17889,34.53778,36.17889,34.53778",
+    "geom:latitude":34.53778,
+    "geom:longitude":36.17889,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Beino",
+    "gn:country_code":"LB",
+    "gn:dem":511,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":276785,
+    "gn:latitude":34.53778,
+    "gn:longitude":36.17889,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Be\u00efno",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bayn",
+        "Bayn\u016b",
+        "Be\u00efno"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673483,
+        1108691407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":276785
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"0523ae851a52ae4df1f639bd8eb555fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691407,
+            "locality_id":1309706459,
+            "region_id":85673483
+        }
+    ],
+    "wof:id":1309706459,
+    "wof:lastmodified":1537661170,
+    "wof:name":"Beino",
+    "wof:parent_id":1108691407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.17889,
+    34.53778,
+    36.17889,
+    34.53778
+],
+  "geometry": {"coordinates":[36.17889,34.53778],"type":"Point"}
+}

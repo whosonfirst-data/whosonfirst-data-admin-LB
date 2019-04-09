@@ -1,0 +1,71 @@
+{
+  "id": 1243153303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.04028,34.03944,36.04028,34.03944",
+    "geom:latitude":34.03944,
+    "geom:longitude":36.04028,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Mrah Haissoun",
+    "gn:country_code":"LB",
+    "gn:dem":1169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":271476,
+    "gn:latitude":34.03944,
+    "gn:longitude":36.04028,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mr\u00e2h Ha\u00efsso\u00fbn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mar\u0101\u1e29 \u1e28ays\u016bn",
+        "Mr\u00e2h Ha\u00efsso\u00fbn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673479,
+        421171405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":271476
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"51979f46b9c0a6c4e7129d4890e7d569",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421171405,
+            "locality_id":1243153303,
+            "region_id":85673479
+        }
+    ],
+    "wof:id":1243153303,
+    "wof:lastmodified":1537661062,
+    "wof:name":"Mrah Haissoun",
+    "wof:parent_id":421171405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.04028,
+    34.03944,
+    36.04028,
+    34.03944
+],
+  "geometry": {"coordinates":[36.04028,34.03944],"type":"Point"}
+}

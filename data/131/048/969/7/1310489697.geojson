@@ -1,0 +1,71 @@
+{
+  "id": 1310489697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.98583,33.97222,35.98583,33.97222",
+    "geom:latitude":33.97222,
+    "geom:longitude":35.98583,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Mazraat Beit Slaibi",
+    "gn:country_code":"LB",
+    "gn:dem":1355,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":270623,
+    "gn:latitude":33.97222,
+    "gn:longitude":35.98583,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mazraat Be\u00eft Sla\u00efbi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mazra\u2018at Bayt \u015eulayb\u012b",
+        "Mazraat Be\u00eft Sla\u00efbi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673479,
+        421171405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":270623
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"924013ebfa9e26c4b9afa9f753f4d48d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421171405,
+            "locality_id":1310489697,
+            "region_id":85673479
+        }
+    ],
+    "wof:id":1310489697,
+    "wof:lastmodified":1537661047,
+    "wof:name":"Mazraat Beit Slaibi",
+    "wof:parent_id":421171405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.98583,
+    33.97222,
+    35.98583,
+    33.97222
+],
+  "geometry": {"coordinates":[35.98583,33.97222],"type":"Point"}
+}

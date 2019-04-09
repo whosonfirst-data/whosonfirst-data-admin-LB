@@ -1,0 +1,69 @@
+{
+  "id": 1259798657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.3584,33.41789,35.3584,33.41789",
+    "geom:latitude":33.41789,
+    "geom:longitude":35.3584,
+    "gn:asciiname":"Ghassaniyeh",
+    "gn:country_code":"LB",
+    "gn:dem":325,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7870016,
+    "gn:latitude":33.41789,
+    "gn:longitude":35.3584,
+    "gn:modification_date":"2011-06-09",
+    "gn:name":"Ghassaniyeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "GHESSANIET"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673499,
+        890451987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7870016
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"e6d67f9ddfb978d2b74c1d6a61c3bfef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":890451987,
+            "locality_id":1259798657,
+            "region_id":85673499
+        }
+    ],
+    "wof:id":1259798657,
+    "wof:lastmodified":1537661320,
+    "wof:name":"Ghassaniyeh",
+    "wof:parent_id":890451987,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.3584,
+    33.41789,
+    35.3584,
+    33.41789
+],
+  "geometry": {"coordinates":[35.3584,33.41789],"type":"Point"}
+}

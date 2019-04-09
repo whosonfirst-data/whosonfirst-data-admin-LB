@@ -1,0 +1,71 @@
+{
+  "id": 1276962699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.03944,34.51722,36.03944,34.51722",
+    "geom:latitude":34.51722,
+    "geom:longitude":36.03944,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Zouq el Hbalsa",
+    "gn:country_code":"LB",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":265765,
+    "gn:latitude":34.51722,
+    "gn:longitude":36.03944,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Zo\u00fbq el Hb\u00e2lsa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Z\u016bq al \u1e28ab\u0101l\u015fah",
+        "Zo\u00fbq el Hb\u00e2lsa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673483,
+        1108691407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":265765
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"14fd5d2e137115cfa0edb76d220d458c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691407,
+            "locality_id":1276962699,
+            "region_id":85673483
+        }
+    ],
+    "wof:id":1276962699,
+    "wof:lastmodified":1537660991,
+    "wof:name":"Zouq el Hbalsa",
+    "wof:parent_id":1108691407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.03944,
+    34.51722,
+    36.03944,
+    34.51722
+],
+  "geometry": {"coordinates":[36.03944,34.51722],"type":"Point"}
+}

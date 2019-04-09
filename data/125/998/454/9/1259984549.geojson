@@ -1,0 +1,73 @@
+{
+  "id": 1259984549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.67611,33.99472,35.67611,33.99472",
+    "geom:latitude":33.99472,
+    "geom:longitude":35.67611,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ain Ouarqa",
+    "gn:country_code":"LB",
+    "gn:dem":616,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":277389,
+    "gn:latitude":33.99472,
+    "gn:longitude":35.67611,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"A\u00efn Ouarqa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u00efn Ouaraqa",
+        "A\u00efn Ouarga",
+        "\u2018Ayn Waraqah",
+        "A\u00efn Ouarqa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        421172015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":277389
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"ee40c18c7f8f0bfc9868d3b28775e64f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421172015,
+            "locality_id":1259984549,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1259984549,
+    "wof:lastmodified":1537661183,
+    "wof:name":"Ain Ouarqa",
+    "wof:parent_id":421172015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.67610999999999,
+    33.99472,
+    35.67610999999999,
+    33.99472
+],
+  "geometry": {"coordinates":[35.67610999999999,33.99472],"type":"Point"}
+}

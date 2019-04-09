@@ -1,0 +1,74 @@
+{
+  "id": 1242859853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.85972,33.81778,35.85972,33.81778",
+    "geom:latitude":33.81778,
+    "geom:longitude":35.85972,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Jalala",
+    "gn:country_code":"LB",
+    "gn:dem":919,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":273548,
+    "gn:latitude":33.81778,
+    "gn:longitude":35.85972,
+    "gn:modification_date":"2018-03-07",
+    "gn:name":"Jal\u00e2la",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u0644\u0627\u0644\u0627"
+    ],
+    "name:und_x_variant":[
+        "Jal\u00e2la",
+        "Jal\u0101l\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        1377074351,
+        421172017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":273548
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"ccf66924d10c28d7ea7b1378251b5b5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421172017,
+            "locality_id":1242859853,
+            "region_id":1377074351
+        }
+    ],
+    "wof:id":1242859853,
+    "wof:lastmodified":1551727601,
+    "wof:name":"Jalala",
+    "wof:parent_id":421172017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.85972,
+    33.81778,
+    35.85972,
+    33.81778
+],
+  "geometry": {"coordinates":[35.85972,33.81778],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 1276339703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.6725,34.115,35.6725,34.115",
+    "geom:latitude":34.115,
+    "geom:longitude":35.6725,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Bkouna",
+    "gn:country_code":"LB",
+    "gn:dem":259,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":276434,
+    "gn:latitude":34.115,
+    "gn:longitude":35.6725,
+    "gn:modification_date":"2014-03-08",
+    "gn:name":"Bko\u00fbna",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0643\u0648\u0646\u0627"
+    ],
+    "name:ara_x_variant":[
+        "Bik\u016bn\u0101",
+        "Bikw\u0101n",
+        "\u0628\u0643\u0648\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "El Ko\u00fbna",
+        "Bkouna",
+        "Bkounah",
+        "Bikwan",
+        "Bk\u016bn\u0101",
+        "Bko\u00fbna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        421194845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":276434
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"06ac0d97e90c0174e5d5bb005d6496aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421194845,
+            "locality_id":1276339703,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1276339703,
+    "wof:lastmodified":1537661156,
+    "wof:name":"Bkouna",
+    "wof:parent_id":421194845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.6725,
+    34.115,
+    35.6725,
+    34.115
+],
+  "geometry": {"coordinates":[35.6725,34.115],"type":"Point"}
+}

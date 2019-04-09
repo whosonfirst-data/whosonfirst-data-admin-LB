@@ -1,0 +1,78 @@
+{
+  "id": 1310099349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.30556,34.58694,36.30556,34.58694",
+    "geom:latitude":34.58694,
+    "geom:longitude":36.30556,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Aandqet",
+    "gn:country_code":"LB",
+    "gn:dem":631,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":278929,
+    "gn:latitude":34.58694,
+    "gn:longitude":36.30556,
+    "gn:modification_date":"2018-04-02",
+    "gn:name":"Aandqet",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u2018Andqit",
+        "Aanndaqatt",
+        "\u2018Andaqah",
+        "Andakit",
+        "Andeket",
+        "\u2018Andaqat",
+        "Aandqet",
+        "Aandkit"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673483,
+        1108691407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":278929,
+        "wk:page":"Andaket"
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"1bbaae4e56d32af92b3e774bb22e2975",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691407,
+            "locality_id":1310099349,
+            "region_id":85673483
+        }
+    ],
+    "wof:id":1310099349,
+    "wof:lastmodified":1537661222,
+    "wof:name":"Aandqet",
+    "wof:parent_id":1108691407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.30556,
+    34.58694000000001,
+    36.30556,
+    34.58694000000001
+],
+  "geometry": {"coordinates":[36.30556,34.58694000000001],"type":"Point"}
+}

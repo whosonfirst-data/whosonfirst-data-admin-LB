@@ -1,0 +1,76 @@
+{
+  "id": 1293412465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.70639,34.07278,35.70639,34.07278",
+    "geom:latitude":34.07278,
+    "geom:longitude":35.70639,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"El Mradiye",
+    "gn:country_code":"LB",
+    "gn:dem":771,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":279314,
+    "gn:latitude":34.07278,
+    "gn:longitude":35.70639,
+    "gn:modification_date":"2013-10-07",
+    "gn:name":"El Mr\u00e2d\u00eey\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0631\u0627\u062f\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "El Mradiyah",
+        "Al Mur\u0101d\u012byah",
+        "Al Mar\u0101d\u012byah",
+        "El Mr\u00e2d\u00eey\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        421172015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":279314
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"3bd1350d0251fd93f62b942746796fe7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421172015,
+            "locality_id":1293412465,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1293412465,
+    "wof:lastmodified":1537661238,
+    "wof:name":"El Mradiye",
+    "wof:parent_id":421172015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.70639,
+    34.07278,
+    35.70639,
+    34.07278
+],
+  "geometry": {"coordinates":[35.70639,34.07278],"type":"Point"}
+}

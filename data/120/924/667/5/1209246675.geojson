@@ -1,0 +1,61 @@
+{
+  "id": 1209246675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.72861,34.13417,35.72861,34.13417",
+    "geom:latitude":34.13417,
+    "geom:longitude":35.72861,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ech Chmis",
+    "gn:country_code":"LB",
+    "gn:dem":935,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6280302,
+    "gn:latitude":34.13417,
+    "gn:longitude":35.72861,
+    "gn:modification_date":"2006-08-24",
+    "gn:name":"Ech Chm\u00ees",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6280302
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"368c9a40f4dd4c8fa64b56f952b44a1b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632533,
+            "locality_id":1209246675
+        }
+    ],
+    "wof:id":1209246675,
+    "wof:lastmodified":1536293140,
+    "wof:name":"Ech Chmis",
+    "wof:parent_id":85632533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.72861,
+    34.134170000000005,
+    35.72861,
+    34.134170000000005
+],
+  "geometry": {"coordinates":[35.72861,34.13417],"type":"Point"}
+}

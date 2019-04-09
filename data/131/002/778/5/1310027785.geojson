@@ -1,0 +1,74 @@
+{
+  "id": 1310027785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.47519,33.5436,35.47519,33.5436",
+    "geom:latitude":33.5436,
+    "geom:longitude":35.47519,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kfar Falous",
+    "gn:country_code":"LB",
+    "gn:dem":464,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":272885,
+    "gn:latitude":33.5436,
+    "gn:longitude":35.47519,
+    "gn:modification_date":"2013-04-04",
+    "gn:name":"Kfar F\u00e2lo\u00fbs",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0641\u0631 \u0641\u0627\u0644\u0648\u0633"
+    ],
+    "name:und_x_variant":[
+        "Kafr F\u0101l\u016bs",
+        "Kfar F\u00e2lo\u00fbs"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673499,
+        1108691435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":272885
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"0263ac244615e37be1a5e82f2c872459",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691435,
+            "locality_id":1310027785,
+            "region_id":85673499
+        }
+    ],
+    "wof:id":1310027785,
+    "wof:lastmodified":1537661086,
+    "wof:name":"Kfar Falous",
+    "wof:parent_id":1108691435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.47519000000001,
+    33.5436,
+    35.47519000000001,
+    33.5436
+],
+  "geometry": {"coordinates":[35.47519000000001,33.5436],"type":"Point"}
+}

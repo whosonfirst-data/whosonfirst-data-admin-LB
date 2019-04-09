@@ -1,0 +1,75 @@
+{
+  "id": 1377074375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.85167,34.42333,35.85167,34.42333",
+    "geom:latitude":34.42333,
+    "geom:longitude":35.85167,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Haret ech Charfe",
+    "gn:country_code":"LB",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":274449,
+    "gn:latitude":34.42333,
+    "gn:longitude":35.85167,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"H\u00e2ret ech Charf\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:und_x_variant":[
+        "\u1e28\u0101rat ash Sharafah",
+        "H\u00e2ret ech Charf\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        1125791429,
+        1108691443,
+        1377074355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":274449
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"a26251ab4f5a4e16eed4d7104d352184",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691443,
+            "locality_id":1125791429,
+            "neighbourhood_id":1377074375,
+            "region_id":1377074355
+        }
+    ],
+    "wof:id":1377074375,
+    "wof:lastmodified":1551727700,
+    "wof:name":"Haret ech Charfe",
+    "wof:parent_id":1125791429,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1210011001
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.85167,
+    34.42333,
+    35.85167,
+    34.42333
+],
+  "geometry": {"coordinates":[35.85167,34.42333],"type":"Point"}
+}

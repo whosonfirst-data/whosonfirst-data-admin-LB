@@ -1,0 +1,74 @@
+{
+  "id": 1242676861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.72889,33.90306,35.72889,33.90306",
+    "geom:latitude":33.90306,
+    "geom:longitude":35.72889,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ain es Safsaf",
+    "gn:country_code":"LB",
+    "gn:dem":1078,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":277554,
+    "gn:latitude":33.90306,
+    "gn:longitude":35.72889,
+    "gn:modification_date":"2018-04-06",
+    "gn:name":"A\u00efn es Safs\u00e2f",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u064a\u0646 \u0627\u0644\u0635\u0641\u0635\u0627\u0641"
+    ],
+    "name:und_x_variant":[
+        "\u2018Ayn a\u015f \u015eaf\u015f\u0101f",
+        "A\u00efn es Safs\u00e2f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        1108691425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":277554
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"910dc6ac8387b646cdcab6eec9f2ef05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691425,
+            "locality_id":1242676861,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1242676861,
+    "wof:lastmodified":1537661190,
+    "wof:name":"Ain es Safsaf",
+    "wof:parent_id":1108691425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.72889,
+    33.90306,
+    35.72889,
+    33.90306
+],
+  "geometry": {"coordinates":[35.72889,33.90306],"type":"Point"}
+}

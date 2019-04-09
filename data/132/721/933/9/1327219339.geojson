@@ -1,0 +1,74 @@
+{
+  "id": 1327219339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.82639,33.73417,35.82639,33.73417",
+    "geom:latitude":33.73417,
+    "geom:longitude":35.82639,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Tell el Akhdar",
+    "gn:country_code":"LB",
+    "gn:dem":864,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":266905,
+    "gn:latitude":33.73417,
+    "gn:longitude":35.82639,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Tell el Akhdar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0644 \u0627\u0644\u0623\u062e\u0636\u0631"
+    ],
+    "name:und_x_variant":[
+        "Tall al Akh\u1e11ar",
+        "Tell el Akhdar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673479,
+        421172017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":266905
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"5cdc11b1333e8a0d90043e0ecff99fd3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421172017,
+            "locality_id":1327219339,
+            "region_id":85673479
+        }
+    ],
+    "wof:id":1327219339,
+    "wof:lastmodified":1537661007,
+    "wof:name":"Tell el Akhdar",
+    "wof:parent_id":421172017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.82639,
+    33.73417,
+    35.82639,
+    33.73417
+],
+  "geometry": {"coordinates":[35.82639,33.73417],"type":"Point"}
+}

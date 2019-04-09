@@ -1,0 +1,73 @@
+{
+  "id": 1209208873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.16361,34.60889,36.16361,34.60889",
+    "geom:latitude":34.60889,
+    "geom:longitude":36.16361,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Aamaret el Bikat",
+    "gn:country_code":"LB",
+    "gn:dem":303,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":278963,
+    "gn:latitude":34.60889,
+    "gn:longitude":36.16361,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Aam\u00e2ret el Bik\u00e2t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aam\u00e2r el Be\u00efk\u00e2te",
+        "Aam\u00e2r el Bik\u00e2t",
+        "\u2018Am\u0101r al Bayk\u0101t",
+        "Aam\u00e2ret el Bik\u00e2t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        1377074357,
+        1108691407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":278963
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"37eb007d4b8298f4d23dac59cdbb6d2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691407,
+            "locality_id":1209208873,
+            "region_id":1377074357
+        }
+    ],
+    "wof:id":1209208873,
+    "wof:lastmodified":1551727669,
+    "wof:name":"Aamaret el Bikat",
+    "wof:parent_id":1108691407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.16361,
+    34.60889,
+    36.16361,
+    34.60889
+],
+  "geometry": {"coordinates":[36.16361,34.60889],"type":"Point"}
+}

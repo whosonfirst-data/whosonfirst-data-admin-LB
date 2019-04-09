@@ -1,0 +1,74 @@
+{
+  "id": 1242573825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.98667,34.42611,35.98667,34.42611",
+    "geom:latitude":34.42611,
+    "geom:longitude":35.98667,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Kfar Chellane",
+    "gn:country_code":"LB",
+    "gn:dem":404,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":272820,
+    "gn:latitude":34.42611,
+    "gn:longitude":35.98667,
+    "gn:modification_date":"2013-10-07",
+    "gn:name":"Kfar Chell\u00e2ne",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0641\u0631 \u0634\u0644\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Kafr Shill\u0101n",
+        "Kfar Chell\u00e2ne"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        1377074355,
+        1108691427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":272820
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"20ade357a471b745bac178f050566d92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691427,
+            "locality_id":1242573825,
+            "region_id":1377074355
+        }
+    ],
+    "wof:id":1242573825,
+    "wof:lastmodified":1551727612,
+    "wof:name":"Kfar Chellane",
+    "wof:parent_id":1108691427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.98667000000001,
+    34.42610999999999,
+    35.98667000000001,
+    34.42610999999999
+],
+  "geometry": {"coordinates":[35.98667000000001,34.42610999999999],"type":"Point"}
+}

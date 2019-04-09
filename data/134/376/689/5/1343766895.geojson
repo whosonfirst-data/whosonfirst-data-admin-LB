@@ -1,0 +1,75 @@
+{
+  "id": 1343766895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.67139,34.18444,35.67139,34.18444",
+    "geom:latitude":34.18444,
+    "geom:longitude":35.67139,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Gharzouz",
+    "gn:country_code":"LB",
+    "gn:dem":437,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":274978,
+    "gn:latitude":34.18444,
+    "gn:longitude":35.67139,
+    "gn:modification_date":"2014-03-08",
+    "gn:name":"Gharzo\u00fbz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u063a\u0631\u0632\u0648\u0632"
+    ],
+    "name:und_x_variant":[
+        "Garzuze",
+        "Gharz\u016bz",
+        "Gharzo\u00fbz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        421194845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":274978
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"38e7d26d4b0da70500fa30b3a03cc75a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421194845,
+            "locality_id":1343766895,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1343766895,
+    "wof:lastmodified":1537661124,
+    "wof:name":"Gharzouz",
+    "wof:parent_id":421194845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.67139,
+    34.18444,
+    35.67139,
+    34.18444
+],
+  "geometry": {"coordinates":[35.67139,34.18444],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1293132489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.52722,33.60444,35.52722,33.60444",
+    "geom:latitude":33.60444,
+    "geom:longitude":35.52722,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ej Jleiliye",
+    "gn:country_code":"LB",
+    "gn:dem":712,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":279864,
+    "gn:latitude":33.60444,
+    "gn:longitude":35.52722,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Ej Jle\u00efl\u00eey\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062c\u0644\u064a\u0644\u064a\u0651\u0629"
+    ],
+    "name:und_x_variant":[
+        "Ej-Jlaliyah",
+        "El Jleiliy\u00e9",
+        "Ej Jla\u00efl\u00eey\u00e9",
+        "Al Jlayl\u012byah",
+        "Ej Jle\u00efl\u00eey\u00e9",
+        "Al Jal\u012bl\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        1108691419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":279864
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"b558cd847aad7185cefed69d4c385422",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691419,
+            "locality_id":1293132489,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1293132489,
+    "wof:lastmodified":1537661260,
+    "wof:name":"Ej Jleiliye",
+    "wof:parent_id":1108691419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.52722,
+    33.60444,
+    35.52722,
+    33.60444
+],
+  "geometry": {"coordinates":[35.52722,33.60444],"type":"Point"}
+}

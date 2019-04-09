@@ -1,0 +1,72 @@
+{
+  "id": 1309708205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.86722,33.87972,35.86722,33.87972",
+    "geom:latitude":33.87972,
+    "geom:longitude":35.86722,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Hazerta",
+    "gn:country_code":"LB",
+    "gn:dem":1321,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":274036,
+    "gn:latitude":33.87972,
+    "gn:longitude":35.86722,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Hazerta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hizzirta",
+        "\u1e28azzirt\u0101",
+        "Hazerta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673479,
+        421172017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":274036
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"e0e701d4825d041762cf209c3cb941ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421172017,
+            "locality_id":1309708205,
+            "region_id":85673479
+        }
+    ],
+    "wof:id":1309708205,
+    "wof:lastmodified":1537661104,
+    "wof:name":"Hazerta",
+    "wof:parent_id":421172017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.86722,
+    33.87972,
+    35.86722,
+    33.87972
+],
+  "geometry": {"coordinates":[35.86722,33.87972],"type":"Point"}
+}

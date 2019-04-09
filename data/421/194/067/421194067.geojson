@@ -1,0 +1,84 @@
+{
+  "id": 421194067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.84889,34.06417,35.84889,34.06417",
+    "geom:latitude":34.06417,
+    "geom:longitude":35.84889,
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:fra_x_preferred":[
+        "Mazraat el Chouf"
+    ],
+    "name:unk_x_variant":[
+        "Al Mazra\u2018ah"
+    ],
+    "qs:gn_country":"LB",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":279423,
+    "qs:gn_pop":0,
+    "qs:name":"Mazraa",
+    "qs:name_adm0":"\u0644\u0628\u0646\u0627\u0646",
+    "qs:name_adm1":"\u0628\u064a\u0631\u0648\u062a",
+    "qs:photos":352,
+    "qs:photos_1k":71,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":352,
+    "qs:photos_sr":6,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "qs:qs_id":352940,
+    "qs:woe_adm0":23424873,
+    "qs:woe_id":22724451,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":137,
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        421194845,
+        85673491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":279423,
+        "gp:id":22724451,
+        "qs:id":352940
+    },
+    "wof:country":"LB",
+    "wof:created":1459009793,
+    "wof:geomhash":"0e9a50a9eb62018d067868fb88be7396",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421194845,
+            "locality_id":-1,
+            "neighbourhood_id":421194067,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":421194067,
+    "wof:lastmodified":1531858725,
+    "wof:name":"Mazraa",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.84889,
+    34.06417,
+    35.84889,
+    34.06417
+],
+  "geometry": {"coordinates":[35.84889,34.06417],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1193268039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.87111,34.34417,35.87111,34.34417",
+    "geom:latitude":34.34417,
+    "geom:longitude":35.87111,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Mazraat ez Zainati",
+    "gn:country_code":"LB",
+    "gn:dem":254,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":270631,
+    "gn:latitude":34.34417,
+    "gn:longitude":35.87111,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mazraat ez Za\u00efn\u00e2ti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mazra\u2018at az Zayn\u0101t\u012b",
+        "Mazraat ez Za\u00efn\u00e2ti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        1377074355,
+        1108691445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":270631
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"9e7ea8638160158c158c865276b2f357",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691445,
+            "locality_id":1193268039,
+            "region_id":1377074355
+        }
+    ],
+    "wof:id":1193268039,
+    "wof:lastmodified":1551727617,
+    "wof:name":"Mazraat ez Zainati",
+    "wof:parent_id":1108691445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.87110999999999,
+    34.34417,
+    35.87110999999999,
+    34.34417
+],
+  "geometry": {"coordinates":[35.87110999999999,34.34417],"type":"Point"}
+}

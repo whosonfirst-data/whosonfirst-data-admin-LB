@@ -1,0 +1,71 @@
+{
+  "id": 1259973395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.01694,34.50111,36.01694,34.50111",
+    "geom:latitude":34.50111,
+    "geom:longitude":36.01694,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Ouadi ej Jamous",
+    "gn:country_code":"LB",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":266359,
+    "gn:latitude":34.50111,
+    "gn:longitude":36.01694,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ou\u00e2di ej J\u00e2mo\u00fbs",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "W\u0101d\u012b al J\u0101m\u016bs",
+        "Ou\u00e2di ej J\u00e2mo\u00fbs"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673483,
+        1108691407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":266359
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"8a1ff5f5ebd7027b4a4449308a7d266c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691407,
+            "locality_id":1259973395,
+            "region_id":85673483
+        }
+    ],
+    "wof:id":1259973395,
+    "wof:lastmodified":1537661000,
+    "wof:name":"Ouadi ej Jamous",
+    "wof:parent_id":1108691407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.01694000000001,
+    34.50111,
+    36.01694000000001,
+    34.50111
+],
+  "geometry": {"coordinates":[36.01694000000001,34.50111],"type":"Point"}
+}

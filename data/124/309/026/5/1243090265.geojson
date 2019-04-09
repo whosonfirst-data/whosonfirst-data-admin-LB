@@ -1,0 +1,76 @@
+{
+  "id": 1243090265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.63889,33.78889,35.63889,33.78889",
+    "geom:latitude":33.78889,
+    "geom:longitude":35.63889,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Btalloun",
+    "gn:country_code":"LB",
+    "gn:dem":1076,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":276332,
+    "gn:latitude":33.78889,
+    "gn:longitude":35.63889,
+    "gn:modification_date":"2018-03-07",
+    "gn:name":"Btallo\u00fbn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0637\u0644\u0651\u0648\u0646"
+    ],
+    "name:und_x_variant":[
+        "Batlo\u00fbn",
+        "Ba\u0163l\u016bn",
+        "B\u0163all\u016bn",
+        "Btallo\u00fbn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        1108691409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":276332
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"46c940250261b1243cf18d67a74d2256",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691409,
+            "locality_id":1243090265,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1243090265,
+    "wof:lastmodified":1537661148,
+    "wof:name":"Btalloun",
+    "wof:parent_id":1108691409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.63889,
+    33.78889,
+    35.63889,
+    33.78889
+],
+  "geometry": {"coordinates":[35.63889,33.78889],"type":"Point"}
+}

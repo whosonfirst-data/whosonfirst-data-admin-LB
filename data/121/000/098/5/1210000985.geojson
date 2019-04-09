@@ -1,0 +1,82 @@
+{
+  "id": 1210000985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.78404,34.28602,35.78404,34.28602",
+    "geom:latitude":34.28602,
+    "geom:longitude":35.78404,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Dar Chmizzine",
+    "gn:country_code":"LB",
+    "gn:dem":384,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":275764,
+    "gn:latitude":34.28602,
+    "gn:longitude":35.78404,
+    "gn:modification_date":"2018-03-28",
+    "gn:name":"D\u00e2r Chmizz\u00eene",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u0627\u0631 \u0634\u0645\u0632\u064a\u0646"
+    ],
+    "name:ara_x_variant":[
+        "D\u0101r Shimz\u012bn",
+        "\u062f\u0627\u0631 \u0628\u0634\u0645\u0632\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "D\u0101r Shmizz\u012bn",
+        "D\u00e2r Chmezz\u00eene",
+        "Dar Shmizzeen",
+        "D\u00e2r Chmizz\u00eene",
+        "D\u0101r Bishmaz\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        1377074355,
+        1108691423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":275764,
+        "wk:page":"Darchmezzine"
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"a8757e60008d13822713f7d4299dc654",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691423,
+            "locality_id":1210000985,
+            "region_id":1377074355
+        }
+    ],
+    "wof:id":1210000985,
+    "wof:lastmodified":1551727610,
+    "wof:name":"Dar Chmizzine",
+    "wof:parent_id":1108691423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.78404000000001,
+    34.28602,
+    35.78404000000001,
+    34.28602
+],
+  "geometry": {"coordinates":[35.78404000000001,34.28602],"type":"Point"}
+}

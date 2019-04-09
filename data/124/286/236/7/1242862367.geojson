@@ -1,0 +1,71 @@
+{
+  "id": 1242862367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.34722,34.42278,36.34722,34.42278",
+    "geom:latitude":34.42278,
+    "geom:longitude":36.34722,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Jameaa Ouadi Zighrine",
+    "gn:country_code":"LB",
+    "gn:dem":1094,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":273488,
+    "gn:latitude":34.42278,
+    "gn:longitude":36.34722,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"J\u00e2meaa Ou\u00e2di Zighr\u00eene",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "J\u0101mi\u2018 W\u0101d\u012b Zighr\u012bn",
+        "J\u00e2meaa Ou\u00e2di Zighr\u00eene"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673479,
+        1108691421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":273488
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"2660ef260ba17462cbdabffc0d125e80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691421,
+            "locality_id":1242862367,
+            "region_id":85673479
+        }
+    ],
+    "wof:id":1242862367,
+    "wof:lastmodified":1537661095,
+    "wof:name":"Jameaa Ouadi Zighrine",
+    "wof:parent_id":1108691421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.34722,
+    34.42278,
+    36.34722,
+    34.42278
+],
+  "geometry": {"coordinates":[36.34722,34.42278],"type":"Point"}
+}

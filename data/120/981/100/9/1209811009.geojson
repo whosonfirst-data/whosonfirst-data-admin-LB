@@ -1,0 +1,76 @@
+{
+  "id": 1209811009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.84333,33.64417,35.84333,33.64417",
+    "geom:latitude":33.64417,
+    "geom:longitude":35.84333,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Soultane Yaaqoub et Tahta",
+    "gn:country_code":"LB",
+    "gn:dem":934,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":277960,
+    "gn:latitude":33.64417,
+    "gn:longitude":35.84333,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Soult\u00e2ne Yaaqo\u00fbb et Tahta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0633\u0644\u0637\u0627\u0646 \u064a\u0639\u0642\u0648\u0628 \u0627\u0644\u062a\u062d\u062a\u0627"
+    ],
+    "name:und_x_variant":[
+        "Es-Sultan Ya\u2018qoub et-Tahta",
+        "As Sul\u0163\u0101n Ya\u2018q\u016bb",
+        "As Sul\u0163\u0101n Ya\u2018q\u016bb at Ta\u1e29t\u0101",
+        "Soult\u00e2ne Yaaqo\u00fbb et Tahta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        1377074351,
+        421173359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":277960
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"7b41f26a8a5afffd55476bfbb37681a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421173359,
+            "locality_id":1209811009,
+            "region_id":1377074351
+        }
+    ],
+    "wof:id":1209811009,
+    "wof:lastmodified":1551727601,
+    "wof:name":"Soultane Yaaqoub et Tahta",
+    "wof:parent_id":421173359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.84333,
+    33.64417,
+    35.84333,
+    33.64417
+],
+  "geometry": {"coordinates":[35.84333,33.64417],"type":"Point"}
+}

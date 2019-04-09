@@ -1,0 +1,71 @@
+{
+  "id": 1293906165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.73083,33.99167,35.73083,33.99167",
+    "geom:latitude":33.99167,
+    "geom:longitude":35.73083,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Es Souane",
+    "gn:country_code":"LB",
+    "gn:dem":1190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":278011,
+    "gn:latitude":33.99167,
+    "gn:longitude":35.73083,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Es Sou\u00e2n\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u015f \u015eaww\u0101nah",
+        "Es Sou\u00e2n\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        421172015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":278011
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"b3071d5e39dbb6185d9efd12bd6f7f9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421172015,
+            "locality_id":1293906165,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1293906165,
+    "wof:lastmodified":1537661201,
+    "wof:name":"Es Souane",
+    "wof:parent_id":421172015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.73083,
+    33.99167,
+    35.73083,
+    33.99167
+],
+  "geometry": {"coordinates":[35.73083,33.99167],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1293667187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.33361,34.36222,36.33361,34.36222",
+    "geom:latitude":34.36222,
+    "geom:longitude":36.33361,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Mrah el Ballout",
+    "gn:country_code":"LB",
+    "gn:dem":1100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":271590,
+    "gn:latitude":34.36222,
+    "gn:longitude":36.33361,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mr\u00e2h el Ballo\u00fbt",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mar\u0101\u1e29 al Ball\u016b\u0163",
+        "Mr\u00e2h el Ballo\u00fbt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673479,
+        1108691421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":271590
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"77252bbf391e7b6779bc4692e838411c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691421,
+            "locality_id":1293667187,
+            "region_id":85673479
+        }
+    ],
+    "wof:id":1293667187,
+    "wof:lastmodified":1537661066,
+    "wof:name":"Mrah el Ballout",
+    "wof:parent_id":1108691421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.33361,
+    34.36222,
+    36.33361,
+    34.36222
+],
+  "geometry": {"coordinates":[36.33361,34.36222],"type":"Point"}
+}

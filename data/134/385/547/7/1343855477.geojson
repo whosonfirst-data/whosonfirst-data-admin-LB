@@ -1,0 +1,78 @@
+{
+  "id": 1343855477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.21038,33.17293,35.21038,33.17293",
+    "geom:latitude":33.17293,
+    "geom:longitude":35.21038,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Mrah el Aaqbe",
+    "gn:country_code":"LB",
+    "gn:dem":103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":278784,
+    "gn:latitude":33.17293,
+    "gn:longitude":35.21038,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Mr\u00e2h el Aaqb\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0631\u0627\u062d \u0639\u0642\u0628\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u0645\u0631\u0627\u062d \u0627\u0644\u0639\u0642\u0628\u0629"
+    ],
+    "name:und_x_variant":[
+        "Mar\u0101\u1e29 al \u2018Aqabah",
+        "Mr\u00e2h el Aaqb\u00e9",
+        "Mar\u0101\u1e29 \u2018Aqabah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673499,
+        1108691441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":278784
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"2c7a7ac959fc80eec08576316c1629ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691441,
+            "locality_id":1343855477,
+            "region_id":85673499
+        }
+    ],
+    "wof:id":1343855477,
+    "wof:lastmodified":1537661217,
+    "wof:name":"Mrah el Aaqbe",
+    "wof:parent_id":1108691441,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.21038,
+    33.17293,
+    35.21038,
+    33.17293
+],
+  "geometry": {"coordinates":[35.21038,33.17293],"type":"Point"}
+}

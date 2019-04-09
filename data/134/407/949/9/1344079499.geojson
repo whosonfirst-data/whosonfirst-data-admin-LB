@@ -1,0 +1,71 @@
+{
+  "id": 1344079499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.74417,34.06806,35.74417,34.06806",
+    "geom:latitude":34.06806,
+    "geom:longitude":35.74417,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"En Naoussa",
+    "gn:country_code":"LB",
+    "gn:dem":589,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":278815,
+    "gn:latitude":34.06806,
+    "gn:longitude":35.74417,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"En Naouss\u00e2",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "An Naws\u0101",
+        "En Naouss\u00e2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        421172015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":278815
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"2b2dc2d139e5707a5481b5ed31601b3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421172015,
+            "locality_id":1344079499,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1344079499,
+    "wof:lastmodified":1537661218,
+    "wof:name":"En Naoussa",
+    "wof:parent_id":421172015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.74417000000001,
+    34.06806,
+    35.74417000000001,
+    34.06806
+],
+  "geometry": {"coordinates":[35.74417000000001,34.06806],"type":"Point"}
+}

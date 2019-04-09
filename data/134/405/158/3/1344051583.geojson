@@ -1,0 +1,71 @@
+{
+  "id": 1344051583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.98083,34.23806,35.98083,34.23806",
+    "geom:latitude":34.23806,
+    "geom:longitude":35.98083,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Kezbar",
+    "gn:country_code":"LB",
+    "gn:dem":1421,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":272673,
+    "gn:latitude":34.23806,
+    "gn:longitude":35.98083,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kezbar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kazbar",
+        "Kezbar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673483,
+        1108691411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":272673
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"12f7a88b4f703615529b43a939a28c29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691411,
+            "locality_id":1344051583,
+            "region_id":85673483
+        }
+    ],
+    "wof:id":1344051583,
+    "wof:lastmodified":1537661077,
+    "wof:name":"Kezbar",
+    "wof:parent_id":1108691411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.98083,
+    34.23806,
+    35.98083,
+    34.23806
+],
+  "geometry": {"coordinates":[35.98083,34.23806],"type":"Point"}
+}

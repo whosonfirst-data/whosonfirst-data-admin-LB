@@ -1,0 +1,71 @@
+{
+  "id": 1276210219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.12389,34.58972,36.12389,34.58972",
+    "geom:latitude":34.58972,
+    "geom:longitude":36.12389,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Saidnaya",
+    "gn:country_code":"LB",
+    "gn:dem":223,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":268060,
+    "gn:latitude":34.58972,
+    "gn:longitude":36.12389,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sa\u00efdn\u00e2y\u00e2",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u015eaydn\u0101y\u0101",
+        "Sa\u00efdn\u00e2y\u00e2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673483,
+        1108691407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":268060
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"7a6871ccd8b896bb93d77557f29d5f8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691407,
+            "locality_id":1276210219,
+            "region_id":85673483
+        }
+    ],
+    "wof:id":1276210219,
+    "wof:lastmodified":1537661019,
+    "wof:name":"Saidnaya",
+    "wof:parent_id":1108691407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.12389,
+    34.58972,
+    36.12389,
+    34.58972
+],
+  "geometry": {"coordinates":[36.12389,34.58972],"type":"Point"}
+}

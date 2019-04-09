@@ -1,0 +1,74 @@
+{
+  "id": 1260260939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.11167,33.87306,36.11167,33.87306",
+    "geom:latitude":33.87306,
+    "geom:longitude":36.11167,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"En Nabi Chit",
+    "gn:country_code":"LB",
+    "gn:dem":1202,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":278875,
+    "gn:latitude":33.87306,
+    "gn:longitude":36.11167,
+    "gn:modification_date":"2018-03-30",
+    "gn:name":"En Nabi Ch\u00eet",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "An Nab\u012b Sh\u012bt",
+        "En Nabi Ch\u00eet",
+        "Nabi Chit",
+        "Al-Nabi Shayth"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673479,
+        421171405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":278875,
+        "wk:page":"Al-Nabi_Shayth"
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"c83e7a9c1406f5c573e92efca9e5e5d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421171405,
+            "locality_id":1260260939,
+            "region_id":85673479
+        }
+    ],
+    "wof:id":1260260939,
+    "wof:lastmodified":1537661220,
+    "wof:name":"En Nabi Chit",
+    "wof:parent_id":421171405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.11167,
+    33.87306,
+    36.11167,
+    33.87306
+],
+  "geometry": {"coordinates":[36.11167,33.87306],"type":"Point"}
+}

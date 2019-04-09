@@ -1,0 +1,68 @@
+{
+  "id": 1310186211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.20694,34.16694,36.20694,34.16694",
+    "geom:latitude":34.16694,
+    "geom:longitude":36.20694,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Qarha",
+    "gn:country_code":"LB",
+    "gn:dem":1166,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":269305,
+    "gn:latitude":34.16694,
+    "gn:longitude":36.20694,
+    "gn:modification_date":"2018-04-06",
+    "gn:name":"Qarha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673479,
+        421171405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":269305,
+        "wk:page":"Qarha,_Baalbek_District"
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"8b18064caa234d5860b503bc414ac2c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421171405,
+            "locality_id":1310186211,
+            "region_id":85673479
+        }
+    ],
+    "wof:id":1310186211,
+    "wof:lastmodified":1537567927,
+    "wof:name":"Qarha",
+    "wof:parent_id":421171405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.20694,
+    34.16694,
+    36.20694,
+    34.16694
+],
+  "geometry": {"coordinates":[36.20694,34.16694],"type":"Point"}
+}

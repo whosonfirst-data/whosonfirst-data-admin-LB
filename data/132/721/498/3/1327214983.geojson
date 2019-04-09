@@ -1,0 +1,71 @@
+{
+  "id": 1327214983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.03444,34.03528,36.03444,34.03528",
+    "geom:latitude":34.03528,
+    "geom:longitude":36.03444,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Mazraat ed Dhour",
+    "gn:country_code":"LB",
+    "gn:dem":1183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":270708,
+    "gn:latitude":34.03528,
+    "gn:longitude":36.03444,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mazraat ed Dho\u00fbr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mazra\u2018at a\u1e11 \u1e10uh\u016br",
+        "Mazraat ed Dho\u00fbr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673479,
+        421171405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":270708
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"a532b97e884765b766cabdc1a618de30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421171405,
+            "locality_id":1327214983,
+            "region_id":85673479
+        }
+    ],
+    "wof:id":1327214983,
+    "wof:lastmodified":1537661054,
+    "wof:name":"Mazraat ed Dhour",
+    "wof:parent_id":421171405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.03444,
+    34.03528,
+    36.03444,
+    34.03528
+],
+  "geometry": {"coordinates":[36.03444,34.03528],"type":"Point"}
+}

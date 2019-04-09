@@ -1,0 +1,74 @@
+{
+  "id": 1327255897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.43389,33.53361,35.43389,33.53361",
+    "geom:latitude":33.53361,
+    "geom:longitude":35.43389,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"El Mghariq",
+    "gn:country_code":"LB",
+    "gn:dem":316,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":435189,
+    "gn:latitude":33.53361,
+    "gn:longitude":35.43389,
+    "gn:modification_date":"2018-01-11",
+    "gn:name":"El Mgh\u00e2r\u00eeq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u063a\u0627\u0631\u064a\u0642"
+    ],
+    "name:und_x_variant":[
+        "El Mgh\u00e2r\u00eeq",
+        "Al Magh\u0101r\u012bq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673499,
+        1108691435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":435189
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"abd0d14b2e1d2701afa06320dbee1723",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691435,
+            "locality_id":1327255897,
+            "region_id":85673499
+        }
+    ],
+    "wof:id":1327255897,
+    "wof:lastmodified":1537661303,
+    "wof:name":"El Mghariq",
+    "wof:parent_id":1108691435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.43389000000001,
+    33.53361,
+    35.43389000000001,
+    33.53361
+],
+  "geometry": {"coordinates":[35.43389000000001,33.53361],"type":"Point"}
+}

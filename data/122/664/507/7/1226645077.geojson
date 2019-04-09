@@ -1,0 +1,71 @@
+{
+  "id": 1226645077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.65667,33.99944,35.65667,33.99944",
+    "geom:latitude":33.99944,
+    "geom:longitude":35.65667,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Chamsine",
+    "gn:country_code":"LB",
+    "gn:dem":201,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":267681,
+    "gn:latitude":33.99944,
+    "gn:longitude":35.65667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Chams\u00eene",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shams\u012bn",
+        "Chams\u00eene"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        421172015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":267681
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"fabc455d882e20f33ba279246f447ef5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421172015,
+            "locality_id":1226645077,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1226645077,
+    "wof:lastmodified":1537661017,
+    "wof:name":"Chamsine",
+    "wof:parent_id":421172015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.65667,
+    33.99944,
+    35.65667,
+    33.99944
+],
+  "geometry": {"coordinates":[35.65667,33.99944],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1343945879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.30333,34.30361,36.30333,34.30361",
+    "geom:latitude":34.30361,
+    "geom:longitude":36.30333,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Mrah Hsain Taane",
+    "gn:country_code":"LB",
+    "gn:dem":1250,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":271473,
+    "gn:latitude":34.30361,
+    "gn:longitude":36.30333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mr\u00e2h Hsa\u00efn Ta\u00e2ne",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mar\u0101\u1e29 \u1e28usayn \u0162a\u2018\u2018\u0101n",
+        "Mr\u00e2h Hsa\u00efn Ta\u00e2ne"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673479,
+        1108691421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":271473
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"841cee938135472c2bb2893045dedaeb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691421,
+            "locality_id":1343945879,
+            "region_id":85673479
+        }
+    ],
+    "wof:id":1343945879,
+    "wof:lastmodified":1537661062,
+    "wof:name":"Mrah Hsain Taane",
+    "wof:parent_id":1108691421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.30333,
+    34.30361,
+    36.30333,
+    34.30361
+],
+  "geometry": {"coordinates":[36.30333,34.30361],"type":"Point"}
+}

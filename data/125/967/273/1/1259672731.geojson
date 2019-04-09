@@ -1,0 +1,71 @@
+{
+  "id": 1259672731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.00667,34.61722,36.00667,34.61722",
+    "geom:latitude":34.61722,
+    "geom:longitude":36.00667,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Tell Bibi",
+    "gn:country_code":"LB",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":266887,
+    "gn:latitude":34.61722,
+    "gn:longitude":36.00667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tell B\u00eeb\u00ee",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tall B\u012bb\u012b",
+        "Tell B\u00eeb\u00ee"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673483,
+        1108691407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":266887
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"082b04ca78dc2238d6a78a85bc86fcea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691407,
+            "locality_id":1259672731,
+            "region_id":85673483
+        }
+    ],
+    "wof:id":1259672731,
+    "wof:lastmodified":1537661006,
+    "wof:name":"Tell Bibi",
+    "wof:parent_id":1108691407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.00667,
+    34.61722,
+    36.00667,
+    34.61722
+],
+  "geometry": {"coordinates":[36.00667,34.61722],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1326529193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.70667,34.05222,35.70667,34.05222",
+    "geom:latitude":34.05222,
+    "geom:longitude":35.70667,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Haret Hillene",
+    "gn:country_code":"LB",
+    "gn:dem":667,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":274426,
+    "gn:latitude":34.05222,
+    "gn:longitude":35.70667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"H\u00e2ret Hill\u00eane",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1e28\u0101rat \u1e28ayl\u0101n",
+        "H\u00e2ret Hill\u00eane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        421172015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":274426
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"39d8ea750ab6a2006bb10a3f27fab6fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421172015,
+            "locality_id":1326529193,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1326529193,
+    "wof:lastmodified":1537661114,
+    "wof:name":"Haret Hillene",
+    "wof:parent_id":421172015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.70667,
+    34.05222,
+    35.70667,
+    34.05222
+],
+  "geometry": {"coordinates":[35.70667,34.05222],"type":"Point"}
+}

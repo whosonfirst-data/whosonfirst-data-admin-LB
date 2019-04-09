@@ -1,0 +1,74 @@
+{
+  "id": 1209908953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.48889,33.52722,35.48889,33.52722",
+    "geom:latitude":33.52722,
+    "geom:longitude":35.48889,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Sollom",
+    "gn:country_code":"LB",
+    "gn:dem":431,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":267048,
+    "gn:latitude":33.52722,
+    "gn:longitude":35.48889,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Sollom",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u0644\u0651\u0645"
+    ],
+    "name:und_x_variant":[
+        "Sullum",
+        "Sollom"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673499,
+        890451987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":267048
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"ef05f3ff7b924962299812fd76f4ebfb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":890451987,
+            "locality_id":1209908953,
+            "region_id":85673499
+        }
+    ],
+    "wof:id":1209908953,
+    "wof:lastmodified":1537661008,
+    "wof:name":"Sollom",
+    "wof:parent_id":890451987,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.48889000000001,
+    33.52722,
+    35.48889000000001,
+    33.52722
+],
+  "geometry": {"coordinates":[35.48889000000001,33.52722],"type":"Point"}
+}

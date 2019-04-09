@@ -1,0 +1,72 @@
+{
+  "id": 1259371981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.06306,34.52361,36.06306,34.52361",
+    "geom:latitude":34.52361,
+    "geom:longitude":36.06306,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Mazraat el Ghattas",
+    "gn:country_code":"LB",
+    "gn:dem":188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":270694,
+    "gn:latitude":34.52361,
+    "gn:longitude":36.06306,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"M\u00e2zraat el Ghatt\u00e2s",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Beit Ghattas",
+        "Mazra\u2018at al Gha\u0163\u0163\u0101s",
+        "M\u00e2zraat el Ghatt\u00e2s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673483,
+        1108691407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":270694
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"5da05d632104644d5005c4c41fb7de23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691407,
+            "locality_id":1259371981,
+            "region_id":85673483
+        }
+    ],
+    "wof:id":1259371981,
+    "wof:lastmodified":1537661053,
+    "wof:name":"Mazraat el Ghattas",
+    "wof:parent_id":1108691407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.06306,
+    34.52361,
+    36.06306,
+    34.52361
+],
+  "geometry": {"coordinates":[36.06306,34.52361],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1259581007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.82528,33.79556,35.82528,33.79556",
+    "geom:latitude":33.79556,
+    "geom:longitude":35.82528,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Tariq ej Jdide",
+    "gn:country_code":"LB",
+    "gn:dem":914,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":266813,
+    "gn:latitude":33.79556,
+    "gn:longitude":35.82528,
+    "gn:modification_date":"2018-03-07",
+    "gn:name":"Tariq ej Jd\u00eed\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0637\u0631\u064a\u0642 \u0627\u0644\u062c\u062f\u064a\u062f\u0629"
+    ],
+    "name:und_x_variant":[
+        "\u0162ar\u012bq al Jad\u012bdah",
+        "Tariq ej Jd\u00eed\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673479,
+        421172017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":266813
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"f3cc1b7042c384fe00b4fd93b9dd866a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421172017,
+            "locality_id":1259581007,
+            "region_id":85673479
+        }
+    ],
+    "wof:id":1259581007,
+    "wof:lastmodified":1537661004,
+    "wof:name":"Tariq ej Jdide",
+    "wof:parent_id":421172017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.82528,
+    33.79555999999999,
+    35.82528,
+    33.79555999999999
+],
+  "geometry": {"coordinates":[35.82528,33.79555999999999],"type":"Point"}
+}

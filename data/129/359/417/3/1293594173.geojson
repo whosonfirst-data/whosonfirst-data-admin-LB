@@ -1,0 +1,71 @@
+{
+  "id": 1293594173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.71861,33.97389,35.71861,33.97389",
+    "geom:latitude":33.97389,
+    "geom:longitude":35.71861,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Bir ech Chouhada",
+    "gn:country_code":"LB",
+    "gn:dem":1037,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":276544,
+    "gn:latitude":33.97389,
+    "gn:longitude":35.71861,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"B\u00eer ech Chouhada",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bi\u2019r ash Shuhad\u0101\u2019",
+        "B\u00eer ech Chouhada"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        421172015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":276544
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"e77ce0f5584c33ec1b1e403795fba0a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421172015,
+            "locality_id":1293594173,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1293594173,
+    "wof:lastmodified":1537661159,
+    "wof:name":"Bir ech Chouhada",
+    "wof:parent_id":421172015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.71861,
+    33.97389,
+    35.71861,
+    33.97389
+],
+  "geometry": {"coordinates":[35.71861,33.97389],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1326850365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.76194,33.46583,35.76194,33.46583",
+    "geom:latitude":33.46583,
+    "geom:longitude":35.76194,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Mraymis",
+    "gn:country_code":"LB",
+    "gn:dem":806,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6253819,
+    "gn:latitude":33.46583,
+    "gn:longitude":35.76194,
+    "gn:modification_date":"2018-01-11",
+    "gn:name":"Mraym\u00ees",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0631\u064a\u0645\u0633"
+    ],
+    "name:und_x_variant":[
+        "Mraym\u00ees",
+        "Muraymis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673479,
+        1108691439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6253819
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"c96df64b8d1b087bfbbe9cceca387c28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691439,
+            "locality_id":1326850365,
+            "region_id":85673479
+        }
+    ],
+    "wof:id":1326850365,
+    "wof:lastmodified":1537661305,
+    "wof:name":"Mraymis",
+    "wof:parent_id":1108691439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.76194,
+    33.46583,
+    35.76194,
+    33.46583
+],
+  "geometry": {"coordinates":[35.76194,33.46583],"type":"Point"}
+}

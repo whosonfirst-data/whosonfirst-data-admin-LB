@@ -1,0 +1,76 @@
+{
+  "id": 1193157017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.65556,33.43694,35.65556,33.43694",
+    "geom:latitude":33.43694,
+    "geom:longitude":35.65556,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Qelia",
+    "gn:country_code":"LB",
+    "gn:dem":662,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":269089,
+    "gn:latitude":33.43694,
+    "gn:longitude":35.65556,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Qelia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0644\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "El Qilya",
+        "Qily\u0101",
+        "Qelia",
+        "Qilyah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        1377074351,
+        421173359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":269089
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"0ffdb69b976151b3d67b889df5bdef6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421173359,
+            "locality_id":1193157017,
+            "region_id":1377074351
+        }
+    ],
+    "wof:id":1193157017,
+    "wof:lastmodified":1551727600,
+    "wof:name":"Qelia",
+    "wof:parent_id":421173359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.65555999999999,
+    33.43694,
+    35.65555999999999,
+    33.43694
+],
+  "geometry": {"coordinates":[35.65555999999999,33.43694],"type":"Point"}
+}

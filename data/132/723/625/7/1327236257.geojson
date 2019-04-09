@@ -1,0 +1,73 @@
+{
+  "id": 1327236257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.56611,33.82167,35.56611,33.82167",
+    "geom:latitude":33.82167,
+    "geom:longitude":35.56611,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Haret es Sitt",
+    "gn:country_code":"LB",
+    "gn:dem":195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6273763,
+    "gn:latitude":33.82167,
+    "gn:longitude":35.56611,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Haret es Sitt",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0627\u0631\u0629 \u0627\u0644\u0633\u062a"
+    ],
+    "name:und_x_variant":[
+        "\u1e28\u0101rat as Sitt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        1108691409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6273763
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"c55f94d96cc7b1e3f1fc9c8291121571",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691409,
+            "locality_id":1327236257,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1327236257,
+    "wof:lastmodified":1537661309,
+    "wof:name":"Haret es Sitt",
+    "wof:parent_id":1108691409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.56610999999999,
+    33.82167,
+    35.56610999999999,
+    33.82167
+],
+  "geometry": {"coordinates":[35.56610999999999,33.82167],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293691587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.51,33.83139,35.51,33.83139",
+    "geom:latitude":33.83139,
+    "geom:longitude":35.51,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Tahouitit el Ghadir",
+    "gn:country_code":"LB",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6273705,
+    "gn:latitude":33.83139,
+    "gn:longitude":35.51,
+    "gn:modification_date":"2006-08-23",
+    "gn:name":"Tahouitit el Ghad\u00eer",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        421202301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6273705
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"a3c6cc0bd0351b8a6414cb3b794e295e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421202301,
+            "locality_id":1293691587,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1293691587,
+    "wof:lastmodified":1536989214,
+    "wof:name":"Tahouitit el Ghadir",
+    "wof:parent_id":421202301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.51,
+    33.83139,
+    35.51,
+    33.83139
+],
+  "geometry": {"coordinates":[35.51,33.83139],"type":"Point"}
+}

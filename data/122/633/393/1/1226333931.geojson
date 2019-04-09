@@ -1,0 +1,79 @@
+{
+  "id": 1226333931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.70796,33.39663,35.70796,33.39663",
+    "geom:latitude":33.39663,
+    "geom:longitude":35.70796,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ain Qenia",
+    "gn:country_code":"LB",
+    "gn:dem":998,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":277426,
+    "gn:latitude":33.39663,
+    "gn:longitude":35.70796,
+    "gn:modification_date":"2013-04-04",
+    "gn:name":"A\u00efn Q\u00e9nia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u064a\u0646 \u0642\u0646\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "\u2018Ayn Qan\u012byah",
+        "A\u00efn Keria",
+        "Ank\u00e9nia",
+        "\u2018Ain Qinia",
+        "\u2018Ayn Qinyah",
+        "\u2018Ayn Qiny\u0101",
+        "A\u00efn Q\u00e9nia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673495,
+        1108691431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":277426
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"e5add8cfb0a473796c23ff2123eee2fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691431,
+            "locality_id":1226333931,
+            "region_id":85673495
+        }
+    ],
+    "wof:id":1226333931,
+    "wof:lastmodified":1537661185,
+    "wof:name":"Ain Qenia",
+    "wof:parent_id":1108691431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.70796,
+    33.39663,
+    35.70796,
+    33.39663
+],
+  "geometry": {"coordinates":[35.70796,33.39663],"type":"Point"}
+}

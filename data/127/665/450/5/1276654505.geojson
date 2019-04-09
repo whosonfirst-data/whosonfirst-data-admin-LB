@@ -1,0 +1,75 @@
+{
+  "id": 1276654505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.52667,33.54833,35.52667,33.54833",
+    "geom:latitude":33.54833,
+    "geom:longitude":35.52667,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Roum",
+    "gn:country_code":"LB",
+    "gn:dem":900,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":268596,
+    "gn:latitude":33.54833,
+    "gn:longitude":35.52667,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Ro\u00fbm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0631\u0648\u0645"
+    ],
+    "name:und_x_variant":[
+        "Dar Raml\u00e9",
+        "Ro\u00fbm",
+        "R\u016bm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673499,
+        1108691435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":268596
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"8a28f04549ce25a019fb51802d08244c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691435,
+            "locality_id":1276654505,
+            "region_id":85673499
+        }
+    ],
+    "wof:id":1276654505,
+    "wof:lastmodified":1537661023,
+    "wof:name":"Roum",
+    "wof:parent_id":1108691435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.52667,
+    33.54833,
+    35.52667,
+    33.54833
+],
+  "geometry": {"coordinates":[35.52667,33.54833],"type":"Point"}
+}

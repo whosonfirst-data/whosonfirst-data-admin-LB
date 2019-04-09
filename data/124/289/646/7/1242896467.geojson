@@ -1,0 +1,74 @@
+{
+  "id": 1242896467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.68389,33.98806,35.68389,33.98806",
+    "geom:latitude":33.98806,
+    "geom:longitude":35.68389,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Bzoummar",
+    "gn:country_code":"LB",
+    "gn:dem":967,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":275979,
+    "gn:latitude":33.98806,
+    "gn:longitude":35.68389,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bzoumm\u00e2r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Buzumar",
+        "Buzumm\u0101r",
+        "Bzumm\u0101r",
+        "Bzoumm\u00e2r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        421172015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":275979,
+        "wk:page":"Bzoummar"
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"010c019cbcb98aa4d9dcdd182d3b4417",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421172015,
+            "locality_id":1242896467,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1242896467,
+    "wof:lastmodified":1537661142,
+    "wof:name":"Bzoummar",
+    "wof:parent_id":421172015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.68389000000001,
+    33.98806,
+    35.68389000000001,
+    33.98806
+],
+  "geometry": {"coordinates":[35.68389000000001,33.98806],"type":"Point"}
+}

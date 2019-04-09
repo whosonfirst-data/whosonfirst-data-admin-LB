@@ -1,0 +1,74 @@
+{
+  "id": 1259488019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.42297,33.68394,35.42297,33.68394",
+    "geom:latitude":33.68394,
+    "geom:longitude":35.42297,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Maqsaba",
+    "gn:country_code":"LB",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":271663,
+    "gn:latitude":33.68394,
+    "gn:longitude":35.42297,
+    "gn:modification_date":"2013-04-04",
+    "gn:name":"Maqsaba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0642\u0635\u0628\u0629"
+    ],
+    "name:und_x_variant":[
+        "Maq\u015fabah",
+        "Maqsaba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        1108691419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":271663
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"8e298c0f39fe82d0781996e236092294",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691419,
+            "locality_id":1259488019,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1259488019,
+    "wof:lastmodified":1537661067,
+    "wof:name":"Maqsaba",
+    "wof:parent_id":1108691419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.42297,
+    33.68394,
+    35.42297,
+    33.68394
+],
+  "geometry": {"coordinates":[35.42297,33.68394],"type":"Point"}
+}

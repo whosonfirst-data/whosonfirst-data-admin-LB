@@ -1,0 +1,74 @@
+{
+  "id": 1226539127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.68444,33.8225,35.68444,33.8225",
+    "geom:latitude":33.8225,
+    "geom:longitude":35.68444,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Deir Mar Youhanna",
+    "gn:country_code":"LB",
+    "gn:dem":590,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":275610,
+    "gn:latitude":33.8225,
+    "gn:longitude":35.68444,
+    "gn:modification_date":"2018-03-07",
+    "gn:name":"De\u00efr M\u00e2r Yo\u00fbhanna",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u064a\u0631 \u0645\u0627\u0631 \u064a\u0648\u062d\u0646\u0627"
+    ],
+    "name:und_x_variant":[
+        "Dayr M\u0101r Y\u016b\u1e29ann\u0101",
+        "De\u00efr M\u00e2r Yo\u00fbhanna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        421202301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":275610
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"c8bea34a716d17c58dabbbb29e890c35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421202301,
+            "locality_id":1226539127,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1226539127,
+    "wof:lastmodified":1537661134,
+    "wof:name":"Deir Mar Youhanna",
+    "wof:parent_id":421202301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.68444,
+    33.8225,
+    35.68444,
+    33.8225
+],
+  "geometry": {"coordinates":[35.68444,33.8225],"type":"Point"}
+}

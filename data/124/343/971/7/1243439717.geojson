@@ -1,0 +1,79 @@
+{
+  "id": 1243439717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.67028,33.56139,35.67028,33.56139",
+    "geom:latitude":33.56139,
+    "geom:longitude":35.67028,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Aaitanit",
+    "gn:country_code":"LB",
+    "gn:dem":1051,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":277367,
+    "gn:latitude":33.56139,
+    "gn:longitude":35.67028,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Aa\u00eftan\u00eet",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u064a\u062a\u0646\u064a\u062a"
+    ],
+    "name:und_x_variant":[
+        "\u2018Ayn Tan\u012bt",
+        "\u2018Aitaneet",
+        "\u2018Aytan\u012bt",
+        "A\u00eftan\u00eet",
+        "A\u00eftan\u00eete",
+        "Aa\u00eftan\u00eet"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673479,
+        421173359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":277367,
+        "wk:page":"Aitanite"
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"c7fb985333c178f7243f69178cd1dc0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421173359,
+            "locality_id":1243439717,
+            "region_id":85673479
+        }
+    ],
+    "wof:id":1243439717,
+    "wof:lastmodified":1537661182,
+    "wof:name":"Aaitanit",
+    "wof:parent_id":421173359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.67028,
+    33.56139,
+    35.67028,
+    33.56139
+],
+  "geometry": {"coordinates":[35.67028,33.56139],"type":"Point"}
+}

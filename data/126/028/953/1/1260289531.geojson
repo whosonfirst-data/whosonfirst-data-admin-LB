@@ -1,0 +1,76 @@
+{
+  "id": 1260289531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.66361,33.78778,35.66361,33.78778",
+    "geom:latitude":33.78778,
+    "geom:longitude":35.66361,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Chanai",
+    "gn:country_code":"LB",
+    "gn:dem":1130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":267672,
+    "gn:latitude":33.78778,
+    "gn:longitude":35.66361,
+    "gn:modification_date":"2018-03-29",
+    "gn:name":"Ch\u00e2na\u00ef",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0634\u0627\u0646\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Sh\u0101nayh",
+        "Ch\u00e2na\u00ef",
+        "Sh\u0101niyah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        1108691409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":267672,
+        "wk:page":"Chanay"
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"e253c08afb29633eed5863257215314e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691409,
+            "locality_id":1260289531,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1260289531,
+    "wof:lastmodified":1537661017,
+    "wof:name":"Chanai",
+    "wof:parent_id":1108691409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.66361,
+    33.78778,
+    35.66361,
+    33.78778
+],
+  "geometry": {"coordinates":[35.66361,33.78778],"type":"Point"}
+}

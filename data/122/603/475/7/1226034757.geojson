@@ -1,0 +1,75 @@
+{
+  "id": 1226034757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.82201,34.25158,35.82201,34.25158",
+    "geom:latitude":34.25158,
+    "geom:longitude":35.82201,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Deir Billa",
+    "gn:country_code":"LB",
+    "gn:dem":731,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":275640,
+    "gn:latitude":34.25158,
+    "gn:longitude":35.82201,
+    "gn:modification_date":"2014-03-08",
+    "gn:name":"De\u00efr Billa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u064a\u0631 \u0628\u0644\u0627"
+    ],
+    "name:und_x_variant":[
+        "Dayr Bililah",
+        "Dayr Bill\u0101",
+        "De\u00efr Billa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        1377074355,
+        421204111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":275640
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"f3cbd66a958dc1388c0919b30097fb91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421204111,
+            "locality_id":1226034757,
+            "region_id":1377074355
+        }
+    ],
+    "wof:id":1226034757,
+    "wof:lastmodified":1551727624,
+    "wof:name":"Deir Billa",
+    "wof:parent_id":421204111,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.82201,
+    34.25158,
+    35.82201,
+    34.25158
+],
+  "geometry": {"coordinates":[35.82201,34.25158],"type":"Point"}
+}

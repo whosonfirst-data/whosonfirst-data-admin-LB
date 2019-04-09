@@ -1,0 +1,71 @@
+{
+  "id": 1242761613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.28083,34.57889,36.28083,34.57889",
+    "geom:latitude":34.57889,
+    "geom:longitude":36.28083,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Haret esh Sharqiye",
+    "gn:country_code":"LB",
+    "gn:dem":563,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":268307,
+    "gn:latitude":34.57889,
+    "gn:longitude":36.28083,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Haret esh Sharqiy\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sak\u0101k\u012b",
+        "Haret esh Sharqiy\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673483,
+        1108691407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":268307
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"9a15a5844f14600f448c3d10a6539a2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691407,
+            "locality_id":1242761613,
+            "region_id":85673483
+        }
+    ],
+    "wof:id":1242761613,
+    "wof:lastmodified":1537661021,
+    "wof:name":"Haret esh Sharqiye",
+    "wof:parent_id":1108691407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.28083,
+    34.57889,
+    36.28083,
+    34.57889
+],
+  "geometry": {"coordinates":[36.28083,34.57889],"type":"Point"}
+}

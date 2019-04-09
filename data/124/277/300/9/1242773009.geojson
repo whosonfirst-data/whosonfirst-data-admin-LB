@@ -1,0 +1,72 @@
+{
+  "id": 1242773009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.21806,34.52389,36.21806,34.52389",
+    "geom:latitude":34.52389,
+    "geom:longitude":36.21806,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Shaqdouf Aakkar",
+    "gn:country_code":"LB",
+    "gn:dem":959,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":267668,
+    "gn:latitude":34.52389,
+    "gn:longitude":36.21806,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Shaqdouf Aakkar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chaqdouf Aakkar",
+        "Shaqd\u016bf \u2018Akk\u0101r",
+        "Shaqdouf Aakkar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        1377074357,
+        1108691407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":267668
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"66b848e5943478ab3ecad4a62e517ed1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691407,
+            "locality_id":1242773009,
+            "region_id":1377074357
+        }
+    ],
+    "wof:id":1242773009,
+    "wof:lastmodified":1551727669,
+    "wof:name":"Shaqdouf Aakkar",
+    "wof:parent_id":1108691407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.21806,
+    34.52389,
+    36.21806,
+    34.52389
+],
+  "geometry": {"coordinates":[36.21806,34.52389],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1209510933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.66667,34.26667,35.66667,34.26667",
+    "geom:latitude":34.26667,
+    "geom:longitude":35.66667,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Dayr Mar Yusuf",
+    "gn:country_code":"LB",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":275605,
+    "gn:latitude":34.26667,
+    "gn:longitude":35.66667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dayr M\u0101r Y\u016bsuf",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "De\u00efr M\u00e2r Yo\u00fbssef",
+        "Dayr M\u0101r Y\u016bsuf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        1377074355,
+        421204111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":275605
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"e29a54175f594797f1dc5ed2a1aa13ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421204111,
+            "locality_id":1209510933,
+            "region_id":1377074355
+        }
+    ],
+    "wof:id":1209510933,
+    "wof:lastmodified":1551727620,
+    "wof:name":"Dayr Mar Yusuf",
+    "wof:parent_id":421204111,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.66667,
+    34.26667,
+    35.66667,
+    34.26667
+],
+  "geometry": {"coordinates":[35.66667,34.26667],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1242582217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.7875,33.94417,35.7875,33.94417",
+    "geom:latitude":33.94417,
+    "geom:longitude":35.7875,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Beskinta",
+    "gn:country_code":"LB",
+    "gn:dem":1229,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":276463,
+    "gn:latitude":33.94417,
+    "gn:longitude":35.7875,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Beskinta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Beskinnia",
+        "Beskinnta",
+        "Baskint\u0101",
+        "Biskint\u0101",
+        "Beskinta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        1108691425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":276463,
+        "wk:page":"Baskinta"
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"15018dcc277674e99c0e6fa0a0fc2321",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691425,
+            "locality_id":1242582217,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1242582217,
+    "wof:lastmodified":1537661158,
+    "wof:name":"Beskinta",
+    "wof:parent_id":1108691425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.7875,
+    33.94417,
+    35.7875,
+    33.94417
+],
+  "geometry": {"coordinates":[35.7875,33.94417],"type":"Point"}
+}

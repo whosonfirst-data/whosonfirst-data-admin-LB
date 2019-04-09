@@ -1,0 +1,71 @@
+{
+  "id": 1276323433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.07889,34.40667,36.07889,34.40667",
+    "geom:latitude":34.40667,
+    "geom:longitude":36.07889,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Kfar Bebnine",
+    "gn:country_code":"LB",
+    "gn:dem":1203,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":272892,
+    "gn:latitude":34.40667,
+    "gn:longitude":36.07889,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kfar Bebn\u00eene",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kafr Bibn\u012bn",
+        "Kfar Bebn\u00eene"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673483,
+        1108691427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":272892
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"67b5d42c3668d06ff1a383d24b08a86f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691427,
+            "locality_id":1276323433,
+            "region_id":85673483
+        }
+    ],
+    "wof:id":1276323433,
+    "wof:lastmodified":1537661087,
+    "wof:name":"Kfar Bebnine",
+    "wof:parent_id":1108691427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.07889,
+    34.40667,
+    36.07889,
+    34.40667
+],
+  "geometry": {"coordinates":[36.07889,34.40667],"type":"Point"}
+}

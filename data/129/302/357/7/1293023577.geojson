@@ -1,0 +1,74 @@
+{
+  "id": 1293023577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.74028,33.87111,35.74028,33.87111",
+    "geom:latitude":33.87111,
+    "geom:longitude":35.74028,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Hai Ain el Jaayel",
+    "gn:country_code":"LB",
+    "gn:dem":918,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6276360,
+    "gn:latitude":33.87111,
+    "gn:longitude":35.74028,
+    "gn:modification_date":"2018-04-07",
+    "gn:name":"Ha\u00ef A\u00efn el Ja\u00e2yel",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u064a\u0651 \u0639\u064a\u0646 \u0627\u0644\u062c\u0639\u0627\u064a\u0644"
+    ],
+    "name:und_x_variant":[
+        "Ha\u00ef A\u00efn el Ja\u00e2yel",
+        "\u1e28ayy \u2018Ayn al Ja\u2018ayil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        421202301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6276360
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"b270f7a684a3835854fae33ed91fdf5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421202301,
+            "locality_id":1293023577,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1293023577,
+    "wof:lastmodified":1537661316,
+    "wof:name":"Hai Ain el Jaayel",
+    "wof:parent_id":421202301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.74028,
+    33.87110999999999,
+    35.74028,
+    33.87110999999999
+],
+  "geometry": {"coordinates":[35.74028,33.87110999999999],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1293412495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.69111,34.11639,35.69111,34.11639",
+    "geom:latitude":34.11639,
+    "geom:longitude":35.69111,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Jlaissi",
+    "gn:country_code":"LB",
+    "gn:dem":562,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":273225,
+    "gn:latitude":34.11639,
+    "gn:longitude":35.69111,
+    "gn:modification_date":"2014-03-08",
+    "gn:name":"Jla\u00efssi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u0644\u064a\u0633\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u062c\u0644\u064a\u0633\u0629"
+    ],
+    "name:und_x_variant":[
+        "El Jleisah",
+        "Jlaysah",
+        "Jla\u00efssi",
+        "Julaysah",
+        "Al Julaysah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        421194845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":273225
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"93153b0b481eecef4afeff86e3827b88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421194845,
+            "locality_id":1293412495,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1293412495,
+    "wof:lastmodified":1537661091,
+    "wof:name":"Jlaissi",
+    "wof:parent_id":421194845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.69110999999999,
+    34.11639,
+    35.69110999999999,
+    34.11639
+],
+  "geometry": {"coordinates":[35.69110999999999,34.11639],"type":"Point"}
+}

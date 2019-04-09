@@ -1,0 +1,75 @@
+{
+  "id": 1259582439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.62833,34.02167,35.62833,34.02167",
+    "geom:latitude":34.02167,
+    "geom:longitude":35.62833,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ouata Sillam",
+    "gn:country_code":"LB",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":266182,
+    "gn:latitude":34.02167,
+    "gn:longitude":35.62833,
+    "gn:modification_date":"2013-10-07",
+    "gn:name":"Ouata Sill\u00e2m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0648\u0637\u0649 \u0633\u0644\u0627\u0645"
+    ],
+    "name:und_x_variant":[
+        "Wa\u0163\u0101\u2019 Sill\u0101m",
+        "Ouata Sill\u00e2m",
+        "Wat\u00e1 Sal\u0101m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        421172015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":266182
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"8f57bb2e8f70a25e3029c21c9a30eb6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421172015,
+            "locality_id":1259582439,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1259582439,
+    "wof:lastmodified":1537660997,
+    "wof:name":"Ouata Sillam",
+    "wof:parent_id":421172015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.62833,
+    34.02167,
+    35.62833,
+    34.02167
+],
+  "geometry": {"coordinates":[35.62833,34.02167],"type":"Point"}
+}

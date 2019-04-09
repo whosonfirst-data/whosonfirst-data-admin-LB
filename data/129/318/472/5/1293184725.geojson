@@ -1,0 +1,72 @@
+{
+  "id": 1293184725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.14611,34.62861,36.14611,34.62861",
+    "geom:latitude":34.62861,
+    "geom:longitude":36.14611,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Janine",
+    "gn:country_code":"LB",
+    "gn:dem":138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":273466,
+    "gn:latitude":34.62861,
+    "gn:longitude":36.14611,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"J\u00e2n\u00eene",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Janeen",
+        "J\u0101n\u012bn",
+        "J\u00e2n\u00eene"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673483,
+        1108691407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":273466
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"0f72e639482ad50bdee761e959dd0c5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691407,
+            "locality_id":1293184725,
+            "region_id":85673483
+        }
+    ],
+    "wof:id":1293184725,
+    "wof:lastmodified":1537661095,
+    "wof:name":"Janine",
+    "wof:parent_id":1108691407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.14611,
+    34.62860999999999,
+    36.14611,
+    34.62860999999999
+],
+  "geometry": {"coordinates":[36.14611,34.62860999999999],"type":"Point"}
+}

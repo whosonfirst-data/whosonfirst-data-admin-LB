@@ -1,0 +1,74 @@
+{
+  "id": 1260102319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.32667,33.47111,35.32667,33.47111",
+    "geom:latitude":33.47111,
+    "geom:longitude":35.32667,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Achamssiye",
+    "gn:country_code":"LB",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":278277,
+    "gn:latitude":33.47111,
+    "gn:longitude":35.32667,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Achamss\u00eey\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0634\u0645\u0633\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Ash Shams\u012byah",
+        "Achamss\u00eey\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673499,
+        890451987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":278277
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"ed3634d5c61b0ee6801bccebfaaed845",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":890451987,
+            "locality_id":1260102319,
+            "region_id":85673499
+        }
+    ],
+    "wof:id":1260102319,
+    "wof:lastmodified":1537661208,
+    "wof:name":"Achamssiye",
+    "wof:parent_id":890451987,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.32667,
+    33.47111,
+    35.32667,
+    33.47111
+],
+  "geometry": {"coordinates":[35.32667,33.47111],"type":"Point"}
+}

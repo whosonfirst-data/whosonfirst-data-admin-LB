@@ -1,0 +1,75 @@
+{
+  "id": 1209913293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.61917,33.88306,35.61917,33.88306",
+    "geom:latitude":33.88306,
+    "geom:longitude":35.61917,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Roumie",
+    "gn:country_code":"LB",
+    "gn:dem":614,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":268576,
+    "gn:latitude":33.88306,
+    "gn:longitude":35.61917,
+    "gn:modification_date":"2018-03-07",
+    "gn:name":"Roumi\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0631\u0648\u0645\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "R\u016bmyah",
+        "Roumi\u00e9",
+        "R\u016bm\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        1108691425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":268576
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"435ae086a6fc74e12603c2995d6a7a8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691425,
+            "locality_id":1209913293,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1209913293,
+    "wof:lastmodified":1537661022,
+    "wof:name":"Roumie",
+    "wof:parent_id":1108691425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.61917000000001,
+    33.88306,
+    35.61917000000001,
+    33.88306
+],
+  "geometry": {"coordinates":[35.61917000000001,33.88306],"type":"Point"}
+}

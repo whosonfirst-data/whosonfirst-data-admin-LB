@@ -1,0 +1,75 @@
+{
+  "id": 1259884585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.7175,33.75667,35.7175,33.75667",
+    "geom:latitude":33.75667,
+    "geom:longitude":35.7175,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Bmahrai",
+    "gn:country_code":"LB",
+    "gn:dem":1206,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":276428,
+    "gn:latitude":33.75667,
+    "gn:longitude":35.7175,
+    "gn:modification_date":"2018-03-07",
+    "gn:name":"Bmahra\u00ef",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0645\u0647\u0631\u0627\u064a"
+    ],
+    "name:und_x_variant":[
+        "Bmahr\u0101y",
+        "Bmahra\u00ef"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        1108691409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":276428,
+        "wk:page":"Bmahray"
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"9a2f25832d5a79096fa7b87605d1698f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691409,
+            "locality_id":1259884585,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1259884585,
+    "wof:lastmodified":1537661155,
+    "wof:name":"Bmahrai",
+    "wof:parent_id":1108691409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.7175,
+    33.75667,
+    35.7175,
+    33.75667
+],
+  "geometry": {"coordinates":[35.7175,33.75667],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1310487353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.0275,33.84944,36.0275,33.84944",
+    "geom:latitude":33.84944,
+    "geom:longitude":36.0275,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Haret el Fikani",
+    "gn:country_code":"LB",
+    "gn:dem":951,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":274476,
+    "gn:latitude":33.84944,
+    "gn:longitude":36.0275,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Haret el Fik\u00e2ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hai el-Fikani",
+        "\u1e28\u0101rat al F\u012bk\u0101n\u012b",
+        "Haret el Fik\u00e2ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673479,
+        421172017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":274476
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"d18afa5acdba03e1af39bcb1560e0ecb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421172017,
+            "locality_id":1310487353,
+            "region_id":85673479
+        }
+    ],
+    "wof:id":1310487353,
+    "wof:lastmodified":1537661117,
+    "wof:name":"Haret el Fikani",
+    "wof:parent_id":421172017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.0275,
+    33.84944,
+    36.0275,
+    33.84944
+],
+  "geometry": {"coordinates":[36.0275,33.84944],"type":"Point"}
+}

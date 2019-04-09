@@ -1,0 +1,71 @@
+{
+  "id": 1360162909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.34361,34.37278,36.34361,34.37278",
+    "geom:latitude":34.37278,
+    "geom:longitude":36.34361,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Mrah es Siyad",
+    "gn:country_code":"LB",
+    "gn:dem":1140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":271515,
+    "gn:latitude":34.37278,
+    "gn:longitude":36.34361,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mr\u00e2h es Siy\u00e2d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mar\u0101\u1e29 as S\u012by\u0101d",
+        "Mr\u00e2h es Siy\u00e2d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        1377074353,
+        1108691421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":271515
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"3fb5b829330b9b66ff98f831257fafce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691421,
+            "locality_id":1360162909,
+            "region_id":1377074353
+        }
+    ],
+    "wof:id":1360162909,
+    "wof:lastmodified":1551727647,
+    "wof:name":"Mrah es Siyad",
+    "wof:parent_id":1108691421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.34361,
+    34.37278,
+    36.34361,
+    34.37278
+],
+  "geometry": {"coordinates":[36.34361,34.37278],"type":"Point"}
+}

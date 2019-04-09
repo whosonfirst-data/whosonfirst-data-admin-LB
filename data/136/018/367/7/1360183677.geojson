@@ -1,0 +1,76 @@
+{
+  "id": 1360183677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.46361,33.69972,35.46361,33.69972",
+    "geom:latitude":33.69972,
+    "geom:longitude":35.46361,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"El Lahbiye",
+    "gn:country_code":"LB",
+    "gn:dem":229,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":279660,
+    "gn:latitude":33.69972,
+    "gn:longitude":35.46361,
+    "gn:modification_date":"2013-04-04",
+    "gn:name":"El L\u00e2hb\u00eey\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0644\u0627\u0647\u0628\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Baaqoun el Lahbiy\u00e9",
+        "El Labiy\u00e9",
+        "Al L\u0101hib\u012byah",
+        "El L\u00e2hb\u00eey\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        1108691419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":279660
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"9d2df10313cf241c7e39251c25f3c58a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691419,
+            "locality_id":1360183677,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1360183677,
+    "wof:lastmodified":1537661253,
+    "wof:name":"El Lahbiye",
+    "wof:parent_id":1108691419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.46361,
+    33.69972,
+    35.46361,
+    33.69972
+],
+  "geometry": {"coordinates":[35.46361,33.69972],"type":"Point"}
+}

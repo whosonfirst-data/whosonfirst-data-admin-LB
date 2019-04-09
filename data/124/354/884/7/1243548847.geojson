@@ -1,0 +1,80 @@
+{
+  "id": 1243548847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.98278,34.39694,35.98278,34.39694",
+    "geom:latitude":34.39694,
+    "geom:longitude":35.98278,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Beit Aatmane",
+    "gn:country_code":"LB",
+    "gn:dem":643,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":276720,
+    "gn:latitude":34.39694,
+    "gn:longitude":35.98278,
+    "gn:modification_date":"2013-10-07",
+    "gn:name":"Be\u00eft Aatm\u00e2ne",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a \u0639\u062a\u0645\u0627\u0646"
+    ],
+    "name:ara_x_variant":[
+        "\u0628\u064a\u062a \u062d\u062a\u0645\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Be\u00eft Hatm\u00e2ne",
+        "Bayt \u1e28utm\u0101n",
+        "Be\u00eft Aatm\u00e2ne",
+        "Bayt \u2018Utm\u0101n",
+        "Bayt \u1e28atm\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        1377074355,
+        1108691427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":276720
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"5abfbcbc274e47b54dbc1c14297fbb98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691427,
+            "locality_id":1243548847,
+            "region_id":1377074355
+        }
+    ],
+    "wof:id":1243548847,
+    "wof:lastmodified":1551727625,
+    "wof:name":"Beit Aatmane",
+    "wof:parent_id":1108691427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.98278,
+    34.39694,
+    35.98278,
+    34.39694
+],
+  "geometry": {"coordinates":[35.98278,34.39694],"type":"Point"}
+}

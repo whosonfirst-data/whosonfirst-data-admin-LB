@@ -1,0 +1,67 @@
+{
+  "id": 1276333495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.74972,33.97944,35.74972,33.97944",
+    "geom:latitude":33.97944,
+    "geom:longitude":35.74972,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Mazraat Kfar Debiane",
+    "gn:country_code":"LB",
+    "gn:dem":1198,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6275451,
+    "gn:latitude":33.97944,
+    "gn:longitude":35.74972,
+    "gn:modification_date":"2006-08-23",
+    "gn:name":"Mazraat Kfar Debi\u00e2ne",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        421172015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6275451
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"2087f7611e948fe42186ca6d075ae100",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421172015,
+            "locality_id":1276333495,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1276333495,
+    "wof:lastmodified":1536778827,
+    "wof:name":"Mazraat Kfar Debiane",
+    "wof:parent_id":421172015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.74972,
+    33.97944,
+    35.74972,
+    33.97944
+],
+  "geometry": {"coordinates":[35.74972,33.97944],"type":"Point"}
+}

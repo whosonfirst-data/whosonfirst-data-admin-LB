@@ -1,0 +1,81 @@
+{
+  "id": 1292924643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.94167,34.27222,35.94167,34.27222",
+    "geom:latitude":34.27222,
+    "geom:longitude":35.94167,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Haouqa",
+    "gn:country_code":"LB",
+    "gn:dem":1206,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":280030,
+    "gn:latitude":34.27222,
+    "gn:longitude":35.94167,
+    "gn:modification_date":"2014-03-08",
+    "gn:name":"Haouqa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0648\u0642\u0627"
+    ],
+    "name:ara_x_variant":[
+        "\u062d\u0648\u0642\u0627 \u0627\u0644\u0646\u0647\u0631"
+    ],
+    "name:und_x_variant":[
+        "Al \u1e28awq\u0101",
+        "Ho\u00fbka",
+        "Haouqa",
+        "\u1e28awq\u0101 an Nahr",
+        "\u1e28awq\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673483,
+        1108691445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":280030,
+        "wk:page":"Hawqa"
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"2790ff28866e88c576130500a9d55311",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691445,
+            "locality_id":1292924643,
+            "region_id":85673483
+        }
+    ],
+    "wof:id":1292924643,
+    "wof:lastmodified":1537661267,
+    "wof:name":"Haouqa",
+    "wof:parent_id":1108691445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.94167,
+    34.27222,
+    35.94167,
+    34.27222
+],
+  "geometry": {"coordinates":[35.94167,34.27222],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1360073163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.32778,34.37889,36.32778,34.37889",
+    "geom:latitude":34.37889,
+    "geom:longitude":36.32778,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Mrah Nayef",
+    "gn:country_code":"LB",
+    "gn:dem":1347,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":271461,
+    "gn:latitude":34.37889,
+    "gn:longitude":36.32778,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mr\u00e2h N\u00e2yef",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mar\u0101\u1e29 N\u0101\u2019if",
+        "Mr\u00e2h N\u00e2yef"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        1377074353,
+        1108691421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":271461
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"279c36a2dd26f8ba088630716fcd5488",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691421,
+            "locality_id":1360073163,
+            "region_id":1377074353
+        }
+    ],
+    "wof:id":1360073163,
+    "wof:lastmodified":1551727646,
+    "wof:name":"Mrah Nayef",
+    "wof:parent_id":1108691421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.32778,
+    34.37889000000001,
+    36.32778,
+    34.37889000000001
+],
+  "geometry": {"coordinates":[36.32778,34.37889000000001],"type":"Point"}
+}

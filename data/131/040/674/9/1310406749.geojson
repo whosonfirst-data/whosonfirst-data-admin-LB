@@ -1,0 +1,70 @@
+{
+  "id": 1310406749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.52552,33.8716,35.52552,33.8716",
+    "geom:latitude":33.8716,
+    "geom:longitude":35.52552,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Furn el Chebbak",
+    "gn:country_code":"LB",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7838991,
+    "gn:latitude":33.8716,
+    "gn:longitude":35.52552,
+    "gn:modification_date":"2011-05-27",
+    "gn:name":"Furn el Chebbak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Furn el Chebak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        421202301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7838991
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"042d4850d4b25a3cb0bc4074498d4f9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421202301,
+            "locality_id":1310406749,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1310406749,
+    "wof:lastmodified":1537661318,
+    "wof:name":"Furn el Chebbak",
+    "wof:parent_id":421202301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.52552,
+    33.8716,
+    35.52552,
+    33.8716
+],
+  "geometry": {"coordinates":[35.52552,33.8716],"type":"Point"}
+}

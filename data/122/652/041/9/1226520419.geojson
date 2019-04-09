@@ -1,0 +1,67 @@
+{
+  "id": 1226520419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.21861,33.99889,36.21861,33.99889",
+    "geom:latitude":33.99889,
+    "geom:longitude":36.21861,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Ras el Ain",
+    "gn:country_code":"LB",
+    "gn:dem":1165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6278747,
+    "gn:latitude":33.99889,
+    "gn:longitude":36.21861,
+    "gn:modification_date":"2006-08-24",
+    "gn:name":"R\u00e2s el A\u00efn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        1377074353,
+        421171405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6278747
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"8d8ca4791ae03773835a72d1fe2c883d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421171405,
+            "locality_id":1226520419,
+            "region_id":1377074353
+        }
+    ],
+    "wof:id":1226520419,
+    "wof:lastmodified":1551727655,
+    "wof:name":"Ras el Ain",
+    "wof:parent_id":421171405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.21861,
+    33.99889,
+    36.21861,
+    33.99889
+],
+  "geometry": {"coordinates":[36.21861,33.99889],"type":"Point"}
+}

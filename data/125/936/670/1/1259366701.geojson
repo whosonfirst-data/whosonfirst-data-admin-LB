@@ -1,0 +1,71 @@
+{
+  "id": 1259366701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.03583,34.52111,36.03583,34.52111",
+    "geom:latitude":34.52111,
+    "geom:longitude":36.03583,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Zouq el Hosniye",
+    "gn:country_code":"LB",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":265764,
+    "gn:latitude":34.52111,
+    "gn:longitude":36.03583,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Zo\u00fbq el Hosn\u00eey\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Z\u016bq al \u1e28i\u015fn\u012byah",
+        "Zo\u00fbq el Hosn\u00eey\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673483,
+        1108691407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":265764
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"c220a831e97f90a15bbadf7e5e88a951",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691407,
+            "locality_id":1259366701,
+            "region_id":85673483
+        }
+    ],
+    "wof:id":1259366701,
+    "wof:lastmodified":1537660991,
+    "wof:name":"Zouq el Hosniye",
+    "wof:parent_id":1108691407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.03583,
+    34.52111,
+    36.03583,
+    34.52111
+],
+  "geometry": {"coordinates":[36.03583,34.52111],"type":"Point"}
+}

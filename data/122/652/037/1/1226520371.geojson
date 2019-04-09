@@ -1,0 +1,72 @@
+{
+  "id": 1226520371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.44028,34.48056,36.44028,34.48056",
+    "geom:latitude":34.48056,
+    "geom:longitude":36.44028,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"El Qasr",
+    "gn:country_code":"LB",
+    "gn:dem":584,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":279058,
+    "gn:latitude":34.48056,
+    "gn:longitude":36.44028,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El Qasr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Qoussa\u00efr",
+        "Al Qu\u015fayr",
+        "El Qasr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        1377074353,
+        1108691421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":279058
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"e7c3e1e79f9477b02cc96bc4aff8edf0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691421,
+            "locality_id":1226520371,
+            "region_id":1377074353
+        }
+    ],
+    "wof:id":1226520371,
+    "wof:lastmodified":1551727655,
+    "wof:name":"El Qasr",
+    "wof:parent_id":1108691421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.44028,
+    34.48056,
+    36.44028,
+    34.48056
+],
+  "geometry": {"coordinates":[36.44028,34.48056],"type":"Point"}
+}

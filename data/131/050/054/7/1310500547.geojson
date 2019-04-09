@@ -1,0 +1,71 @@
+{
+  "id": 1310500547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.71889,34.0275,35.71889,34.0275",
+    "geom:latitude":34.0275,
+    "geom:longitude":35.71889,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Chmis Aarnbaya",
+    "gn:country_code":"LB",
+    "gn:dem":921,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":267737,
+    "gn:latitude":34.0275,
+    "gn:longitude":35.71889,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Chm\u00ees Aarnbaya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sham\u012bs \u2018Arnbay\u0101",
+        "Chm\u00ees Aarnbaya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        421172015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":267737
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"cd3783e3bd5643be09ad1444804a31d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421172015,
+            "locality_id":1310500547,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1310500547,
+    "wof:lastmodified":1537661017,
+    "wof:name":"Chmis Aarnbaya",
+    "wof:parent_id":421172015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.71889,
+    34.0275,
+    35.71889,
+    34.0275
+],
+  "geometry": {"coordinates":[35.71889,34.0275],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1209414199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.47028,33.61333,35.47028,33.61333",
+    "geom:latitude":33.61333,
+    "geom:longitude":35.47028,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Marj Ketermaya",
+    "gn:country_code":"LB",
+    "gn:dem":405,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":271224,
+    "gn:latitude":33.61333,
+    "gn:longitude":35.47028,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Marj Keterm\u00e2ya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0631\u062c \u0643\u062a\u0631\u0645\u0627\u064a\u0627"
+    ],
+    "name:und_x_variant":[
+        "Marj Kitrm\u0101y\u0101",
+        "Marj Keterm\u00e2ya",
+        "Marj Kitirm\u0101y\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":271224
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"bc878e6f233bfa263b25d11264a2d363",
+    "wof:hierarchy":[
+        {
+            "country_id":85632533,
+            "locality_id":1209414199
+        }
+    ],
+    "wof:id":1209414199,
+    "wof:lastmodified":1537661060,
+    "wof:name":"Marj Ketermaya",
+    "wof:parent_id":85632533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.47027999999999,
+    33.61333,
+    35.47027999999999,
+    33.61333
+],
+  "geometry": {"coordinates":[35.47027999999999,33.61333],"type":"Point"}
+}

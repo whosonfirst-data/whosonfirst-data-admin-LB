@@ -1,0 +1,71 @@
+{
+  "id": 1209493445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.12,34.13444,36.12,34.13444",
+    "geom:latitude":34.13444,
+    "geom:longitude":36.12,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Bessailet el Faouqa",
+    "gn:country_code":"LB",
+    "gn:dem":1168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":276095,
+    "gn:latitude":34.13444,
+    "gn:longitude":36.12,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bessa\u00eflet el Faouqa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bu\u015faylat al Fawq\u0101",
+        "Bessa\u00eflet el Faouqa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        1377074353,
+        421171405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":276095
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"d233a742e206922dd0589eba0b7f3596",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421171405,
+            "locality_id":1209493445,
+            "region_id":1377074353
+        }
+    ],
+    "wof:id":1209493445,
+    "wof:lastmodified":1551727652,
+    "wof:name":"Bessailet el Faouqa",
+    "wof:parent_id":421171405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.12,
+    34.13444,
+    36.12,
+    34.13444
+],
+  "geometry": {"coordinates":[36.12,34.13444],"type":"Point"}
+}

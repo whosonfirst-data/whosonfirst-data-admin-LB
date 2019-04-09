@@ -1,0 +1,71 @@
+{
+  "id": 1326962167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.73444,34.13889,35.73444,34.13889",
+    "geom:latitude":34.13889,
+    "geom:longitude":35.73444,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Birket Hjoula",
+    "gn:country_code":"LB",
+    "gn:dem":706,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":276486,
+    "gn:latitude":34.13889,
+    "gn:longitude":35.73444,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Birket Hjo\u00fbla",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Birkat \u1e28j\u016bl\u0101",
+        "Birket Hjo\u00fbla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        421194845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":276486
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"7bd5f7b98eb559d060e1771387e3ef0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421194845,
+            "locality_id":1326962167,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1326962167,
+    "wof:lastmodified":1537661159,
+    "wof:name":"Birket Hjoula",
+    "wof:parent_id":421194845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.73444,
+    34.13889,
+    35.73444,
+    34.13889
+],
+  "geometry": {"coordinates":[35.73444,34.13889],"type":"Point"}
+}

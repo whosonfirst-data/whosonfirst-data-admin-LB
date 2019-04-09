@@ -1,0 +1,74 @@
+{
+  "id": 1292902625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.50389,33.78694,35.50389,33.78694",
+    "geom:latitude":33.78694,
+    "geom:longitude":35.50389,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Yanar",
+    "gn:country_code":"LB",
+    "gn:dem":237,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6273887,
+    "gn:latitude":33.78694,
+    "gn:longitude":35.50389,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Yan\u00e2r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u064a\u0646\u0627\u0631"
+    ],
+    "name:und_x_variant":[
+        "Yan\u00e2r",
+        "Yan\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        1108691409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6273887
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"60ca380a0539cb79ca68122667c8cde3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691409,
+            "locality_id":1292902625,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1292902625,
+    "wof:lastmodified":1537661310,
+    "wof:name":"Yanar",
+    "wof:parent_id":1108691409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.50389000000001,
+    33.78694,
+    35.50389000000001,
+    33.78694
+],
+  "geometry": {"coordinates":[35.50389000000001,33.78694],"type":"Point"}
+}

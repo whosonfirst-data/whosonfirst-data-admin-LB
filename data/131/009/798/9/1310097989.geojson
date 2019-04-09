@@ -1,0 +1,79 @@
+{
+  "id": 1310097989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.34936,33.47153,35.34936,33.47153",
+    "geom:latitude":33.47153,
+    "geom:longitude":35.34936,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"En Najjariye",
+    "gn:country_code":"LB",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":278849,
+    "gn:latitude":33.47153,
+    "gn:longitude":35.34936,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"En Najjar\u00eey\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062c\u0627\u0631\u064a\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0646\u062c\u0651\u0627\u0631\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Enn Najj\u00e2riye",
+        "En-Nijjariyah",
+        "An Najj\u0101r\u012byah",
+        "En Najjar\u00eey\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673499,
+        890451987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":278849
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"449b2336a46adf8d2e278bc3ad073bae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":890451987,
+            "locality_id":1310097989,
+            "region_id":85673499
+        }
+    ],
+    "wof:id":1310097989,
+    "wof:lastmodified":1537661220,
+    "wof:name":"En Najjariye",
+    "wof:parent_id":890451987,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.34936,
+    33.47153,
+    35.34936,
+    33.47153
+],
+  "geometry": {"coordinates":[35.34936,33.47153],"type":"Point"}
+}

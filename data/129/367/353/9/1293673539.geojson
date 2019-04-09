@@ -1,0 +1,80 @@
+{
+  "id": 1293673539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.825,34.20306,35.825,34.20306",
+    "geom:latitude":34.20306,
+    "geom:longitude":35.825,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Bchaale",
+    "gn:country_code":"LB",
+    "gn:dem":1162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":276353,
+    "gn:latitude":34.20306,
+    "gn:longitude":35.825,
+    "gn:modification_date":"2018-03-28",
+    "gn:name":"Bchaal\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0634\u0639\u0644\u0629"
+    ],
+    "name:und_x_variant":[
+        "Bish\u0101lah",
+        "Bsh\u0101l\u0101",
+        "Bch\u00e9la",
+        "Bch\u00e9l\u00e9",
+        "Bshi\u2018lahl",
+        "Bchaal\u00e9",
+        "Bisha\u2018lah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673483,
+        421204111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":276353,
+        "wk:page":"Bchaaleh"
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"03d5b9106a0ca436810863eb92960f3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421204111,
+            "locality_id":1293673539,
+            "region_id":85673483
+        }
+    ],
+    "wof:id":1293673539,
+    "wof:lastmodified":1537661150,
+    "wof:name":"Bchaale",
+    "wof:parent_id":421204111,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.825,
+    34.20306,
+    35.825,
+    34.20306
+],
+  "geometry": {"coordinates":[35.825,34.20306],"type":"Point"}
+}

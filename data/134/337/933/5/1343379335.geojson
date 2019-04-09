@@ -1,0 +1,73 @@
+{
+  "id": 1343379335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.27139,34.60056,36.27139,34.60056",
+    "geom:latitude":34.60056,
+    "geom:longitude":36.27139,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Nahriye",
+    "gn:country_code":"LB",
+    "gn:dem":449,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":278852,
+    "gn:latitude":34.60056,
+    "gn:longitude":36.27139,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Nahriy\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "En Nahriyah",
+        "En-Nahriyy\u00e9",
+        "An Nahr\u012byah",
+        "Nahriy\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673483,
+        1108691407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":278852
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"ec88abb717066a2edc1fa391a5f3f4c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691407,
+            "locality_id":1343379335,
+            "region_id":85673483
+        }
+    ],
+    "wof:id":1343379335,
+    "wof:lastmodified":1537661220,
+    "wof:name":"Nahriye",
+    "wof:parent_id":1108691407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.27139,
+    34.60055999999999,
+    36.27139,
+    34.60055999999999
+],
+  "geometry": {"coordinates":[36.27139,34.60055999999999],"type":"Point"}
+}

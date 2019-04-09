@@ -1,0 +1,115 @@
+{
+  "id": 1125769817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.65111,33.795,35.65111,33.795",
+    "geom:latitude":33.795,
+    "geom:longitude":35.65111,
+    "gn:gn_country":"LB",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":1500,
+    "gn:population":1500,
+    "iso:country":"LB",
+    "lbl:latitude":33.795,
+    "lbl:longitude":35.65111,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u0628\u062d\u0645\u062f\u0648\u0646"
+    ],
+    "name:dut_x_preferred":[
+        "Bhamdoun"
+    ],
+    "name:eng_x_preferred":[
+        "Bhamdoun"
+    ],
+    "name:fre_x_preferred":[
+        "Bhamdoun"
+    ],
+    "name:ger_x_preferred":[
+        "Bhamdoun"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d7\u05de\u05d3\u05d5\u05df"
+    ],
+    "name:nno_x_preferred":[
+        "Bhamdoun"
+    ],
+    "name:per_x_preferred":[
+        "\u0628\u062d\u0645\u062f\u0648\u0646"
+    ],
+    "name:pol_x_preferred":[
+        "Bahamdun"
+    ],
+    "name:swe_x_preferred":[
+        "Bhamdo\u00fbn el Mhatta"
+    ],
+    "name:unk_x_variant":[
+        "Bhamdourn"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u062d\u0645\u062f\u0648\u0646"
+    ],
+    "qs_pg:aaroncc":"LB",
+    "qs_pg:gn_country":"LB",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":276633,
+    "qs_pg:gn_pop":1500,
+    "qs_pg:name":"Bhamdoun",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":123894,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        1108691409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":276633,
+        "qs_pg:id":123894,
+        "wd:id":"Q2900650"
+    },
+    "wof:country":"LB",
+    "wof:created":1497290021,
+    "wof:geomhash":"7216fde95e64c2a07b1f8e578f347ad6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691409,
+            "locality_id":1125769817,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1125769817,
+    "wof:lastmodified":1514470142,
+    "wof:name":"Bhamdoun",
+    "wof:parent_id":1108691409,
+    "wof:placetype":"locality",
+    "wof:population":1500,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.65111,
+    33.795,
+    35.65111,
+    33.795
+],
+  "geometry": {"coordinates":[35.65111,33.795],"type":"Point"}
+}

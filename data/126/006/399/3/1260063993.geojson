@@ -1,0 +1,75 @@
+{
+  "id": 1260063993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.19111,34.6,36.19111,34.6",
+    "geom:latitude":34.6,
+    "geom:longitude":36.19111,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Ed Daousse",
+    "gn:country_code":"LB",
+    "gn:dem":353,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":280762,
+    "gn:latitude":34.6,
+    "gn:longitude":36.19111,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ed Daouss\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ed Daouss\u00e9 et Barhd\u00e2di",
+        "Daousse",
+        "Ed Dawsah",
+        "Dawsah",
+        "Ad Dawsah",
+        "Ed Daouss\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673483,
+        1108691407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":280762
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"2ad8d659f3d7a01f53bb05aa92d35add",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691407,
+            "locality_id":1260063993,
+            "region_id":85673483
+        }
+    ],
+    "wof:id":1260063993,
+    "wof:lastmodified":1537661295,
+    "wof:name":"Ed Daousse",
+    "wof:parent_id":1108691407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.19111,
+    34.6,
+    36.19111,
+    34.6
+],
+  "geometry": {"coordinates":[36.19111,34.6],"type":"Point"}
+}

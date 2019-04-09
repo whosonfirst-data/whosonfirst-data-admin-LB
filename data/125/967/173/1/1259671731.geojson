@@ -1,0 +1,74 @@
+{
+  "id": 1259671731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.12944,34.26194,36.12944,34.26194",
+    "geom:latitude":34.26194,
+    "geom:longitude":36.12944,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Aayoun Orghoush",
+    "gn:country_code":"LB",
+    "gn:dem":2146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":266401,
+    "gn:latitude":34.26194,
+    "gn:longitude":36.12944,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Aayoun Orghoush",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ayoun Ar\u2019rhouch",
+        "Aayo\u00fbn Ar\u2019rho\u00fbch",
+        "Aayo\u00fbn Orghouch",
+        "\u2018Uy\u016bn Urghush",
+        "Aayoun Orghoush"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673479,
+        421171405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":266401
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"4b37957d3e946df12fc7b1aa8e1ea80d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421171405,
+            "locality_id":1259671731,
+            "region_id":85673479
+        }
+    ],
+    "wof:id":1259671731,
+    "wof:lastmodified":1537661001,
+    "wof:name":"Aayoun Orghoush",
+    "wof:parent_id":421171405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.12944,
+    34.26194,
+    36.12944,
+    34.26194
+],
+  "geometry": {"coordinates":[36.12944,34.26194],"type":"Point"}
+}

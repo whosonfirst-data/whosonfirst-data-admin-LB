@@ -1,0 +1,71 @@
+{
+  "id": 1243549045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.07833,34.41611,36.07833,34.41611",
+    "geom:latitude":34.41611,
+    "geom:longitude":36.07833,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Jouret el Mrah",
+    "gn:country_code":"LB",
+    "gn:dem":1046,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":273089,
+    "gn:latitude":34.41611,
+    "gn:longitude":36.07833,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Jo\u00fbret el Mr\u00e2h",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "J\u016brat al Mar\u0101\u1e29",
+        "Jo\u00fbret el Mr\u00e2h"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        1377074355,
+        1108691427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":273089
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"8bf3c66c6232b7224e066f22ea0bdce4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691427,
+            "locality_id":1243549045,
+            "region_id":1377074355
+        }
+    ],
+    "wof:id":1243549045,
+    "wof:lastmodified":1551727625,
+    "wof:name":"Jouret el Mrah",
+    "wof:parent_id":1108691427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.07833,
+    34.41611,
+    36.07833,
+    34.41611
+],
+  "geometry": {"coordinates":[36.07833,34.41611],"type":"Point"}
+}

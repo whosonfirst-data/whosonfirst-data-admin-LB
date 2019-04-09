@@ -1,0 +1,73 @@
+{
+  "id": 1242878897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.52389,33.85333,35.52389,33.85333",
+    "geom:latitude":33.85333,
+    "geom:longitude":35.52389,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Sotlay",
+    "gn:country_code":"LB",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6275314,
+    "gn:latitude":33.85333,
+    "gn:longitude":35.52389,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Sotlay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u0637\u0644\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Su\u0163layah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        421202301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6275314
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"7d7028cb21212b640a62a1589f18b05a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421202301,
+            "locality_id":1242878897,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1242878897,
+    "wof:lastmodified":1537661315,
+    "wof:name":"Sotlay",
+    "wof:parent_id":421202301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.52389,
+    33.85333,
+    35.52389,
+    33.85333
+],
+  "geometry": {"coordinates":[35.52389,33.85333],"type":"Point"}
+}

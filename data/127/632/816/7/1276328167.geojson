@@ -1,0 +1,71 @@
+{
+  "id": 1276328167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.18806,34.49806,36.18806,34.49806",
+    "geom:latitude":34.49806,
+    "geom:longitude":36.18806,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Tachaa",
+    "gn:country_code":"LB",
+    "gn:dem":1142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":266784,
+    "gn:latitude":34.49806,
+    "gn:longitude":36.18806,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"T\u00e2chaa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "T\u0101shi\u2018",
+        "T\u00e2chaa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673483,
+        1108691407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":266784
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"5178714075a6ae8850093c889bcbbd43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691407,
+            "locality_id":1276328167,
+            "region_id":85673483
+        }
+    ],
+    "wof:id":1276328167,
+    "wof:lastmodified":1537661004,
+    "wof:name":"Tachaa",
+    "wof:parent_id":1108691407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.18806,
+    34.49806,
+    36.18806,
+    34.49806
+],
+  "geometry": {"coordinates":[36.18806,34.49806],"type":"Point"}
+}

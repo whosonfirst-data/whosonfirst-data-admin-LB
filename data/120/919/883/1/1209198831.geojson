@@ -1,0 +1,76 @@
+{
+  "id": 1209198831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.91489,34.40828,35.91489,34.40828",
+    "geom:latitude":34.40828,
+    "geom:longitude":35.91489,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Arde",
+    "gn:country_code":"LB",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":278653,
+    "gn:latitude":34.40828,
+    "gn:longitude":35.91489,
+    "gn:modification_date":"2018-03-28",
+    "gn:name":"Ard\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0631\u062f\u0629"
+    ],
+    "name:und_x_variant":[
+        "Ardia",
+        "Ardah",
+        "Ard\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        1377074355,
+        1108691445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":278653,
+        "wk:page":"Ardeh,_Lebanon"
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"ad897ac2120a5c7736cbabbbb1733765",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691445,
+            "locality_id":1209198831,
+            "region_id":1377074355
+        }
+    ],
+    "wof:id":1209198831,
+    "wof:lastmodified":1551727618,
+    "wof:name":"Arde",
+    "wof:parent_id":1108691445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.91489,
+    34.40828,
+    35.91489,
+    34.40828
+],
+  "geometry": {"coordinates":[35.91489,34.40828],"type":"Point"}
+}

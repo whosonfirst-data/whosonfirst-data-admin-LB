@@ -1,0 +1,71 @@
+{
+  "id": 1343347129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.73667,33.67099,35.73667,33.67099",
+    "geom:latitude":33.67099,
+    "geom:longitude":35.73667,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Kafraiya",
+    "gn:country_code":"LB",
+    "gn:dem":1042,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7870380,
+    "gn:latitude":33.67099,
+    "gn:longitude":35.73667,
+    "gn:modification_date":"2011-06-14",
+    "gn:name":"Kafraiya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kefraya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673479,
+        421173359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7870380,
+        "wk:page":"Kefraya"
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"896b95106c36c2176cf802e9a4639048",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421173359,
+            "locality_id":1343347129,
+            "region_id":85673479
+        }
+    ],
+    "wof:id":1343347129,
+    "wof:lastmodified":1537661321,
+    "wof:name":"Kafraiya",
+    "wof:parent_id":421173359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.73667000000001,
+    33.67099,
+    35.73667000000001,
+    33.67099
+],
+  "geometry": {"coordinates":[35.73667000000001,33.67099],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1344161783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.68694,34.06833,35.68694,34.06833",
+    "geom:latitude":34.06833,
+    "geom:longitude":35.68694,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Meftah Bou Nsair",
+    "gn:country_code":"LB",
+    "gn:dem":601,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":270531,
+    "gn:latitude":34.06833,
+    "gn:longitude":35.68694,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Meft\u00e2h Bou Nsa\u00efr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mift\u0101\u1e29 B\u016b Nu\u015fayr",
+        "Meft\u00e2h Bou Nsa\u00efr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        421172015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":270531
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"afa506323c7a29d49cc39fc19b9dc766",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421172015,
+            "locality_id":1344161783,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1344161783,
+    "wof:lastmodified":1537661041,
+    "wof:name":"Meftah Bou Nsair",
+    "wof:parent_id":421172015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.68694,
+    34.06833,
+    35.68694,
+    34.06833
+],
+  "geometry": {"coordinates":[35.68694,34.06833],"type":"Point"}
+}

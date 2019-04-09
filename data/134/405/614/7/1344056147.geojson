@@ -1,0 +1,71 @@
+{
+  "id": 1344056147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.75194,33.83917,35.75194,33.83917",
+    "geom:latitude":33.83917,
+    "geom:longitude":35.75194,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ain es Sihha",
+    "gn:country_code":"LB",
+    "gn:dem":1476,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":277543,
+    "gn:latitude":33.83917,
+    "gn:longitude":35.75194,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"A\u00efn es Sihha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u2018Ayn a\u015f \u015ei\u1e29\u1e29ah",
+        "A\u00efn es Sihha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        421202301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":277543
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"cfd9a8cdf6d4d6a029f4cfe8f1eacae1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421202301,
+            "locality_id":1344056147,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1344056147,
+    "wof:lastmodified":1537661189,
+    "wof:name":"Ain es Sihha",
+    "wof:parent_id":421202301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.75194000000001,
+    33.83917,
+    35.75194000000001,
+    33.83917
+],
+  "geometry": {"coordinates":[35.75194000000001,33.83917],"type":"Point"}
+}

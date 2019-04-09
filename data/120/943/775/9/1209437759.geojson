@@ -1,0 +1,67 @@
+{
+  "id": 1209437759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.61583,33.76111,35.61583,33.76111",
+    "geom:latitude":33.76111,
+    "geom:longitude":35.61583,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Sebaal",
+    "gn:country_code":"LB",
+    "gn:dem":1047,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6274091,
+    "gn:latitude":33.76111,
+    "gn:longitude":35.61583,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Sebaal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u0628\u0639\u0644"
+    ],
+    "name:und_x_variant":[
+        "Sib\u2018al"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6274091
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"a7926b249d735b564ce8bece1148bf59",
+    "wof:hierarchy":[
+        {
+            "country_id":85632533,
+            "locality_id":1209437759
+        }
+    ],
+    "wof:id":1209437759,
+    "wof:lastmodified":1537661311,
+    "wof:name":"Sebaal",
+    "wof:parent_id":85632533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.61582999999999,
+    33.76111,
+    35.61582999999999,
+    33.76111
+],
+  "geometry": {"coordinates":[35.61582999999999,33.76111],"type":"Point"}
+}

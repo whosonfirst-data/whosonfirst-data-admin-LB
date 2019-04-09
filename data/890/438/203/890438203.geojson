@@ -1,0 +1,90 @@
+{
+  "id": 890438203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.48278,33.4075,35.48278,33.4075",
+    "geom:latitude":33.4075,
+    "geom:longitude":35.48278,
+    "gn:country":"LB",
+    "gn:fcode":"PPL",
+    "gn:pop":98433,
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u062d\u0628\u0648\u0634"
+    ],
+    "name:dut_x_preferred":[
+        "Habbo\u00fbch"
+    ],
+    "name:eng_x_preferred":[
+        "Habbo\u00fbch"
+    ],
+    "name:fre_x_preferred":[
+        "Habbouche"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0430\u0431\u0431\u0443\u0448\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "Habbo\u00fbch"
+    ],
+    "name:unk_x_variant":[
+        "Habboush"
+    ],
+    "qs:name":"Habbo\u00fbch",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"8",
+    "src:population":"geonames",
+    "wd:wordcount":53,
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673495,
+        1108691429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":274874,
+        "gp:id":56439855,
+        "qs:id":123892,
+        "wd:id":"Q3125267",
+        "wk:page":"Habbo\u00fbch"
+    },
+    "wof:country":"LB",
+    "wof:created":1469052184,
+    "wof:geomhash":"581105b3d293a06e153ec12261e2f3b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691429,
+            "locality_id":890438203,
+            "region_id":85673495
+        }
+    ],
+    "wof:id":890438203,
+    "wof:lastmodified":1527735421,
+    "wof:name":"Habbo\u00fbch",
+    "wof:parent_id":1108691429,
+    "wof:placetype":"locality",
+    "wof:population":98433,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.48278,
+    33.4075,
+    35.48278,
+    33.4075
+],
+  "geometry": {"coordinates":[35.48278,33.4075],"type":"Point"}
+}

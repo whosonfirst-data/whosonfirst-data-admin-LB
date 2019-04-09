@@ -1,0 +1,71 @@
+{
+  "id": 1343539523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.05111,34.04083,36.05111,34.04083",
+    "geom:latitude":34.04083,
+    "geom:longitude":36.05111,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Mazraat ed Dallil",
+    "gn:country_code":"LB",
+    "gn:dem":1168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":270633,
+    "gn:latitude":34.04083,
+    "gn:longitude":36.05111,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mazraat ed Dall\u00eel",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mazra\u2018at az\u0327 Z\u0327al\u012bl",
+        "Mazraat ed Dall\u00eel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673479,
+        421171405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":270633
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"14c140f0876c2c21efa6f055351c02db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421171405,
+            "locality_id":1343539523,
+            "region_id":85673479
+        }
+    ],
+    "wof:id":1343539523,
+    "wof:lastmodified":1537661048,
+    "wof:name":"Mazraat ed Dallil",
+    "wof:parent_id":421171405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.05111,
+    34.04083,
+    36.05111,
+    34.04083
+],
+  "geometry": {"coordinates":[36.05111,34.04083],"type":"Point"}
+}

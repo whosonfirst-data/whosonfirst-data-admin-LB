@@ -1,0 +1,74 @@
+{
+  "id": 1226441625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.61972,33.9,35.61972,33.9",
+    "geom:latitude":33.9,
+    "geom:longitude":35.61972,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Nabay",
+    "gn:country_code":"LB",
+    "gn:dem":519,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":270011,
+    "gn:latitude":33.9,
+    "gn:longitude":35.61972,
+    "gn:modification_date":"2018-03-07",
+    "gn:name":"Nabay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0646\u0627\u0628\u064a\u0647"
+    ],
+    "name:und_x_variant":[
+        "N\u0101bayh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        1108691425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":270011,
+        "wk:page":"Nabay"
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"60664302cc54ce55d3d8276e6f687f31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691425,
+            "locality_id":1226441625,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1226441625,
+    "wof:lastmodified":1537661037,
+    "wof:name":"Nabay",
+    "wof:parent_id":1108691425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.61972,
+    33.9,
+    35.61972,
+    33.9
+],
+  "geometry": {"coordinates":[35.61972,33.9],"type":"Point"}
+}

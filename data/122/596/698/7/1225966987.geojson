@@ -1,0 +1,72 @@
+{
+  "id": 1225966987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.71611,34.06,35.71611,34.06",
+    "geom:latitude":34.06,
+    "geom:longitude":35.71611,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ouadi Hayoun",
+    "gn:country_code":"LB",
+    "gn:dem":982,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":266313,
+    "gn:latitude":34.06,
+    "gn:longitude":35.71611,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ou\u00e2di Hayo\u00fbn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ghebal\u00e9",
+        "W\u0101d\u012b \u1e28ay\u016bn",
+        "Ou\u00e2di Hayo\u00fbn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        421172015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":266313
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"19b5ad96d7701c06544c11b6df730747",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421172015,
+            "locality_id":1225966987,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1225966987,
+    "wof:lastmodified":1537660999,
+    "wof:name":"Ouadi Hayoun",
+    "wof:parent_id":421172015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.71611,
+    34.06,
+    35.71611,
+    34.06
+],
+  "geometry": {"coordinates":[35.71611,34.06],"type":"Point"}
+}

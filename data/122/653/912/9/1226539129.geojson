@@ -1,0 +1,77 @@
+{
+  "id": 1226539129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.58833,33.8025,35.58833,33.8025",
+    "geom:latitude":33.8025,
+    "geom:longitude":35.58833,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ain er Remmane",
+    "gn:country_code":"LB",
+    "gn:dem":726,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":277566,
+    "gn:latitude":33.8025,
+    "gn:longitude":35.58833,
+    "gn:modification_date":"2018-03-07",
+    "gn:name":"Ain er Remman\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u064a\u0646 \u0627\u0644\u0631\u0645\u0627\u0646\u0629"
+    ],
+    "name:und_x_variant":[
+        "Ain el-Rummaneh",
+        "A\u00efn er Roummane",
+        "A\u00efn er Remmeni",
+        "\u2018Ayn ar Rumm\u0101nah",
+        "Ain er Remman\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        1108691409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":277566
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"f03281ff1e83947fedc201faaeea6350",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691409,
+            "locality_id":1226539129,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1226539129,
+    "wof:lastmodified":1537661190,
+    "wof:name":"Ain er Remmane",
+    "wof:parent_id":1108691409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.58833,
+    33.8025,
+    35.58833,
+    33.8025
+],
+  "geometry": {"coordinates":[35.58833,33.8025],"type":"Point"}
+}

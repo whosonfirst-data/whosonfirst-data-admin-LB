@@ -1,0 +1,71 @@
+{
+  "id": 1310029779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-03-01",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.51988,33.8791,35.51988,33.8791",
+    "geom:latitude":33.8791,
+    "geom:longitude":35.51988,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Adleih",
+    "gn:country_code":"LB",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7839270,
+    "gn:latitude":33.8791,
+    "gn:longitude":35.51988,
+    "gn:modification_date":"2011-06-03",
+    "gn:name":"Adleih",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Adlieh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7839270
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"0768df97b32c858868cd6ef895a36c85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "locality_id":1310029779,
+            "region_id":85673487
+        }
+    ],
+    "wof:id":1310029779,
+    "wof:lastmodified":1551727692,
+    "wof:name":"Adleih",
+    "wof:parent_id":85673487,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[
+        1377074365
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.51988,
+    33.8791,
+    35.51988,
+    33.8791
+],
+  "geometry": {"coordinates":[35.51988,33.8791],"type":"Point"}
+}

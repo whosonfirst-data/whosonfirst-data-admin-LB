@@ -1,0 +1,74 @@
+{
+  "id": 1226237737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.1625,34.52972,36.1625,34.52972",
+    "geom:latitude":34.52972,
+    "geom:longitude":36.1625,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Beit Mellat",
+    "gn:country_code":"LB",
+    "gn:dem":524,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":276705,
+    "gn:latitude":34.52972,
+    "gn:longitude":36.1625,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Be\u00eft Mellat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Be\u00eft Mell\u00e2te",
+        "Beit Millat",
+        "Bayt Mall\u0101\u0163",
+        "Bayt Mill\u0101t",
+        "Be\u00eft Mellat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        1377074357,
+        1108691407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":276705
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"64d5a7ca4544c9aca9044e8ca90331b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691407,
+            "locality_id":1226237737,
+            "region_id":1377074357
+        }
+    ],
+    "wof:id":1226237737,
+    "wof:lastmodified":1551727675,
+    "wof:name":"Beit Mellat",
+    "wof:parent_id":1108691407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.1625,
+    34.52972,
+    36.1625,
+    34.52972
+],
+  "geometry": {"coordinates":[36.1625,34.52972],"type":"Point"}
+}

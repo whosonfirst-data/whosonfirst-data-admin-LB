@@ -1,0 +1,74 @@
+{
+  "id": 1327052269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.2691,33.34718,35.2691,33.34718",
+    "geom:latitude":33.34718,
+    "geom:longitude":35.2691,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Mazraat el Ouasta",
+    "gn:country_code":"LB",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":270668,
+    "gn:latitude":33.34718,
+    "gn:longitude":35.2691,
+    "gn:modification_date":"2013-08-06",
+    "gn:name":"Mazraat el Ou\u00e2sta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0632\u0631\u0639\u0629 \u0627\u0644\u0648\u0627\u0633\u0637\u0629"
+    ],
+    "name:und_x_variant":[
+        "Mazra\u2018at al W\u0101si\u0163ah",
+        "Mazraat el Ou\u00e2sta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673499,
+        890451987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":270668
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"e6190660f6c2cd89aaf7f448f12954f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":890451987,
+            "locality_id":1327052269,
+            "region_id":85673499
+        }
+    ],
+    "wof:id":1327052269,
+    "wof:lastmodified":1537661051,
+    "wof:name":"Mazraat el Ouasta",
+    "wof:parent_id":890451987,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.2691,
+    33.34718,
+    35.2691,
+    33.34718
+],
+  "geometry": {"coordinates":[35.2691,33.34718],"type":"Point"}
+}

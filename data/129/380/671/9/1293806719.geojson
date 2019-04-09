@@ -1,0 +1,73 @@
+{
+  "id": 1293806719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.62,33.95667,35.62,33.95667",
+    "geom:latitude":33.95667,
+    "geom:longitude":35.62,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Zouq Mosbeh",
+    "gn:country_code":"LB",
+    "gn:dem":208,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":265749,
+    "gn:latitude":33.95667,
+    "gn:longitude":35.62,
+    "gn:modification_date":"2018-03-29",
+    "gn:name":"Zouq Mosbeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Z\u016bq Mu\u015fbi\u1e29",
+        "Zouq Mosbeh",
+        "Zouk Mosbeh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        421172015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":265749,
+        "wk:page":"Zouk_Mosbeh"
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"f9e9e667d7858410e03789924d3871da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421172015,
+            "locality_id":1293806719,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1293806719,
+    "wof:lastmodified":1537660991,
+    "wof:name":"Zouq Mosbeh",
+    "wof:parent_id":421172015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.62,
+    33.95667,
+    35.62,
+    33.95667
+],
+  "geometry": {"coordinates":[35.62,33.95667],"type":"Point"}
+}

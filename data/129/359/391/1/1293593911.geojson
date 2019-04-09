@@ -1,0 +1,78 @@
+{
+  "id": 1293593911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.63139,34.15222,35.63139,34.15222",
+    "geom:latitude":34.15222,
+    "geom:longitude":35.63139,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Tarouel",
+    "gn:country_code":"LB",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":266787,
+    "gn:latitude":34.15222,
+    "gn:longitude":35.63139,
+    "gn:modification_date":"2014-03-08",
+    "gn:name":"Tarouel",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0631\u0648\u0644"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0628\u0631\u062c"
+    ],
+    "name:und_x_variant":[
+        "Tarwil",
+        "Tarouel",
+        "Al Burj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        421194845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":266787
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"83b9bb7e0b482e297cfe7a9f999d0b35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421194845,
+            "locality_id":1293593911,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1293593911,
+    "wof:lastmodified":1537661004,
+    "wof:name":"Tarouel",
+    "wof:parent_id":421194845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.63139,
+    34.15222,
+    35.63139,
+    34.15222
+],
+  "geometry": {"coordinates":[35.63139,34.15222],"type":"Point"}
+}

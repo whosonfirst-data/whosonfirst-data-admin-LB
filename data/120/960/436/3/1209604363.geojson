@@ -1,0 +1,71 @@
+{
+  "id": 1209604363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.07611,34.60333,36.07611,34.60333",
+    "geom:latitude":34.60333,
+    "geom:longitude":36.07611,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Tell Kindi es Sghir",
+    "gn:country_code":"LB",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":266880,
+    "gn:latitude":34.60333,
+    "gn:longitude":36.07611,
+    "gn:modification_date":"2013-07-06",
+    "gn:name":"Tell Kindi es Sgh\u00eer",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tall Kind\u012b a\u015f \u015eagh\u012br",
+        "Tell Kindi es Sgh\u00eer"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        1377074357,
+        1108691407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":266880
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"7914d07613cbe3d97a6d934c8f1e2d9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691407,
+            "locality_id":1209604363,
+            "region_id":1377074357
+        }
+    ],
+    "wof:id":1209604363,
+    "wof:lastmodified":1551727671,
+    "wof:name":"Tell Kindi es Sghir",
+    "wof:parent_id":1108691407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.07611,
+    34.60333,
+    36.07611,
+    34.60333
+],
+  "geometry": {"coordinates":[36.07611,34.60333],"type":"Point"}
+}

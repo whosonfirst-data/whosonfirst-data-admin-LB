@@ -1,0 +1,78 @@
+{
+  "id": 1310404799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.78333,34.11889,35.78333,34.11889",
+    "geom:latitude":34.11889,
+    "geom:longitude":35.78333,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ain ed Deir",
+    "gn:country_code":"LB",
+    "gn:dem":1071,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":277744,
+    "gn:latitude":34.11889,
+    "gn:longitude":35.78333,
+    "gn:modification_date":"2014-03-08",
+    "gn:name":"A\u00efn ed De\u00efr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u064a\u0646 \u0627\u0644\u062f\u064a\u0631"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0631\u0645\u064a\u0644\u0629"
+    ],
+    "name:und_x_variant":[
+        "\u2018Ayn ad Dayr",
+        "A\u00efn ed De\u00efr",
+        "Ar Rumaylah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        421194845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":277744
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"4cc30d45e63668f49086ee8039eb39f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421194845,
+            "locality_id":1310404799,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1310404799,
+    "wof:lastmodified":1537661194,
+    "wof:name":"Ain ed Deir",
+    "wof:parent_id":421194845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.78333,
+    34.11889,
+    35.78333,
+    34.11889
+],
+  "geometry": {"coordinates":[35.78333,34.11889],"type":"Point"}
+}

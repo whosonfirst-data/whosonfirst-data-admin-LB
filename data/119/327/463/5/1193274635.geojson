@@ -1,0 +1,77 @@
+{
+  "id": 1193274635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.72,33.90444,35.72,33.90444",
+    "geom:latitude":33.90444,
+    "geom:longitude":35.72,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Dhour ech Choueir",
+    "gn:country_code":"LB",
+    "gn:dem":1274,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":275447,
+    "gn:latitude":33.90444,
+    "gn:longitude":35.72,
+    "gn:modification_date":"2018-04-06",
+    "gn:name":"Dho\u00fbr ech Choue\u00efr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0636\u0647\u0648\u0631 \u0627\u0644\u0634\u0648\u064a\u0631"
+    ],
+    "name:und_x_variant":[
+        "Dhour Choueir",
+        "Douho\u00fbr ech Choue\u00efr",
+        "\u1e10uh\u016br ash Shuwayr",
+        "Dho\u00fbr ech Choue\u00efr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        1108691425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":275447,
+        "wk:page":"Dhour_El_Choueir"
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"ae14ed22f452f96c168641307dc7f495",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691425,
+            "locality_id":1193274635,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1193274635,
+    "wof:lastmodified":1537661130,
+    "wof:name":"Dhour ech Choueir",
+    "wof:parent_id":1108691425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.72,
+    33.90444,
+    35.72,
+    33.90444
+],
+  "geometry": {"coordinates":[35.72,33.90444],"type":"Point"}
+}

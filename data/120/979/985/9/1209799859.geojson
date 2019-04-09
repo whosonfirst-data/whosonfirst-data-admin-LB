@@ -1,0 +1,78 @@
+{
+  "id": 1209799859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.73083,34.3575,35.73083,34.3575",
+    "geom:latitude":34.3575,
+    "geom:longitude":35.73083,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Enfe",
+    "gn:country_code":"LB",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":278928,
+    "gn:latitude":34.3575,
+    "gn:longitude":35.73083,
+    "gn:modification_date":"2014-03-08",
+    "gn:name":"Enf\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0646\u0641\u0629"
+    ],
+    "name:und_x_variant":[
+        "Infah",
+        "Ennf\u00e9",
+        "Enfeh",
+        "Anfah",
+        "Enf\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        1377074355,
+        1108691423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":278928,
+        "wk:page":"Enfeh"
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"88d80f6dd869a3cda4ab7c720e0bb86d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691423,
+            "locality_id":1209799859,
+            "region_id":1377074355
+        }
+    ],
+    "wof:id":1209799859,
+    "wof:lastmodified":1551727623,
+    "wof:name":"Enfe",
+    "wof:parent_id":1108691423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.73083,
+    34.3575,
+    35.73083,
+    34.3575
+],
+  "geometry": {"coordinates":[35.73083,34.3575],"type":"Point"}
+}

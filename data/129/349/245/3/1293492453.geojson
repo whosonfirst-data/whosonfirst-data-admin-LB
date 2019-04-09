@@ -1,0 +1,75 @@
+{
+  "id": 1293492453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.62389,33.85972,35.62389,33.85972",
+    "geom:latitude":33.85972,
+    "geom:longitude":35.62389,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Qortada",
+    "gn:country_code":"LB",
+    "gn:dem":277,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":269070,
+    "gn:latitude":33.85972,
+    "gn:longitude":35.62389,
+    "gn:modification_date":"2018-04-06",
+    "gn:name":"Qort\u00e2da",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u0637\u0627\u0636\u0629"
+    ],
+    "name:und_x_variant":[
+        "Qir\u0163\u0101\u1e11ah",
+        "Qort\u00e2da",
+        "Qirtada"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        421202301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":269070
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"773a17c29b0b3f930089d166bc134da2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421202301,
+            "locality_id":1293492453,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1293492453,
+    "wof:lastmodified":1537661031,
+    "wof:name":"Qortada",
+    "wof:parent_id":421202301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.62389,
+    33.85972,
+    35.62389,
+    33.85972
+],
+  "geometry": {"coordinates":[35.62389,33.85972],"type":"Point"}
+}

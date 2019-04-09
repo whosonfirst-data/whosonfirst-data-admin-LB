@@ -1,0 +1,72 @@
+{
+  "id": 1243347943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.86528,34.26694,35.86528,34.26694",
+    "geom:latitude":34.26694,
+    "geom:longitude":35.86528,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Beit Abou Ishaq",
+    "gn:country_code":"LB",
+    "gn:dem":786,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":276773,
+    "gn:latitude":34.26694,
+    "gn:longitude":35.86528,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Be\u00eft Abou Ish\u00e2q",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ch\u00eera",
+        "Bayt Ab\u016b Is\u1e29\u0101q",
+        "Be\u00eft Abou Ish\u00e2q"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        1377074355,
+        1108691411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":276773
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"b69936dd93ed95865e241d9119cbcac7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691411,
+            "locality_id":1243347943,
+            "region_id":1377074355
+        }
+    ],
+    "wof:id":1243347943,
+    "wof:lastmodified":1551727624,
+    "wof:name":"Beit Abou Ishaq",
+    "wof:parent_id":1108691411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.86528,
+    34.26694000000001,
+    35.86528,
+    34.26694000000001
+],
+  "geometry": {"coordinates":[35.86528,34.26694000000001],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1209704857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.19917,34.52,36.19917,34.52",
+    "geom:latitude":34.52,
+    "geom:longitude":36.19917,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Ain Yaaqoub",
+    "gn:country_code":"LB",
+    "gn:dem":696,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":277384,
+    "gn:latitude":34.52,
+    "gn:longitude":36.19917,
+    "gn:modification_date":"2006-08-22",
+    "gn:name":"A\u00efn Yaaqoub",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A\u00efn Yakoub",
+        "`Ain Ya`qoub",
+        "`Ayn Ya`q\u016bb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        1377074357,
+        1108691407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":277384
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"7f1824f778626f92c1694eb1685900d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691407,
+            "locality_id":1209704857,
+            "region_id":1377074357
+        }
+    ],
+    "wof:id":1209704857,
+    "wof:lastmodified":1551727671,
+    "wof:name":"Ain Yaaqoub",
+    "wof:parent_id":1108691407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.19917,
+    34.52,
+    36.19917,
+    34.52
+],
+  "geometry": {"coordinates":[36.19917,34.52],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1226530313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.3225,34.39194,36.3225,34.39194",
+    "geom:latitude":34.39194,
+    "geom:longitude":36.3225,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Mrah el Moghr",
+    "gn:country_code":"LB",
+    "gn:dem":1378,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":271545,
+    "gn:latitude":34.39194,
+    "gn:longitude":36.3225,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mr\u00e2h el Moghr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mar\u0101\u1e29 al Mughr",
+        "Mr\u00e2h el Moghr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        1377074353,
+        1108691421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":271545
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"84b599de54de4d339818f12bac72230b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691421,
+            "locality_id":1226530313,
+            "region_id":1377074353
+        }
+    ],
+    "wof:id":1226530313,
+    "wof:lastmodified":1551727655,
+    "wof:name":"Mrah el Moghr",
+    "wof:parent_id":1108691421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.3225,
+    34.39194000000001,
+    36.3225,
+    34.39194000000001
+],
+  "geometry": {"coordinates":[36.3225,34.39194000000001],"type":"Point"}
+}

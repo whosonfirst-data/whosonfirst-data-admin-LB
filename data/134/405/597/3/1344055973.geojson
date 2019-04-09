@@ -1,0 +1,71 @@
+{
+  "id": 1344055973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.7275,33.93278,35.7275,33.93278",
+    "geom:latitude":33.93278,
+    "geom:longitude":35.7275,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ain ett Teffaha",
+    "gn:country_code":"LB",
+    "gn:dem":982,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":277519,
+    "gn:latitude":33.93278,
+    "gn:longitude":35.7275,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"A\u00efn ett Teff\u00e2ha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u2018Ayn at Tuff\u0101\u1e29ah",
+        "A\u00efn ett Teff\u00e2ha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        1108691425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":277519
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"82f3d56c0e9f1cef14e6db23fe765ec4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691425,
+            "locality_id":1344055973,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1344055973,
+    "wof:lastmodified":1537661188,
+    "wof:name":"Ain ett Teffaha",
+    "wof:parent_id":1108691425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.7275,
+    33.93278,
+    35.7275,
+    33.93278
+],
+  "geometry": {"coordinates":[35.7275,33.93278],"type":"Point"}
+}

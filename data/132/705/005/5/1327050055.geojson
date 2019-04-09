@@ -1,0 +1,71 @@
+{
+  "id": 1327050055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.81556,33.83444,35.81556,33.83444",
+    "geom:latitude":33.83444,
+    "geom:longitude":35.81556,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Ain el Ghmiqa",
+    "gn:country_code":"LB",
+    "gn:dem":1474,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":277684,
+    "gn:latitude":33.83444,
+    "gn:longitude":35.81556,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"A\u00efn el Ghm\u00eeqa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u2018Ayn al Gham\u012bqah",
+        "A\u00efn el Ghm\u00eeqa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673479,
+        421172017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":277684
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"4e26ff6774627c670826d9fe78fca472",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421172017,
+            "locality_id":1327050055,
+            "region_id":85673479
+        }
+    ],
+    "wof:id":1327050055,
+    "wof:lastmodified":1537661192,
+    "wof:name":"Ain el Ghmiqa",
+    "wof:parent_id":421172017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.81556,
+    33.83444,
+    35.81556,
+    33.83444
+],
+  "geometry": {"coordinates":[35.81556,33.83444],"type":"Point"}
+}

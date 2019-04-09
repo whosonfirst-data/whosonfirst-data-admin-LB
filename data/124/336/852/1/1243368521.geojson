@@ -1,0 +1,77 @@
+{
+  "id": 1243368521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.63194,33.76833,35.63194,33.76833",
+    "geom:latitude":33.76833,
+    "geom:longitude":35.63194,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Btater",
+    "gn:country_code":"LB",
+    "gn:dem":1044,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":276328,
+    "gn:latitude":33.76833,
+    "gn:longitude":35.63194,
+    "gn:modification_date":"2018-03-07",
+    "gn:name":"Bt\u00e2ter",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u062a\u0627\u062a\u0631"
+    ],
+    "name:und_x_variant":[
+        "Bteiter",
+        "Butatir",
+        "Bt\u0101tir",
+        "Bt\u00e2ter",
+        "Bat\u0101tir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        1108691409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":276328
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"8d7348f1f22c4ed0f44e3f298ecda4fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691409,
+            "locality_id":1243368521,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1243368521,
+    "wof:lastmodified":1537661148,
+    "wof:name":"Btater",
+    "wof:parent_id":1108691409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.63194,
+    33.76833,
+    35.63194,
+    33.76833
+],
+  "geometry": {"coordinates":[35.63194,33.76833],"type":"Point"}
+}

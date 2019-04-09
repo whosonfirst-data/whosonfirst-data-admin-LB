@@ -1,0 +1,79 @@
+{
+  "id": 1344261671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.67187,34.13108,35.67187,34.13108",
+    "geom:latitude":34.13108,
+    "geom:longitude":35.67187,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Hboub",
+    "gn:country_code":"LB",
+    "gn:dem":247,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":274875,
+    "gn:latitude":34.13108,
+    "gn:longitude":35.67187,
+    "gn:modification_date":"2014-03-08",
+    "gn:name":"Hbo\u00fbb",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0628\u0648\u0628"
+    ],
+    "name:ara_x_variant":[
+        "\u1e28ub\u016bb"
+    ],
+    "name:und_x_variant":[
+        "Haboub",
+        "Habouba",
+        "\u1e28abb\u016bb",
+        "Hbo\u00fbb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        421194845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":274875
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"0dca6c5b7cb1a0b373e49e97aa001791",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421194845,
+            "locality_id":1344261671,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1344261671,
+    "wof:lastmodified":1537661123,
+    "wof:name":"Hboub",
+    "wof:parent_id":421194845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.67187,
+    34.13108,
+    35.67187,
+    34.13108
+],
+  "geometry": {"coordinates":[35.67187,34.13108],"type":"Point"}
+}

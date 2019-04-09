@@ -1,0 +1,76 @@
+{
+  "id": 1310685587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.87874,34.36716,35.87874,34.36716",
+    "geom:latitude":34.36716,
+    "geom:longitude":35.87874,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Kfar Zaina",
+    "gn:country_code":"LB",
+    "gn:dem":184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":272799,
+    "gn:latitude":34.36716,
+    "gn:longitude":35.87874,
+    "gn:modification_date":"2018-03-28",
+    "gn:name":"Kfar Za\u00efna",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0641\u0631 \u0632\u064a\u0646\u0627"
+    ],
+    "name:und_x_variant":[
+        "Kafr Zayn\u0101",
+        "Kfar Za\u00efna",
+        "Kfarzeina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673483,
+        1108691445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":272799,
+        "wk:page":"Kfarzeina"
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"4f04a2c8a3a9dbcd9f7af08cd013032e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691445,
+            "locality_id":1310685587,
+            "region_id":85673483
+        }
+    ],
+    "wof:id":1310685587,
+    "wof:lastmodified":1537661079,
+    "wof:name":"Kfar Zaina",
+    "wof:parent_id":1108691445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.87874,
+    34.36716,
+    35.87874,
+    34.36716
+],
+  "geometry": {"coordinates":[35.87874,34.36716],"type":"Point"}
+}

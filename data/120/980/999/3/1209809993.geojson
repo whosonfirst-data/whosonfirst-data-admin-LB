@@ -1,0 +1,71 @@
+{
+  "id": 1209809993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.735,34.24028,35.735,34.24028",
+    "geom:latitude":34.24028,
+    "geom:longitude":35.735,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"El Qalaa",
+    "gn:country_code":"LB",
+    "gn:dem":397,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":279238,
+    "gn:latitude":34.24028,
+    "gn:longitude":35.735,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El Qalaa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Qal\u2018ah",
+        "El Qalaa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        1377074355,
+        421204111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":279238
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"52fe55fa9e839acca427f47b68354b22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421204111,
+            "locality_id":1209809993,
+            "region_id":1377074355
+        }
+    ],
+    "wof:id":1209809993,
+    "wof:lastmodified":1551727623,
+    "wof:name":"El Qalaa",
+    "wof:parent_id":421204111,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.735,
+    34.24028,
+    35.735,
+    34.24028
+],
+  "geometry": {"coordinates":[35.735,34.24028],"type":"Point"}
+}

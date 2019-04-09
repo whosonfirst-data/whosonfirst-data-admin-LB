@@ -1,0 +1,71 @@
+{
+  "id": 1360066553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.19389,34.16389,36.19389,34.16389",
+    "geom:latitude":34.16389,
+    "geom:longitude":36.19389,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Mrah el Ouadi",
+    "gn:country_code":"LB",
+    "gn:dem":1213,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":271536,
+    "gn:latitude":34.16389,
+    "gn:longitude":36.19389,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mr\u00e2h el Ouadi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mar\u0101\u1e29 al W\u0101d\u012b",
+        "Mr\u00e2h el Ouadi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        1377074353,
+        421171405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":271536
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"58a50ab22d1ea40c19a26efac3b8f0a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421171405,
+            "locality_id":1360066553,
+            "region_id":1377074353
+        }
+    ],
+    "wof:id":1360066553,
+    "wof:lastmodified":1551727647,
+    "wof:name":"Mrah el Ouadi",
+    "wof:parent_id":421171405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.19389,
+    34.16389,
+    36.19389,
+    34.16389
+],
+  "geometry": {"coordinates":[36.19389,34.16389],"type":"Point"}
+}

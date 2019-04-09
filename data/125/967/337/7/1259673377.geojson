@@ -1,0 +1,76 @@
+{
+  "id": 1259673377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.98533,34.25338,35.98533,34.25338",
+    "geom:latitude":34.25338,
+    "geom:longitude":35.98533,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Hadchit",
+    "gn:country_code":"LB",
+    "gn:dem":1305,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":274820,
+    "gn:latitude":34.25338,
+    "gn:longitude":35.98533,
+    "gn:modification_date":"2014-03-08",
+    "gn:name":"Hadch\u00eet",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u062f\u0634\u064a\u062a"
+    ],
+    "name:und_x_variant":[
+        "Hadch\u00eete",
+        "\u1e28adsh\u012bt",
+        "Hadch\u00eet"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673483,
+        1108691411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":274820,
+        "wk:page":"Hadchit"
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"181039e0a015273300107d6ff6c65dc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691411,
+            "locality_id":1259673377,
+            "region_id":85673483
+        }
+    ],
+    "wof:id":1259673377,
+    "wof:lastmodified":1537661122,
+    "wof:name":"Hadchit",
+    "wof:parent_id":1108691411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.98533,
+    34.25338,
+    35.98533,
+    34.25338
+],
+  "geometry": {"coordinates":[35.98533,34.25338],"type":"Point"}
+}

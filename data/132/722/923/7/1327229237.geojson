@@ -1,0 +1,80 @@
+{
+  "id": 1327229237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.26306,33.20611,35.26306,33.20611",
+    "geom:latitude":33.20611,
+    "geom:longitude":35.26306,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Knaisse",
+    "gn:country_code":"LB",
+    "gn:dem":185,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":279697,
+    "gn:latitude":33.20611,
+    "gn:longitude":35.26306,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Kna\u00efss\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0643\u0646\u064a\u0633\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u0643\u0646\u064a\u0633\u0629"
+    ],
+    "name:und_x_variant":[
+        "El Kneisah",
+        "Al Knaysah",
+        "Kna\u00efss\u00e9",
+        "Al Kunaysah",
+        "Kan\u012bsah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673499,
+        1108691441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":279697
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"4cc815a2a29839cc742359356d7ea5c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691441,
+            "locality_id":1327229237,
+            "region_id":85673499
+        }
+    ],
+    "wof:id":1327229237,
+    "wof:lastmodified":1537661254,
+    "wof:name":"Knaisse",
+    "wof:parent_id":1108691441,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.26306,
+    33.20611,
+    35.26306,
+    33.20611
+],
+  "geometry": {"coordinates":[35.26306,33.20611],"type":"Point"}
+}

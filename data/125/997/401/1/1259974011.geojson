@@ -1,0 +1,73 @@
+{
+  "id": 1259974011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.98618,34.32464,35.98618,34.32464",
+    "geom:latitude":34.32464,
+    "geom:longitude":35.98618,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Afqa",
+    "gn:country_code":"LB",
+    "gn:dem":1342,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8717336,
+    "gn:latitude":34.32464,
+    "gn:longitude":35.98618,
+    "gn:modification_date":"2014-03-11",
+    "gn:name":"Afqa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0641\u0642\u0627"
+    ],
+    "name:ara_x_variant":[
+        "Afq\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673483,
+        1108691427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8717336
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"0491c9e81e302f14a4cda2be9ad18690",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691427,
+            "locality_id":1259974011,
+            "region_id":85673483
+        }
+    ],
+    "wof:id":1259974011,
+    "wof:lastmodified":1537661324,
+    "wof:name":"Afqa",
+    "wof:parent_id":1108691427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.98618,
+    34.32464,
+    35.98618,
+    34.32464
+],
+  "geometry": {"coordinates":[35.98618,34.32464],"type":"Point"}
+}

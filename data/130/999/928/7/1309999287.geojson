@@ -1,0 +1,74 @@
+{
+  "id": 1309999287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.7625,33.59917,35.7625,33.59917",
+    "geom:latitude":33.59917,
+    "geom:longitude":35.7625,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Lala",
+    "gn:country_code":"LB",
+    "gn:dem":1114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":272148,
+    "gn:latitude":33.59917,
+    "gn:longitude":35.7625,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"L\u00e2la",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0644\u0627\u0644\u0627"
+    ],
+    "name:und_x_variant":[
+        "L\u00e2la",
+        "L\u0101l\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673479,
+        421173359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":272148
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"650a2729ba7be1dee976641dbc13c7fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421173359,
+            "locality_id":1309999287,
+            "region_id":85673479
+        }
+    ],
+    "wof:id":1309999287,
+    "wof:lastmodified":1537661071,
+    "wof:name":"Lala",
+    "wof:parent_id":421173359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.7625,
+    33.59917,
+    35.7625,
+    33.59917
+],
+  "geometry": {"coordinates":[35.7625,33.59917],"type":"Point"}
+}

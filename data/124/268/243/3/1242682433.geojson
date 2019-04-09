@@ -1,0 +1,74 @@
+{
+  "id": 1242682433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.64028,33.81389,35.64028,33.81389",
+    "geom:latitude":33.81389,
+    "geom:longitude":35.64028,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"El Kharayeb",
+    "gn:country_code":"LB",
+    "gn:dem":1015,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6271555,
+    "gn:latitude":33.81389,
+    "gn:longitude":35.64028,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"El Khar\u00e2yeb",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062e\u0631\u0627\u064a\u0628"
+    ],
+    "name:und_x_variant":[
+        "El Khar\u00e2yeb",
+        "Al Khar\u0101yib"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        421202301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6271555
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"227d49c2d077dc963f909eba4510ac31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421202301,
+            "locality_id":1242682433,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1242682433,
+    "wof:lastmodified":1537661306,
+    "wof:name":"El Kharayeb",
+    "wof:parent_id":421202301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.64028,
+    33.81389,
+    35.64028,
+    33.81389
+],
+  "geometry": {"coordinates":[35.64028,33.81389],"type":"Point"}
+}

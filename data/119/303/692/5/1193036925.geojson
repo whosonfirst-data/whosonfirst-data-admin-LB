@@ -1,0 +1,71 @@
+{
+  "id": 1193036925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.66583,34.24556,35.66583,34.24556",
+    "geom:latitude":34.24556,
+    "geom:longitude":35.66583,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Ouata Barra",
+    "gn:country_code":"LB",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":266191,
+    "gn:latitude":34.24556,
+    "gn:longitude":35.66583,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ouata Barra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wa\u0163\u0101\u2019 Barr\u0101",
+        "Ouata Barra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        1377074355,
+        421204111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":266191
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"a0336de4100773c353a7467083152b08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421204111,
+            "locality_id":1193036925,
+            "region_id":1377074355
+        }
+    ],
+    "wof:id":1193036925,
+    "wof:lastmodified":1551727614,
+    "wof:name":"Ouata Barra",
+    "wof:parent_id":421204111,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.66583,
+    34.24556,
+    35.66583,
+    34.24556
+],
+  "geometry": {"coordinates":[35.66583,34.24556],"type":"Point"}
+}

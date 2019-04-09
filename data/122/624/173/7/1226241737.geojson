@@ -1,0 +1,75 @@
+{
+  "id": 1226241737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.68639,33.77167,35.68639,33.77167",
+    "geom:latitude":33.77167,
+    "geom:longitude":35.68639,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Charoun",
+    "gn:country_code":"LB",
+    "gn:dem":1077,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":267568,
+    "gn:latitude":33.77167,
+    "gn:longitude":35.68639,
+    "gn:modification_date":"2018-03-07",
+    "gn:name":"Ch\u00e2ro\u00fbn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0634\u0627\u0631\u0648\u0646"
+    ],
+    "name:und_x_variant":[
+        "Sh\u0101r\u016bn",
+        "Ch\u00e2ro\u00fbn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        1108691409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":267568,
+        "wk:page":"Charoun"
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"45cb835c4e499532e26181878e1d3bef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691409,
+            "locality_id":1226241737,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1226241737,
+    "wof:lastmodified":1537661016,
+    "wof:name":"Charoun",
+    "wof:parent_id":1108691409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.68639,
+    33.77167,
+    35.68639,
+    33.77167
+],
+  "geometry": {"coordinates":[35.68639,33.77167],"type":"Point"}
+}

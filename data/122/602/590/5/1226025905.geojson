@@ -1,0 +1,71 @@
+{
+  "id": 1226025905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.09306,33.87861,36.09306,33.87861",
+    "geom:latitude":33.87861,
+    "geom:longitude":36.09306,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Serraain el Faouqa",
+    "gn:country_code":"LB",
+    "gn:dem":1105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":267132,
+    "gn:latitude":33.87861,
+    "gn:longitude":36.09306,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Serraa\u00efn el Faouqa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sir\u2018\u012bn al Fawq\u0101",
+        "Serraa\u00efn el Faouqa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        1377074353,
+        421171405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":267132
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"0528457723c89fb9255e799efd7b137b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421171405,
+            "locality_id":1226025905,
+            "region_id":1377074353
+        }
+    ],
+    "wof:id":1226025905,
+    "wof:lastmodified":1551727654,
+    "wof:name":"Serraain el Faouqa",
+    "wof:parent_id":421171405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.09306,
+    33.87860999999999,
+    36.09306,
+    33.87860999999999
+],
+  "geometry": {"coordinates":[36.09306,33.87860999999999],"type":"Point"}
+}

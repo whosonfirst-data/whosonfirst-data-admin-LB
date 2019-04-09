@@ -1,0 +1,76 @@
+{
+  "id": 1327331389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.27953,33.33973,35.27953,33.33973",
+    "geom:latitude":33.33973,
+    "geom:longitude":35.27953,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Matariyet ech Choumar",
+    "gn:country_code":"LB",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":270860,
+    "gn:latitude":33.33973,
+    "gn:longitude":35.27953,
+    "gn:modification_date":"2013-08-06",
+    "gn:name":"Matar\u00eeyet ech Cho\u00fbmar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0637\u0631\u064a\u0629 \u0627\u0644\u0634\u0648\u0645\u0627\u0631"
+    ],
+    "name:und_x_variant":[
+        "El-Mattariyah",
+        "Ma\u0163ar\u012byat ash Shawmar",
+        "Matar\u00eeyet ech Cho\u00fbmar",
+        "Ma\u0163ar\u012byat ash Shawm\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673499,
+        890451987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":270860
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"881f7ec9db68e293173812cc41731905",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":890451987,
+            "locality_id":1327331389,
+            "region_id":85673499
+        }
+    ],
+    "wof:id":1327331389,
+    "wof:lastmodified":1537661056,
+    "wof:name":"Matariyet ech Choumar",
+    "wof:parent_id":890451987,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.27953,
+    33.33973,
+    35.27953,
+    33.33973
+],
+  "geometry": {"coordinates":[35.27953,33.33973],"type":"Point"}
+}

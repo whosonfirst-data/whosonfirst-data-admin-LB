@@ -1,0 +1,79 @@
+{
+  "id": 1210015835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.50528,33.84222,35.50528,33.84222",
+    "geom:latitude":33.84222,
+    "geom:longitude":35.50528,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Borj el Branje",
+    "gn:country_code":"LB",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":276140,
+    "gn:latitude":33.84222,
+    "gn:longitude":35.50528,
+    "gn:modification_date":"2018-03-07",
+    "gn:name":"Borj el Branj\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0631\u062c \u0627\u0644\u0628\u0631\u0627\u062c\u0646\u0629"
+    ],
+    "name:und_x_variant":[
+        "Borj el Brajni",
+        "Burj al Barajni",
+        "Bourj-el-Barajne",
+        "Burj al Bar\u0101jin\u012b",
+        "Borj el Beragini",
+        "Burj al Bar\u0101jinah",
+        "Borj el Branj\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        421202301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":276140
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"76a13bc4d9eee62fd414a8a8cf0e9582",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421202301,
+            "locality_id":1210015835,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1210015835,
+    "wof:lastmodified":1537661146,
+    "wof:name":"Borj el Branje",
+    "wof:parent_id":421202301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.50528,
+    33.84222,
+    35.50528,
+    33.84222
+],
+  "geometry": {"coordinates":[35.50528,33.84222],"type":"Point"}
+}

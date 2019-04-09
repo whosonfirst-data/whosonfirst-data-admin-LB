@@ -1,0 +1,71 @@
+{
+  "id": 1226220589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.35056,34.39722,36.35056,34.39722",
+    "geom:latitude":34.39722,
+    "geom:longitude":36.35056,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Mrah Aabbas",
+    "gn:country_code":"LB",
+    "gn:dem":1094,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":271625,
+    "gn:latitude":34.39722,
+    "gn:longitude":36.35056,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mr\u00e2h Aabb\u00e2s",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mar\u0101\u1e29 \u2018Abb\u0101s",
+        "Mr\u00e2h Aabb\u00e2s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        1377074353,
+        1108691421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":271625
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"89e8e6ec7dc8eacb5022dc1e204b4734",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691421,
+            "locality_id":1226220589,
+            "region_id":1377074353
+        }
+    ],
+    "wof:id":1226220589,
+    "wof:lastmodified":1551727656,
+    "wof:name":"Mrah Aabbas",
+    "wof:parent_id":1108691421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.35056,
+    34.39722,
+    36.35056,
+    34.39722
+],
+  "geometry": {"coordinates":[36.35056,34.39722],"type":"Point"}
+}

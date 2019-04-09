@@ -1,0 +1,73 @@
+{
+  "id": 1293119123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.145,34.50528,36.145,34.50528",
+    "geom:latitude":34.50528,
+    "geom:longitude":36.145,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Rahbe",
+    "gn:country_code":"LB",
+    "gn:dem":567,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":268882,
+    "gn:latitude":34.50528,
+    "gn:longitude":36.145,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Rahb\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ar Ra\u1e29bah",
+        "Ra\u1e29bah",
+        "Rahb\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673483,
+        1108691407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":268882,
+        "wk:page":"Rahbeh"
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"1c849258347b29537cfc597c30b671f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691407,
+            "locality_id":1293119123,
+            "region_id":85673483
+        }
+    ],
+    "wof:id":1293119123,
+    "wof:lastmodified":1537661028,
+    "wof:name":"Rahbe",
+    "wof:parent_id":1108691407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.145,
+    34.50528,
+    36.145,
+    34.50528
+],
+  "geometry": {"coordinates":[36.145,34.50528],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1209206427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.66674,33.30883,35.66674,33.30883",
+    "geom:latitude":33.30883,
+    "geom:longitude":35.66674,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Hilta el Faouqa",
+    "gn:country_code":"LB",
+    "gn:dem":563,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":274707,
+    "gn:latitude":33.30883,
+    "gn:longitude":35.66674,
+    "gn:modification_date":"2013-02-08",
+    "gn:name":"Hilta el Faouqa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0644\u062a\u0627 \u0627\u0644\u0641\u0648\u0642\u0627"
+    ],
+    "name:und_x_variant":[
+        "\u1e28alt\u0101",
+        "Haltaa",
+        "Hilta el Faouqa",
+        "\u1e28ilt\u0101 al Fawq\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":274707
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"c8d61064297d83288a79cb3d21c30493",
+    "wof:hierarchy":[
+        {
+            "country_id":85632533,
+            "locality_id":1209206427
+        }
+    ],
+    "wof:id":1209206427,
+    "wof:lastmodified":1537661120,
+    "wof:name":"Hilta el Faouqa",
+    "wof:parent_id":85632533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.66674000000001,
+    33.30883,
+    35.66674000000001,
+    33.30883
+],
+  "geometry": {"coordinates":[35.66674000000001,33.30883],"type":"Point"}
+}

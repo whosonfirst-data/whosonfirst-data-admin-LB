@@ -1,0 +1,71 @@
+{
+  "id": 1292895659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.81611,34.18972,35.81611,34.18972",
+    "geom:latitude":34.18972,
+    "geom:longitude":35.81611,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Qabr es Sindiane",
+    "gn:country_code":"LB",
+    "gn:dem":1101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":269682,
+    "gn:latitude":34.18972,
+    "gn:longitude":35.81611,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Qabr es Sindi\u00e2ne",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qabr as Sindiy\u0101n",
+        "Qabr es Sindi\u00e2ne"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        421194845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":269682
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"215db10c51fa7f47c1ff2dbba74fdc1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421194845,
+            "locality_id":1292895659,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1292895659,
+    "wof:lastmodified":1537661036,
+    "wof:name":"Qabr es Sindiane",
+    "wof:parent_id":421194845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.81610999999999,
+    34.18972,
+    35.81610999999999,
+    34.18972
+],
+  "geometry": {"coordinates":[35.81610999999999,34.18972],"type":"Point"}
+}

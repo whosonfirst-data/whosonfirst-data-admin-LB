@@ -1,0 +1,71 @@
+{
+  "id": 1226630003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.08833,34.56861,36.08833,34.56861",
+    "geom:latitude":34.56861,
+    "geom:longitude":36.08833,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Mathanet ej Jaaidiye",
+    "gn:country_code":"LB",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":270841,
+    "gn:latitude":34.56861,
+    "gn:longitude":36.08833,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mathanet ej Jaa\u00efd\u00eey\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ma\u0163\u1e29anat al Ju\u2018ayd\u012byah",
+        "Mathanet ej Jaa\u00efd\u00eey\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        1377074357,
+        1108691407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":270841
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"8fa135ba0eac6c9a4799e4368d32f186",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691407,
+            "locality_id":1226630003,
+            "region_id":1377074357
+        }
+    ],
+    "wof:id":1226630003,
+    "wof:lastmodified":1551727673,
+    "wof:name":"Mathanet ej Jaaidiye",
+    "wof:parent_id":1108691407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.08833,
+    34.56861,
+    36.08833,
+    34.56861
+],
+  "geometry": {"coordinates":[36.08833,34.56861],"type":"Point"}
+}

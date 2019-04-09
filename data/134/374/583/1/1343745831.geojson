@@ -1,0 +1,73 @@
+{
+  "id": 1343745831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.15472,34.60944,36.15472,34.60944",
+    "geom:latitude":34.60944,
+    "geom:longitude":36.15472,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Ouadi el Haour",
+    "gn:country_code":"LB",
+    "gn:dem":250,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":266363,
+    "gn:latitude":34.60944,
+    "gn:longitude":36.15472,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ou\u00e2di el Haour",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Haouch",
+        "Beit el-Haush",
+        "W\u0101d\u012b al \u1e28awr",
+        "Ou\u00e2di el Haour"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673483,
+        1108691407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":266363
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"091f73adf987a5ca5cc0238d099e3cfd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691407,
+            "locality_id":1343745831,
+            "region_id":85673483
+        }
+    ],
+    "wof:id":1343745831,
+    "wof:lastmodified":1537661000,
+    "wof:name":"Ouadi el Haour",
+    "wof:parent_id":1108691407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.15472000000001,
+    34.60944,
+    36.15472000000001,
+    34.60944
+],
+  "geometry": {"coordinates":[36.15472000000001,34.60944],"type":"Point"}
+}

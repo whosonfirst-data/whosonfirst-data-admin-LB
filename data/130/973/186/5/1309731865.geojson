@@ -1,0 +1,76 @@
+{
+  "id": 1309731865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.85389,33.72472,35.85389,33.72472",
+    "geom:latitude":33.72472,
+    "geom:longitude":35.85389,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Ej Jezire",
+    "gn:country_code":"LB",
+    "gn:dem":866,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":279878,
+    "gn:latitude":33.72472,
+    "gn:longitude":35.85389,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Ej Jez\u00eer\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062c\u0632\u064a\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "Djezirah",
+        "El-Jazeerah",
+        "Al Jaz\u012brah",
+        "Ej Jez\u00eer\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673479,
+        421173359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":279878
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"42e6a1efd3e291828e70b2b20451041f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421173359,
+            "locality_id":1309731865,
+            "region_id":85673479
+        }
+    ],
+    "wof:id":1309731865,
+    "wof:lastmodified":1537661261,
+    "wof:name":"Ej Jezire",
+    "wof:parent_id":421173359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.85389,
+    33.72472,
+    35.85389,
+    33.72472
+],
+  "geometry": {"coordinates":[35.85389,33.72472],"type":"Point"}
+}

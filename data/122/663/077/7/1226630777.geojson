@@ -1,0 +1,76 @@
+{
+  "id": 1226630777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.91389,34.41167,35.91389,34.41167",
+    "geom:latitude":34.41167,
+    "geom:longitude":35.91389,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Rmaila",
+    "gn:country_code":"LB",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":278419,
+    "gn:latitude":34.41167,
+    "gn:longitude":35.91389,
+    "gn:modification_date":"2013-10-07",
+    "gn:name":"Rma\u00efla",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0631\u0645\u064a\u0644\u0629"
+    ],
+    "name:und_x_variant":[
+        "Ar Rumaylah",
+        "Er-Rmeilah",
+        "Er Rma\u00efle",
+        "Rma\u00efla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        1377074355,
+        1108691445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":278419
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"869e0b90f232903b38b50693afac4e0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691445,
+            "locality_id":1226630777,
+            "region_id":1377074355
+        }
+    ],
+    "wof:id":1226630777,
+    "wof:lastmodified":1551727625,
+    "wof:name":"Rmaila",
+    "wof:parent_id":1108691445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.91389,
+    34.41167,
+    35.91389,
+    34.41167
+],
+  "geometry": {"coordinates":[35.91389,34.41167],"type":"Point"}
+}

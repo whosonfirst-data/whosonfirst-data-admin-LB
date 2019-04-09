@@ -1,0 +1,70 @@
+{
+  "id": 1209235597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.64226,33.32041,35.64226,33.32041",
+    "geom:latitude":33.32041,
+    "geom:longitude":35.64226,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"El Meri",
+    "gn:country_code":"LB",
+    "gn:dem":444,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":279505,
+    "gn:latitude":33.32041,
+    "gn:longitude":35.64226,
+    "gn:modification_date":"2013-02-08",
+    "gn:name":"El Meri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0648\u0631\u064a"
+    ],
+    "name:und_x_variant":[
+        "Al M\u0101r\u012b",
+        "El-Mari",
+        "El Meri",
+        "Al Mar\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":279505
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"58c8212ef1099cf578478c152a208243",
+    "wof:hierarchy":[
+        {
+            "country_id":85632533,
+            "locality_id":1209235597
+        }
+    ],
+    "wof:id":1209235597,
+    "wof:lastmodified":1537661246,
+    "wof:name":"El Meri",
+    "wof:parent_id":85632533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.64226,
+    33.32041,
+    35.64226,
+    33.32041
+],
+  "geometry": {"coordinates":[35.64226,33.32041],"type":"Point"}
+}

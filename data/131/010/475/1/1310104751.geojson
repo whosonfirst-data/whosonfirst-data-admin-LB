@@ -1,0 +1,74 @@
+{
+  "id": 1310104751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.60722,33.81694,35.60722,33.81694",
+    "geom:latitude":33.81694,
+    "geom:longitude":35.60722,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Khane ech Cheikh",
+    "gn:country_code":"LB",
+    "gn:dem":783,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6273744,
+    "gn:latitude":33.81694,
+    "gn:longitude":35.60722,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Khane ech Che\u00efkh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0627\u0646 \u0627\u0644\u0634\u064a\u062e"
+    ],
+    "name:und_x_variant":[
+        "Khane ech Che\u00efkh",
+        "Kh\u0101n ash Shaykh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        1108691409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6273744
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"aa77b0f3e677c749bef125024b4650bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691409,
+            "locality_id":1310104751,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1310104751,
+    "wof:lastmodified":1537661309,
+    "wof:name":"Khane ech Cheikh",
+    "wof:parent_id":1108691409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.60722,
+    33.81694,
+    35.60722,
+    33.81694
+],
+  "geometry": {"coordinates":[35.60722,33.81694],"type":"Point"}
+}

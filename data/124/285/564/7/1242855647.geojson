@@ -1,0 +1,67 @@
+{
+  "id": 1242855647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.39583,34.38806,36.39583,34.38806",
+    "geom:latitude":34.38806,
+    "geom:longitude":36.39583,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Iraniye",
+    "gn:country_code":"LB",
+    "gn:dem":671,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6277921,
+    "gn:latitude":34.38806,
+    "gn:longitude":36.39583,
+    "gn:modification_date":"2006-08-24",
+    "gn:name":"Iran\u00eey\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        1377074353,
+        1108691421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6277921
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"0ef7516e1be5e61defa30f0e8277f3be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691421,
+            "locality_id":1242855647,
+            "region_id":1377074353
+        }
+    ],
+    "wof:id":1242855647,
+    "wof:lastmodified":1551727651,
+    "wof:name":"Iraniye",
+    "wof:parent_id":1108691421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.39583,
+    34.38806,
+    36.39583,
+    34.38806
+],
+  "geometry": {"coordinates":[36.39583,34.38806],"type":"Point"}
+}

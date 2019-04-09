@@ -1,0 +1,76 @@
+{
+  "id": 1277108419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.62056,33.63611,35.62056,33.63611",
+    "geom:latitude":33.63611,
+    "geom:longitude":35.62056,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Baadarane",
+    "gn:country_code":"LB",
+    "gn:dem":1050,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":277205,
+    "gn:latitude":33.63611,
+    "gn:longitude":35.62056,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Baadar\u00e2ne",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0639\u062f\u0631\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Ba\u2018dhar\u0101n",
+        "Baadar\u00e2ne",
+        "Ba\u2018dar\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        1108691419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":277205,
+        "wk:page":"Baadar%C3%A2ne"
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"f22a170fcbdb00e2cd616659c017d356",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691419,
+            "locality_id":1277108419,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1277108419,
+    "wof:lastmodified":1537661178,
+    "wof:name":"Baadarane",
+    "wof:parent_id":1108691419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.62056,
+    33.63611,
+    35.62056,
+    33.63611
+],
+  "geometry": {"coordinates":[35.62056,33.63611],"type":"Point"}
+}

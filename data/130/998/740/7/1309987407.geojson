@@ -1,0 +1,73 @@
+{
+  "id": 1309987407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.20667,34.07972,36.20667,34.07972",
+    "geom:latitude":34.07972,
+    "geom:longitude":36.20667,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Maqne",
+    "gn:country_code":"LB",
+    "gn:dem":1077,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":271666,
+    "gn:latitude":34.07972,
+    "gn:longitude":36.20667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Maqn\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Maqnah",
+        "Maqn\u00e9",
+        "Makneh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673479,
+        421171405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":271666,
+        "wk:page":"Maqne"
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"8dcdb9bf85a1c2a197b40feed63b45e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421171405,
+            "locality_id":1309987407,
+            "region_id":85673479
+        }
+    ],
+    "wof:id":1309987407,
+    "wof:lastmodified":1537661068,
+    "wof:name":"Maqne",
+    "wof:parent_id":421171405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.20667,
+    34.07972,
+    36.20667,
+    34.07972
+],
+  "geometry": {"coordinates":[36.20667,34.07972],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1327123929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.75861,34.18722,35.75861,34.18722",
+    "geom:latitude":34.18722,
+    "geom:longitude":35.75861,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Mar Mama",
+    "gn:country_code":"LB",
+    "gn:dem":883,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":271206,
+    "gn:latitude":34.18722,
+    "gn:longitude":35.75861,
+    "gn:modification_date":"2014-03-08",
+    "gn:name":"M\u00e2r M\u00e2ma",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0627\u0631 \u0645\u0627\u0645\u0627"
+    ],
+    "name:ara_x_variant":[
+        "M\u0101r M\u0101m\u0101"
+    ],
+    "name:und_x_variant":[
+        "M\u00e2r M\u00e2ma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        421194845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":271206
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"08c28a48389a1a1f85c69802f29ec2b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421194845,
+            "locality_id":1327123929,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1327123929,
+    "wof:lastmodified":1537661059,
+    "wof:name":"Mar Mama",
+    "wof:parent_id":421194845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.75861,
+    34.18722,
+    35.75861,
+    34.18722
+],
+  "geometry": {"coordinates":[35.75861,34.18722],"type":"Point"}
+}

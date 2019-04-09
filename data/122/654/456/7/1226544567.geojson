@@ -1,0 +1,75 @@
+{
+  "id": 1226544567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.57639,33.89611,35.57639,33.89611",
+    "geom:latitude":33.89611,
+    "geom:longitude":35.57639,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ez Zalqa",
+    "gn:country_code":"LB",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":277295,
+    "gn:latitude":33.89611,
+    "gn:longitude":35.57639,
+    "gn:modification_date":"2018-03-07",
+    "gn:name":"Ez Zalqa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0632\u0644\u0642\u0627"
+    ],
+    "name:und_x_variant":[
+        "Az Zalq\u0101\u2019",
+        "Ez Zalqa",
+        "Az Zalq\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        1108691425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":277295
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"c076ae4b4c902c861bc9b0cc00c743ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691425,
+            "locality_id":1226544567,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1226544567,
+    "wof:lastmodified":1537661180,
+    "wof:name":"Ez Zalqa",
+    "wof:parent_id":1108691425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.57639,
+    33.89611,
+    35.57639,
+    33.89611
+],
+  "geometry": {"coordinates":[35.57639,33.89611],"type":"Point"}
+}

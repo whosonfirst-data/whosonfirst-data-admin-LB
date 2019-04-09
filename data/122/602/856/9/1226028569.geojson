@@ -1,0 +1,72 @@
+{
+  "id": 1226028569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.22389,34.53417,36.22389,34.53417",
+    "geom:latitude":34.53417,
+    "geom:longitude":36.22389,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Beit Khlaiyel",
+    "gn:country_code":"LB",
+    "gn:dem":775,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":276713,
+    "gn:latitude":34.53417,
+    "gn:longitude":36.22389,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Be\u00eft Khla\u00efyel",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Be\u00eft Khalil",
+        "Bayt Khal\u012bl",
+        "Be\u00eft Khla\u00efyel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        1377074357,
+        1108691407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":276713
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"b017cb22008f88eca472ac560a72ec7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691407,
+            "locality_id":1226028569,
+            "region_id":1377074357
+        }
+    ],
+    "wof:id":1226028569,
+    "wof:lastmodified":1551727672,
+    "wof:name":"Beit Khlaiyel",
+    "wof:parent_id":1108691407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.22389,
+    34.53417,
+    36.22389,
+    34.53417
+],
+  "geometry": {"coordinates":[36.22389,34.53417],"type":"Point"}
+}

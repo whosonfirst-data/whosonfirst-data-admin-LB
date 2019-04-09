@@ -1,0 +1,76 @@
+{
+  "id": 1360206965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.47444,33.52194,35.47444,33.52194",
+    "geom:latitude":33.52194,
+    "geom:longitude":35.47444,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Haitoule",
+    "gn:country_code":"LB",
+    "gn:dem":284,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":274162,
+    "gn:latitude":33.52194,
+    "gn:longitude":35.47444,
+    "gn:modification_date":"2013-04-04",
+    "gn:name":"Ha\u00efto\u00fbl\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u064a\u062a\u0648\u0644\u0629"
+    ],
+    "name:und_x_variant":[
+        "\u1e28ayt\u016blah",
+        "Haitoul\u00e9",
+        "Haitouli",
+        "Ha\u00efto\u00fbl\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673499,
+        1108691435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":274162
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"edd108dab6f0184e2bf46a82dee8480d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691435,
+            "locality_id":1360206965,
+            "region_id":85673499
+        }
+    ],
+    "wof:id":1360206965,
+    "wof:lastmodified":1537661109,
+    "wof:name":"Haitoule",
+    "wof:parent_id":1108691435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.47444,
+    33.52194,
+    35.47444,
+    33.52194
+],
+  "geometry": {"coordinates":[35.47444,33.52194],"type":"Point"}
+}

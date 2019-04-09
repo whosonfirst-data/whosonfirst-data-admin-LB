@@ -1,0 +1,78 @@
+{
+  "id": 1310605917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.64972,34.16444,35.64972,34.16444",
+    "geom:latitude":34.16444,
+    "geom:longitude":35.64972,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Jeddayel",
+    "gn:country_code":"LB",
+    "gn:dem":219,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":273596,
+    "gn:latitude":34.16444,
+    "gn:longitude":35.64972,
+    "gn:modification_date":"2014-03-08",
+    "gn:name":"Jedd\u00e2yel",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u062f\u0627\u064a\u0644"
+    ],
+    "name:und_x_variant":[
+        "Jad\u0101\u2019il",
+        "Jd\u00e2yel",
+        "Jazil",
+        "Jad\u0101yil",
+        "Jedd\u00e2yel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        421194845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":273596,
+        "wk:page":"Jeddayel"
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"bfc30d3e693809220763e1f375bfe7d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421194845,
+            "locality_id":1310605917,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1310605917,
+    "wof:lastmodified":1537661096,
+    "wof:name":"Jeddayel",
+    "wof:parent_id":421194845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.64972,
+    34.16444,
+    35.64972,
+    34.16444
+],
+  "geometry": {"coordinates":[35.64972,34.16444],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1242957671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.9025,34.17333,35.9025,34.17333",
+    "geom:latitude":34.17333,
+    "geom:longitude":35.9025,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Bouryane",
+    "gn:country_code":"LB",
+    "gn:dem":1620,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":276114,
+    "gn:latitude":34.17333,
+    "gn:longitude":35.9025,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Boury\u00e2ne",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u016bry\u0101n",
+        "Boury\u00e2ne"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673483,
+        421204111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":276114
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"a2d480c4c0c12f8a199427cc30e6d7f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421204111,
+            "locality_id":1242957671,
+            "region_id":85673483
+        }
+    ],
+    "wof:id":1242957671,
+    "wof:lastmodified":1537661144,
+    "wof:name":"Bouryane",
+    "wof:parent_id":421204111,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.9025,
+    34.17333,
+    35.9025,
+    34.17333
+],
+  "geometry": {"coordinates":[35.9025,34.17333],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1242600491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.77307,34.01442,35.77307,34.01442",
+    "geom:latitude":34.01442,
+    "geom:longitude":35.77307,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Mairouba",
+    "gn:country_code":"LB",
+    "gn:dem":1296,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":270779,
+    "gn:latitude":34.01442,
+    "gn:longitude":35.77307,
+    "gn:modification_date":"2018-03-29",
+    "gn:name":"Ma\u00efro\u00fbba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u064a\u0631\u0648\u0628\u0627"
+    ],
+    "name:ara_x_variant":[
+        "\u0645\u064a\u0631\u0648\u0628\u0629"
+    ],
+    "name:und_x_variant":[
+        "Mayr\u016bb\u0101",
+        "Ma\u00efro\u00fbba",
+        "Mayrubah",
+        "Meyrouba",
+        "Mairouba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        421172015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":270779,
+        "wk:page":"Mayrouba"
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"ae2f983d7872fd8930434bbcc8698906",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421172015,
+            "locality_id":1242600491,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1242600491,
+    "wof:lastmodified":1537661055,
+    "wof:name":"Mairouba",
+    "wof:parent_id":421172015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.77307000000001,
+    34.01442,
+    35.77307000000001,
+    34.01442
+],
+  "geometry": {"coordinates":[35.77307000000001,34.01442],"type":"Point"}
+}

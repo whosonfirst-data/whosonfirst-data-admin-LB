@@ -1,0 +1,80 @@
+{
+  "id": 1344254943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.3338,33.34338,35.3338,33.34338",
+    "geom:latitude":33.34338,
+    "geom:longitude":35.3338,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Ez Zrariye",
+    "gn:country_code":"LB",
+    "gn:dem":298,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":277258,
+    "gn:latitude":33.34338,
+    "gn:longitude":35.3338,
+    "gn:modification_date":"2018-03-28",
+    "gn:name":"Ez Zr\u00e2r\u00eey\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0632\u0631\u0627\u0631\u064a\u0651\u0629"
+    ],
+    "name:und_x_variant":[
+        "Az Zar\u0101r\u012byah",
+        "Ez Zrariyah",
+        "Az Zar\u012br\u012byah",
+        "Az Zr\u0101r\u012byah",
+        "Ez Zr\u00e2r\u00eey\u00e9",
+        "Zrarieh",
+        "Az Zar\u0101r\u012by\u012bah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673499,
+        890451987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":277258,
+        "wk:page":"Zrarieh"
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"7be043c5d2898166cb074349670b6b8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":890451987,
+            "locality_id":1344254943,
+            "region_id":85673499
+        }
+    ],
+    "wof:id":1344254943,
+    "wof:lastmodified":1537661180,
+    "wof:name":"Ez Zrariye",
+    "wof:parent_id":890451987,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.3338,
+    33.34338,
+    35.3338,
+    33.34338
+],
+  "geometry": {"coordinates":[35.3338,33.34338],"type":"Point"}
+}

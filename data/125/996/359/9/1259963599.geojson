@@ -1,0 +1,74 @@
+{
+  "id": 1259963599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.42861,34.61556,36.42861,34.61556",
+    "geom:latitude":34.61556,
+    "geom:longitude":36.42861,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Hnaider",
+    "gn:country_code":"LB",
+    "gn:dem":539,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":273832,
+    "gn:latitude":34.61556,
+    "gn:longitude":36.42861,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Hna\u00efder",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hena\u00efder",
+        "Hneidir",
+        "Hnayder",
+        "\u1e28unaydir",
+        "Hna\u00efder"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673483,
+        1108691407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":273832
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"cc7557578afd8a6febf6583a4dae9daa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691407,
+            "locality_id":1259963599,
+            "region_id":85673483
+        }
+    ],
+    "wof:id":1259963599,
+    "wof:lastmodified":1537661100,
+    "wof:name":"Hnaider",
+    "wof:parent_id":1108691407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.42861,
+    34.61556,
+    36.42861,
+    34.61556
+],
+  "geometry": {"coordinates":[36.42861,34.61556],"type":"Point"}
+}

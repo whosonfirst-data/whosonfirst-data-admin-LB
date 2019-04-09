@@ -1,0 +1,72 @@
+{
+  "id": 1310010697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.62083,33.92778,35.62083,33.92778",
+    "geom:latitude":33.92778,
+    "geom:longitude":35.62083,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Beit ech Chaar",
+    "gn:country_code":"LB",
+    "gn:dem":336,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":276751,
+    "gn:latitude":33.92778,
+    "gn:longitude":35.62083,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Be\u00eft ech Chaar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Beit esh-Sh\u2018ar",
+        "Bayt ash Sha\u2018\u2018\u0101r",
+        "Be\u00eft ech Chaar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        1108691425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":276751
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"e247012e1086b3b666317e98653e8473",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691425,
+            "locality_id":1310010697,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1310010697,
+    "wof:lastmodified":1537661168,
+    "wof:name":"Beit ech Chaar",
+    "wof:parent_id":1108691425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.62083,
+    33.92778,
+    35.62083,
+    33.92778
+],
+  "geometry": {"coordinates":[35.62083,33.92778],"type":"Point"}
+}

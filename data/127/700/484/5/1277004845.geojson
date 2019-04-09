@@ -1,0 +1,75 @@
+{
+  "id": 1277004845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.71194,34.16722,35.71194,34.16722",
+    "geom:latitude":34.16722,
+    "geom:longitude":35.71194,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Er Ramout",
+    "gn:country_code":"LB",
+    "gn:dem":545,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":278504,
+    "gn:latitude":34.16722,
+    "gn:longitude":35.71194,
+    "gn:modification_date":"2014-03-08",
+    "gn:name":"Er R\u00e2mo\u00fbt",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0631\u0627\u0645\u0648\u0637"
+    ],
+    "name:und_x_variant":[
+        "Er Fr\u00e2mo\u00fbte",
+        "Ar R\u0101m\u016b\u0163",
+        "Er R\u00e2mo\u00fbt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        421194845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":278504
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"228e5a4a7b39d67d775293e1111b4a22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421194845,
+            "locality_id":1277004845,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1277004845,
+    "wof:lastmodified":1537661213,
+    "wof:name":"Er Ramout",
+    "wof:parent_id":421194845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.71194000000001,
+    34.16722,
+    35.71194000000001,
+    34.16722
+],
+  "geometry": {"coordinates":[35.71194000000001,34.16722],"type":"Point"}
+}

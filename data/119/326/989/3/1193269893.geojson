@@ -1,0 +1,74 @@
+{
+  "id": 1193269893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.49847,33.12989,35.49847,33.12989",
+    "geom:latitude":33.12989,
+    "geom:longitude":35.49847,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Nabi Youcha",
+    "gn:country_code":"LB",
+    "gn:dem":624,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8558759,
+    "gn:latitude":33.12989,
+    "gn:longitude":35.49847,
+    "gn:modification_date":"2013-08-10",
+    "gn:name":"Nabi Youcha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0646\u0628\u064a \u064a\u0648\u0634\u0639"
+    ],
+    "name:und_x_variant":[
+        "An Nab\u012b Y\u016bshi\u2018",
+        "Nabi Youcha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673495,
+        1108691437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8558759
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"7fa288006b64eab2bb3f8aaa175cec11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691437,
+            "locality_id":1193269893,
+            "region_id":85673495
+        }
+    ],
+    "wof:id":1193269893,
+    "wof:lastmodified":1537661321,
+    "wof:name":"Nabi Youcha",
+    "wof:parent_id":1108691437,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.49847000000001,
+    33.12989,
+    35.49847000000001,
+    33.12989
+],
+  "geometry": {"coordinates":[35.49847000000001,33.12989],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1310690989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.99639,34.23972,35.99639,34.23972",
+    "geom:latitude":34.23972,
+    "geom:longitude":35.99639,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Bqorqacha",
+    "gn:country_code":"LB",
+    "gn:dem":1429,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":276400,
+    "gn:latitude":34.23972,
+    "gn:longitude":35.99639,
+    "gn:modification_date":"2014-03-08",
+    "gn:name":"Bq\u00f4rq\u00e2cha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0642\u0631 \u0642\u0627\u0634\u0627"
+    ],
+    "name:und_x_variant":[
+        "Bqerqacha",
+        "B\u00eer Roucha",
+        "Bqirq\u0101sh\u0101",
+        "Bq\u00f4rq\u00e2cha",
+        "Baqr Q\u0101sh\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673483,
+        1108691411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":276400
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"4e26060e6051f7570c67e5d04a9cff03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691411,
+            "locality_id":1310690989,
+            "region_id":85673483
+        }
+    ],
+    "wof:id":1310690989,
+    "wof:lastmodified":1537661154,
+    "wof:name":"Bqorqacha",
+    "wof:parent_id":1108691411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.99639000000001,
+    34.23972,
+    35.99639000000001,
+    34.23972
+],
+  "geometry": {"coordinates":[35.99639000000001,34.23972],"type":"Point"}
+}

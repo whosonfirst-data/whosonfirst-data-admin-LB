@@ -1,0 +1,76 @@
+{
+  "id": 1225938517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.42652,33.44362,35.42652,33.44362",
+    "geom:latitude":33.44362,
+    "geom:longitude":35.42652,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kfaroue",
+    "gn:country_code":"LB",
+    "gn:dem":382,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":272804,
+    "gn:latitude":33.44362,
+    "gn:longitude":35.42652,
+    "gn:modification_date":"2013-08-06",
+    "gn:name":"Kfarou\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0641\u0631\u0648\u0629"
+    ],
+    "name:und_x_variant":[
+        "Bfarwah",
+        "Kafrwah",
+        "Kfarou\u00e9",
+        "Kafruwah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673495,
+        1108691429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":272804
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"d3128aca51e8ec3030e544e4541ff465",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691429,
+            "locality_id":1225938517,
+            "region_id":85673495
+        }
+    ],
+    "wof:id":1225938517,
+    "wof:lastmodified":1537661079,
+    "wof:name":"Kfaroue",
+    "wof:parent_id":1108691429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.42652000000001,
+    33.44362,
+    35.42652000000001,
+    33.44362
+],
+  "geometry": {"coordinates":[35.42652000000001,33.44362],"type":"Point"}
+}

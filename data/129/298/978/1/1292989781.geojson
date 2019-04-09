@@ -1,0 +1,71 @@
+{
+  "id": 1292989781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.09639,34.535,36.09639,34.535",
+    "geom:latitude":34.535,
+    "geom:longitude":36.09639,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Idbil",
+    "gn:country_code":"LB",
+    "gn:dem":293,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":273735,
+    "gn:latitude":34.535,
+    "gn:longitude":36.09639,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Idbil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aadbel",
+        "Idbil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673483,
+        1108691407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":273735
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"d304cd2a3cd2e5fbeccf49bb43e55a52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691407,
+            "locality_id":1292989781,
+            "region_id":85673483
+        }
+    ],
+    "wof:id":1292989781,
+    "wof:lastmodified":1537661099,
+    "wof:name":"Idbil",
+    "wof:parent_id":1108691407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.09639,
+    34.535,
+    36.09639,
+    34.535
+],
+  "geometry": {"coordinates":[36.09639,34.535],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1343358213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.45,33.70667,35.45,33.70667",
+    "geom:latitude":33.70667,
+    "geom:longitude":35.45,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"El Khiam",
+    "gn:country_code":"LB",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":279742,
+    "gn:latitude":33.70667,
+    "gn:longitude":35.45,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"El Khi\u00e2m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062e\u064a\u0651\u0627\u0645"
+    ],
+    "name:und_x_variant":[
+        "Al Khayy\u0101m",
+        "El Khi\u00e2m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        1108691419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":279742
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"ac3d4d6f3ca1772ec1ef4385e74fa263",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691419,
+            "locality_id":1343358213,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1343358213,
+    "wof:lastmodified":1537661256,
+    "wof:name":"El Khiam",
+    "wof:parent_id":1108691419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.45,
+    33.70667,
+    35.45,
+    33.70667
+],
+  "geometry": {"coordinates":[35.45,33.70667],"type":"Point"}
+}

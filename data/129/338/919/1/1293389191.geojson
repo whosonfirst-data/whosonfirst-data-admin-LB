@@ -1,0 +1,76 @@
+{
+  "id": 1293389191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.68167,34.15028,35.68167,34.15028",
+    "geom:latitude":34.15028,
+    "geom:longitude":35.68167,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Dmalsa",
+    "gn:country_code":"LB",
+    "gn:dem":407,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":275490,
+    "gn:latitude":34.15028,
+    "gn:longitude":35.68167,
+    "gn:modification_date":"2014-03-08",
+    "gn:name":"Dmals\u00e2",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u0645\u0644\u0635\u0627"
+    ],
+    "name:und_x_variant":[
+        "El Molsa",
+        "Damals\u00e2",
+        "Dmals\u00e2",
+        "Damal\u015f\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        421194845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":275490
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"5ee12b8c59810fa35c3b66e35908bfe1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421194845,
+            "locality_id":1293389191,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1293389191,
+    "wof:lastmodified":1537661130,
+    "wof:name":"Dmalsa",
+    "wof:parent_id":421194845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.68167000000001,
+    34.15028,
+    35.68167000000001,
+    34.15028
+],
+  "geometry": {"coordinates":[35.68167000000001,34.15028],"type":"Point"}
+}

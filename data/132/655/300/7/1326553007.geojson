@@ -1,0 +1,73 @@
+{
+  "id": 1326553007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.7425,33.80333,35.7425,33.80333",
+    "geom:latitude":33.80333,
+    "geom:longitude":35.7425,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Mezher",
+    "gn:country_code":"LB",
+    "gn:dem":1502,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6271817,
+    "gn:latitude":33.80333,
+    "gn:longitude":35.7425,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Mezher",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0632\u0647\u0631"
+    ],
+    "name:und_x_variant":[
+        "Muzhir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        421202301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6271817
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"ad09fabc0c4719bd1ad3cd2cef4c9ee2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421202301,
+            "locality_id":1326553007,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1326553007,
+    "wof:lastmodified":1537661307,
+    "wof:name":"Mezher",
+    "wof:parent_id":421202301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.7425,
+    33.80333,
+    35.7425,
+    33.80333
+],
+  "geometry": {"coordinates":[35.7425,33.80333],"type":"Point"}
+}

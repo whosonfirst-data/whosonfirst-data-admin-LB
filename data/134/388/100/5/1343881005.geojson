@@ -1,0 +1,73 @@
+{
+  "id": 1343881005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.53083,33.84472,35.53083,33.84472",
+    "geom:latitude":33.84472,
+    "geom:longitude":35.53083,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Chareaa el Hamra",
+    "gn:country_code":"LB",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6275289,
+    "gn:latitude":33.84472,
+    "gn:longitude":35.53083,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Chareaa el Hamra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0634\u0627\u0631\u0639 \u0627\u0644\u062d\u0645\u0631\u0627"
+    ],
+    "name:und_x_variant":[
+        "Sh\u0101ri\u2018 al \u1e28amr\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        421202301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6275289
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"4361ba6c7a5abd62ef57e2320a9dc6b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421202301,
+            "locality_id":1343881005,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1343881005,
+    "wof:lastmodified":1537661315,
+    "wof:name":"Chareaa el Hamra",
+    "wof:parent_id":421202301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.53083,
+    33.84472,
+    35.53083,
+    33.84472
+],
+  "geometry": {"coordinates":[35.53083,33.84472],"type":"Point"}
+}

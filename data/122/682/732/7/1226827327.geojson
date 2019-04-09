@@ -1,0 +1,71 @@
+{
+  "id": 1226827327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.13167,34.1725,36.13167,34.1725",
+    "geom:latitude":34.1725,
+    "geom:longitude":36.13167,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Mrah ech Chiaair",
+    "gn:country_code":"LB",
+    "gn:dem":1428,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":271531,
+    "gn:latitude":34.1725,
+    "gn:longitude":36.13167,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mr\u00e2h ech Chiaa\u00efr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mar\u0101\u1e29 ash Sha\u2018\u012br",
+        "Mr\u00e2h ech Chiaa\u00efr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        1377074353,
+        421171405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":271531
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"6dab77871c39491bb6f16d1bfcf353ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421171405,
+            "locality_id":1226827327,
+            "region_id":1377074353
+        }
+    ],
+    "wof:id":1226827327,
+    "wof:lastmodified":1551727657,
+    "wof:name":"Mrah ech Chiaair",
+    "wof:parent_id":421171405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.13167,
+    34.1725,
+    36.13167,
+    34.1725
+],
+  "geometry": {"coordinates":[36.13167,34.1725],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1310479815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.24167,34.38694,36.24167,34.38694",
+    "geom:latitude":34.38694,
+    "geom:longitude":36.24167,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Beit Aallam",
+    "gn:country_code":"LB",
+    "gn:dem":1730,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":276755,
+    "gn:latitude":34.38694,
+    "gn:longitude":36.24167,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Be\u00eft Aall\u00e2m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bayt \u2018All\u0101m",
+        "Be\u00eft Aall\u00e2m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673479,
+        1108691421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":276755
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"3ea10134194035e00376d00467176238",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691421,
+            "locality_id":1310479815,
+            "region_id":85673479
+        }
+    ],
+    "wof:id":1310479815,
+    "wof:lastmodified":1537661168,
+    "wof:name":"Beit Aallam",
+    "wof:parent_id":1108691421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.24167,
+    34.38694,
+    36.24167,
+    34.38694
+],
+  "geometry": {"coordinates":[36.24167,34.38694],"type":"Point"}
+}

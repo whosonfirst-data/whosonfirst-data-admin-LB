@@ -1,0 +1,76 @@
+{
+  "id": 1293276705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.83139,34.38778,35.83139,34.38778",
+    "geom:latitude":34.38778,
+    "geom:longitude":35.83139,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Barsa",
+    "gn:country_code":"LB",
+    "gn:dem":163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":276951,
+    "gn:latitude":34.38778,
+    "gn:longitude":35.83139,
+    "gn:modification_date":"2018-03-28",
+    "gn:name":"Barsa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0631\u0633\u0627"
+    ],
+    "name:und_x_variant":[
+        "Bar\u015fah",
+        "Barsa",
+        "Bars\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673483,
+        1108691423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":276951,
+        "wk:page":"Barsa,_Lebanon"
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"59a4cff0ba55909f930b5872625e9194",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691423,
+            "locality_id":1293276705,
+            "region_id":85673483
+        }
+    ],
+    "wof:id":1293276705,
+    "wof:lastmodified":1537661173,
+    "wof:name":"Barsa",
+    "wof:parent_id":1108691423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.83139,
+    34.38778,
+    35.83139,
+    34.38778
+],
+  "geometry": {"coordinates":[35.83139,34.38778],"type":"Point"}
+}

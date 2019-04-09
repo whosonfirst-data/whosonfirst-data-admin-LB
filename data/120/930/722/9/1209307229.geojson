@@ -1,0 +1,73 @@
+{
+  "id": 1209307229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.54694,33.375,35.54694,33.375",
+    "geom:latitude":33.375,
+    "geom:longitude":35.54694,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Ed Demachqiye",
+    "gn:country_code":"LB",
+    "gn:dem":440,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":280737,
+    "gn:latitude":33.375,
+    "gn:longitude":35.54694,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Ed Demachq\u00eey\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062f\u0645\u0634\u0642\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Ad Dimashq\u012byah",
+        "D\u00e9michk\u00eey\u00e9",
+        "Dimishq\u012byih",
+        "Ed-Dimashqiyah",
+        "Demachqiye",
+        "D\u00e9michqiy\u00e9",
+        "Ed Demachq\u00eey\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":280737
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"23022ca1f1de80678a2bd09ceba4c86a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632533,
+            "locality_id":1209307229
+        }
+    ],
+    "wof:id":1209307229,
+    "wof:lastmodified":1537661294,
+    "wof:name":"Ed Demachqiye",
+    "wof:parent_id":85632533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.54694,
+    33.375,
+    35.54694,
+    33.375
+],
+  "geometry": {"coordinates":[35.54694,33.375],"type":"Point"}
+}

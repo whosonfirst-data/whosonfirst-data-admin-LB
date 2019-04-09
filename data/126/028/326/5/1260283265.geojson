@@ -1,0 +1,75 @@
+{
+  "id": 1260283265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.68124,34.14138,35.68124,34.14138",
+    "geom:latitude":34.14138,
+    "geom:longitude":35.68124,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Mazraat ej Jmayel",
+    "gn:country_code":"LB",
+    "gn:dem":378,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":270687,
+    "gn:latitude":34.14138,
+    "gn:longitude":35.68124,
+    "gn:modification_date":"2014-03-08",
+    "gn:name":"Mazraat ej Jmayel",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0632\u0631\u0639\u0629 \u0627\u0644\u062c\u0645\u064a\u0644"
+    ],
+    "name:und_x_variant":[
+        "Mazra\u2018at al Jumayyil",
+        "Mazraat ej Jmayel",
+        "Mazra\u2018at al Jam\u012bl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        421194845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":270687
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"9ce1eca0753b5b4d38eb87c4b424baec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421194845,
+            "locality_id":1260283265,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1260283265,
+    "wof:lastmodified":1537661052,
+    "wof:name":"Mazraat ej Jmayel",
+    "wof:parent_id":421194845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.68124,
+    34.14138,
+    35.68124,
+    34.14138
+],
+  "geometry": {"coordinates":[35.68124,34.14138],"type":"Point"}
+}

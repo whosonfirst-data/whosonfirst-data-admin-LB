@@ -1,0 +1,73 @@
+{
+  "id": 1243386321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.66667,34.08333,35.66667,34.08333",
+    "geom:latitude":34.08333,
+    "geom:longitude":35.66667,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Al `Anbari",
+    "gn:country_code":"LB",
+    "gn:dem":322,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":280509,
+    "gn:latitude":34.08333,
+    "gn:longitude":35.66667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Al \u2018Anbar\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "En Nembri",
+        "El Ambr\u00e9",
+        "El-\u2018Ambri",
+        "Al \u2018Anbar\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        421194845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":280509
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"20ec193fc715dce255c833de3a491679",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421194845,
+            "locality_id":1243386321,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1243386321,
+    "wof:lastmodified":1537661287,
+    "wof:name":"Al `Anbari",
+    "wof:parent_id":421194845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.66667,
+    34.08333,
+    35.66667,
+    34.08333
+],
+  "geometry": {"coordinates":[35.66667,34.08333],"type":"Point"}
+}

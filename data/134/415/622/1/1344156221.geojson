@@ -1,0 +1,71 @@
+{
+  "id": 1344156221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.73417,34.06306,35.73417,34.06306",
+    "geom:latitude":34.06306,
+    "geom:longitude":35.73417,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Haret el Faouqa",
+    "gn:country_code":"LB",
+    "gn:dem":728,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":274483,
+    "gn:latitude":34.06306,
+    "gn:longitude":35.73417,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"H\u00e2ret el Faouqa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1e28\u0101rat al Fawq\u0101",
+        "H\u00e2ret el Faouqa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        421172015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":274483
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"cc476c26b3f62a1a552fa65c2d872e7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421172015,
+            "locality_id":1344156221,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1344156221,
+    "wof:lastmodified":1537661117,
+    "wof:name":"Haret el Faouqa",
+    "wof:parent_id":421172015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.73417,
+    34.06306,
+    35.73417,
+    34.06306
+],
+  "geometry": {"coordinates":[35.73417,34.06306],"type":"Point"}
+}

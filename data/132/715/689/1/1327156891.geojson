@@ -1,0 +1,71 @@
+{
+  "id": 1327156891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.79278,33.99361,35.79278,33.99361",
+    "geom:latitude":33.99361,
+    "geom:longitude":35.79278,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Broummana",
+    "gn:country_code":"LB",
+    "gn:dem":1375,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":276376,
+    "gn:latitude":33.99361,
+    "gn:longitude":35.79278,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Broumm\u00e2na",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Brumm\u0101n\u0101",
+        "Broumm\u00e2na"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        421172015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":276376
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"a472ad626105bb3a78099d952cd23203",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421172015,
+            "locality_id":1327156891,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1327156891,
+    "wof:lastmodified":1537661151,
+    "wof:name":"Broummana",
+    "wof:parent_id":421172015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.79278,
+    33.99361,
+    35.79278,
+    33.99361
+],
+  "geometry": {"coordinates":[35.79278,33.99361],"type":"Point"}
+}

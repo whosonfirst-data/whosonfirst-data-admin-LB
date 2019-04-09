@@ -1,0 +1,67 @@
+{
+  "id": 1309690387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.1425,34.17111,36.1425,34.17111",
+    "geom:latitude":34.17111,
+    "geom:longitude":36.1425,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Barqa",
+    "gn:country_code":"LB",
+    "gn:dem":1345,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":276960,
+    "gn:latitude":34.17111,
+    "gn:longitude":36.1425,
+    "gn:modification_date":"2006-07-18",
+    "gn:name":"Barqa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673479,
+        421171405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":276960
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"e2739258176d90af56d46ef275828a09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421171405,
+            "locality_id":1309690387,
+            "region_id":85673479
+        }
+    ],
+    "wof:id":1309690387,
+    "wof:lastmodified":1537094318,
+    "wof:name":"Barqa",
+    "wof:parent_id":421171405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.1425,
+    34.17111,
+    36.1425,
+    34.17111
+],
+  "geometry": {"coordinates":[36.1425,34.17111],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1243066919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.645,33.75083,35.645,33.75083",
+    "geom:latitude":33.75083,
+    "geom:longitude":35.645,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Mazraat en Nahr",
+    "gn:country_code":"LB",
+    "gn:dem":546,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":270663,
+    "gn:latitude":33.75083,
+    "gn:longitude":35.645,
+    "gn:modification_date":"2018-03-07",
+    "gn:name":"Mazraat en Nahr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0632\u0631\u0639\u0629 \u0627\u0644\u0646\u0647\u0631"
+    ],
+    "name:und_x_variant":[
+        "Mazra\u2018at an Nahr",
+        "Mazraat en Nahr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        1108691409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":270663
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"620bf629d76a72afce9310ac3108f455",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691409,
+            "locality_id":1243066919,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1243066919,
+    "wof:lastmodified":1537661050,
+    "wof:name":"Mazraat en Nahr",
+    "wof:parent_id":1108691409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.645,
+    33.75083,
+    35.645,
+    33.75083
+],
+  "geometry": {"coordinates":[35.645,33.75083],"type":"Point"}
+}

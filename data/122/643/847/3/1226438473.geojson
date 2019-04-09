@@ -1,0 +1,79 @@
+{
+  "id": 1226438473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.95872,34.38633,35.95872,34.38633",
+    "geom:latitude":34.38633,
+    "geom:longitude":35.95872,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Beit Hasna",
+    "gn:country_code":"LB",
+    "gn:dem":762,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":276725,
+    "gn:latitude":34.38633,
+    "gn:longitude":35.95872,
+    "gn:modification_date":"2013-10-07",
+    "gn:name":"Be\u00eft Hasna",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a \u062d\u0633\u0646\u0627"
+    ],
+    "name:ara_x_variant":[
+        "\u0628\u064a\u062a \u062d\u0633\u0646\u064a"
+    ],
+    "name:und_x_variant":[
+        "Bayt \u1e28asn\u0101",
+        "Be\u00eft Hosni",
+        "Be\u00eft Hasna",
+        "Bayt \u1e28usn\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        1377074355,
+        1108691427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":276725
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"89e6e6e2afc0ee9b827609b51eddb306",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691427,
+            "locality_id":1226438473,
+            "region_id":1377074355
+        }
+    ],
+    "wof:id":1226438473,
+    "wof:lastmodified":1551727627,
+    "wof:name":"Beit Hasna",
+    "wof:parent_id":1108691427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.95872,
+    34.38633,
+    35.95872,
+    34.38633
+],
+  "geometry": {"coordinates":[35.95872,34.38633],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1360007931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.35823,33.28926,35.35823,33.28926",
+    "geom:latitude":33.28926,
+    "geom:longitude":35.35823,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Bestiyat",
+    "gn:country_code":"LB",
+    "gn:dem":340,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":276458,
+    "gn:latitude":33.28926,
+    "gn:longitude":35.35823,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Bestiy\u00e2t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u062b\u064a\u0651\u0627\u062a"
+    ],
+    "name:ara_x_variant":[
+        "\u0628\u062b\u062a\u064a\u0627\u062a"
+    ],
+    "name:und_x_variant":[
+        "Besti\u00e2s",
+        "Bist\u0101t",
+        "Bestiy\u00e2t",
+        "Bathiyy\u0101t",
+        "Batht\u012by\u0101t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673499,
+        1108691441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":276458
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"33936bba378f011fbab6e986ffad9ed4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691441,
+            "locality_id":1360007931,
+            "region_id":85673499
+        }
+    ],
+    "wof:id":1360007931,
+    "wof:lastmodified":1537661158,
+    "wof:name":"Bestiyat",
+    "wof:parent_id":1108691441,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.35823,
+    33.28926,
+    35.35823,
+    33.28926
+],
+  "geometry": {"coordinates":[35.35823,33.28926],"type":"Point"}
+}

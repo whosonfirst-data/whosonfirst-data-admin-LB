@@ -1,0 +1,71 @@
+{
+  "id": 1209209525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.74667,34.18889,35.74667,34.18889",
+    "geom:latitude":34.18889,
+    "geom:longitude":35.74667,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Mazraat Biyad",
+    "gn:country_code":"LB",
+    "gn:dem":797,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":270700,
+    "gn:latitude":34.18889,
+    "gn:longitude":35.74667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mazraat Biy\u00e2d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mazra\u2018at al Bayy\u0101\u1e11",
+        "Mazraat Biy\u00e2d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        1377074355,
+        421204111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":270700
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"0ca61e8fa033b41ab1cd3ca4f2601f54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421204111,
+            "locality_id":1209209525,
+            "region_id":1377074355
+        }
+    ],
+    "wof:id":1209209525,
+    "wof:lastmodified":1551727618,
+    "wof:name":"Mazraat Biyad",
+    "wof:parent_id":421204111,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.74667,
+    34.18889,
+    35.74667,
+    34.18889
+],
+  "geometry": {"coordinates":[35.74667,34.18889],"type":"Point"}
+}

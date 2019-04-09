@@ -1,0 +1,68 @@
+{
+  "id": 1209098689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.32889,33.30583,35.32889,33.30583",
+    "geom:latitude":33.30583,
+    "geom:longitude":35.32889,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Halloussiyet el Faouqa",
+    "gn:country_code":"LB",
+    "gn:dem":270,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":274709,
+    "gn:latitude":33.30583,
+    "gn:longitude":35.32889,
+    "gn:modification_date":"2013-08-06",
+    "gn:name":"Hallo\u00fbss\u00eeyet el Faouqa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0644\u0648\u0633\u064a\u0629 \u0627\u0644\u0641\u0648\u0642\u0627"
+    ],
+    "name:und_x_variant":[
+        "\u1e28all\u016bs\u012byat al Fawq\u0101",
+        "Hallo\u00fbss\u00eeyet el Faouqa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":274709
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"a4eabd472d9c98cc8de7ecbd5c197dad",
+    "wof:hierarchy":[
+        {
+            "country_id":85632533,
+            "locality_id":1209098689
+        }
+    ],
+    "wof:id":1209098689,
+    "wof:lastmodified":1537661121,
+    "wof:name":"Halloussiyet el Faouqa",
+    "wof:parent_id":85632533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.32889,
+    33.30583,
+    35.32889,
+    33.30583
+],
+  "geometry": {"coordinates":[35.32889,33.30583],"type":"Point"}
+}

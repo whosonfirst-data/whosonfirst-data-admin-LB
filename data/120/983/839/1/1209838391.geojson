@@ -1,0 +1,71 @@
+{
+  "id": 1209838391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.71056,34.07056,35.71056,34.07056",
+    "geom:latitude":34.07056,
+    "geom:longitude":35.71056,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Hai es Snaoubar",
+    "gn:country_code":"LB",
+    "gn:dem":839,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":274105,
+    "gn:latitude":34.07056,
+    "gn:longitude":35.71056,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ha\u00ef es Snaoubar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1e28ayy a\u015f \u015eanawbar",
+        "Ha\u00ef es Snaoubar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        421172015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":274105
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"0549b7e9c74f5285b5aceefd8a4d1cea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421172015,
+            "locality_id":1209838391,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1209838391,
+    "wof:lastmodified":1537661106,
+    "wof:name":"Hai es Snaoubar",
+    "wof:parent_id":421172015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.71056,
+    34.07056,
+    35.71056,
+    34.07056
+],
+  "geometry": {"coordinates":[35.71056,34.07056],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1310128573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.50722,33.74972,35.50722,33.74972",
+    "geom:latitude":33.74972,
+    "geom:longitude":35.50722,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ain Drafil",
+    "gn:country_code":"LB",
+    "gn:dem":465,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":277475,
+    "gn:latitude":33.74972,
+    "gn:longitude":35.50722,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"A\u00efn Dr\u00e2f\u00eel",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u064a\u0646 \u062f\u0631\u0627\u0641\u064a\u0644"
+    ],
+    "name:und_x_variant":[
+        "\u2018Ain Drafeel",
+        "\u2018Ayn Dr\u0101f\u012bl",
+        "A\u00efn Dr\u00e2f\u00eel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        1108691409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":277475
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"9c58261e51d3c757aa93fb6abdbb3fa8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691409,
+            "locality_id":1310128573,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1310128573,
+    "wof:lastmodified":1537661187,
+    "wof:name":"Ain Drafil",
+    "wof:parent_id":1108691409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.50722000000001,
+    33.74972,
+    35.50722000000001,
+    33.74972
+],
+  "geometry": {"coordinates":[35.50722000000001,33.74972],"type":"Point"}
+}

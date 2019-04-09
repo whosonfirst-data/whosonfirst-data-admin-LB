@@ -1,0 +1,75 @@
+{
+  "id": 1293023441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.56556,33.79389,35.56556,33.79389",
+    "geom:latitude":33.79389,
+    "geom:longitude":35.56556,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Souq el Gharb",
+    "gn:country_code":"LB",
+    "gn:dem":746,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":267010,
+    "gn:latitude":33.79389,
+    "gn:longitude":35.56556,
+    "gn:modification_date":"2018-03-29",
+    "gn:name":"Souq el Gharb",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u0648\u0642 \u0627\u0644\u063a\u0631\u0628"
+    ],
+    "name:und_x_variant":[
+        "S\u016bq al Gharb",
+        "Souq el Gharb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        1108691409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":267010,
+        "wk:page":"Souk_el_Ghareb"
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"b3434d1cf16383b7514c3bdc12174cc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691409,
+            "locality_id":1293023441,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1293023441,
+    "wof:lastmodified":1537661008,
+    "wof:name":"Souq el Gharb",
+    "wof:parent_id":1108691409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.56556,
+    33.79389,
+    35.56556,
+    33.79389
+],
+  "geometry": {"coordinates":[35.56556,33.79389],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1343652395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.83222,33.81056,35.83222,33.81056",
+    "geom:latitude":33.81056,
+    "geom:longitude":35.83222,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Makse",
+    "gn:country_code":"LB",
+    "gn:dem":952,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":271825,
+    "gn:latitude":33.81056,
+    "gn:longitude":35.83222,
+    "gn:modification_date":"2018-03-07",
+    "gn:name":"Maks\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0643\u0633\u0629"
+    ],
+    "name:und_x_variant":[
+        "Maksah",
+        "Maks\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673479,
+        421172017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":271825
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"b5ca6b0f6ddaf248c2e5986ee19e2a3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421172017,
+            "locality_id":1343652395,
+            "region_id":85673479
+        }
+    ],
+    "wof:id":1343652395,
+    "wof:lastmodified":1537661068,
+    "wof:name":"Makse",
+    "wof:parent_id":421172017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.83222,
+    33.81056,
+    35.83222,
+    33.81056
+],
+  "geometry": {"coordinates":[35.83222,33.81056],"type":"Point"}
+}

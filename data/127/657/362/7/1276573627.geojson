@@ -1,0 +1,77 @@
+{
+  "id": 1276573627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.30564,33.22555,35.30564,33.22555",
+    "geom:latitude":33.22555,
+    "geom:longitude":35.30564,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Aatit",
+    "gn:country_code":"LB",
+    "gn:dem":315,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":277364,
+    "gn:latitude":33.22555,
+    "gn:longitude":35.30564,
+    "gn:modification_date":"2018-03-28",
+    "gn:name":"A\u00e4t\u00eet",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u064a\u062a\u064a\u062a"
+    ],
+    "name:und_x_variant":[
+        "A\u00eft\u00eete",
+        "\u2018Aiteet",
+        "\u2018Ayt\u012bt",
+        "A\u00e4t\u00eet"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673499,
+        1108691441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":277364,
+        "wk:page":"Aitit"
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"764432856108599c8e11809ef76fb2c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691441,
+            "locality_id":1276573627,
+            "region_id":85673499
+        }
+    ],
+    "wof:id":1276573627,
+    "wof:lastmodified":1537661181,
+    "wof:name":"Aatit",
+    "wof:parent_id":1108691441,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.30564000000001,
+    33.22555,
+    35.30564000000001,
+    33.22555
+],
+  "geometry": {"coordinates":[35.30564000000001,33.22555],"type":"Point"}
+}

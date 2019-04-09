@@ -1,0 +1,76 @@
+{
+  "id": 1293020833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.82083,33.795,35.82083,33.795",
+    "geom:latitude":33.795,
+    "geom:longitude":35.82083,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Qabb Elias",
+    "gn:country_code":"LB",
+    "gn:dem":933,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":269696,
+    "gn:latitude":33.795,
+    "gn:longitude":35.82083,
+    "gn:modification_date":"2018-03-07",
+    "gn:name":"Qabb Eli\u00e2s",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0628 \u0625\u0644\u064a\u0627\u0633"
+    ],
+    "name:und_x_variant":[
+        "Qabb Ily\u0101s",
+        "Qabb Eli\u00e2s",
+        "Qubb Ily\u0101s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673479,
+        421172017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":269696,
+        "wk:page":"Qabb_Ilyas"
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"123f57ed0e3863189e66a46556227182",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421172017,
+            "locality_id":1293020833,
+            "region_id":85673479
+        }
+    ],
+    "wof:id":1293020833,
+    "wof:lastmodified":1537661036,
+    "wof:name":"Qabb Elias",
+    "wof:parent_id":421172017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.82083,
+    33.795,
+    35.82083,
+    33.795
+],
+  "geometry": {"coordinates":[35.82083,33.795],"type":"Point"}
+}

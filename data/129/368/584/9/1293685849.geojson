@@ -1,0 +1,71 @@
+{
+  "id": 1293685849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.75472,33.95333,35.75472,33.95333",
+    "geom:latitude":33.95333,
+    "geom:longitude":35.75472,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ech Chabbouq",
+    "gn:country_code":"LB",
+    "gn:dem":1136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":278334,
+    "gn:latitude":33.95333,
+    "gn:longitude":35.75472,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ech Chabbo\u00fbq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ash Shabb\u016bq",
+        "Ech Chabbo\u00fbq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        1108691425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":278334
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"792eddff0a3c12725547c5e9444cb6a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691425,
+            "locality_id":1293685849,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1293685849,
+    "wof:lastmodified":1537661209,
+    "wof:name":"Ech Chabbouq",
+    "wof:parent_id":1108691425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.75472,
+    33.95333,
+    35.75472,
+    33.95333
+],
+  "geometry": {"coordinates":[35.75472,33.95333],"type":"Point"}
+}

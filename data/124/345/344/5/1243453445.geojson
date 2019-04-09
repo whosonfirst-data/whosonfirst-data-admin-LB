@@ -1,0 +1,74 @@
+{
+  "id": 1243453445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.66972,33.80472,35.66972,33.80472",
+    "geom:latitude":33.80472,
+    "geom:longitude":35.66972,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kaab el Massar",
+    "gn:country_code":"LB",
+    "gn:dem":1101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6271554,
+    "gn:latitude":33.80472,
+    "gn:longitude":35.66972,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Kaab el Mass\u00e2r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0639\u0628 \u0627\u0644\u0645\u0635\u0651\u0627\u0631"
+    ],
+    "name:und_x_variant":[
+        "Kaab el Mass\u00e2r",
+        "Ka\u2018b al Ma\u015f\u015f\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        1108691409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6271554
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"7426b33114e3e9befc2fa22f9e41a478",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691409,
+            "locality_id":1243453445,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1243453445,
+    "wof:lastmodified":1537661306,
+    "wof:name":"Kaab el Massar",
+    "wof:parent_id":1108691409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.66972,
+    33.80472,
+    35.66972,
+    33.80472
+],
+  "geometry": {"coordinates":[35.66972,33.80472],"type":"Point"}
+}

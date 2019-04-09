@@ -1,0 +1,77 @@
+{
+  "id": 1226752637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.65498,34.1529,35.65498,34.1529",
+    "geom:latitude":34.1529,
+    "geom:longitude":35.65498,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Aidamoun",
+    "gn:country_code":"LB",
+    "gn:dem":202,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":277814,
+    "gn:latitude":34.1529,
+    "gn:longitude":35.65498,
+    "gn:modification_date":"2014-03-08",
+    "gn:name":"A\u00efdamo\u00fbn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u064a\u062f\u0645\u0648\u0646"
+    ],
+    "name:und_x_variant":[
+        "Aadmo\u00fbn",
+        "Admoun",
+        "Aa\u00efdamoun",
+        "\u2018Aydam\u016bn",
+        "A\u00efdamo\u00fbn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        421194845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":277814
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"0230823bc9371f04ead9913fe4c3940e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421194845,
+            "locality_id":1226752637,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1226752637,
+    "wof:lastmodified":1537661195,
+    "wof:name":"Aidamoun",
+    "wof:parent_id":421194845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.65498,
+    34.1529,
+    35.65498,
+    34.1529
+],
+  "geometry": {"coordinates":[35.65498,34.1529],"type":"Point"}
+}

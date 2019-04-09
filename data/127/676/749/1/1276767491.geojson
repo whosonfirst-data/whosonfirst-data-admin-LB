@@ -1,0 +1,71 @@
+{
+  "id": 1276767491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.64861,34.08306,35.64861,34.08306",
+    "geom:latitude":34.08306,
+    "geom:longitude":35.64861,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Hai el Bahr",
+    "gn:country_code":"LB",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":274144,
+    "gn:latitude":34.08306,
+    "gn:longitude":35.64861,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ha\u00ef el Bahr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1e28ayy al Ba\u1e29r",
+        "Ha\u00ef el Bahr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        421194845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":274144
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"7f90d6bb4d6426ebcf2d46ab689582f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421194845,
+            "locality_id":1276767491,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1276767491,
+    "wof:lastmodified":1537661108,
+    "wof:name":"Hai el Bahr",
+    "wof:parent_id":421194845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.64861,
+    34.08306,
+    35.64861,
+    34.08306
+],
+  "geometry": {"coordinates":[35.64861,34.08306],"type":"Point"}
+}

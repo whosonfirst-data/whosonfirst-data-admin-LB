@@ -1,0 +1,74 @@
+{
+  "id": 1343392681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.68833,33.84806,35.68833,33.84806",
+    "geom:latitude":33.84806,
+    "geom:longitude":35.68833,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Deir el Harf",
+    "gn:country_code":"LB",
+    "gn:dem":1035,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":275663,
+    "gn:latitude":33.84806,
+    "gn:longitude":35.68833,
+    "gn:modification_date":"2018-04-06",
+    "gn:name":"De\u00efr el Harf",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u064a\u0631 \u0627\u0644\u062d\u0631\u0641"
+    ],
+    "name:und_x_variant":[
+        "Dayr al \u1e28arf",
+        "De\u00efr el Harf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        421202301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":275663
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"5a4d46c4ea6b634486e7f3a466ddeffa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421202301,
+            "locality_id":1343392681,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1343392681,
+    "wof:lastmodified":1537661135,
+    "wof:name":"Deir el Harf",
+    "wof:parent_id":421202301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.68833,
+    33.84806,
+    35.68833,
+    33.84806
+],
+  "geometry": {"coordinates":[35.68833,33.84806],"type":"Point"}
+}

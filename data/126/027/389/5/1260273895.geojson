@@ -1,0 +1,91 @@
+{
+  "id": 1260273895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.82139,33.62028,35.82139,33.62028",
+    "geom:latitude":33.62028,
+    "geom:longitude":35.82139,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Kamed el Loz",
+    "gn:country_code":"LB",
+    "gn:dem":956,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":272781,
+    "gn:latitude":33.62028,
+    "gn:longitude":35.82139,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"K\u00e2med el L\u00f4z",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0627\u0645\u062f \u0627\u0644\u0644\u0648\u0632"
+    ],
+    "name:deu_x_preferred":[
+        "Tell K\u0101mid el-L\u014dz"
+    ],
+    "name:eng_x_preferred":[
+        "Kamid al lawz"
+    ],
+    "name:fra_x_preferred":[
+        "Kamid el-Loz"
+    ],
+    "name:heb_x_preferred":[
+        "\u05db\u05d0\u05de\u05d3 \u05d0-\u05dc\u05d5\u05d6"
+    ],
+    "name:nno_x_preferred":[
+        "Kamed Al Lawz"
+    ],
+    "name:und_x_variant":[
+        "K\u0101mid al Lawz",
+        "kamedos",
+        "K\u00e2med el L\u00f4z"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673479,
+        421173359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":272781,
+        "wk:page":"Kamid_al_lawz"
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"54b846dfeddfcc68b5d6fc53365472e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421173359,
+            "locality_id":1260273895,
+            "region_id":85673479
+        }
+    ],
+    "wof:id":1260273895,
+    "wof:lastmodified":1537661078,
+    "wof:name":"Kamed el Loz",
+    "wof:parent_id":421173359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.82139,
+    33.62028,
+    35.82139,
+    33.62028
+],
+  "geometry": {"coordinates":[35.82139,33.62028],"type":"Point"}
+}

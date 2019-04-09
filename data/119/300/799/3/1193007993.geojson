@@ -1,0 +1,74 @@
+{
+  "id": 1193007993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.87512,34.24895,35.87512,34.24895",
+    "geom:latitude":34.24895,
+    "geom:longitude":35.87512,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Mazraat Aassaf",
+    "gn:country_code":"LB",
+    "gn:dem":949,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":270652,
+    "gn:latitude":34.24895,
+    "gn:longitude":35.87512,
+    "gn:modification_date":"2014-03-08",
+    "gn:name":"Mazraat Aass\u00e2f",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0632\u0631\u0639\u0629 \u0639\u0633\u0627\u0641"
+    ],
+    "name:und_x_variant":[
+        "Mazra\u2018at \u2018Ass\u0101f",
+        "Mazraat Aass\u00e2f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        1377074355,
+        421204111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":270652
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"a559ad54c071dc3a45ebbfdf03f67134",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421204111,
+            "locality_id":1193007993,
+            "region_id":1377074355
+        }
+    ],
+    "wof:id":1193007993,
+    "wof:lastmodified":1551727615,
+    "wof:name":"Mazraat Aassaf",
+    "wof:parent_id":421204111,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.87512,
+    34.24895,
+    35.87512,
+    34.24895
+],
+  "geometry": {"coordinates":[35.87512,34.24895],"type":"Point"}
+}

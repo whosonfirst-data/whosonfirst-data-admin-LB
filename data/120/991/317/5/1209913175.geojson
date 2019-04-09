@@ -1,0 +1,77 @@
+{
+  "id": 1209913175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.715,34.18,35.715,34.18",
+    "geom:latitude":34.18,
+    "geom:longitude":35.715,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Bejje",
+    "gn:country_code":"LB",
+    "gn:dem":555,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":276607,
+    "gn:latitude":34.18,
+    "gn:longitude":35.715,
+    "gn:modification_date":"2018-03-29",
+    "gn:name":"B\u00e9jj\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u062c\u0629"
+    ],
+    "name:und_x_variant":[
+        "Bajjah",
+        "Bajj\u00e9",
+        "Bijjah",
+        "B\u00e9jj\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        421194845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":276607,
+        "wk:page":"Bejjeh"
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"3634e2c4f5a0148dedb5824b3b92c403",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421194845,
+            "locality_id":1209913175,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1209913175,
+    "wof:lastmodified":1537661161,
+    "wof:name":"Bejje",
+    "wof:parent_id":421194845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.715,
+    34.18,
+    35.715,
+    34.18
+],
+  "geometry": {"coordinates":[35.715,34.18],"type":"Point"}
+}

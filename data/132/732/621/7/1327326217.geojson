@@ -1,0 +1,75 @@
+{
+  "id": 1327326217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.38528,33.27111,35.38528,33.27111",
+    "geom:latitude":33.27111,
+    "geom:longitude":35.38528,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Naffakhiye",
+    "gn:country_code":"LB",
+    "gn:dem":411,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":269979,
+    "gn:latitude":33.27111,
+    "gn:longitude":35.38528,
+    "gn:modification_date":"2013-08-06",
+    "gn:name":"Naff\u00e2kh\u00eey\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0646\u0641\u0627\u062e\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "En Naffakhiyah",
+        "Naff\u0101kh\u012byah",
+        "Naff\u00e2kh\u00eey\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673499,
+        1108691441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":269979
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"d95a9fef4b0f76c1546b130b11002a23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691441,
+            "locality_id":1327326217,
+            "region_id":85673499
+        }
+    ],
+    "wof:id":1327326217,
+    "wof:lastmodified":1537661037,
+    "wof:name":"Naffakhiye",
+    "wof:parent_id":1108691441,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.38528,
+    33.27111,
+    35.38528,
+    33.27111
+],
+  "geometry": {"coordinates":[35.38528,33.27111],"type":"Point"}
+}

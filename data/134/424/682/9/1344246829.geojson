@@ -1,0 +1,80 @@
+{
+  "id": 1344246829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.71333,34.30667,35.71333,34.30667",
+    "geom:latitude":34.30667,
+    "geom:longitude":35.71333,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"El Heri",
+    "gn:country_code":"LB",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":280001,
+    "gn:latitude":34.30667,
+    "gn:longitude":35.71333,
+    "gn:modification_date":"2014-03-08",
+    "gn:name":"El H\u00e9ri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0647\u0631\u064a"
+    ],
+    "name:und_x_variant":[
+        "Huri",
+        "Al Hur\u012b",
+        "Hereh",
+        "El Herri",
+        "Hir\u012b",
+        "El Hery",
+        "Al Hir\u012b",
+        "El H\u00e9ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673483,
+        421204111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":280001
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"dddba1a38a1a62a6a46cf6a14ce44e6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421204111,
+            "locality_id":1344246829,
+            "region_id":85673483
+        }
+    ],
+    "wof:id":1344246829,
+    "wof:lastmodified":1537661265,
+    "wof:name":"El Heri",
+    "wof:parent_id":421204111,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.71333,
+    34.30667,
+    35.71333,
+    34.30667
+],
+  "geometry": {"coordinates":[35.71333,34.30667],"type":"Point"}
+}

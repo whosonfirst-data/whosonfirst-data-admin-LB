@@ -1,0 +1,73 @@
+{
+  "id": 1276140199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.02806,34.59222,36.02806,34.59222",
+    "geom:latitude":34.59222,
+    "geom:longitude":36.02806,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Hokr el Kousse",
+    "gn:country_code":"LB",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":273877,
+    "gn:latitude":34.59222,
+    "gn:longitude":36.02806,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Hokr el Ko\u00fbss\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hekr el Koussa",
+        "Hikr el Khouss\u2018e",
+        "\u1e28ukr al K\u016bs\u00e1",
+        "Hokr el Ko\u00fbss\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673483,
+        1108691407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":273877
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"27229c3f075354d3b1868222fb6f853e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691407,
+            "locality_id":1276140199,
+            "region_id":85673483
+        }
+    ],
+    "wof:id":1276140199,
+    "wof:lastmodified":1537661101,
+    "wof:name":"Hokr el Kousse",
+    "wof:parent_id":1108691407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.02806,
+    34.59222,
+    36.02806,
+    34.59222
+],
+  "geometry": {"coordinates":[36.02806,34.59222],"type":"Point"}
+}

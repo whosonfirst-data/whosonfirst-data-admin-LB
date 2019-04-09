@@ -1,0 +1,76 @@
+{
+  "id": 1242661933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.93671,34.41524,35.93671,34.41524",
+    "geom:latitude":34.41524,
+    "geom:longitude":35.93671,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Aachach",
+    "gn:country_code":"LB",
+    "gn:dem":184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":273660,
+    "gn:latitude":34.41524,
+    "gn:longitude":35.93671,
+    "gn:modification_date":"2013-10-07",
+    "gn:name":"Aach\u00e2ch",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0634\u0627\u0634"
+    ],
+    "name:und_x_variant":[
+        "\u2018Ash\u0101sh",
+        "Achech",
+        "\u2018Ish\u0101sh",
+        "Aach\u00e2ch"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673483,
+        1108691445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":273660
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"26dab768eced4df9be37a2fff261a464",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691445,
+            "locality_id":1242661933,
+            "region_id":85673483
+        }
+    ],
+    "wof:id":1242661933,
+    "wof:lastmodified":1537661097,
+    "wof:name":"Aachach",
+    "wof:parent_id":1108691445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.93671,
+    34.41524,
+    35.93671,
+    34.41524
+],
+  "geometry": {"coordinates":[35.93671,34.41524],"type":"Point"}
+}

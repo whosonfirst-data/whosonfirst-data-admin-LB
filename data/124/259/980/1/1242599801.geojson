@@ -1,0 +1,74 @@
+{
+  "id": 1242599801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.59167,33.48417,35.59167,33.48417",
+    "geom:latitude":33.48417,
+    "geom:longitude":35.59167,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Mazraat Djaj",
+    "gn:country_code":"LB",
+    "gn:dem":1076,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":270617,
+    "gn:latitude":33.48417,
+    "gn:longitude":35.59167,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Mazraat Dj\u00e2j",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0632\u0631\u0639\u0629 \u062f\u062c\u0627\u062c"
+    ],
+    "name:und_x_variant":[
+        "Mazra\u2018at Daj\u0101j",
+        "Mazraat Dj\u00e2j"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673499,
+        1108691435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":270617
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"0db739fc30e7c2f57e919eb820dc1721",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691435,
+            "locality_id":1242599801,
+            "region_id":85673499
+        }
+    ],
+    "wof:id":1242599801,
+    "wof:lastmodified":1537661047,
+    "wof:name":"Mazraat Djaj",
+    "wof:parent_id":1108691435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.59167,
+    33.48417,
+    35.59167,
+    33.48417
+],
+  "geometry": {"coordinates":[35.59167,33.48417],"type":"Point"}
+}

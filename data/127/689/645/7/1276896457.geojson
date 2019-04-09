@@ -1,0 +1,74 @@
+{
+  "id": 1276896457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.56361,33.58861,35.56361,33.58861",
+    "geom:latitude":33.58861,
+    "geom:longitude":35.56361,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"El Houraniye",
+    "gn:country_code":"LB",
+    "gn:dem":573,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":279972,
+    "gn:latitude":33.58861,
+    "gn:longitude":35.56361,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"El Ho\u00fbr\u00e2n\u00eey\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u0648\u0631\u0627\u0646\u064a\u0651\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al \u1e28\u016br\u0101n\u012byah",
+        "El Ho\u00fbr\u00e2n\u00eey\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673499,
+        1108691435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":279972
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"baf95e621fe3eaa426396104e0d89e5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691435,
+            "locality_id":1276896457,
+            "region_id":85673499
+        }
+    ],
+    "wof:id":1276896457,
+    "wof:lastmodified":1537661263,
+    "wof:name":"El Houraniye",
+    "wof:parent_id":1108691435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.56361,
+    33.58861,
+    35.56361,
+    33.58861
+],
+  "geometry": {"coordinates":[35.56361,33.58861],"type":"Point"}
+}

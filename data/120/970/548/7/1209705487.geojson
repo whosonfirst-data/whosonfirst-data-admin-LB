@@ -1,0 +1,71 @@
+{
+  "id": 1209705487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.71472,34.23139,35.71472,34.23139",
+    "geom:latitude":34.23139,
+    "geom:longitude":35.71472,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Dahr el Ghbar",
+    "gn:country_code":"LB",
+    "gn:dem":404,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":275912,
+    "gn:latitude":34.23139,
+    "gn:longitude":35.71472,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dahr el Ghb\u00e2r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1e10ahr al Ghub\u0101r",
+        "Dahr el Ghb\u00e2r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        1377074355,
+        421204111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":275912
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"83b7d1275f321373375972110faa34dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421204111,
+            "locality_id":1209705487,
+            "region_id":1377074355
+        }
+    ],
+    "wof:id":1209705487,
+    "wof:lastmodified":1551727621,
+    "wof:name":"Dahr el Ghbar",
+    "wof:parent_id":421204111,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.71472,
+    34.23139,
+    35.71472,
+    34.23139
+],
+  "geometry": {"coordinates":[35.71472,34.23139],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1327251655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.06111,34.52694,36.06111,34.52694",
+    "geom:latitude":34.52694,
+    "geom:longitude":36.06111,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Karm el Aasfour",
+    "gn:country_code":"LB",
+    "gn:dem":176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":272733,
+    "gn:latitude":34.52694,
+    "gn:longitude":36.06111,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Karm el Aasfo\u00fbr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Karm al \u2018U\u015ff\u016br",
+        "Karm el Aasfo\u00fbr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673483,
+        1108691407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":272733
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"ffce016e9ced3d097c9c16087a5e40f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691407,
+            "locality_id":1327251655,
+            "region_id":85673483
+        }
+    ],
+    "wof:id":1327251655,
+    "wof:lastmodified":1537661078,
+    "wof:name":"Karm el Aasfour",
+    "wof:parent_id":1108691407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.06111,
+    34.52694,
+    36.06111,
+    34.52694
+],
+  "geometry": {"coordinates":[36.06111,34.52694],"type":"Point"}
+}

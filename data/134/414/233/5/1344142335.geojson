@@ -1,0 +1,74 @@
+{
+  "id": 1344142335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.87306,33.81611,35.87306,33.81611",
+    "geom:latitude":33.81611,
+    "geom:longitude":35.87306,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Hai Mar Elias",
+    "gn:country_code":"LB",
+    "gn:dem":901,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":274071,
+    "gn:latitude":33.81611,
+    "gn:longitude":35.87306,
+    "gn:modification_date":"2018-03-07",
+    "gn:name":"Ha\u00ef M\u00e2r Eli\u00e2s",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u064a \u0645\u0627\u0631 \u0625\u0644\u064a\u0627\u0633"
+    ],
+    "name:und_x_variant":[
+        "\u1e28ayy M\u0101r Ily\u0101s",
+        "Ha\u00ef M\u00e2r Eli\u00e2s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673479,
+        421172017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":274071
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"bb2ab55a90d1627b957c0f599c725151",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421172017,
+            "locality_id":1344142335,
+            "region_id":85673479
+        }
+    ],
+    "wof:id":1344142335,
+    "wof:lastmodified":1537661106,
+    "wof:name":"Hai Mar Elias",
+    "wof:parent_id":421172017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.87305999999999,
+    33.81610999999999,
+    35.87305999999999,
+    33.81610999999999
+],
+  "geometry": {"coordinates":[35.87305999999999,33.81610999999999],"type":"Point"}
+}

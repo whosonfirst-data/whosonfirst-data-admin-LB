@@ -1,0 +1,74 @@
+{
+  "id": 1242670051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.58111,33.425,35.58111,33.425",
+    "geom:latitude":33.425,
+    "geom:longitude":35.58111,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Mazraat Khallet Khazene",
+    "gn:country_code":"LB",
+    "gn:dem":762,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":270594,
+    "gn:latitude":33.425,
+    "gn:longitude":35.58111,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Mazraat Khallet Kh\u00e2zene",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0632\u0631\u0639\u0629 \u062e\u0644\u0629 \u062e\u0627\u0632\u0646"
+    ],
+    "name:und_x_variant":[
+        "Mazra\u2018at Khallat Kh\u0101zin",
+        "Mazraat Khallet Kh\u00e2zene"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673499,
+        1108691435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":270594
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"bf7ddda3b0b94ae8d9d06bd8a5fac96f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691435,
+            "locality_id":1242670051,
+            "region_id":85673499
+        }
+    ],
+    "wof:id":1242670051,
+    "wof:lastmodified":1537661044,
+    "wof:name":"Mazraat Khallet Khazene",
+    "wof:parent_id":1108691435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.58110999999999,
+    33.425,
+    35.58110999999999,
+    33.425
+],
+  "geometry": {"coordinates":[35.58110999999999,33.425],"type":"Point"}
+}

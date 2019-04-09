@@ -1,0 +1,74 @@
+{
+  "id": 1276368789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.64389,33.76917,35.64389,33.76917",
+    "geom:latitude":33.76917,
+    "geom:longitude":35.64389,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Bosghai",
+    "gn:country_code":"LB",
+    "gn:dem":792,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6271643,
+    "gn:latitude":33.76917,
+    "gn:longitude":35.64389,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Bosgha\u00ef",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0635\u063a\u064a"
+    ],
+    "name:und_x_variant":[
+        "Bosgha\u00ef",
+        "Bu\u015fgh\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        1108691409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6271643
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"ee9668e69720d504085215f92118eedc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691409,
+            "locality_id":1276368789,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1276368789,
+    "wof:lastmodified":1537661307,
+    "wof:name":"Bosghai",
+    "wof:parent_id":1108691409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.64389,
+    33.76917,
+    35.64389,
+    33.76917
+],
+  "geometry": {"coordinates":[35.64389,33.76917],"type":"Point"}
+}

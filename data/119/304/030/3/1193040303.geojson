@@ -1,0 +1,74 @@
+{
+  "id": 1193040303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.38222,33.57139,35.38222,33.57139",
+    "geom:latitude":33.57139,
+    "geom:longitude":35.38222,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Ouastani",
+    "gn:country_code":"LB",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":279002,
+    "gn:latitude":33.57139,
+    "gn:longitude":35.38222,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Ouastani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0648\u0633\u0637\u0627\u0646\u064a"
+    ],
+    "name:und_x_variant":[
+        "Al Was\u0163\u0101n\u012b",
+        "Ouastani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673499,
+        890451987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":279002
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"cd2c1f94d2fb62aae9c3f774b16b6bab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":890451987,
+            "locality_id":1193040303,
+            "region_id":85673499
+        }
+    ],
+    "wof:id":1193040303,
+    "wof:lastmodified":1537661225,
+    "wof:name":"Ouastani",
+    "wof:parent_id":890451987,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.38222000000001,
+    33.57139,
+    35.38222000000001,
+    33.57139
+],
+  "geometry": {"coordinates":[35.38222000000001,33.57139],"type":"Point"}
+}

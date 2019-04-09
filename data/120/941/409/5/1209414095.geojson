@@ -1,0 +1,67 @@
+{
+  "id": 1209414095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.88028,34.08611,35.88028,34.08611",
+    "geom:latitude":34.08611,
+    "geom:longitude":35.88028,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Aarasta",
+    "gn:country_code":"LB",
+    "gn:dem":1009,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6280900,
+    "gn:latitude":34.08611,
+    "gn:longitude":35.88028,
+    "gn:modification_date":"2013-10-09",
+    "gn:name":"Aarasta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0631\u0633\u062a\u0627"
+    ],
+    "name:und_x_variant":[
+        "\u2018Arast\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6280900
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"5c3752358ef5a0da81bfb5607075c676",
+    "wof:hierarchy":[
+        {
+            "country_id":85632533,
+            "locality_id":1209414095
+        }
+    ],
+    "wof:id":1209414095,
+    "wof:lastmodified":1537661318,
+    "wof:name":"Aarasta",
+    "wof:parent_id":85632533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.88028,
+    34.08611,
+    35.88028,
+    34.08611
+],
+  "geometry": {"coordinates":[35.88028,34.08611],"type":"Point"}
+}

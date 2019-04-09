@@ -1,0 +1,67 @@
+{
+  "id": 1226427977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.80194,33.75361,35.80194,33.75361",
+    "geom:latitude":33.75361,
+    "geom:longitude":35.80194,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Es Safra",
+    "gn:country_code":"LB",
+    "gn:dem":873,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6275648,
+    "gn:latitude":33.75361,
+    "gn:longitude":35.80194,
+    "gn:modification_date":"2006-08-23",
+    "gn:name":"Es Safra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        1377074351,
+        421172017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6275648
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"b09823c3c438036855b026750ece2fda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421172017,
+            "locality_id":1226427977,
+            "region_id":1377074351
+        }
+    ],
+    "wof:id":1226427977,
+    "wof:lastmodified":1551727603,
+    "wof:name":"Es Safra",
+    "wof:parent_id":421172017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.80194,
+    33.75360999999999,
+    35.80194,
+    33.75360999999999
+],
+  "geometry": {"coordinates":[35.80194,33.75360999999999],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1293888541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.71305,34.07605,35.71305,34.07605",
+    "geom:latitude":34.07605,
+    "geom:longitude":35.71305,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Es Salhiye",
+    "gn:country_code":"LB",
+    "gn:dem":509,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":277547,
+    "gn:latitude":34.07605,
+    "gn:longitude":35.71305,
+    "gn:modification_date":"2013-10-07",
+    "gn:name":"Es Salh\u00eey\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0635\u0627\u0644\u062d\u064a\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u0639\u064a\u0646 \u0627\u0644\u0635\u0627\u0644\u062d\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Ain Sla\u00efy\u00e9",
+        "\u2018Ain es-Salhiyah",
+        "Ain Sla\u00efe",
+        "Ain Essalhiye",
+        "\u2018Ayn a\u015f \u015e\u0101li\u1e29\u012byah",
+        "Es Salh\u00eey\u00e9",
+        "A\u015f \u015e\u0101li\u1e29\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        421172015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":277547
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"b9aa97deb5cdccd576796b3cda53cfeb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421172015,
+            "locality_id":1293888541,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1293888541,
+    "wof:lastmodified":1537661190,
+    "wof:name":"Es Salhiye",
+    "wof:parent_id":421172015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.71305,
+    34.07605,
+    35.71305,
+    34.07605
+],
+  "geometry": {"coordinates":[35.71305,34.07605],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1360183827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.57639,33.81667,35.57639,33.81667",
+    "geom:latitude":33.81667,
+    "geom:longitude":35.57639,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Haret Salem",
+    "gn:country_code":"LB",
+    "gn:dem":422,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6273758,
+    "gn:latitude":33.81667,
+    "gn:longitude":35.57639,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Haret S\u00e2lem",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0627\u0631\u0629 \u0633\u0627\u0644\u0645"
+    ],
+    "name:und_x_variant":[
+        "Haret S\u00e2lem",
+        "\u1e28\u0101rat S\u0101lim"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        1108691409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6273758
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"b23387557cb40dde2bddd1bcfa3c0bf0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691409,
+            "locality_id":1360183827,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1360183827,
+    "wof:lastmodified":1537661309,
+    "wof:name":"Haret Salem",
+    "wof:parent_id":1108691409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.57639,
+    33.81667,
+    35.57639,
+    33.81667
+],
+  "geometry": {"coordinates":[35.57639,33.81667],"type":"Point"}
+}

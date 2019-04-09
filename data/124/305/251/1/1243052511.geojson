@@ -1,0 +1,75 @@
+{
+  "id": 1243052511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.66278,34.2275,35.66278,34.2275",
+    "geom:latitude":34.2275,
+    "geom:longitude":35.66278,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Kfar Aabida",
+    "gn:country_code":"LB",
+    "gn:dem":96,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":272807,
+    "gn:latitude":34.2275,
+    "gn:longitude":35.66278,
+    "gn:modification_date":"2018-03-28",
+    "gn:name":"Kfar Aab\u00eeda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0641\u0631 \u0639\u0628\u064a\u062f\u0627"
+    ],
+    "name:und_x_variant":[
+        "Kafr \u2018Ubayd\u0101",
+        "Kfar Aab\u00eeda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        1377074355,
+        421204111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":272807,
+        "wk:page":"Kfar_Abida"
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"c451c96ee6de4ad47539b02a5823cd91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421204111,
+            "locality_id":1243052511,
+            "region_id":1377074355
+        }
+    ],
+    "wof:id":1243052511,
+    "wof:lastmodified":1551727623,
+    "wof:name":"Kfar Aabida",
+    "wof:parent_id":421204111,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.66278,
+    34.2275,
+    35.66278,
+    34.2275
+],
+  "geometry": {"coordinates":[35.66278,34.2275],"type":"Point"}
+}

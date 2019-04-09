@@ -1,0 +1,74 @@
+{
+  "id": 1209412257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.84028,33.82167,35.84028,33.82167",
+    "geom:latitude":33.82167,
+    "geom:longitude":35.84028,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Haret et Tahta",
+    "gn:country_code":"LB",
+    "gn:dem":958,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6275576,
+    "gn:latitude":33.82167,
+    "gn:longitude":35.84028,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"H\u00e2ret et Taht\u00e2",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0627\u0631\u0629 \u0627\u0644\u062a\u062d\u062a\u0627"
+    ],
+    "name:und_x_variant":[
+        "H\u00e2ret et Taht\u00e2",
+        "\u1e28\u0101rat at Ta\u1e29t\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        1377074351,
+        421172017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6275576
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"92b0a8725720bfd601444b0f2601dbae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421172017,
+            "locality_id":1209412257,
+            "region_id":1377074351
+        }
+    ],
+    "wof:id":1209412257,
+    "wof:lastmodified":1551727600,
+    "wof:name":"Haret et Tahta",
+    "wof:parent_id":421172017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.84028,
+    33.82167,
+    35.84028,
+    33.82167
+],
+  "geometry": {"coordinates":[35.84028,33.82167],"type":"Point"}
+}

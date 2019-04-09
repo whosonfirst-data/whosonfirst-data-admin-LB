@@ -1,0 +1,67 @@
+{
+  "id": 1327417439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.34944,34.65389,36.34944,34.65389",
+    "geom:latitude":34.65389,
+    "geom:longitude":36.34944,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Es Smaitat",
+    "gn:country_code":"LB",
+    "gn:dem":294,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6278356,
+    "gn:latitude":34.65389,
+    "gn:longitude":36.34944,
+    "gn:modification_date":"2006-08-24",
+    "gn:name":"Es Sma\u00eftat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673483,
+        1108691407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6278356
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"28c270ad210a61999d40c75b551fb27e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691407,
+            "locality_id":1327417439,
+            "region_id":85673483
+        }
+    ],
+    "wof:id":1327417439,
+    "wof:lastmodified":1536702668,
+    "wof:name":"Es Smaitat",
+    "wof:parent_id":1108691407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.34944,
+    34.65389,
+    36.34944,
+    34.65389
+],
+  "geometry": {"coordinates":[36.34944,34.65389],"type":"Point"}
+}

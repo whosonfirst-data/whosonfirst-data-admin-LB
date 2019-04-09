@@ -1,0 +1,78 @@
+{
+  "id": 1242576793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.68389,33.74056,35.68389,33.74056",
+    "geom:latitude":33.74056,
+    "geom:longitude":35.68389,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Es Seffai",
+    "gn:country_code":"LB",
+    "gn:dem":926,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":277993,
+    "gn:latitude":33.74056,
+    "gn:longitude":35.68389,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Es Seffa\u00ef",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0635\u0641\u0651\u064a"
+    ],
+    "name:und_x_variant":[
+        "Es Soffi",
+        "Es-Siffi",
+        "Es Safi",
+        "A\u015f \u015eiff\u012b",
+        "Es Seffa\u00ef",
+        "A\u015f \u015eaff\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        1108691419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":277993
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"5779c5624bd7db60436c53f1f792703e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691419,
+            "locality_id":1242576793,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1242576793,
+    "wof:lastmodified":1537661200,
+    "wof:name":"Es Seffai",
+    "wof:parent_id":1108691419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.68389000000001,
+    33.74056,
+    35.68389000000001,
+    33.74056
+],
+  "geometry": {"coordinates":[35.68389000000001,33.74056],"type":"Point"}
+}

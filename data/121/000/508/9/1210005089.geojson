@@ -1,0 +1,72 @@
+{
+  "id": 1210005089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.1075,33.8575,36.1075,33.8575",
+    "geom:latitude":33.8575,
+    "geom:longitude":36.1075,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Jenta",
+    "gn:country_code":"LB",
+    "gn:dem":1115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":273462,
+    "gn:latitude":33.8575,
+    "gn:longitude":36.1075,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Jent\u00e2",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jennta",
+        "Jant\u0101",
+        "Jent\u00e2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        1377074353,
+        421171405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":273462
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"898434057f159693dad3d0da020e2159",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421171405,
+            "locality_id":1210005089,
+            "region_id":1377074353
+        }
+    ],
+    "wof:id":1210005089,
+    "wof:lastmodified":1551727647,
+    "wof:name":"Jenta",
+    "wof:parent_id":421171405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.1075,
+    33.8575,
+    36.1075,
+    33.8575
+],
+  "geometry": {"coordinates":[36.1075,33.8575],"type":"Point"}
+}

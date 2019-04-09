@@ -1,0 +1,71 @@
+{
+  "id": 1293521127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.69306,34.00972,35.69306,34.00972",
+    "geom:latitude":34.00972,
+    "geom:longitude":35.69306,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Et Tarouaa",
+    "gn:country_code":"LB",
+    "gn:dem":766,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":277881,
+    "gn:latitude":34.00972,
+    "gn:longitude":35.69306,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Et T\u00e2rouaa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "At T\u0101r\u016b\u2018",
+        "Et T\u00e2rouaa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        421172015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":277881
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"78514c8a02cf102b95e5bb3f37ab7a49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421172015,
+            "locality_id":1293521127,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1293521127,
+    "wof:lastmodified":1537661197,
+    "wof:name":"Et Tarouaa",
+    "wof:parent_id":421172015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.69306,
+    34.00972,
+    35.69306,
+    34.00972
+],
+  "geometry": {"coordinates":[35.69306,34.00972],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310682305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.22583,34.18417,36.22583,34.18417",
+    "geom:latitude":34.18417,
+    "geom:longitude":36.22583,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Nabha",
+    "gn:country_code":"LB",
+    "gn:dem":1149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":270005,
+    "gn:latitude":34.18417,
+    "gn:longitude":36.22583,
+    "gn:modification_date":"2006-07-18",
+    "gn:name":"Nabha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673479,
+        421171405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":270005
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"fb8b6b721a55b0fff316eb9d571ffb88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421171405,
+            "locality_id":1310682305,
+            "region_id":85673479
+        }
+    ],
+    "wof:id":1310682305,
+    "wof:lastmodified":1536661902,
+    "wof:name":"Nabha",
+    "wof:parent_id":421171405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.22583,
+    34.18417,
+    36.22583,
+    34.18417
+],
+  "geometry": {"coordinates":[36.22583,34.18417],"type":"Point"}
+}

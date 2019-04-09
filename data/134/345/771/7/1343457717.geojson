@@ -1,0 +1,63 @@
+{
+  "id": 1343457717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.64361,34.06694,35.64361,34.06694",
+    "geom:latitude":34.06694,
+    "geom:longitude":35.64361,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Jisr Nahr Ibrahim",
+    "gn:country_code":"LB",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":273295,
+    "gn:latitude":34.06694,
+    "gn:longitude":35.64361,
+    "gn:modification_date":"2006-07-26",
+    "gn:name":"Jisr Nahr Ibr\u00e2h\u00eem",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":273295
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"204ac5dcd7b2dafb891e3323bb9a3ae2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1343457717,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343457717,
+    "wof:lastmodified":1536750034,
+    "wof:name":"Jisr Nahr Ibrahim",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.64360999999999,
+    34.06694,
+    35.64360999999999,
+    34.06694
+],
+  "geometry": {"coordinates":[35.64360999999999,34.06694],"type":"Point"}
+}

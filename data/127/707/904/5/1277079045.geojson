@@ -1,0 +1,67 @@
+{
+  "id": 1277079045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.55694,33.84778,35.55694,33.84778",
+    "geom:latitude":33.84778,
+    "geom:longitude":35.55694,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Greater Beirut Area",
+    "gn:country_code":"LB",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7838966,
+    "gn:latitude":33.84778,
+    "gn:longitude":35.55694,
+    "gn:modification_date":"2011-05-26",
+    "gn:name":"Greater Beirut Area",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        1108691425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7838966
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"ee579f7f34e99c7a7d9e63523db7bff7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691425,
+            "locality_id":1277079045,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1277079045,
+    "wof:lastmodified":1536773542,
+    "wof:name":"Greater Beirut Area",
+    "wof:parent_id":1108691425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.55694000000001,
+    33.84778,
+    35.55694000000001,
+    33.84778
+],
+  "geometry": {"coordinates":[35.55694000000001,33.84778],"type":"Point"}
+}

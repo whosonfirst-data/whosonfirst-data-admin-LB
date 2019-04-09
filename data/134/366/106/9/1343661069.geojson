@@ -1,0 +1,71 @@
+{
+  "id": 1343661069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.64139,34.04361,35.64139,34.04361",
+    "geom:latitude":34.04361,
+    "geom:longitude":35.64139,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Hai Mar Youhanna",
+    "gn:country_code":"LB",
+    "gn:dem":113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":274054,
+    "gn:latitude":34.04361,
+    "gn:longitude":35.64139,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ha\u00ef M\u00e2r Youhanna",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1e28ayy M\u0101r Y\u016b\u1e29ann\u0101",
+        "Ha\u00ef M\u00e2r Youhanna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        421172015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":274054
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"70f99e7a5fd63b843355d29de7fde951",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421172015,
+            "locality_id":1343661069,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1343661069,
+    "wof:lastmodified":1537661105,
+    "wof:name":"Hai Mar Youhanna",
+    "wof:parent_id":421172015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.64139,
+    34.04361,
+    35.64139,
+    34.04361
+],
+  "geometry": {"coordinates":[35.64139,34.04361],"type":"Point"}
+}

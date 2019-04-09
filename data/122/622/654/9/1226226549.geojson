@@ -1,0 +1,72 @@
+{
+  "id": 1226226549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.87972,34.29278,35.87972,34.29278",
+    "geom:latitude":34.29278,
+    "geom:longitude":35.87972,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Ard el Hssein",
+    "gn:country_code":"LB",
+    "gn:dem":510,
+    "gn:elevation":"535.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":278645,
+    "gn:latitude":34.29278,
+    "gn:longitude":35.87972,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ard el Hsse\u00efn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ar\u1e11 al \u1e28usayn",
+        "Ard el Hsse\u00efn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        1377074355,
+        1108691411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":278645
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"1cb0d9d03da41956bd69488785eb9dac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691411,
+            "locality_id":1226226549,
+            "region_id":1377074355
+        }
+    ],
+    "wof:id":1226226549,
+    "wof:lastmodified":1551727627,
+    "wof:name":"Ard el Hssein",
+    "wof:parent_id":1108691411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.87972,
+    34.29278,
+    35.87972,
+    34.29278
+],
+  "geometry": {"coordinates":[35.87972,34.29278],"type":"Point"}
+}

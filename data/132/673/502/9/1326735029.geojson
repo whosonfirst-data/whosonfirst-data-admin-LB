@@ -1,0 +1,74 @@
+{
+  "id": 1326735029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.7,34.12361,35.7,34.12361",
+    "geom:latitude":34.12361,
+    "geom:longitude":35.7,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kfar Qaouass",
+    "gn:country_code":"LB",
+    "gn:dem":611,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":272835,
+    "gn:latitude":34.12361,
+    "gn:longitude":35.7,
+    "gn:modification_date":"2014-03-08",
+    "gn:name":"Kfar Qaou\u00e2ss",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0641\u0631 \u0642\u0648\u0627\u0635"
+    ],
+    "name:und_x_variant":[
+        "Kafr Q\u016bw\u0101\u015f",
+        "Kfar Qaou\u00e2ss"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        421194845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":272835
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"fa5b5eac0923600e876e28483aef16dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421194845,
+            "locality_id":1326735029,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1326735029,
+    "wof:lastmodified":1537661082,
+    "wof:name":"Kfar Qaouass",
+    "wof:parent_id":421194845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.7,
+    34.12361,
+    35.7,
+    34.12361
+],
+  "geometry": {"coordinates":[35.7,34.12361],"type":"Point"}
+}

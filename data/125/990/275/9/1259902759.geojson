@@ -1,0 +1,79 @@
+{
+  "id": 1259902759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.41167,33.59472,35.41167,33.59472",
+    "geom:latitude":33.59472,
+    "geom:longitude":35.41167,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Aalmane ed Daiaa",
+    "gn:country_code":"LB",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":279566,
+    "gn:latitude":33.59472,
+    "gn:longitude":35.41167,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Aalm\u00e2ne ed Da\u00efaa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0644\u0645\u0627\u0646"
+    ],
+    "name:ara_x_variant":[
+        "\u0639\u0644\u0645\u0627\u0646 \u0627\u0644\u0636\u064a\u0639\u0629"
+    ],
+    "name:und_x_variant":[
+        "Aalmane",
+        "\u2018Alm\u0101n",
+        "\u2018Alm\u0101n a\u1e11 \u1e10ay\u2018ah",
+        "Aalm\u00e2ne ed Da\u00efaa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        1108691419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":279566
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"7a401c185969ebad00d4c92df2170254",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691419,
+            "locality_id":1259902759,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1259902759,
+    "wof:lastmodified":1537661248,
+    "wof:name":"Aalmane ed Daiaa",
+    "wof:parent_id":1108691419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.41167,
+    33.59472,
+    35.41167,
+    33.59472
+],
+  "geometry": {"coordinates":[35.41167,33.59472],"type":"Point"}
+}

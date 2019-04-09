@@ -1,0 +1,71 @@
+{
+  "id": 1326518245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.31722,34.17611,36.31722,34.17611",
+    "geom:latitude":34.17611,
+    "geom:longitude":36.31722,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Taoufiqiye",
+    "gn:country_code":"LB",
+    "gn:dem":968,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":266768,
+    "gn:latitude":34.17611,
+    "gn:longitude":36.31722,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Taouf\u00eeq\u00eey\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tawf\u012bq\u012byah",
+        "Taouf\u00eeq\u00eey\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673479,
+        421171405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":266768
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"185066284e3bf9a19fdec2faee137cff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421171405,
+            "locality_id":1326518245,
+            "region_id":85673479
+        }
+    ],
+    "wof:id":1326518245,
+    "wof:lastmodified":1537661004,
+    "wof:name":"Taoufiqiye",
+    "wof:parent_id":421171405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.31722,
+    34.17610999999999,
+    36.31722,
+    34.17610999999999
+],
+  "geometry": {"coordinates":[36.31722,34.17610999999999],"type":"Point"}
+}

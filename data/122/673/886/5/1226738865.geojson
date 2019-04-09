@@ -1,0 +1,72 @@
+{
+  "id": 1226738865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.13333,34.53333,36.13333,34.53333",
+    "geom:latitude":34.53333,
+    "geom:longitude":36.13333,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"An Nassar",
+    "gn:country_code":"LB",
+    "gn:dem":501,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":278820,
+    "gn:latitude":34.53333,
+    "gn:longitude":36.13333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"An Na\u015f\u015f\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Enn Nsour",
+        "Enn Nsu",
+        "An Na\u015f\u015f\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        1377074357,
+        1108691407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":278820
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"39061bf1edb91a19314e241b3e20bf6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691407,
+            "locality_id":1226738865,
+            "region_id":1377074357
+        }
+    ],
+    "wof:id":1226738865,
+    "wof:lastmodified":1551727675,
+    "wof:name":"An Nassar",
+    "wof:parent_id":1108691407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.13333,
+    34.53333,
+    36.13333,
+    34.53333
+],
+  "geometry": {"coordinates":[36.13333,34.53333],"type":"Point"}
+}

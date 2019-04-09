@@ -1,0 +1,74 @@
+{
+  "id": 1210037765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.67944,33.38639,35.67944,33.38639",
+    "geom:latitude":33.38639,
+    "geom:longitude":35.67944,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Khalouat el Baiyada",
+    "gn:country_code":"LB",
+    "gn:dem":903,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":272638,
+    "gn:latitude":33.38639,
+    "gn:longitude":35.67944,
+    "gn:modification_date":"2013-04-04",
+    "gn:name":"Khalou\u00e2t el Ba\u00efyada",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0644\u0648\u0627\u062a \u0627\u0644\u0628\u064a\u0627\u0636\u0629"
+    ],
+    "name:und_x_variant":[
+        "Khalaw\u0101t al Bayy\u0101\u1e11ah",
+        "Khalou\u00e2t el Ba\u00efyada"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673495,
+        1108691431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":272638
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"1c87655cebbda64994a8f23d4c650473",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691431,
+            "locality_id":1210037765,
+            "region_id":85673495
+        }
+    ],
+    "wof:id":1210037765,
+    "wof:lastmodified":1537661076,
+    "wof:name":"Khalouat el Baiyada",
+    "wof:parent_id":1108691431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.67944,
+    33.38639000000001,
+    35.67944,
+    33.38639000000001
+],
+  "geometry": {"coordinates":[35.67944,33.38639000000001],"type":"Point"}
+}

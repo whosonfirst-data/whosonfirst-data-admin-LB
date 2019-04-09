@@ -1,0 +1,71 @@
+{
+  "id": 1276546287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.65333,34.07861,35.65333,34.07861",
+    "geom:latitude":34.07861,
+    "geom:longitude":35.65333,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Harf el Aakais",
+    "gn:country_code":"LB",
+    "gn:dem":103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":274405,
+    "gn:latitude":34.07861,
+    "gn:longitude":35.65333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Harf el Aaka\u00efs",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1e28arf al \u2018Ukays",
+        "Harf el Aaka\u00efs"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        421194845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":274405
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"b94e9c4e3b17913fed5ded589754679a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421194845,
+            "locality_id":1276546287,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1276546287,
+    "wof:lastmodified":1537661113,
+    "wof:name":"Harf el Aakais",
+    "wof:parent_id":421194845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.65333,
+    34.07861,
+    35.65333,
+    34.07861
+],
+  "geometry": {"coordinates":[35.65333,34.07861],"type":"Point"}
+}

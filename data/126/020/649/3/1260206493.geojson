@@ -1,0 +1,74 @@
+{
+  "id": 1260206493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.53778,33.60806,35.53778,33.60806",
+    "geom:latitude":33.60806,
+    "geom:longitude":35.53778,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Bzina",
+    "gn:country_code":"LB",
+    "gn:dem":756,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":275987,
+    "gn:latitude":33.60806,
+    "gn:longitude":35.53778,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Bz\u00eena",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0632\u064a\u0646\u0627"
+    ],
+    "name:und_x_variant":[
+        "Bz\u00eena",
+        "Bz\u012bn\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        1108691419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":275987
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"65ea2ab35bd717da5a3e344e35a2fb97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691419,
+            "locality_id":1260206493,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1260206493,
+    "wof:lastmodified":1537661142,
+    "wof:name":"Bzina",
+    "wof:parent_id":1108691419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.53778,
+    33.60805999999999,
+    35.53778,
+    33.60805999999999
+],
+  "geometry": {"coordinates":[35.53778,33.60805999999999],"type":"Point"}
+}

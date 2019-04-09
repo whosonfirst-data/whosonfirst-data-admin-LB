@@ -1,0 +1,72 @@
+{
+  "id": 1277064987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.06778,33.93,36.06778,33.93",
+    "geom:latitude":33.93,
+    "geom:longitude":36.06778,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Haouch en Nebi",
+    "gn:country_code":"LB",
+    "gn:dem":981,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":274198,
+    "gn:latitude":33.93,
+    "gn:longitude":36.06778,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Haouch en Nebi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Haouch enn Nabi",
+        "\u1e28awsh an Nab\u012b",
+        "Haouch en Nebi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673479,
+        421171405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":274198
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"0d947a85dceb434d9ecd028801b76a6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421171405,
+            "locality_id":1277064987,
+            "region_id":85673479
+        }
+    ],
+    "wof:id":1277064987,
+    "wof:lastmodified":1537661110,
+    "wof:name":"Haouch en Nebi",
+    "wof:parent_id":421171405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.06778,
+    33.93,
+    36.06778,
+    33.93
+],
+  "geometry": {"coordinates":[36.06778,33.93],"type":"Point"}
+}

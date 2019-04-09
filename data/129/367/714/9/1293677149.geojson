@@ -1,0 +1,71 @@
+{
+  "id": 1293677149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.13972,34.17806,36.13972,34.17806",
+    "geom:latitude":34.17806,
+    "geom:longitude":36.13972,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Mrah el Aassi",
+    "gn:country_code":"LB",
+    "gn:dem":1417,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":271601,
+    "gn:latitude":34.17806,
+    "gn:longitude":36.13972,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mr\u00e2h el Aassi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mar\u0101\u1e29 al \u2018A\u015f\u012b",
+        "Mr\u00e2h el Aassi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673479,
+        421171405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":271601
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"3ae024b855bf9271893154c16f1ff1c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421171405,
+            "locality_id":1293677149,
+            "region_id":85673479
+        }
+    ],
+    "wof:id":1293677149,
+    "wof:lastmodified":1537661066,
+    "wof:name":"Mrah el Aassi",
+    "wof:parent_id":421171405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.13972,
+    34.17806,
+    36.13972,
+    34.17806
+],
+  "geometry": {"coordinates":[36.13972,34.17806],"type":"Point"}
+}

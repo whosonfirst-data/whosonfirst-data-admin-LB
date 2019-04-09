@@ -1,0 +1,70 @@
+{
+  "id": 1360278727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.64083,33.46944,35.64083,33.46944",
+    "geom:latitude":33.46944,
+    "geom:longitude":35.64083,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Maidoun",
+    "gn:country_code":"LB",
+    "gn:dem":1088,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":270783,
+    "gn:latitude":33.46944,
+    "gn:longitude":35.64083,
+    "gn:modification_date":"2006-08-22",
+    "gn:name":"Ma\u00efdo\u00fbn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mayd\u016bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        1377074351,
+        421173359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":270783
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"2f7e58d89a4cc489c758425639d469dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421173359,
+            "locality_id":1360278727,
+            "region_id":1377074351
+        }
+    ],
+    "wof:id":1360278727,
+    "wof:lastmodified":1551727598,
+    "wof:name":"Maidoun",
+    "wof:parent_id":421173359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.64083,
+    33.46944000000001,
+    35.64083,
+    33.46944000000001
+],
+  "geometry": {"coordinates":[35.64083,33.46944000000001],"type":"Point"}
+}

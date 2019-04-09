@@ -1,0 +1,75 @@
+{
+  "id": 1293023371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.64722,33.82444,35.64722,33.82444",
+    "geom:latitude":33.82444,
+    "geom:longitude":35.64722,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Rouaisset el Ballout",
+    "gn:country_code":"LB",
+    "gn:dem":712,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":268633,
+    "gn:latitude":33.82444,
+    "gn:longitude":35.64722,
+    "gn:modification_date":"2018-03-07",
+    "gn:name":"Roua\u00efsset el Ballo\u00fbt",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0631\u0648\u064a\u0633\u0629 \u0627\u0644\u0628\u0644\u0648\u0637"
+    ],
+    "name:und_x_variant":[
+        "Ru\u2019aysat al Ball\u016b\u0163",
+        "Roua\u00efsset el Ballo\u00fbt",
+        "Ruwaysat al Ball\u016b\u0163"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        421202301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":268633
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"eeb3c39eb2f3e4b17d8a892271b7cdab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421202301,
+            "locality_id":1293023371,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1293023371,
+    "wof:lastmodified":1537661023,
+    "wof:name":"Rouaisset el Ballout",
+    "wof:parent_id":421202301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.64722000000001,
+    33.82444,
+    35.64722000000001,
+    33.82444
+],
+  "geometry": {"coordinates":[35.64722000000001,33.82444],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1276639489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.08,34.4475,36.08,34.4475",
+    "geom:latitude":34.4475,
+    "geom:longitude":36.08,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Bzaita",
+    "gn:country_code":"LB",
+    "gn:dem":469,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":275990,
+    "gn:latitude":34.4475,
+    "gn:longitude":36.08,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Bza\u00efta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bzayt\u0101",
+        "Bza\u00efta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673483,
+        1108691407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":275990
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"7b43f2d26b6d4bcf56a63905f0658add",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691407,
+            "locality_id":1276639489,
+            "region_id":85673483
+        }
+    ],
+    "wof:id":1276639489,
+    "wof:lastmodified":1537661142,
+    "wof:name":"Bzaita",
+    "wof:parent_id":1108691407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.08,
+    34.4475,
+    36.08,
+    34.4475
+],
+  "geometry": {"coordinates":[36.08,34.4475],"type":"Point"}
+}

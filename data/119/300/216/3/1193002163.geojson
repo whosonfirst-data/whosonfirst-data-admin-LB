@@ -1,0 +1,73 @@
+{
+  "id": 1193002163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.02889,34.46139,36.02889,34.46139",
+    "geom:latitude":34.46139,
+    "geom:longitude":36.02889,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Sfainet el Qaitaa",
+    "gn:country_code":"LB",
+    "gn:dem":506,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":268464,
+    "gn:latitude":34.46139,
+    "gn:longitude":36.02889,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sfa\u00efnet el Qa\u00eftaa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Es So\u00fbfa\u00efne",
+        "Es Sfin\u00e9",
+        "Saf\u012bnat al Qay\u0163i\u2018",
+        "Sfa\u00efnet el Qa\u00eftaa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        1377074357,
+        1108691407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":268464
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"a88941f882366a58df61a8f6c95bd706",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691407,
+            "locality_id":1193002163,
+            "region_id":1377074357
+        }
+    ],
+    "wof:id":1193002163,
+    "wof:lastmodified":1551727668,
+    "wof:name":"Sfainet el Qaitaa",
+    "wof:parent_id":1108691407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.02889,
+    34.46139,
+    36.02889,
+    34.46139
+],
+  "geometry": {"coordinates":[36.02889,34.46139],"type":"Point"}
+}

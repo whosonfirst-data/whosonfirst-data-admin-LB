@@ -1,0 +1,72 @@
+{
+  "id": 1343953997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.14472,34.60806,36.14472,34.60806",
+    "geom:latitude":34.60806,
+    "geom:longitude":36.14472,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Mzeihme",
+    "gn:country_code":"LB",
+    "gn:dem":192,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":270059,
+    "gn:latitude":34.60806,
+    "gn:longitude":36.14472,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mze\u00efhm\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Mzahmah",
+        "Mzay\u1e29imah",
+        "Mze\u00efhm\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673483,
+        1108691407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":270059
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"8a17c672482d55ee796c0a790be1341e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691407,
+            "locality_id":1343953997,
+            "region_id":85673483
+        }
+    ],
+    "wof:id":1343953997,
+    "wof:lastmodified":1537661038,
+    "wof:name":"Mzeihme",
+    "wof:parent_id":1108691407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.14472,
+    34.60805999999999,
+    36.14472,
+    34.60805999999999
+],
+  "geometry": {"coordinates":[36.14472,34.60805999999999],"type":"Point"}
+}

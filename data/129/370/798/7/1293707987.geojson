@@ -1,0 +1,80 @@
+{
+  "id": 1293707987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.95417,34.35972,35.95417,34.35972",
+    "geom:latitude":34.35972,
+    "geom:longitude":35.95417,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Zghartaghrine",
+    "gn:country_code":"LB",
+    "gn:dem":797,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":265843,
+    "gn:latitude":34.35972,
+    "gn:longitude":35.95417,
+    "gn:modification_date":"2018-03-28",
+    "gn:name":"Zghartaghr\u00eene",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0632\u063a\u0631\u062a\u063a\u0631\u064a\u0646"
+    ],
+    "name:ara_x_variant":[
+        "\u0632\u063a\u0631 \u0628\u062a\u063a\u0631\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "Zghartighr\u012bn",
+        "Zghartaghr\u00eene",
+        "Zaghr Bitighr\u012bn",
+        "Zaghartighr\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673483,
+        1108691427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":265843,
+        "wk:page":"Zgharta"
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"35d8809492f7d47e307ddfddc2166903",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691427,
+            "locality_id":1293707987,
+            "region_id":85673483
+        }
+    ],
+    "wof:id":1293707987,
+    "wof:lastmodified":1537660993,
+    "wof:name":"Zghartaghrine",
+    "wof:parent_id":1108691427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.95417,
+    34.35972,
+    35.95417,
+    34.35972
+],
+  "geometry": {"coordinates":[35.95417,34.35972],"type":"Point"}
+}

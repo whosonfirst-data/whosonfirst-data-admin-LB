@@ -1,0 +1,77 @@
+{
+  "id": 1310500747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.47878,33.6794,35.47878,33.6794",
+    "geom:latitude":33.6794,
+    "geom:longitude":35.47878,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"El Bachqiye",
+    "gn:country_code":"LB",
+    "gn:dem":418,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":280334,
+    "gn:latitude":33.6794,
+    "gn:longitude":35.47878,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"El B\u00e2chqiy\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0628\u0627\u0634\u0642\u064a\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0628\u0627\u0634\u0642\u064a\u0651\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al B\u0101shiq\u012byah",
+        "El B\u00e2chqiy\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        1108691419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":280334
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"88d31ada0a7426c38ed14db7ba02fb8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691419,
+            "locality_id":1310500747,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1310500747,
+    "wof:lastmodified":1537661280,
+    "wof:name":"El Bachqiye",
+    "wof:parent_id":1108691419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.47878,
+    33.6794,
+    35.47878,
+    33.6794
+],
+  "geometry": {"coordinates":[35.47878,33.6794],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1344061823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.72306,34.03917,35.72306,34.03917",
+    "geom:latitude":34.03917,
+    "geom:longitude":35.72306,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Jouret el Ghada",
+    "gn:country_code":"LB",
+    "gn:dem":1034,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":273111,
+    "gn:latitude":34.03917,
+    "gn:longitude":35.72306,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Jo\u00fbret el Ghada",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "J\u016brat al Gha\u1e11\u0101",
+        "Jo\u00fbret el Ghada"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        421172015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":273111
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"1b79a84394f114446b2943d26e271cde",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421172015,
+            "locality_id":1344061823,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1344061823,
+    "wof:lastmodified":1537661089,
+    "wof:name":"Jouret el Ghada",
+    "wof:parent_id":421172015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.72306,
+    34.03917,
+    35.72306,
+    34.03917
+],
+  "geometry": {"coordinates":[35.72306,34.03917],"type":"Point"}
+}

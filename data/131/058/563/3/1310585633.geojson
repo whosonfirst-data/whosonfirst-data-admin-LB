@@ -1,0 +1,76 @@
+{
+  "id": 1310585633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.9114,34.26236,35.9114,34.26236",
+    "geom:latitude":34.26236,
+    "geom:longitude":35.9114,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Beit Menzer",
+    "gn:country_code":"LB",
+    "gn:dem":1221,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":276700,
+    "gn:latitude":34.26236,
+    "gn:longitude":35.9114,
+    "gn:modification_date":"2014-03-08",
+    "gn:name":"Be\u00eft Menzer",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a \u0645\u0646\u0630\u0631"
+    ],
+    "name:und_x_variant":[
+        "Bayt Mundhir",
+        "Be\u00eft Monnzer",
+        "Beit Mounzer",
+        "Be\u00eft Menzer"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673483,
+        1108691411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":276700
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"8cc777a0464f06ae089df069dfafb70e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691411,
+            "locality_id":1310585633,
+            "region_id":85673483
+        }
+    ],
+    "wof:id":1310585633,
+    "wof:lastmodified":1537661165,
+    "wof:name":"Beit Menzer",
+    "wof:parent_id":1108691411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.9114,
+    34.26236,
+    35.9114,
+    34.26236
+],
+  "geometry": {"coordinates":[35.9114,34.26236],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1225833265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.38167,34.49056,36.38167,34.49056",
+    "geom:latitude":34.49056,
+    "geom:longitude":36.38167,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Mazraat et Talle",
+    "gn:country_code":"LB",
+    "gn:dem":885,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6278024,
+    "gn:latitude":34.49056,
+    "gn:longitude":36.38167,
+    "gn:modification_date":"2006-08-24",
+    "gn:name":"Mazraat et Tall\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        1377074353,
+        1108691421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6278024
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"2b0544fb924a0e214132e6419b437ec6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691421,
+            "locality_id":1225833265,
+            "region_id":1377074353
+        }
+    ],
+    "wof:id":1225833265,
+    "wof:lastmodified":1551727650,
+    "wof:name":"Mazraat et Talle",
+    "wof:parent_id":1108691421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.38167,
+    34.49056,
+    36.38167,
+    34.49056
+],
+  "geometry": {"coordinates":[36.38167,34.49056],"type":"Point"}
+}

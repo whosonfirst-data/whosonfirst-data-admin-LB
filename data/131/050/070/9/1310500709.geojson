@@ -1,0 +1,77 @@
+{
+  "id": 1310500709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.50556,33.64056,35.50556,33.64056",
+    "geom:latitude":33.64056,
+    "geom:longitude":35.50556,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Daraiya",
+    "gn:country_code":"LB",
+    "gn:dem":753,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":275789,
+    "gn:latitude":33.64056,
+    "gn:longitude":35.50556,
+    "gn:modification_date":"2018-03-29",
+    "gn:name":"D\u00e2ra\u00efya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u0627\u0631\u064a\u0627"
+    ],
+    "name:und_x_variant":[
+        "Daraya",
+        "Dareiya",
+        "D\u0101rayy\u0101",
+        "D\u00e2ra\u00efya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        1108691419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":275789,
+        "wk:page":"Daraya,_Chouf"
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"b0434b373564812f42ad259ba33efc84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691419,
+            "locality_id":1310500709,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1310500709,
+    "wof:lastmodified":1537661138,
+    "wof:name":"Daraiya",
+    "wof:parent_id":1108691419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.50556,
+    33.64056,
+    35.50556,
+    33.64056
+],
+  "geometry": {"coordinates":[35.50556,33.64056],"type":"Point"}
+}

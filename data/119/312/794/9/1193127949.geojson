@@ -1,0 +1,77 @@
+{
+  "id": 1193127949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.02333,33.82417,36.02333,33.82417",
+    "geom:latitude":33.82417,
+    "geom:longitude":36.02333,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Hoshmosh",
+    "gn:country_code":"LB",
+    "gn:dem":1017,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":273779,
+    "gn:latitude":33.82417,
+    "gn:longitude":36.02333,
+    "gn:modification_date":"2018-03-07",
+    "gn:name":"Hoshmosh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0634\u0645\u0634"
+    ],
+    "name:und_x_variant":[
+        "Haouch Moch",
+        "Hoch Moch",
+        "Hishmush",
+        "\u1e28ushmush",
+        "Hoshmosh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        1377074351,
+        421172017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":273779
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"fe9fc7d973112132456289e35a8f35fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421172017,
+            "locality_id":1193127949,
+            "region_id":1377074351
+        }
+    ],
+    "wof:id":1193127949,
+    "wof:lastmodified":1551727599,
+    "wof:name":"Hoshmosh",
+    "wof:parent_id":421172017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.02333,
+    33.82417,
+    36.02333,
+    33.82417
+],
+  "geometry": {"coordinates":[36.02333,33.82417],"type":"Point"}
+}

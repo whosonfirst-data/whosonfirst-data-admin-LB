@@ -1,0 +1,80 @@
+{
+  "id": 1327423567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.93381,34.35826,35.93381,34.35826",
+    "geom:latitude":34.35826,
+    "geom:longitude":35.93381,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Bchehhara",
+    "gn:country_code":"LB",
+    "gn:dem":641,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":276362,
+    "gn:latitude":34.35826,
+    "gn:longitude":35.93381,
+    "gn:modification_date":"2013-10-07",
+    "gn:name":"Bchehh\u00e2ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0634\u062d\u0627\u0631\u0627"
+    ],
+    "name:ara_x_variant":[
+        "\u0628\u0634\u062d\u0627\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "B\u00e9h\u00e2ra",
+        "Bsha\u1e29\u1e29\u0101r\u0101",
+        "Bchehh\u00e2ra",
+        "Basha\u1e29\u0101rah",
+        "Basha\u1e29\u0101r\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673483,
+        1108691427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":276362
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"c00e0a31ccc67cf662b5bbf44f656806",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691427,
+            "locality_id":1327423567,
+            "region_id":85673483
+        }
+    ],
+    "wof:id":1327423567,
+    "wof:lastmodified":1537661151,
+    "wof:name":"Bchehhara",
+    "wof:parent_id":1108691427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.93381,
+    34.35825999999999,
+    35.93381,
+    34.35825999999999
+],
+  "geometry": {"coordinates":[35.93381,34.35825999999999],"type":"Point"}
+}

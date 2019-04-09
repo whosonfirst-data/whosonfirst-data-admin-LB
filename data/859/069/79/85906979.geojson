@@ -1,0 +1,105 @@
+{
+  "id": 85906979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":23123708.006742,
+    "geom:bbox":"35.592386,33.910534,35.592386,33.910534",
+    "geom:latitude":33.910534,
+    "geom:longitude":35.592386,
+    "gn:id":"",
+    "iso:country":"LB",
+    "lbl:latitude":33.910534,
+    "lbl:longitude":35.592386,
+    "mps:latitude":33.912772,
+    "mps:longitude":35.591093,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":2,
+    "name:ara_x_preferred":[
+        "Jall Ed Did"
+    ],
+    "name:unk_x_variant":[
+        "Jall Ed Did"
+    ],
+    "qs:gn_adm0_cc":"LB",
+    "qs:gn_id":0,
+    "qs:gn_local":276781,
+    "qs:local_max":1709,
+    "qs:local_sum":10240,
+    "qs:localhoods":30,
+    "qs:name":"Jall Ed Did",
+    "qs:name_adm0":"\u0644\u0628\u0646\u0627\u0646",
+    "qs:name_adm1":"\u062c\u0628\u0644 \u0644\u0628\u0646\u0627\u0646",
+    "qs:name_adm2":"\u0627\u0644\u0645\u062a\u0646",
+    "qs:name_lau":"\u062c\u0644 \u0627\u0644\u062f\u064a\u0628",
+    "qs:name_local":"\u0628\u064a\u0631\u0648\u062a",
+    "qs:photo_max":101,
+    "qs:photo_sum":378,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":35,
+    "qs:woe_adm0":23424873,
+    "qs:woe_adm1":2346017,
+    "qs:woe_adm2":56049612,
+    "qs:woe_lau":56412016,
+    "qs:woe_local":1960307,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        1108691425,
+        85673491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22724458,
+        "qs:id":1121102,
+        "qs_pg:id":1121102
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"81391c770a26aecca10a427a84b51b54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691425,
+            "locality_id":-1,
+            "neighbourhood_id":85906979,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":85906979,
+    "wof:lang":[
+        "ara"
+    ],
+    "wof:lastmodified":1531936471,
+    "wof:name":"Jall Ed Did",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.592386,
+    33.910534,
+    35.592386,
+    33.910534
+],
+  "geometry": {"coordinates":[35.592386,33.910534],"type":"Point"}
+}

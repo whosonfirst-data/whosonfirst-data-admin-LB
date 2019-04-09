@@ -1,0 +1,72 @@
+{
+  "id": 1209100683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.41774,33.39027,35.41774,33.39027",
+    "geom:latitude":33.39027,
+    "geom:longitude":35.41774,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ed Douair",
+    "gn:country_code":"LB",
+    "gn:dem":373,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":280704,
+    "gn:latitude":33.39027,
+    "gn:longitude":35.41774,
+    "gn:modification_date":"2018-03-28",
+    "gn:name":"Ed Doua\u00efr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062f\u0648\u064a\u0631"
+    ],
+    "name:und_x_variant":[
+        "Ad Duwayr",
+        "Doua\u00efr",
+        "Ad Duw\u0101yir",
+        "Ed-Dweir",
+        "Ed Doua\u00efr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":280704,
+        "wk:page":"Doueir"
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"e0e962b1b608d7118b8099e12f89e8da",
+    "wof:hierarchy":[
+        {
+            "country_id":85632533,
+            "locality_id":1209100683
+        }
+    ],
+    "wof:id":1209100683,
+    "wof:lastmodified":1537661293,
+    "wof:name":"Ed Douair",
+    "wof:parent_id":85632533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.41774,
+    33.39027,
+    35.41774,
+    33.39027
+],
+  "geometry": {"coordinates":[35.41774,33.39027],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1360273753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.14,34.02472,36.14,34.02472",
+    "geom:latitude":34.02472,
+    "geom:longitude":36.14,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Haouch Tell Safiye",
+    "gn:country_code":"LB",
+    "gn:dem":1022,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":274190,
+    "gn:latitude":34.02472,
+    "gn:longitude":36.14,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Haouch Tell Saf\u00eey\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1e28awsh Tal\u015faf\u012byah",
+        "\u1e28awsh Tall \u015eaf\u012byah",
+        "Haouch Tell Saf\u00eey\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        1377074353,
+        421171405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":274190
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"27c2d54f94420e7ad3466d73d6c4336f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421171405,
+            "locality_id":1360273753,
+            "region_id":1377074353
+        }
+    ],
+    "wof:id":1360273753,
+    "wof:lastmodified":1551727647,
+    "wof:name":"Haouch Tell Safiye",
+    "wof:parent_id":421171405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.14,
+    34.02472,
+    36.14,
+    34.02472
+],
+  "geometry": {"coordinates":[36.14,34.02472],"type":"Point"}
+}

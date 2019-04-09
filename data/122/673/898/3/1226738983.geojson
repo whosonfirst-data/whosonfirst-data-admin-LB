@@ -1,0 +1,82 @@
+{
+  "id": 1226738983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.07972,34.54278,36.07972,34.54278",
+    "geom:latitude":34.54278,
+    "geom:longitude":36.07972,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Halba",
+    "gn:country_code":"LB",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA",
+    "gn:geonameid":274723,
+    "gn:latitude":34.54278,
+    "gn:longitude":36.07972,
+    "gn:modification_date":"2012-02-02",
+    "gn:name":"Halba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0644\u0628\u0627"
+    ],
+    "name:ara_x_variant":[
+        "\u0639\u0643\u0627\u0631"
+    ],
+    "name:und_x_variant":[
+        "Aakar",
+        "\u1e28alb\u0101",
+        "\u2018Akk\u0101r",
+        "Halbe",
+        "Akkar",
+        "Halba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        1377074357,
+        1108691407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":274723,
+        "wk:page":"Halba"
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"17621f4f58919d25ed4565913922d28b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691407,
+            "locality_id":1226738983,
+            "region_id":1377074357
+        }
+    ],
+    "wof:id":1226738983,
+    "wof:lastmodified":1551727675,
+    "wof:name":"Halba",
+    "wof:parent_id":1108691407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.07972,
+    34.54278,
+    36.07972,
+    34.54278
+],
+  "geometry": {"coordinates":[36.07972,34.54278],"type":"Point"}
+}

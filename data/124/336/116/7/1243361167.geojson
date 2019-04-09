@@ -1,0 +1,76 @@
+{
+  "id": 1243361167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.39468,33.56535,35.39468,33.56535",
+    "geom:latitude":33.56535,
+    "geom:longitude":35.39468,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"El Hlaliye",
+    "gn:country_code":"LB",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":280018,
+    "gn:latitude":33.56535,
+    "gn:longitude":35.39468,
+    "gn:modification_date":"2013-04-04",
+    "gn:name":"El Hl\u00e2l\u00eey\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0647\u0644\u0627\u0644\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al Hil\u0101l\u012byah",
+        "El A\u00e2li\u00e9",
+        "El Aaly\u00e9",
+        "El Hl\u00e2l\u00eey\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673499,
+        890451987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":280018
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"84e25f52646466f5cc95d98a25791c9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":890451987,
+            "locality_id":1243361167,
+            "region_id":85673499
+        }
+    ],
+    "wof:id":1243361167,
+    "wof:lastmodified":1537661266,
+    "wof:name":"El Hlaliye",
+    "wof:parent_id":890451987,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.39468,
+    33.56535,
+    35.39468,
+    33.56535
+],
+  "geometry": {"coordinates":[35.39468,33.56535],"type":"Point"}
+}

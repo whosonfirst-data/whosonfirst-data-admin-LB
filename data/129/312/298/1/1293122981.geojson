@@ -1,0 +1,77 @@
+{
+  "id": 1293122981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.5425,33.56417,35.5425,33.56417",
+    "geom:latitude":33.56417,
+    "geom:longitude":35.5425,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"El Bebe",
+    "gn:country_code":"LB",
+    "gn:dem":692,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":280403,
+    "gn:latitude":33.56417,
+    "gn:longitude":35.5425,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"El B\u00e9b\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0628\u0627\u0628\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al B\u0101b\u0101",
+        "El Bebi",
+        "El Beba",
+        "El B\u00e9b\u00e9",
+        "Al B\u0101bah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673499,
+        1108691435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":280403
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"1fac986d5fd4492567e305f96815f6de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691435,
+            "locality_id":1293122981,
+            "region_id":85673499
+        }
+    ],
+    "wof:id":1293122981,
+    "wof:lastmodified":1537661283,
+    "wof:name":"El Bebe",
+    "wof:parent_id":1108691435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.5425,
+    33.56417,
+    35.5425,
+    33.56417
+],
+  "geometry": {"coordinates":[35.5425,33.56417],"type":"Point"}
+}

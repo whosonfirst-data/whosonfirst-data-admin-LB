@@ -1,0 +1,76 @@
+{
+  "id": 1193159307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.56389,33.58028,35.56389,33.58028",
+    "geom:latitude":33.58028,
+    "geom:longitude":35.56389,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"El Midane",
+    "gn:country_code":"LB",
+    "gn:dem":773,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":279417,
+    "gn:latitude":33.58028,
+    "gn:longitude":35.56389,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"El Mid\u00e2ne",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u064a\u062f\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Al M\u012bd\u0101n",
+        "El Mso\u00fbs",
+        "El Mid\u00e2ne",
+        "Al Mayd\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673499,
+        1108691435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":279417
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"f25f5cfaabf3881726d8df1f76e41bf5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691435,
+            "locality_id":1193159307,
+            "region_id":85673499
+        }
+    ],
+    "wof:id":1193159307,
+    "wof:lastmodified":1537661243,
+    "wof:name":"El Midane",
+    "wof:parent_id":1108691435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.56389,
+    33.58028,
+    35.56389,
+    33.58028
+],
+  "geometry": {"coordinates":[35.56389,33.58028],"type":"Point"}
+}

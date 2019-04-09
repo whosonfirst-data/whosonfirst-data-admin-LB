@@ -1,0 +1,74 @@
+{
+  "id": 1276897051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.67917,33.9125,35.67917,33.9125",
+    "geom:latitude":33.9125,
+    "geom:longitude":35.67917,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"En Naas",
+    "gn:country_code":"LB",
+    "gn:dem":1034,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":278831,
+    "gn:latitude":33.9125,
+    "gn:longitude":35.67917,
+    "gn:modification_date":"2018-04-06",
+    "gn:name":"En Naas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0646\u0639\u0635"
+    ],
+    "name:und_x_variant":[
+        "An Na\u2018\u015f",
+        "En Naas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        1108691425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":278831
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"9ca454743490ef5fdec28c4d88d6e81c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691425,
+            "locality_id":1276897051,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1276897051,
+    "wof:lastmodified":1537661219,
+    "wof:name":"En Naas",
+    "wof:parent_id":1108691425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.67917,
+    33.9125,
+    35.67917,
+    33.9125
+],
+  "geometry": {"coordinates":[35.67917,33.9125],"type":"Point"}
+}

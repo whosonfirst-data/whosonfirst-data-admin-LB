@@ -1,0 +1,71 @@
+{
+  "id": 1193266331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.03611,34.05472,36.03611,34.05472",
+    "geom:latitude":34.05472,
+    "geom:longitude":36.03611,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Mrah ej Jamal",
+    "gn:country_code":"LB",
+    "gn:dem":1185,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":271569,
+    "gn:latitude":34.05472,
+    "gn:longitude":36.03611,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mr\u00e2h ej Jamal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mar\u0101\u1e29 al Jamal",
+        "Mr\u00e2h ej Jamal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        1377074353,
+        421171405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":271569
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"74064293b27ecd79e26a7e4f3a0cb826",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421171405,
+            "locality_id":1193266331,
+            "region_id":1377074353
+        }
+    ],
+    "wof:id":1193266331,
+    "wof:lastmodified":1551727650,
+    "wof:name":"Mrah ej Jamal",
+    "wof:parent_id":421171405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.03611,
+    34.05472,
+    36.03611,
+    34.05472
+],
+  "geometry": {"coordinates":[36.03611,34.05472],"type":"Point"}
+}

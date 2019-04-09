@@ -1,0 +1,71 @@
+{
+  "id": 1293185317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.05111,34.39278,36.05111,34.39278",
+    "geom:latitude":34.39278,
+    "geom:longitude":36.05111,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Ain et Tine",
+    "gn:country_code":"LB",
+    "gn:dem":963,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":277528,
+    "gn:latitude":34.39278,
+    "gn:longitude":36.05111,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"A\u00efn et T\u00een\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u2018Ayn at T\u012bnah",
+        "A\u00efn et T\u00een\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673483,
+        1108691427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":277528
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"c3f1ad1573133200649ed6f2dba2246b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691427,
+            "locality_id":1293185317,
+            "region_id":85673483
+        }
+    ],
+    "wof:id":1293185317,
+    "wof:lastmodified":1537661188,
+    "wof:name":"Ain et Tine",
+    "wof:parent_id":1108691427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.05111,
+    34.39278,
+    36.05111,
+    34.39278
+],
+  "geometry": {"coordinates":[36.05111,34.39278],"type":"Point"}
+}

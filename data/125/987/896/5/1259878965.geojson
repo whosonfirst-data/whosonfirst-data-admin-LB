@@ -1,0 +1,81 @@
+{
+  "id": 1259878965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.70972,34.10417,35.70972,34.10417",
+    "geom:latitude":34.10417,
+    "geom:longitude":35.70972,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ernaya",
+    "gn:country_code":"LB",
+    "gn:dem":569,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":273678,
+    "gn:latitude":34.10417,
+    "gn:longitude":35.70972,
+    "gn:modification_date":"2014-03-08",
+    "gn:name":"Ernaya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0631\u0646\u064a\u0627"
+    ],
+    "name:ara_x_variant":[
+        "Qurn\u0101y\u0101",
+        "\u0642\u0631\u0646\u0627\u064a\u0627"
+    ],
+    "name:und_x_variant":[
+        "Bchell\u00e9",
+        "Bchelly",
+        "Irnay\u0101",
+        "Ernaya",
+        "Urnay\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        421194845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":273678
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"0d1ad89071d4884e47d1ce9a4759e904",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421194845,
+            "locality_id":1259878965,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1259878965,
+    "wof:lastmodified":1537661098,
+    "wof:name":"Ernaya",
+    "wof:parent_id":421194845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.70972000000001,
+    34.10417,
+    35.70972000000001,
+    34.10417
+],
+  "geometry": {"coordinates":[35.70972000000001,34.10417],"type":"Point"}
+}

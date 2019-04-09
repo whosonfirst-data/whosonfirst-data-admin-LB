@@ -1,0 +1,67 @@
+{
+  "id": 1344055945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.61444,33.77861,35.61444,33.77861",
+    "geom:latitude":33.77861,
+    "geom:longitude":35.61444,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Mazraat et Tahta",
+    "gn:country_code":"LB",
+    "gn:dem":1007,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6274075,
+    "gn:latitude":33.77861,
+    "gn:longitude":35.61444,
+    "gn:modification_date":"2006-08-23",
+    "gn:name":"Mazraat et Tahta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        1108691409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6274075
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"f1ce8a5d765a8bdaaaa9f4fb7aae3e92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691409,
+            "locality_id":1344055945,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1344055945,
+    "wof:lastmodified":1536881411,
+    "wof:name":"Mazraat et Tahta",
+    "wof:parent_id":1108691409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.61444,
+    33.77861,
+    35.61444,
+    33.77861
+],
+  "geometry": {"coordinates":[35.61444,33.77861],"type":"Point"}
+}

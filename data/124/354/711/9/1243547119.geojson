@@ -1,0 +1,79 @@
+{
+  "id": 1243547119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.34713,33.48327,35.34713,33.48327",
+    "geom:latitude":33.48327,
+    "geom:longitude":35.34713,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Talssa",
+    "gn:country_code":"LB",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":266872,
+    "gn:latitude":33.48327,
+    "gn:longitude":35.34713,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Talss\u00e2",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0632\u064a\u062a\u0648\u0646\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u0637\u0644\u0633\u0629"
+    ],
+    "name:und_x_variant":[
+        "\u0162als\u0101",
+        "Talss\u00e2",
+        "Zayt\u016bnah",
+        "\u0162alsah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673499,
+        890451987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":266872
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"161df1c425fbe5bd0c89a2de4a5f1006",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":890451987,
+            "locality_id":1243547119,
+            "region_id":85673499
+        }
+    ],
+    "wof:id":1243547119,
+    "wof:lastmodified":1537661005,
+    "wof:name":"Talssa",
+    "wof:parent_id":890451987,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.34713,
+    33.48327,
+    35.34713,
+    33.48327
+],
+  "geometry": {"coordinates":[35.34713,33.48327],"type":"Point"}
+}

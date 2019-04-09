@@ -1,0 +1,71 @@
+{
+  "id": 1310600375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.6925,34.07917,35.6925,34.07917",
+    "geom:latitude":34.07917,
+    "geom:longitude":35.6925,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Hai ej Joura",
+    "gn:country_code":"LB",
+    "gn:dem":365,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":274129,
+    "gn:latitude":34.07917,
+    "gn:longitude":35.6925,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ha\u00ef ej Jo\u00fbra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1e28ayy al J\u016brah",
+        "Ha\u00ef ej Jo\u00fbra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        421172015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":274129
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"24199761090f4ff0a7eeed7aa64456cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421172015,
+            "locality_id":1310600375,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1310600375,
+    "wof:lastmodified":1537661107,
+    "wof:name":"Hai ej Joura",
+    "wof:parent_id":421172015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.6925,
+    34.07917,
+    35.6925,
+    34.07917
+],
+  "geometry": {"coordinates":[35.6925,34.07917],"type":"Point"}
+}

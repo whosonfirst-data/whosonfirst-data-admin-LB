@@ -1,0 +1,72 @@
+{
+  "id": 1226331383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.03861,34.59778,36.03861,34.59778",
+    "geom:latitude":34.59778,
+    "geom:longitude":36.03861,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Tell Kiri",
+    "gn:country_code":"LB",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":266879,
+    "gn:latitude":34.59778,
+    "gn:longitude":36.03861,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tell Kiri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tall Kar\u012b",
+        "Tall Kirr\u012b",
+        "Tell Kiri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        1377074357,
+        1108691407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":266879
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"ba70069031ef1217ba4787150f1f9b5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691407,
+            "locality_id":1226331383,
+            "region_id":1377074357
+        }
+    ],
+    "wof:id":1226331383,
+    "wof:lastmodified":1551727673,
+    "wof:name":"Tell Kiri",
+    "wof:parent_id":1108691407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.03861,
+    34.59778,
+    36.03861,
+    34.59778
+],
+  "geometry": {"coordinates":[36.03861,34.59778],"type":"Point"}
+}

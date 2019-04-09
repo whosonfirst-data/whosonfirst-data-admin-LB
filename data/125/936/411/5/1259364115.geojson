@@ -1,0 +1,77 @@
+{
+  "id": 1259364115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.14944,33.93417,36.14944,33.93417",
+    "geom:latitude":33.93417,
+    "geom:longitude":36.14944,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Britel",
+    "gn:country_code":"LB",
+    "gn:dem":1157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":276380,
+    "gn:latitude":33.93417,
+    "gn:longitude":36.14944,
+    "gn:modification_date":"2018-04-02",
+    "gn:name":"Br\u00eetel",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Breetal",
+        "Bre\u00eetel",
+        "Brayt\u0101l",
+        "Brit\u00e8ne",
+        "Breitan",
+        "Br\u012bt\u0101l",
+        "Br\u00eetel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673479,
+        421171405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":276380,
+        "wk:page":"Brital"
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"403dc119dab412640b7ea4122f902e9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421171405,
+            "locality_id":1259364115,
+            "region_id":85673479
+        }
+    ],
+    "wof:id":1259364115,
+    "wof:lastmodified":1537661152,
+    "wof:name":"Britel",
+    "wof:parent_id":421171405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.14944000000001,
+    33.93417,
+    36.14944000000001,
+    33.93417
+],
+  "geometry": {"coordinates":[36.14944000000001,33.93417],"type":"Point"}
+}

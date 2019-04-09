@@ -1,0 +1,74 @@
+{
+  "id": 1209219431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.66472,33.90139,35.66472,33.90139",
+    "geom:latitude":33.90139,
+    "geom:longitude":35.66472,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Dahr es Saouane",
+    "gn:country_code":"LB",
+    "gn:dem":947,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":275886,
+    "gn:latitude":33.90139,
+    "gn:longitude":35.66472,
+    "gn:modification_date":"2018-04-06",
+    "gn:name":"Dahr es Saou\u00e2ne",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0636\u0647\u0631 \u0627\u0644\u0635\u0648\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Bhanness",
+        "Bhannays",
+        "Dahr es-Suwan",
+        "Bhann\u00e9s",
+        "Dar es Sooan",
+        "B\u1e29annis",
+        "\u1e10ahr a\u015f \u015eaww\u0101n",
+        "Dahr es Saou\u00e2ne"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":275886
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"943019b69a40b4cd8a9d645bd6762fb9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632533,
+            "locality_id":1209219431
+        }
+    ],
+    "wof:id":1209219431,
+    "wof:lastmodified":1537661139,
+    "wof:name":"Dahr es Saouane",
+    "wof:parent_id":85632533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.66472,
+    33.90139,
+    35.66472,
+    33.90139
+],
+  "geometry": {"coordinates":[35.66472,33.90139],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1226523467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.24194,34.40583,36.24194,34.40583",
+    "geom:latitude":34.40583,
+    "geom:longitude":36.24194,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Es Souaidiye",
+    "gn:country_code":"LB",
+    "gn:dem":1761,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":277944,
+    "gn:latitude":34.40583,
+    "gn:longitude":36.24194,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Es Soua\u00efd\u00eey\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "As Suwayd\u012byah",
+        "Es Soua\u00efd\u00eey\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        1377074353,
+        1108691421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":277944
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"b042a53c2094d9e5f0363734fe4e168d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691421,
+            "locality_id":1226523467,
+            "region_id":1377074353
+        }
+    ],
+    "wof:id":1226523467,
+    "wof:lastmodified":1551727656,
+    "wof:name":"Es Souaidiye",
+    "wof:parent_id":1108691421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.24194,
+    34.40583,
+    36.24194,
+    34.40583
+],
+  "geometry": {"coordinates":[36.24194,34.40583],"type":"Point"}
+}

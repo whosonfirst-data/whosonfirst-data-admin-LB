@@ -1,0 +1,75 @@
+{
+  "id": 1225941981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.85361,33.67361,35.85361,33.67361",
+    "geom:latitude":33.67361,
+    "geom:longitude":35.85361,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Tell ez Zaazeaa",
+    "gn:country_code":"LB",
+    "gn:dem":869,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":266890,
+    "gn:latitude":33.67361,
+    "gn:longitude":35.85361,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Tell ez Zaazeaa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0644 \u0627\u0644\u0632\u0639\u0627\u0632\u0639"
+    ],
+    "name:und_x_variant":[
+        "Aabd el Fatt\u00e2h",
+        "Tall az Za\u2018\u0101zi\u2018",
+        "Tell ez Zaazeaa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        1377074351,
+        421173359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":266890
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"d9adaa0844b0357aa463c15a5a6f1b71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421173359,
+            "locality_id":1225941981,
+            "region_id":1377074351
+        }
+    ],
+    "wof:id":1225941981,
+    "wof:lastmodified":1551727601,
+    "wof:name":"Tell ez Zaazeaa",
+    "wof:parent_id":421173359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.85361,
+    33.67361,
+    35.85361,
+    33.67361
+],
+  "geometry": {"coordinates":[35.85361,33.67361],"type":"Point"}
+}

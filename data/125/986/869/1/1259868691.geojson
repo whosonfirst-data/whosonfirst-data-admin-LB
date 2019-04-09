@@ -1,0 +1,67 @@
+{
+  "id": 1259868691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.02056,34.48472,36.02056,34.48472",
+    "geom:latitude":34.48472,
+    "geom:longitude":36.02056,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Qarqaf",
+    "gn:country_code":"LB",
+    "gn:dem":246,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":269289,
+    "gn:latitude":34.48472,
+    "gn:longitude":36.02056,
+    "gn:modification_date":"2006-07-27",
+    "gn:name":"Qarqaf",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673483,
+        1108691407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":269289
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"8c858ae68d3af8f9511cb976147a179d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691407,
+            "locality_id":1259868691,
+            "region_id":85673483
+        }
+    ],
+    "wof:id":1259868691,
+    "wof:lastmodified":1536800551,
+    "wof:name":"Qarqaf",
+    "wof:parent_id":1108691407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.02056,
+    34.48472,
+    36.02056,
+    34.48472
+],
+  "geometry": {"coordinates":[36.02056,34.48472],"type":"Point"}
+}

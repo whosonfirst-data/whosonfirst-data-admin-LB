@@ -1,0 +1,76 @@
+{
+  "id": 1243552071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.2425,33.31417,35.2425,33.31417",
+    "geom:latitude":33.31417,
+    "geom:longitude":35.2425,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"El Bourgheliye",
+    "gn:country_code":"LB",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":280246,
+    "gn:latitude":33.31417,
+    "gn:longitude":35.2425,
+    "gn:modification_date":"2013-08-06",
+    "gn:name":"El Bourgh\u00e9l\u00eey\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0628\u0631\u063a\u0644\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "El-Burghliyah",
+        "Bourghliy\u00e9",
+        "Al Burghul\u012byah",
+        "El Bourgh\u00e9l\u00eey\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673499,
+        1108691441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":280246
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"4d0b5b0cadae5644897d35c53011e156",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691441,
+            "locality_id":1243552071,
+            "region_id":85673499
+        }
+    ],
+    "wof:id":1243552071,
+    "wof:lastmodified":1537661277,
+    "wof:name":"El Bourgheliye",
+    "wof:parent_id":1108691441,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.2425,
+    33.31417,
+    35.2425,
+    33.31417
+],
+  "geometry": {"coordinates":[35.2425,33.31417],"type":"Point"}
+}

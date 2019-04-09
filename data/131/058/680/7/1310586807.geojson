@@ -1,0 +1,75 @@
+{
+  "id": 1310586807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.87694,33.60639,35.87694,33.60639",
+    "geom:latitude":33.60639,
+    "geom:longitude":35.87694,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Mdoukha",
+    "gn:country_code":"LB",
+    "gn:dem":1186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":270555,
+    "gn:latitude":33.60639,
+    "gn:longitude":35.87694,
+    "gn:modification_date":"2018-03-29",
+    "gn:name":"Mdo\u00fbkha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u062f\u0648\u062e\u0627"
+    ],
+    "name:und_x_variant":[
+        "Md\u016bkh\u0101",
+        "Mdo\u00fbkha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673479,
+        1108691439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":270555,
+        "wk:page":"Mdoukha"
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"7f8e0388b80f539d9936f1ae8c81597a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691439,
+            "locality_id":1310586807,
+            "region_id":85673479
+        }
+    ],
+    "wof:id":1310586807,
+    "wof:lastmodified":1537661042,
+    "wof:name":"Mdoukha",
+    "wof:parent_id":1108691439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.87694000000001,
+    33.60639,
+    35.87694000000001,
+    33.60639
+],
+  "geometry": {"coordinates":[35.87694000000001,33.60639],"type":"Point"}
+}

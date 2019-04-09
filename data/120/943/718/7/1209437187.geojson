@@ -1,0 +1,68 @@
+{
+  "id": 1209437187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.27405,33.35947,35.27405,33.35947",
+    "geom:latitude":33.35947,
+    "geom:longitude":35.27405,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Jamjim et Tahta",
+    "gn:country_code":"LB",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":273486,
+    "gn:latitude":33.35947,
+    "gn:longitude":35.27405,
+    "gn:modification_date":"2013-08-06",
+    "gn:name":"Jamj\u00eem et Tahta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u0645\u062c\u064a\u0645 \u0627\u0644\u062a\u062d\u062a\u0627"
+    ],
+    "name:und_x_variant":[
+        "Jamj\u012bm at Ta\u1e29t\u0101",
+        "Jamj\u00eem et Tahta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":273486
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"0be3159fd6614b93252e372ddaa9278e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632533,
+            "locality_id":1209437187
+        }
+    ],
+    "wof:id":1209437187,
+    "wof:lastmodified":1537661095,
+    "wof:name":"Jamjim et Tahta",
+    "wof:parent_id":85632533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.27405,
+    33.35947,
+    35.27405,
+    33.35947
+],
+  "geometry": {"coordinates":[35.27405,33.35947],"type":"Point"}
+}

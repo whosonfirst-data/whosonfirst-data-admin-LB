@@ -1,0 +1,71 @@
+{
+  "id": 1209603391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.34194,34.34833,36.34194,34.34833",
+    "geom:latitude":34.34833,
+    "geom:longitude":36.34194,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Mazraat Beit el Fqih",
+    "gn:country_code":"LB",
+    "gn:dem":998,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":270628,
+    "gn:latitude":34.34833,
+    "gn:longitude":36.34194,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mazraat Be\u00eft el Fq\u00eeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mazra\u2018at Bayt al Faq\u012bh",
+        "Mazraat Be\u00eft el Fq\u00eeh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        1377074353,
+        1108691421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":270628
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"190ede442411d1d7858b470dc05363b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691421,
+            "locality_id":1209603391,
+            "region_id":1377074353
+        }
+    ],
+    "wof:id":1209603391,
+    "wof:lastmodified":1551727650,
+    "wof:name":"Mazraat Beit el Fqih",
+    "wof:parent_id":1108691421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.34194,
+    34.34833,
+    36.34194,
+    34.34833
+],
+  "geometry": {"coordinates":[36.34194,34.34833],"type":"Point"}
+}

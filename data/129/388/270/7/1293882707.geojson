@@ -1,0 +1,80 @@
+{
+  "id": 1293882707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.60667,33.66333,35.60667,33.66333",
+    "geom:latitude":33.66333,
+    "geom:longitude":35.60667,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Jdaidet ech Chouf",
+    "gn:country_code":"LB",
+    "gn:dem":808,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":273176,
+    "gn:latitude":33.66333,
+    "gn:longitude":35.60667,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Jda\u00efdet ech Cho\u00fbf",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u062f\u064a\u062f\u0629 \u0627\u0644\u0634\u0648\u0641"
+    ],
+    "name:und_x_variant":[
+        "Al Judaydih",
+        "Ej Jda\u00efd\u00e9",
+        "Al Judaydah",
+        "El Jdeidah",
+        "Jda\u00efd\u00e9",
+        "Jde\u00efd\u00e9",
+        "Judaydat ash Sh\u016bf",
+        "Jda\u00efdet ech Cho\u00fbf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        1108691419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":273176
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"86c5664cbdf2e1426961ad5aa3db6611",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691419,
+            "locality_id":1293882707,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1293882707,
+    "wof:lastmodified":1537661090,
+    "wof:name":"Jdaidet ech Chouf",
+    "wof:parent_id":1108691419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.60667,
+    33.66333,
+    35.60667,
+    33.66333
+],
+  "geometry": {"coordinates":[35.60667,33.66333],"type":"Point"}
+}

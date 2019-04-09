@@ -1,0 +1,74 @@
+{
+  "id": 1327133355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.545,33.75389,35.545,33.75389",
+    "geom:latitude":33.75389,
+    "geom:longitude":35.545,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Qabrchmoun",
+    "gn:country_code":"LB",
+    "gn:dem":753,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":269681,
+    "gn:latitude":33.75389,
+    "gn:longitude":35.545,
+    "gn:modification_date":"2018-03-07",
+    "gn:name":"Qabrchmoun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0628\u0631 \u0634\u0645\u0648\u0646"
+    ],
+    "name:und_x_variant":[
+        "Qabr Shm\u016bn",
+        "Qabrchmoun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        1108691409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":269681
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"4c85e2432d9397bc694ae0d2f5432a10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691409,
+            "locality_id":1327133355,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1327133355,
+    "wof:lastmodified":1537661036,
+    "wof:name":"Qabrchmoun",
+    "wof:parent_id":1108691409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.545,
+    33.75389000000001,
+    35.545,
+    33.75389000000001
+],
+  "geometry": {"coordinates":[35.545,33.75389000000001],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1243544191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.76222,34.27417,35.76222,34.27417",
+    "geom:latitude":34.27417,
+    "geom:longitude":35.76222,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Btaaboura",
+    "gn:country_code":"LB",
+    "gn:dem":348,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":276336,
+    "gn:latitude":34.27417,
+    "gn:longitude":35.76222,
+    "gn:modification_date":"2014-03-08",
+    "gn:name":"Btaabo\u00fbra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u062a\u0639\u0628\u0648\u0631\u0627"
+    ],
+    "name:ara_x_variant":[
+        "\u0628\u062a\u0639\u0628\u0648\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "Bta\u2018b\u016br\u0101",
+        "Btaabo\u00fbrra",
+        "Btabo\u00fbra",
+        "Btaabo\u00fbra",
+        "Bata\u2018b\u016brah",
+        "Bata\u2018b\u016br\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        1377074355,
+        1108691423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":276336,
+        "wk:page":"Btaaboura"
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"a18b9e517477599fe5c3c0bc3618303b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691423,
+            "locality_id":1243544191,
+            "region_id":1377074355
+        }
+    ],
+    "wof:id":1243544191,
+    "wof:lastmodified":1551727624,
+    "wof:name":"Btaaboura",
+    "wof:parent_id":1108691423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.76222,
+    34.27417,
+    35.76222,
+    34.27417
+],
+  "geometry": {"coordinates":[35.76222,34.27417],"type":"Point"}
+}

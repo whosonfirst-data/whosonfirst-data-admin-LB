@@ -1,0 +1,73 @@
+{
+  "id": 1293678159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.05472,34.59639,36.05472,34.59639",
+    "geom:latitude":34.59639,
+    "geom:longitude":36.05472,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Hokr el Haissa",
+    "gn:country_code":"LB",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":273878,
+    "gn:latitude":34.59639,
+    "gn:longitude":36.05472,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Hokr el Ha\u00efssa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Aakk\u00e2r",
+        "Hikr el-Heesa",
+        "\u1e28ukr al \u1e28\u012b\u015fah",
+        "Hokr el Ha\u00efssa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673483,
+        1108691407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":273878
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"06398905a1d3ef8fa17ac9771f12548f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691407,
+            "locality_id":1293678159,
+            "region_id":85673483
+        }
+    ],
+    "wof:id":1293678159,
+    "wof:lastmodified":1537661102,
+    "wof:name":"Hokr el Haissa",
+    "wof:parent_id":1108691407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.05472,
+    34.59639,
+    36.05472,
+    34.59639
+],
+  "geometry": {"coordinates":[36.05472,34.59639],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1259782561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.72472,33.78056,35.72472,33.78056",
+    "geom:latitude":33.78056,
+    "geom:longitude":35.72472,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ain Dara",
+    "gn:country_code":"LB",
+    "gn:dem":1257,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":277476,
+    "gn:latitude":33.78056,
+    "gn:longitude":35.72472,
+    "gn:modification_date":"2018-03-07",
+    "gn:name":"A\u00efn D\u00e2ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u064a\u0646 \u062f\u0627\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "\u2018Ayn D\u0101rah",
+        "A\u00efn D\u00e2ra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        1108691409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":277476,
+        "wk:page":"Ain_Dara%2C_Lebanon"
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"ad7fc5412b7b0d42e30cb96c03094879",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691409,
+            "locality_id":1259782561,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1259782561,
+    "wof:lastmodified":1537661187,
+    "wof:name":"Ain Dara",
+    "wof:parent_id":1108691409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.72472,
+    33.78055999999999,
+    35.72472,
+    33.78055999999999
+],
+  "geometry": {"coordinates":[35.72472,33.78055999999999],"type":"Point"}
+}

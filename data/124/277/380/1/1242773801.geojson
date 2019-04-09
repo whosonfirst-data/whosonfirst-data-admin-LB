@@ -1,0 +1,73 @@
+{
+  "id": 1242773801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.82255,34.20593,35.82255,34.20593",
+    "geom:latitude":34.20593,
+    "geom:longitude":35.82255,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Mar Doumit",
+    "gn:country_code":"LB",
+    "gn:dem":1138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8717529,
+    "gn:latitude":34.20593,
+    "gn:longitude":35.82255,
+    "gn:modification_date":"2014-03-11",
+    "gn:name":"Mar Doumit",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0627\u0631 \u0636\u0648\u0645\u0637"
+    ],
+    "name:ara_x_variant":[
+        "M\u0101r \u1e10\u016bmit"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        1377074355,
+        421204111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8717529
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"c6aec6d281f08c75e3db4b28d9860142",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421204111,
+            "locality_id":1242773801,
+            "region_id":1377074355
+        }
+    ],
+    "wof:id":1242773801,
+    "wof:lastmodified":1551727617,
+    "wof:name":"Mar Doumit",
+    "wof:parent_id":421204111,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.82255,
+    34.20593,
+    35.82255,
+    34.20593
+],
+  "geometry": {"coordinates":[35.82255,34.20593],"type":"Point"}
+}

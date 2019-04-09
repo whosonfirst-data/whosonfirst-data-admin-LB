@@ -1,0 +1,71 @@
+{
+  "id": 1209593861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.28278,34.23222,36.28278,34.23222",
+    "geom:latitude":34.23222,
+    "geom:longitude":36.28278,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Mrah ech Choaab",
+    "gn:country_code":"LB",
+    "gn:dem":1056,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":271527,
+    "gn:latitude":34.23222,
+    "gn:longitude":36.28278,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mr\u00e2h ech Choaab",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mar\u0101\u1e29 ash Shi\u2018b",
+        "Mr\u00e2h ech Choaab"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        1377074353,
+        421171405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":271527
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"dc891970c5a06d903da2a022e016c43f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421171405,
+            "locality_id":1209593861,
+            "region_id":1377074353
+        }
+    ],
+    "wof:id":1209593861,
+    "wof:lastmodified":1551727652,
+    "wof:name":"Mrah ech Choaab",
+    "wof:parent_id":421171405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.28278,
+    34.23222,
+    36.28278,
+    34.23222
+],
+  "geometry": {"coordinates":[36.28278,34.23222],"type":"Point"}
+}

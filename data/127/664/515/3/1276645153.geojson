@@ -1,0 +1,67 @@
+{
+  "id": 1276645153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.44028,34.60111,36.44028,34.60111",
+    "geom:latitude":34.60111,
+    "geom:longitude":36.44028,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Knaisse",
+    "gn:country_code":"LB",
+    "gn:dem":536,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6278577,
+    "gn:latitude":34.60111,
+    "gn:longitude":36.44028,
+    "gn:modification_date":"2006-08-24",
+    "gn:name":"Kna\u00efss\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673483,
+        1108691407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6278577
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"3995a9ad844745ba4d724f302a9a1a34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691407,
+            "locality_id":1276645153,
+            "region_id":85673483
+        }
+    ],
+    "wof:id":1276645153,
+    "wof:lastmodified":1536856793,
+    "wof:name":"Knaisse",
+    "wof:parent_id":1108691407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.44028,
+    34.60111,
+    36.44028,
+    34.60111
+],
+  "geometry": {"coordinates":[36.44028,34.60111],"type":"Point"}
+}

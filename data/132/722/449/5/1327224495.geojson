@@ -1,0 +1,75 @@
+{
+  "id": 1327224495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.00833,33.57667,36.00833,33.57667",
+    "geom:latitude":33.57667,
+    "geom:longitude":36.00833,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Mazraat Deir el Aachayer",
+    "gn:country_code":"LB",
+    "gn:dem":1292,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":270615,
+    "gn:latitude":33.57667,
+    "gn:longitude":36.00833,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Mazraat De\u00efr el Aach\u00e2yer",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0632\u0631\u0639\u0629 \u062f\u064a\u0631 \u0627\u0644\u0639\u0634\u0627\u064a\u0631"
+    ],
+    "name:und_x_variant":[
+        "Mazra\u2018at Dayr al \u2018Ash\u0101\u2019ir",
+        "Mazraat De\u00efr el Aach\u00e2yer",
+        "Mazra\u2018at Dayr al \u2018Ash\u0101yir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673479,
+        1108691439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":270615
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"c68d485629625f7b5ee92f8c5844a57d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691439,
+            "locality_id":1327224495,
+            "region_id":85673479
+        }
+    ],
+    "wof:id":1327224495,
+    "wof:lastmodified":1537661046,
+    "wof:name":"Mazraat Deir el Aachayer",
+    "wof:parent_id":1108691439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.00833,
+    33.57667,
+    36.00833,
+    33.57667
+],
+  "geometry": {"coordinates":[36.00833,33.57667],"type":"Point"}
+}

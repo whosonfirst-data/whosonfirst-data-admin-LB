@@ -1,0 +1,75 @@
+{
+  "id": 1242663209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.7525,33.69278,35.7525,33.69278",
+    "geom:latitude":33.69278,
+    "geom:longitude":35.7525,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Aana",
+    "gn:country_code":"LB",
+    "gn:dem":982,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":278934,
+    "gn:latitude":33.69278,
+    "gn:longitude":35.7525,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"A\u00e2na",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0627\u0646\u0627"
+    ],
+    "name:und_x_variant":[
+        "\u2018\u0100n\u0101",
+        "A\u00e2na"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673479,
+        421173359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":278934,
+        "wk:page":"A%27ana"
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"b08b19dc21e8b0c0086ed12aed46aebe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421173359,
+            "locality_id":1242663209,
+            "region_id":85673479
+        }
+    ],
+    "wof:id":1242663209,
+    "wof:lastmodified":1537661223,
+    "wof:name":"Aana",
+    "wof:parent_id":421173359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.7525,
+    33.69278,
+    35.7525,
+    33.69278
+],
+  "geometry": {"coordinates":[35.7525,33.69278],"type":"Point"}
+}

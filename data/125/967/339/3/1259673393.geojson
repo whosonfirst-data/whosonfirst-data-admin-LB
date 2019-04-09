@@ -1,0 +1,71 @@
+{
+  "id": 1259673393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.73861,34.24444,35.73861,34.24444",
+    "geom:latitude":34.24444,
+    "geom:longitude":35.73861,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"El Ouataya",
+    "gn:country_code":"LB",
+    "gn:dem":269,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":278985,
+    "gn:latitude":34.24444,
+    "gn:longitude":35.73861,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El Ouat\u00e2y\u00e2",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Wa\u0163\u0101y\u0101",
+        "El Ouat\u00e2y\u00e2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673483,
+        421204111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":278985
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"231085fe798042f60dc18a53f6200591",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421204111,
+            "locality_id":1259673393,
+            "region_id":85673483
+        }
+    ],
+    "wof:id":1259673393,
+    "wof:lastmodified":1537661224,
+    "wof:name":"El Ouataya",
+    "wof:parent_id":421204111,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.73860999999999,
+    34.24444,
+    35.73860999999999,
+    34.24444
+],
+  "geometry": {"coordinates":[35.73860999999999,34.24444],"type":"Point"}
+}

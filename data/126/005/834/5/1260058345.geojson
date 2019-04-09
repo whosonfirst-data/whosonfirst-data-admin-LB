@@ -1,0 +1,73 @@
+{
+  "id": 1260058345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.12083,34.01111,36.12083,34.01111",
+    "geom:latitude":34.01111,
+    "geom:longitude":36.12083,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Haouch Barada",
+    "gn:country_code":"LB",
+    "gn:dem":1015,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":274193,
+    "gn:latitude":34.01111,
+    "gn:longitude":36.12083,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Haouch Barada",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1e28awsh Barad\u0101",
+        "Haush Barada",
+        "\u1e28awsh Bardah",
+        "Haouch Barada"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673479,
+        421171405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":274193
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"3875518b40521a35a54f05b1b4368fa3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421171405,
+            "locality_id":1260058345,
+            "region_id":85673479
+        }
+    ],
+    "wof:id":1260058345,
+    "wof:lastmodified":1537661110,
+    "wof:name":"Haouch Barada",
+    "wof:parent_id":421171405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.12083,
+    34.01111,
+    36.12083,
+    34.01111
+],
+  "geometry": {"coordinates":[36.12083,34.01111],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1293182057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.31139,34.3175,36.31139,34.3175",
+    "geom:latitude":34.3175,
+    "geom:longitude":36.31139,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Mrah Dahr ech Chir",
+    "gn:country_code":"LB",
+    "gn:dem":1297,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":271480,
+    "gn:latitude":34.3175,
+    "gn:longitude":36.31139,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mr\u00e2h Dahr ech Ch\u00eer",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mar\u0101\u1e29 \u1e10ahr ash Sh\u012br",
+        "Mr\u00e2h Dahr ech Ch\u00eer"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673479,
+        1108691421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":271480
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"8e370729d10006493cafd7aebd7661bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691421,
+            "locality_id":1293182057,
+            "region_id":85673479
+        }
+    ],
+    "wof:id":1293182057,
+    "wof:lastmodified":1537661062,
+    "wof:name":"Mrah Dahr ech Chir",
+    "wof:parent_id":1108691421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.31139,
+    34.3175,
+    36.31139,
+    34.3175
+],
+  "geometry": {"coordinates":[36.31139,34.3175],"type":"Point"}
+}

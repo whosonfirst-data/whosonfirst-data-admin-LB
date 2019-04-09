@@ -1,0 +1,72 @@
+{
+  "id": 1226142025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.47,33.66694,35.47,33.66694",
+    "geom:latitude":33.66694,
+    "geom:longitude":35.47,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Haliounet el Faouqa",
+    "gn:country_code":"LB",
+    "gn:dem":397,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":274702,
+    "gn:latitude":33.66694,
+    "gn:longitude":35.47,
+    "gn:modification_date":"2006-08-22",
+    "gn:name":"Halio\u00fbnet el Faouqa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Halni",
+        "Hallo\u00fbnet el Faouqa",
+        "Haly\u016bnat al Fawq\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        1108691419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":274702
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"f8f07e92617ec557fd457cbfe50eeb03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691419,
+            "locality_id":1226142025,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1226142025,
+    "wof:lastmodified":1537661120,
+    "wof:name":"Haliounet el Faouqa",
+    "wof:parent_id":1108691419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.47,
+    33.66694,
+    35.47,
+    33.66694
+],
+  "geometry": {"coordinates":[35.47,33.66694],"type":"Point"}
+}

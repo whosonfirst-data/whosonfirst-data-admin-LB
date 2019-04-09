@@ -1,0 +1,75 @@
+{
+  "id": 421194367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.478007,33.892847,35.478007,33.892847",
+    "geom:latitude":33.892847,
+    "geom:longitude":35.478007,
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"\u0642\u0631\u064a\u0637\u0645",
+    "qs:name_adm0":"\u0644\u0628\u0646\u0627\u0646",
+    "qs:name_adm1":"\u0628\u064a\u0631\u0648\u062a",
+    "qs:photos":16,
+    "qs:photos_1k":3,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":16,
+    "qs:photos_sr":1,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "qs:qs_id":992144,
+    "qs:woe_adm0":23424873,
+    "qs:woe_id":22724412,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        890442383,
+        85632533,
+        85673487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22724412,
+        "qs:id":992144
+    },
+    "wof:country":"LB",
+    "wof:created":1459009803,
+    "wof:geomhash":"0d0e4e9c831815893977863c4c9d6614",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "locality_id":890442383,
+            "neighbourhood_id":421194367,
+            "region_id":85673487
+        }
+    ],
+    "wof:id":421194367,
+    "wof:lastmodified":1551727709,
+    "wof:name":"\u0642\u0631\u064a\u0637\u0645",
+    "wof:parent_id":890442383,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.478007,
+    33.892847,
+    35.478007,
+    33.892847
+],
+  "geometry": {"coordinates":[35.478007,33.892847],"type":"Point"}
+}

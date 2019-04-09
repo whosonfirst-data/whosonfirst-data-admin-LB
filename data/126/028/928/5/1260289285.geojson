@@ -1,0 +1,81 @@
+{
+  "id": 1260289285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.72374,34.06561,35.72374,34.06561",
+    "geom:latitude":34.06561,
+    "geom:longitude":35.72374,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ech Chouaya",
+    "gn:country_code":"LB",
+    "gn:dem":750,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":278227,
+    "gn:latitude":34.06561,
+    "gn:longitude":35.72374,
+    "gn:modification_date":"2013-10-07",
+    "gn:name":"Ech Chou\u00e2ya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0634\u0648\u0627\u064a\u0627"
+    ],
+    "name:ara_x_variant":[
+        "\u0634\u0648\u0627\u064a\u0627"
+    ],
+    "name:und_x_variant":[
+        "Choueya",
+        "Chouaya",
+        "Choua\u00efya",
+        "Ash Shaw\u0101y\u0101",
+        "Ech Chou\u00e2ya",
+        "Shaw\u0101y\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        421172015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":278227
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"774dfccfb84ee7aef870fcc1f9b02f50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421172015,
+            "locality_id":1260289285,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1260289285,
+    "wof:lastmodified":1537661207,
+    "wof:name":"Ech Chouaya",
+    "wof:parent_id":421172015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.72374,
+    34.06561,
+    35.72374,
+    34.06561
+],
+  "geometry": {"coordinates":[35.72374,34.06561],"type":"Point"}
+}

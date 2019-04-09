@@ -1,0 +1,75 @@
+{
+  "id": 1310693119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.32861,33.13639,35.32861,33.13639",
+    "geom:latitude":33.13639,
+    "geom:longitude":35.32861,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"El Aazibe",
+    "gn:country_code":"LB",
+    "gn:dem":539,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":280410,
+    "gn:latitude":33.13639,
+    "gn:longitude":35.32861,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"El Aaz\u00eeb\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u063a\u0631\u0628\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al \u2018Az\u012bbah",
+        "El Aaz\u00eeb\u00e9",
+        "Al Gharb\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673495,
+        1108691417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":280410
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"d3fd806c74983443bd082afa7039c5dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691417,
+            "locality_id":1310693119,
+            "region_id":85673495
+        }
+    ],
+    "wof:id":1310693119,
+    "wof:lastmodified":1537661283,
+    "wof:name":"El Aazibe",
+    "wof:parent_id":1108691417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.32861,
+    33.13639000000001,
+    35.32861,
+    33.13639000000001
+],
+  "geometry": {"coordinates":[35.32861,33.13639000000001],"type":"Point"}
+}

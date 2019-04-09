@@ -1,0 +1,75 @@
+{
+  "id": 1326929781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.65306,33.81194,35.65306,33.81194",
+    "geom:latitude":33.81194,
+    "geom:longitude":35.65306,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Baalchmay ej Jdide",
+    "gn:country_code":"LB",
+    "gn:dem":1047,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":277053,
+    "gn:latitude":33.81194,
+    "gn:longitude":35.65306,
+    "gn:modification_date":"2018-03-07",
+    "gn:name":"Baalchmay ej Jd\u00eed\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0639\u0644\u0634\u0645\u064a\u0629 \u0627\u0644\u062c\u062f\u064a\u062f\u0629"
+    ],
+    "name:und_x_variant":[
+        "Ba\u2018lshmayh al Jad\u012bdah",
+        "Baalchmay ej Jd\u00eed\u00e9",
+        "Ba\u2018lshm\u012byat al Jad\u012bdah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        1108691409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":277053
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"b50cecc254f07ea8b56eaa5bd4c111bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691409,
+            "locality_id":1326929781,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1326929781,
+    "wof:lastmodified":1537661175,
+    "wof:name":"Baalchmay ej Jdide",
+    "wof:parent_id":1108691409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.65306,
+    33.81194,
+    35.65306,
+    33.81194
+],
+  "geometry": {"coordinates":[35.65306,33.81194],"type":"Point"}
+}

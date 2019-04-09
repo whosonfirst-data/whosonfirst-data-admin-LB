@@ -1,0 +1,138 @@
+{
+  "id": 85906931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":5917977.834254,
+    "geom:bbox":"35.477428,33.904613,35.477428,33.904613",
+    "geom:latitude":33.904613,
+    "geom:longitude":35.477428,
+    "gn:gn_country":"LB",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "gn:latitude":33.89905,
+    "gn:longitude":35.4747,
+    "iso:country":"LB",
+    "lbl:latitude":33.904613,
+    "lbl:longitude":35.477428,
+    "mps:latitude":33.909295,
+    "mps:longitude":35.474162,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":2,
+    "name:ara_x_preferred":[
+        "\u0631\u0623\u0633 \u0628\u064a\u0631\u0648\u062a",
+        "Ras Beirut"
+    ],
+    "name:unk_x_variant":[
+        "Ras Beyrouth",
+        "Ras Beirut"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u65af\u8d1d\u9c81\u7279"
+    ],
+    "qs:gn_adm0_cc":"LB",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":276781,
+    "qs:gn_namadm1":"04",
+    "qs:gn_name":"Ras Beyrouth",
+    "qs:local_max":1709,
+    "qs:local_sum":10240,
+    "qs:localhoods":30,
+    "qs:name":"Ras Beirut",
+    "qs:name_adm0":"\u0644\u0628\u0646\u0627\u0646",
+    "qs:name_adm1":"\u0628\u064a\u0631\u0648\u062a",
+    "qs:name_adm2":"\u0628\u064a\u0631\u0648\u062a",
+    "qs:name_lau":"\u0631\u0627\u0633 \u0628\u064a\u0631\u0648\u062a",
+    "qs:name_local":"\u0628\u064a\u0631\u0648\u062a",
+    "qs:photo_max":48,
+    "qs:photo_sum":355,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":13,
+    "qs:woe_adm0":23424873,
+    "qs:woe_adm1":2346016,
+    "qs:woe_adm2":56049614,
+    "qs:woe_lau":56411905,
+    "qs:woe_local":1960307,
+    "qs:woe_ver":"7.10.0",
+    "qs_pg:aaroncc":"LB",
+    "qs_pg:gn_country":"LB",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":6274904,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Ras Beirut",
+    "qs_pg:name_adm0":"\u0644\u0628\u0646\u0627\u0646",
+    "qs_pg:name_adm1":"\u0628\u064a\u0631\u0648\u062a",
+    "qs_pg:photos":227,
+    "qs_pg:photos_1k":46,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":4,
+    "qs_pg:photos_all":227,
+    "qs_pg:photos_sr":4,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":230054,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424873,
+    "qs_pg:woe_id":22724404,
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:wordcount":1874,
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6274904,
+        "gp:id":22724404,
+        "qs:id":230054,
+        "qs_pg:id":230054,
+        "wd:id":"Q7294643",
+        "wk:page":"Ras Beirut"
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"acbf95bf28a51daf01b553c011a24499",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":-1,
+            "neighbourhood_id":85906931,
+            "region_id":-1
+        }
+    ],
+    "wof:id":85906931,
+    "wof:lang":[
+        "ara"
+    ],
+    "wof:lastmodified":1534379375,
+    "wof:name":"Ras Beirut",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1126095635
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.477428,
+    33.904613,
+    35.477428,
+    33.904613
+],
+  "geometry": {"coordinates":[35.477428,33.904613],"type":"Point"}
+}

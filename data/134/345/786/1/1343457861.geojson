@@ -1,0 +1,71 @@
+{
+  "id": 1343457861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.80222,33.87556,35.80222,33.87556",
+    "geom:latitude":33.87556,
+    "geom:longitude":35.80222,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Jouret ed Darb",
+    "gn:country_code":"LB",
+    "gn:dem":1490,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":273127,
+    "gn:latitude":33.87556,
+    "gn:longitude":35.80222,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Jo\u00fbret ed Darb",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "J\u016brat ad Darb",
+        "Jo\u00fbret ed Darb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        421202301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":273127
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"f4a24a93f5cd5b2a3cdff2526319f06e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421202301,
+            "locality_id":1343457861,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1343457861,
+    "wof:lastmodified":1537661089,
+    "wof:name":"Jouret ed Darb",
+    "wof:parent_id":421202301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.80222,
+    33.87556,
+    35.80222,
+    33.87556
+],
+  "geometry": {"coordinates":[35.80222,33.87556],"type":"Point"}
+}

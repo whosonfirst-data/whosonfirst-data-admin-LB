@@ -1,0 +1,75 @@
+{
+  "id": 1260388221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.8175,34.07361,35.8175,34.07361",
+    "geom:latitude":34.07361,
+    "geom:longitude":35.8175,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Qorqraiya",
+    "gn:country_code":"LB",
+    "gn:dem":752,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":269075,
+    "gn:latitude":34.07361,
+    "gn:longitude":35.8175,
+    "gn:modification_date":"2013-10-07",
+    "gn:name":"Qorqra\u00efya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u0642\u0631\u064a\u0627"
+    ],
+    "name:und_x_variant":[
+        "Qirqrayy\u0101",
+        "Qorqra\u00efya",
+        "Qurqurayy\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        421194845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":269075
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"95e07c7805f9ddd70ec7dd97a0e2b2b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421194845,
+            "locality_id":1260388221,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1260388221,
+    "wof:lastmodified":1537661031,
+    "wof:name":"Qorqraiya",
+    "wof:parent_id":421194845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.8175,
+    34.07361,
+    35.8175,
+    34.07361
+],
+  "geometry": {"coordinates":[35.8175,34.07361],"type":"Point"}
+}

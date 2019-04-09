@@ -1,0 +1,76 @@
+{
+  "id": 1310005231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.71667,34.02472,35.71667,34.02472",
+    "geom:latitude":34.02472,
+    "geom:longitude":35.71667,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Hiyata",
+    "gn:country_code":"LB",
+    "gn:dem":827,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":274094,
+    "gn:latitude":34.02472,
+    "gn:longitude":35.71667,
+    "gn:modification_date":"2013-10-07",
+    "gn:name":"Hiy\u00e2ta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u064a\u0627\u0637\u0629"
+    ],
+    "name:und_x_variant":[
+        "Hayata",
+        "\u1e28iy\u0101\u0163ah",
+        "\u1e28ayy\u0101\u0163ah",
+        "Hiy\u00e2ta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        421172015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":274094
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"fb29bb8fc34309dc039dbe75ec69b100",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421172015,
+            "locality_id":1310005231,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1310005231,
+    "wof:lastmodified":1537661106,
+    "wof:name":"Hiyata",
+    "wof:parent_id":421172015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.71667,
+    34.02472,
+    35.71667,
+    34.02472
+],
+  "geometry": {"coordinates":[35.71667,34.02472],"type":"Point"}
+}

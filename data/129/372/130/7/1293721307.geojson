@@ -1,0 +1,75 @@
+{
+  "id": 1293721307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.55806,33.63639,35.55806,33.63639",
+    "geom:latitude":33.63639,
+    "geom:longitude":35.55806,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Gharife",
+    "gn:country_code":"LB",
+    "gn:dem":712,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":274983,
+    "gn:latitude":33.63639,
+    "gn:longitude":35.55806,
+    "gn:modification_date":"2018-03-29",
+    "gn:name":"Ghar\u00eef\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u063a\u0631\u064a\u0641\u0629"
+    ],
+    "name:und_x_variant":[
+        "Ghar\u012bfah",
+        "Ghar\u00eef\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        1108691419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":274983,
+        "wk:page":"Gharifeh"
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"c74facb0d87d2d437c12e878e43c9589",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691419,
+            "locality_id":1293721307,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1293721307,
+    "wof:lastmodified":1537661124,
+    "wof:name":"Gharife",
+    "wof:parent_id":1108691419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.55806,
+    33.63639000000001,
+    35.55806,
+    33.63639000000001
+],
+  "geometry": {"coordinates":[35.55806,33.63639000000001],"type":"Point"}
+}

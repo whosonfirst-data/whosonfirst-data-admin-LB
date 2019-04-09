@@ -1,0 +1,71 @@
+{
+  "id": 1209720281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.84083,34.06278,35.84083,34.06278",
+    "geom:latitude":34.06278,
+    "geom:longitude":35.84083,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Hqoul el Mehdi",
+    "gn:country_code":"LB",
+    "gn:dem":1335,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":273826,
+    "gn:latitude":34.06278,
+    "gn:longitude":35.84083,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Hqo\u00fbl el Mehdi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1e28uq\u016bl al Mahd\u012b",
+        "Hqo\u00fbl el Mehdi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        421194845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":273826
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"fd94df58dab80ccbc453bd04d5873329",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421194845,
+            "locality_id":1209720281,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1209720281,
+    "wof:lastmodified":1537661100,
+    "wof:name":"Hqoul el Mehdi",
+    "wof:parent_id":421194845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.84083,
+    34.06278,
+    35.84083,
+    34.06278
+],
+  "geometry": {"coordinates":[35.84083,34.06278],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1242878783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.55278,33.8475,35.55278,33.8475",
+    "geom:latitude":33.8475,
+    "geom:longitude":35.55278,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Fayadiye",
+    "gn:country_code":"LB",
+    "gn:dem":242,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":280205,
+    "gn:latitude":33.8475,
+    "gn:longitude":35.55278,
+    "gn:modification_date":"2018-03-07",
+    "gn:name":"Fayadiy\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0641\u064a\u0627\u0636\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Fiyadiye",
+        "Fayy\u0101\u1e11\u012byah",
+        "Frayadiy\u00e9",
+        "Fa\u00efy\u00e2d\u00eey\u00e9",
+        "Al Fayy\u0101\u1e11\u012byah",
+        "Fayadiy\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        421202301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":280205
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"c9de547d89aa0f4ea4281bb35afc67f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421202301,
+            "locality_id":1242878783,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1242878783,
+    "wof:lastmodified":1537661274,
+    "wof:name":"Fayadiye",
+    "wof:parent_id":421202301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.55278,
+    33.8475,
+    35.55278,
+    33.8475
+],
+  "geometry": {"coordinates":[35.55278,33.8475],"type":"Point"}
+}

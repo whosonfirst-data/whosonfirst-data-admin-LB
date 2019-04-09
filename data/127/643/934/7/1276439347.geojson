@@ -1,0 +1,77 @@
+{
+  "id": 1276439347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.43028,33.49972,35.43028,33.49972",
+    "geom:latitude":33.49972,
+    "geom:longitude":35.43028,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Aanqoun",
+    "gn:country_code":"LB",
+    "gn:dem":376,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":278799,
+    "gn:latitude":33.49972,
+    "gn:longitude":35.43028,
+    "gn:modification_date":"2018-03-28",
+    "gn:name":"Aanqo\u00fbn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0646\u0642\u0648\u0646"
+    ],
+    "name:und_x_variant":[
+        "\u2018Ank\u016bn",
+        "\u2018Anq\u016bn",
+        "Ain Qoun",
+        "Aanqo\u00fbn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673499,
+        890451987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":278799,
+        "wk:page":"Anqoun"
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"eaf62bff6f6561b74230205d4f2f0aab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":890451987,
+            "locality_id":1276439347,
+            "region_id":85673499
+        }
+    ],
+    "wof:id":1276439347,
+    "wof:lastmodified":1537661217,
+    "wof:name":"Aanqoun",
+    "wof:parent_id":890451987,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.43028,
+    33.49972,
+    35.43028,
+    33.49972
+],
+  "geometry": {"coordinates":[35.43028,33.49972],"type":"Point"}
+}

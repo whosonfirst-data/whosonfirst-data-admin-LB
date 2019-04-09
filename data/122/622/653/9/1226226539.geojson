@@ -1,0 +1,81 @@
+{
+  "id": 1226226539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.94028,34.24111,35.94028,34.24111",
+    "geom:latitude":34.24111,
+    "geom:longitude":35.94028,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Brissat",
+    "gn:country_code":"LB",
+    "gn:dem":1403,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":276386,
+    "gn:latitude":34.24111,
+    "gn:longitude":35.94028,
+    "gn:modification_date":"2014-03-08",
+    "gn:name":"Br\u00eess\u00e2t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0631\u064a\u0633\u0627\u062a"
+    ],
+    "name:ara_x_variant":[
+        "\u0628\u064a\u062a \u0631\u0639\u062f"
+    ],
+    "name:und_x_variant":[
+        "El Fr\u00eete",
+        "El Frit",
+        "Brays\u0101t",
+        "Br\u00eess\u00e2t",
+        "Burays\u0101t",
+        "Bayt Ra\u2018d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        1377074355,
+        1108691411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":276386
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"6fbfa5930d33092bb91c928ee4bb390a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691411,
+            "locality_id":1226226539,
+            "region_id":1377074355
+        }
+    ],
+    "wof:id":1226226539,
+    "wof:lastmodified":1551727627,
+    "wof:name":"Brissat",
+    "wof:parent_id":1108691411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.94028,
+    34.24111,
+    35.94028,
+    34.24111
+],
+  "geometry": {"coordinates":[35.94028,34.24111],"type":"Point"}
+}

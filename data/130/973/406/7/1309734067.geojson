@@ -1,0 +1,76 @@
+{
+  "id": 1309734067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.40733,33.54555,35.40733,33.54555",
+    "geom:latitude":33.54555,
+    "geom:longitude":35.40733,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Ain el Faouar",
+    "gn:country_code":"LB",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":275242,
+    "gn:latitude":33.54555,
+    "gn:longitude":35.40733,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"A\u00efn el Faou\u00e2r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u064a\u0646 \u0627\u0644\u0641\u0648\u0627\u0631"
+    ],
+    "name:und_x_variant":[
+        "A\u00efn el Faoua",
+        "A\u00efn el Faouare",
+        "\u2018Ayn al Faww\u0101r",
+        "A\u00efn el Faou\u00e2r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673499,
+        890451987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":275242
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"6444074ad7656b16c1427790533f2417",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":890451987,
+            "locality_id":1309734067,
+            "region_id":85673499
+        }
+    ],
+    "wof:id":1309734067,
+    "wof:lastmodified":1537661127,
+    "wof:name":"Ain el Faouar",
+    "wof:parent_id":890451987,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.40733,
+    33.54555,
+    35.40733,
+    33.54555
+],
+  "geometry": {"coordinates":[35.40733,33.54555],"type":"Point"}
+}

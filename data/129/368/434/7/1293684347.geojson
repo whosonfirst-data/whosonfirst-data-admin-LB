@@ -1,0 +1,79 @@
+{
+  "id": 1293684347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.49442,33.50515,35.49442,33.50515",
+    "geom:latitude":33.50515,
+    "geom:longitude":35.49442,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Sfenta",
+    "gn:country_code":"LB",
+    "gn:dem":483,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":267945,
+    "gn:latitude":33.50515,
+    "gn:longitude":35.49442,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Sfenta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u0641\u0646\u062a\u0649"
+    ],
+    "name:ara_x_variant":[
+        "\u0633\u0641\u0646\u062a\u0627"
+    ],
+    "name:und_x_variant":[
+        "Sfint\u0101",
+        "Sfenta",
+        "Safant\u00e1",
+        "Safint\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673499,
+        890451987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":267945
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"6b966c58c1840c8ea8220bf92946e962",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":890451987,
+            "locality_id":1293684347,
+            "region_id":85673499
+        }
+    ],
+    "wof:id":1293684347,
+    "wof:lastmodified":1537661018,
+    "wof:name":"Sfenta",
+    "wof:parent_id":890451987,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.49442,
+    33.50515,
+    35.49442,
+    33.50515
+],
+  "geometry": {"coordinates":[35.49442,33.50515],"type":"Point"}
+}

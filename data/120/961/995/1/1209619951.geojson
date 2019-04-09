@@ -1,0 +1,69 @@
+{
+  "id": 1209619951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.52639,33.58194,35.52639,33.58194",
+    "geom:latitude":33.58194,
+    "geom:longitude":35.52639,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"El Kherbe",
+    "gn:country_code":"LB",
+    "gn:dem":423,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":279733,
+    "gn:latitude":33.58194,
+    "gn:longitude":35.52639,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"El Kherb\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062e\u0631\u0628\u0629"
+    ],
+    "name:und_x_variant":[
+        "Khirbat Bisr\u012b",
+        "Al Khirbah",
+        "El Kherb\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":279733
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"9328e93e27b4c41e4031f1a35f0302d8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632533,
+            "locality_id":1209619951
+        }
+    ],
+    "wof:id":1209619951,
+    "wof:lastmodified":1537661256,
+    "wof:name":"El Kherbe",
+    "wof:parent_id":85632533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.52639,
+    33.58194,
+    35.52639,
+    33.58194
+],
+  "geometry": {"coordinates":[35.52639,33.58194],"type":"Point"}
+}

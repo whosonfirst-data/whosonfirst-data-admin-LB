@@ -1,0 +1,71 @@
+{
+  "id": 1327128109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.03694,34.51944,36.03694,34.51944",
+    "geom:latitude":34.51944,
+    "geom:longitude":36.03694,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Deir Dalloum",
+    "gn:country_code":"LB",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":275639,
+    "gn:latitude":34.51944,
+    "gn:longitude":36.03694,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"De\u00efr Dallo\u00fbm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dayr Dall\u016bm",
+        "De\u00efr Dallo\u00fbm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673483,
+        1108691407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":275639
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"a8679d23e44841b77ec837bae0a5c58d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691407,
+            "locality_id":1327128109,
+            "region_id":85673483
+        }
+    ],
+    "wof:id":1327128109,
+    "wof:lastmodified":1537661134,
+    "wof:name":"Deir Dalloum",
+    "wof:parent_id":1108691407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.03694,
+    34.51944,
+    36.03694,
+    34.51944
+],
+  "geometry": {"coordinates":[36.03694,34.51944],"type":"Point"}
+}

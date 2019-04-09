@@ -1,0 +1,74 @@
+{
+  "id": 1310623087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.28731,33.32163,35.28731,33.32163",
+    "geom:latitude":33.32163,
+    "geom:longitude":35.28731,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Jazire",
+    "gn:country_code":"LB",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8595512,
+    "gn:latitude":33.32163,
+    "gn:longitude":35.28731,
+    "gn:modification_date":"2013-08-10",
+    "gn:name":"Jazir\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u0632\u064a\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "Jazir\u00e9",
+        "Jaz\u012brah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673499,
+        1108691441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8595512
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"0615da9c006f8f6fe70b5855b5a0dcc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691441,
+            "locality_id":1310623087,
+            "region_id":85673499
+        }
+    ],
+    "wof:id":1310623087,
+    "wof:lastmodified":1537661322,
+    "wof:name":"Jazire",
+    "wof:parent_id":1108691441,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.28731,
+    33.32163,
+    35.28731,
+    33.32163
+],
+  "geometry": {"coordinates":[35.28731,33.32163],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1310600301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.72002,34.01095,35.72002,34.01095",
+    "geom:latitude":34.01095,
+    "geom:longitude":35.72002,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Raachine",
+    "gn:country_code":"LB",
+    "gn:dem":1284,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":268733,
+    "gn:latitude":34.01095,
+    "gn:longitude":35.72002,
+    "gn:modification_date":"2013-10-07",
+    "gn:name":"Raach\u00eene",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0631\u0639\u0634\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "Ra\u2018sh\u012bn",
+        "Raach\u00eene"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        421172015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":268733
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"59439c5766fb5f56c5505520be0d33a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421172015,
+            "locality_id":1310600301,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1310600301,
+    "wof:lastmodified":1537661026,
+    "wof:name":"Raachine",
+    "wof:parent_id":421172015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.72002,
+    34.01095,
+    35.72002,
+    34.01095
+],
+  "geometry": {"coordinates":[35.72002,34.01095],"type":"Point"}
+}

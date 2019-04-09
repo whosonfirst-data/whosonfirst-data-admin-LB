@@ -1,0 +1,73 @@
+{
+  "id": 1209809245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.02611,34.53083,36.02611,34.53083",
+    "geom:latitude":34.53083,
+    "geom:longitude":36.02611,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Er Ransiye",
+    "gn:country_code":"LB",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":278502,
+    "gn:latitude":34.53083,
+    "gn:longitude":36.02611,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Er R\u00e2ns\u00eey\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Er Rannsiy\u00e9",
+        "Er-Ransiyah",
+        "Ar Rans\u012byah",
+        "Er R\u00e2ns\u00eey\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        1377074357,
+        1108691407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":278502
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"c39d5a900b7fdf89ce3c0fdf728730f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691407,
+            "locality_id":1209809245,
+            "region_id":1377074357
+        }
+    ],
+    "wof:id":1209809245,
+    "wof:lastmodified":1551727672,
+    "wof:name":"Er Ransiye",
+    "wof:parent_id":1108691407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.02611,
+    34.53083,
+    36.02611,
+    34.53083
+],
+  "geometry": {"coordinates":[36.02611,34.53083],"type":"Point"}
+}

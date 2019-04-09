@@ -1,0 +1,81 @@
+{
+  "id": 1259767707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.89453,34.38393,35.89453,34.38393",
+    "geom:latitude":34.38393,
+    "geom:longitude":35.89453,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Qarah Bach",
+    "gn:country_code":"LB",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":269318,
+    "gn:latitude":34.38393,
+    "gn:longitude":35.89453,
+    "gn:modification_date":"2018-03-28",
+    "gn:name":"Qarah B\u00e2ch",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u0647 \u0628\u0627\u0634"
+    ],
+    "name:ara_x_variant":[
+        "\u0643\u0631\u0647 \u0628\u0627\u0634"
+    ],
+    "name:und_x_variant":[
+        "Qarah B\u0101sh",
+        "Qarah B\u00e2ch",
+        "Karah B\u0101sh",
+        "Karahbache",
+        "Qarah Bach,"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673483,
+        1108691445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":269318,
+        "wk:page":"Karahbache"
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"5b5a402163233af1086a7dd140e58244",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691445,
+            "locality_id":1259767707,
+            "region_id":85673483
+        }
+    ],
+    "wof:id":1259767707,
+    "wof:lastmodified":1537661033,
+    "wof:name":"Qarah Bach",
+    "wof:parent_id":1108691445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.89453,
+    34.38393,
+    35.89453,
+    34.38393
+],
+  "geometry": {"coordinates":[35.89453,34.38393],"type":"Point"}
+}

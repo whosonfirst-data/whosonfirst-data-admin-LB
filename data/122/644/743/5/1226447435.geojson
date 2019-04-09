@@ -1,0 +1,74 @@
+{
+  "id": 1226447435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.75278,34.1175,35.75278,34.1175",
+    "geom:latitude":34.1175,
+    "geom:longitude":35.75278,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Aannaya",
+    "gn:country_code":"LB",
+    "gn:dem":1172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":273688,
+    "gn:latitude":34.1175,
+    "gn:longitude":35.75278,
+    "gn:modification_date":"2014-03-08",
+    "gn:name":"Aann\u00e2ya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0646\u0627\u064a\u0627"
+    ],
+    "name:und_x_variant":[
+        "\u2018Inn\u0101y\u0101",
+        "Aann\u00e2ya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        421194845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":273688
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"edd63b96a32d55301446a9a5cc01682c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421194845,
+            "locality_id":1226447435,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1226447435,
+    "wof:lastmodified":1537661098,
+    "wof:name":"Aannaya",
+    "wof:parent_id":421194845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.75278,
+    34.1175,
+    35.75278,
+    34.1175
+],
+  "geometry": {"coordinates":[35.75278,34.1175],"type":"Point"}
+}

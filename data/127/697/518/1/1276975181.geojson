@@ -1,0 +1,72 @@
+{
+  "id": 1276975181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.17056,34.47222,36.17056,34.47222",
+    "geom:latitude":34.47222,
+    "geom:longitude":36.17056,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Michmich",
+    "gn:country_code":"LB",
+    "gn:dem":1062,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":270399,
+    "gn:latitude":34.47222,
+    "gn:longitude":36.17056,
+    "gn:modification_date":"2018-04-02",
+    "gn:name":"Michmich",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mishmish",
+        "Michmich"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673483,
+        1108691407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":270399,
+        "wk:page":"Mish_Mish,_Akkar_District"
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"d84d5ec9135255c39ec42227defb455d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691407,
+            "locality_id":1276975181,
+            "region_id":85673483
+        }
+    ],
+    "wof:id":1276975181,
+    "wof:lastmodified":1537661040,
+    "wof:name":"Michmich",
+    "wof:parent_id":1108691407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.17056,
+    34.47222,
+    36.17056,
+    34.47222
+],
+  "geometry": {"coordinates":[36.17056,34.47222],"type":"Point"}
+}

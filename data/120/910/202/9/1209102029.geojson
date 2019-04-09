@@ -1,0 +1,82 @@
+{
+  "id": 1209102029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.765,34.25194,35.765,34.25194",
+    "geom:latitude":34.25194,
+    "geom:longitude":35.765,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Boqsmaiya",
+    "gn:country_code":"LB",
+    "gn:dem":441,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":276586,
+    "gn:latitude":34.25194,
+    "gn:longitude":35.765,
+    "gn:modification_date":"2014-03-08",
+    "gn:name":"Boqsma\u00efya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0642\u0633\u0645\u064a\u0627"
+    ],
+    "name:und_x_variant":[
+        "Baqsim\u012byah",
+        "Baqi\u015fm\u0101y\u0101",
+        "Boksmaya",
+        "Boqsmaiya",
+        "Boqsm\u00e2ya",
+        "Buqism\u0101y\u0101",
+        "Buqsm\u0101y\u0101",
+        "Biqsmayy\u0101",
+        "Boqsma\u00efya",
+        "Buqismayy\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        1377074355,
+        421204111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":276586
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"c29f1eb59927e368cdf57fdd53421c66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421204111,
+            "locality_id":1209102029,
+            "region_id":1377074355
+        }
+    ],
+    "wof:id":1209102029,
+    "wof:lastmodified":1551727615,
+    "wof:name":"Boqsmaiya",
+    "wof:parent_id":421204111,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.765,
+    34.25194,
+    35.765,
+    34.25194
+],
+  "geometry": {"coordinates":[35.765,34.25194],"type":"Point"}
+}

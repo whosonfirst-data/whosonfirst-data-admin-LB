@@ -1,0 +1,74 @@
+{
+  "id": 1293474237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.72528,34.19972,35.72528,34.19972",
+    "geom:latitude":34.19972,
+    "geom:longitude":35.72528,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Toula",
+    "gn:country_code":"LB",
+    "gn:dem":643,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":266643,
+    "gn:latitude":34.19972,
+    "gn:longitude":35.72528,
+    "gn:modification_date":"2014-03-08",
+    "gn:name":"Toul\u00e2",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0648\u0644\u0627"
+    ],
+    "name:und_x_variant":[
+        "T\u016bl\u0101",
+        "Toul\u00e2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673483,
+        421204111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":266643
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"77cacfdb7b616f2b1c05c83484aee6dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421204111,
+            "locality_id":1293474237,
+            "region_id":85673483
+        }
+    ],
+    "wof:id":1293474237,
+    "wof:lastmodified":1537661002,
+    "wof:name":"Toula",
+    "wof:parent_id":421204111,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.72528,
+    34.19972,
+    35.72528,
+    34.19972
+],
+  "geometry": {"coordinates":[35.72528,34.19972],"type":"Point"}
+}

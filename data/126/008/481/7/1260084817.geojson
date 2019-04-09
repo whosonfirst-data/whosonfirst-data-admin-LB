@@ -1,0 +1,77 @@
+{
+  "id": 1260084817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.64611,33.77028,35.64611,33.77028",
+    "geom:latitude":33.77028,
+    "geom:longitude":35.64611,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ain el Halazoun",
+    "gn:country_code":"LB",
+    "gn:dem":824,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":277668,
+    "gn:latitude":33.77028,
+    "gn:longitude":35.64611,
+    "gn:modification_date":"2018-03-07",
+    "gn:name":"A\u00efn el Halazo\u00fbn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u064a\u0646 \u0627\u0644\u062d\u0644\u0632\u0648\u0646"
+    ],
+    "name:und_x_variant":[
+        "A\u00efn Halzoun",
+        "A\u00efn el Halzoun",
+        "A\u00efn el Haizo\u00fbn",
+        "\u2018Ayn al \u1e28alaz\u016bn",
+        "A\u00efn el Halazo\u00fbn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        1108691409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":277668
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"a7a3abb69ffe835875ccabf30160a7b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691409,
+            "locality_id":1260084817,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1260084817,
+    "wof:lastmodified":1537661192,
+    "wof:name":"Ain el Halazoun",
+    "wof:parent_id":1108691409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.64611,
+    33.77028,
+    35.64611,
+    33.77028
+],
+  "geometry": {"coordinates":[35.64611,33.77028],"type":"Point"}
+}

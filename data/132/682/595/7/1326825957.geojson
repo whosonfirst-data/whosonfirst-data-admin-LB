@@ -1,0 +1,74 @@
+{
+  "id": 1326825957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.00472,34.23694,36.00472,34.23694",
+    "geom:latitude":34.23694,
+    "geom:longitude":36.00472,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Bqaa Kafra",
+    "gn:country_code":"LB",
+    "gn:dem":1561,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":276588,
+    "gn:latitude":34.23694,
+    "gn:longitude":36.00472,
+    "gn:modification_date":"2018-03-28",
+    "gn:name":"Bq\u00e2a Kafra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bq\u0101\u2018 Kafr\u0101",
+        "Bka Kafra",
+        "Biq\u0101\u2018 Kafr\u0101",
+        "Bq\u00e2a Kafra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673483,
+        1108691411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":276588,
+        "wk:page":"Bekaa_Kafra"
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"531d89efb856558d9490fa9554f6ba07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691411,
+            "locality_id":1326825957,
+            "region_id":85673483
+        }
+    ],
+    "wof:id":1326825957,
+    "wof:lastmodified":1537661160,
+    "wof:name":"Bqaa Kafra",
+    "wof:parent_id":1108691411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.00472,
+    34.23694,
+    36.00472,
+    34.23694
+],
+  "geometry": {"coordinates":[36.00472,34.23694],"type":"Point"}
+}

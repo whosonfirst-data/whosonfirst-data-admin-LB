@@ -1,0 +1,76 @@
+{
+  "id": 1225867069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.55306,33.53167,35.55306,33.53167",
+    "geom:latitude":33.53167,
+    "geom:longitude":35.55306,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Mrah Abou Chdid",
+    "gn:country_code":"LB",
+    "gn:dem":888,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":271620,
+    "gn:latitude":33.53167,
+    "gn:longitude":35.55306,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Mr\u00e2h Abou Chd\u00eed",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0631\u0627\u062d \u0623\u0628\u0648 \u0634\u062f\u064a\u062f"
+    ],
+    "name:und_x_variant":[
+        "Hamra Abou Jedid",
+        "Mar\u0101\u1e29 Ab\u016b Shad\u012bd",
+        "Hamra Abou Jd\u00eed",
+        "Mr\u00e2h Abou Chd\u00eed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673499,
+        1108691435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":271620
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"22ecf614239e58ea83d8a4bdae06f11e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691435,
+            "locality_id":1225867069,
+            "region_id":85673499
+        }
+    ],
+    "wof:id":1225867069,
+    "wof:lastmodified":1537661067,
+    "wof:name":"Mrah Abou Chdid",
+    "wof:parent_id":1108691435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.55305999999999,
+    33.53167,
+    35.55305999999999,
+    33.53167
+],
+  "geometry": {"coordinates":[35.55305999999999,33.53167],"type":"Point"}
+}

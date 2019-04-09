@@ -1,0 +1,74 @@
+{
+  "id": 1343392915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.755,34.01611,35.755,34.01611",
+    "geom:latitude":34.01611,
+    "geom:longitude":35.755,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Mihqane el Mazloum",
+    "gn:country_code":"LB",
+    "gn:dem":1409,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":270518,
+    "gn:latitude":34.01611,
+    "gn:longitude":35.755,
+    "gn:modification_date":"2013-10-07",
+    "gn:name":"Mihq\u00e2ne el Mazlo\u00fbm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u062d\u0642\u0627\u0646 \u0627\u0644\u0645\u0638\u0644\u0648\u0645"
+    ],
+    "name:und_x_variant":[
+        "Mi\u1e29q\u0101n al Maz\u0327l\u016bm",
+        "Mihq\u00e2ne el Mazlo\u00fbm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        421172015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":270518
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"915f71f0d1e8129e8b4422ca0df88a9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421172015,
+            "locality_id":1343392915,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1343392915,
+    "wof:lastmodified":1537661041,
+    "wof:name":"Mihqane el Mazloum",
+    "wof:parent_id":421172015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.755,
+    34.01611,
+    35.755,
+    34.01611
+],
+  "geometry": {"coordinates":[35.755,34.01611],"type":"Point"}
+}

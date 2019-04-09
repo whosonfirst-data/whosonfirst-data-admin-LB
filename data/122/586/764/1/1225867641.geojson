@@ -1,0 +1,74 @@
+{
+  "id": 1225867641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.5225,33.86778,35.5225,33.86778",
+    "geom:latitude":33.86778,
+    "geom:longitude":35.5225,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ain er Roummane",
+    "gn:country_code":"LB",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6274956,
+    "gn:latitude":33.86778,
+    "gn:longitude":35.5225,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"A\u00efn er Roumman\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u064a\u0646 \u0627\u0644\u0631\u0645\u0627\u0646\u0629"
+    ],
+    "name:und_x_variant":[
+        "A\u00efn er Roumman\u00e9",
+        "\u2018Ayn ar Rumm\u0101nah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        421202301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6274956
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"ebc947fb63425dc2c40dce56a37690d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421202301,
+            "locality_id":1225867641,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1225867641,
+    "wof:lastmodified":1537661312,
+    "wof:name":"Ain er Roummane",
+    "wof:parent_id":421202301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.5225,
+    33.86778,
+    35.5225,
+    33.86778
+],
+  "geometry": {"coordinates":[35.5225,33.86778],"type":"Point"}
+}

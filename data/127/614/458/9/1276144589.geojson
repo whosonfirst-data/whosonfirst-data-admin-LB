@@ -1,0 +1,76 @@
+{
+  "id": 1276144589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.27083,33.36611,35.27083,33.36611",
+    "geom:latitude":33.36611,
+    "geom:longitude":35.27083,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Mazraat Kfar Badda",
+    "gn:country_code":"LB",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":270599,
+    "gn:latitude":33.36611,
+    "gn:longitude":35.27083,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Mazraat Kfar Badda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0632\u0631\u0639\u0629 \u0643\u0641\u0631 \u0628\u062f\u0651\u0627"
+    ],
+    "name:und_x_variant":[
+        "Mazra\u2018at Kafr Baddah",
+        "Mazraat Kfar Badda",
+        "Mazra\u2018at Kafr Badd\u0101",
+        "Mazra\u2018at Kfar Badd\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673499,
+        890451987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":270599
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"6fa616ab5d4d9d3d88910af657e2cbf0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":890451987,
+            "locality_id":1276144589,
+            "region_id":85673499
+        }
+    ],
+    "wof:id":1276144589,
+    "wof:lastmodified":1537661045,
+    "wof:name":"Mazraat Kfar Badda",
+    "wof:parent_id":890451987,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.27083,
+    33.36611,
+    35.27083,
+    33.36611
+],
+  "geometry": {"coordinates":[35.27083,33.36611],"type":"Point"}
+}

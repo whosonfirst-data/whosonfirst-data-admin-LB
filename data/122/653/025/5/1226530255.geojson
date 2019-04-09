@@ -1,0 +1,71 @@
+{
+  "id": 1226530255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.04806,34.08361,36.04806,34.08361",
+    "geom:latitude":34.08361,
+    "geom:longitude":36.04806,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Tout Remmane",
+    "gn:country_code":"LB",
+    "gn:dem":1320,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":266576,
+    "gn:latitude":34.08361,
+    "gn:longitude":36.04806,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"To\u00fbt Remm\u00e2ne",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "T\u016bt Rumm\u0101n",
+        "To\u00fbt Remm\u00e2ne"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        1377074353,
+        421171405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":266576
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"16bc77d077f692351371ed65ffc7dfb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421171405,
+            "locality_id":1226530255,
+            "region_id":1377074353
+        }
+    ],
+    "wof:id":1226530255,
+    "wof:lastmodified":1551727655,
+    "wof:name":"Tout Remmane",
+    "wof:parent_id":421171405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.04806,
+    34.08361,
+    36.04806,
+    34.08361
+],
+  "geometry": {"coordinates":[36.04806,34.08361],"type":"Point"}
+}

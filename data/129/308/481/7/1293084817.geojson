@@ -1,0 +1,72 @@
+{
+  "id": 1293084817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.31639,34.51944,36.31639,34.51944",
+    "geom:latitude":34.51944,
+    "geom:longitude":36.31639,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Er Rouaime",
+    "gn:country_code":"LB",
+    "gn:dem":1285,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":278404,
+    "gn:latitude":34.51944,
+    "gn:longitude":36.31639,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Er Roua\u00efm\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Er-Rwaym\u00e9",
+        "Ar Ruwaymah",
+        "Er Roua\u00efm\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673483,
+        1108691407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":278404
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"72722a5ce64fa230645be447081a74d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691407,
+            "locality_id":1293084817,
+            "region_id":85673483
+        }
+    ],
+    "wof:id":1293084817,
+    "wof:lastmodified":1537661210,
+    "wof:name":"Er Rouaime",
+    "wof:parent_id":1108691407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.31639000000001,
+    34.51944,
+    36.31639000000001,
+    34.51944
+],
+  "geometry": {"coordinates":[36.31639000000001,34.51944],"type":"Point"}
+}

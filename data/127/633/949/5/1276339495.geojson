@@ -1,0 +1,71 @@
+{
+  "id": 1276339495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.66472,34.02167,35.66472,34.02167",
+    "geom:latitude":34.02167,
+    "geom:longitude":35.66472,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ez Zaaitriye",
+    "gn:country_code":"LB",
+    "gn:dem":312,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":277256,
+    "gn:latitude":34.02167,
+    "gn:longitude":35.66472,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ez Zaa\u00eftr\u00eey\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Az Zu\u2018aytir\u012byah",
+        "Ez Zaa\u00eftr\u00eey\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        421172015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":277256
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"af6f66d5862b6f90aced18004d0d3820",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421172015,
+            "locality_id":1276339495,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1276339495,
+    "wof:lastmodified":1537661179,
+    "wof:name":"Ez Zaaitriye",
+    "wof:parent_id":421172015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.66472,
+    34.02167,
+    35.66472,
+    34.02167
+],
+  "geometry": {"coordinates":[35.66472,34.02167],"type":"Point"}
+}

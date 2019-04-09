@@ -1,0 +1,77 @@
+{
+  "id": 1276122909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.57833,33.81611,35.57833,33.81611",
+    "geom:latitude":33.81611,
+    "geom:longitude":35.57833,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Bsous",
+    "gn:country_code":"LB",
+    "gn:dem":459,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":276338,
+    "gn:latitude":33.81611,
+    "gn:longitude":35.57833,
+    "gn:modification_date":"2018-03-07",
+    "gn:name":"Bsous",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0633\u0648\u0633"
+    ],
+    "name:und_x_variant":[
+        "Bas\u016bs",
+        "Bso\u00fbss",
+        "Bs\u016bs",
+        "Bsous"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        1108691409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":276338,
+        "wk:page":"Bsous"
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"a6d68d8e1d52ef8b64e730a73dc0633f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691409,
+            "locality_id":1276122909,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1276122909,
+    "wof:lastmodified":1537661149,
+    "wof:name":"Bsous",
+    "wof:parent_id":1108691409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.57833,
+    33.81610999999999,
+    35.57833,
+    33.81610999999999
+],
+  "geometry": {"coordinates":[35.57833,33.81610999999999],"type":"Point"}
+}

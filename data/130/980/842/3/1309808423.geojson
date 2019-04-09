@@ -1,0 +1,75 @@
+{
+  "id": 1309808423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.64806,33.88056,35.64806,33.88056",
+    "geom:latitude":33.88056,
+    "geom:longitude":35.64806,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Khirbet el Aadess",
+    "gn:country_code":"LB",
+    "gn:dem":642,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":272411,
+    "gn:latitude":33.88056,
+    "gn:longitude":35.64806,
+    "gn:modification_date":"2018-04-06",
+    "gn:name":"Khirbet el Aadess",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0631\u0628\u0629 \u0627\u0644\u0639\u062f\u0633"
+    ],
+    "name:und_x_variant":[
+        "El Aayo\u00fbn",
+        "Khirbat al \u2018Adas",
+        "Khirbet el Aadess"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        1108691425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":272411
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"5fb9484bb2810a1acfb4ce1380e2de00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691425,
+            "locality_id":1309808423,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1309808423,
+    "wof:lastmodified":1537661075,
+    "wof:name":"Khirbet el Aadess",
+    "wof:parent_id":1108691425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.64806,
+    33.88056,
+    35.64806,
+    33.88056
+],
+  "geometry": {"coordinates":[35.64806,33.88056],"type":"Point"}
+}

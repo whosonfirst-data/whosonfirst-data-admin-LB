@@ -1,0 +1,71 @@
+{
+  "id": 1327265561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.71167,34.10583,35.71167,34.10583",
+    "geom:latitude":34.10583,
+    "geom:longitude":35.71167,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ed Darje",
+    "gn:country_code":"LB",
+    "gn:dem":619,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":280782,
+    "gn:latitude":34.10583,
+    "gn:longitude":35.71167,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ed Darj\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ad Darajah",
+        "Ed Darj\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        421194845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":280782
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"66ee34a7a51ab7610fdd0332987927d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421194845,
+            "locality_id":1327265561,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1327265561,
+    "wof:lastmodified":1537661296,
+    "wof:name":"Ed Darje",
+    "wof:parent_id":421194845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.71167,
+    34.10583,
+    35.71167,
+    34.10583
+],
+  "geometry": {"coordinates":[35.71167,34.10583],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1309743775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.49694,33.66,35.49694,33.66",
+    "geom:latitude":33.66,
+    "geom:longitude":35.49694,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ain el Haour",
+    "gn:country_code":"LB",
+    "gn:dem":638,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":277664,
+    "gn:latitude":33.66,
+    "gn:longitude":35.49694,
+    "gn:modification_date":"2013-04-04",
+    "gn:name":"A\u00efn el H\u00e2our",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u064a\u0646 \u0627\u0644\u062d\u0648\u0631"
+    ],
+    "name:und_x_variant":[
+        "Haour",
+        "Ahour",
+        "\u2018Ayn al \u1e28awr",
+        "A\u00efn el H\u00e2our"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        1108691419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":277664
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"a7e9e4538b8958cc35ee3ce505cb6343",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691419,
+            "locality_id":1309743775,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1309743775,
+    "wof:lastmodified":1537661192,
+    "wof:name":"Ain el Haour",
+    "wof:parent_id":1108691419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.49694,
+    33.66,
+    35.49694,
+    33.66
+],
+  "geometry": {"coordinates":[35.49694,33.66],"type":"Point"}
+}

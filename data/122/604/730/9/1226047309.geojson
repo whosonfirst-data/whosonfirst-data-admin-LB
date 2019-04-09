@@ -1,0 +1,75 @@
+{
+  "id": 1226047309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.53833,33.73389,35.53833,33.73389",
+    "geom:latitude":33.73389,
+    "geom:longitude":35.53833,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Bab er Rejm",
+    "gn:country_code":"LB",
+    "gn:dem":811,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":277231,
+    "gn:latitude":33.73389,
+    "gn:longitude":35.53833,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"B\u00e2b er Rejm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0627\u0628 \u0627\u0644\u0631\u062c\u0645"
+    ],
+    "name:und_x_variant":[
+        "B\u00e2b er Raja",
+        "B\u0101b ar Rujm",
+        "B\u00e2b er Rejm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        1108691409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":277231
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"e19fc45d2e3521dd94b929745d6ef827",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691409,
+            "locality_id":1226047309,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1226047309,
+    "wof:lastmodified":1537661178,
+    "wof:name":"Bab er Rejm",
+    "wof:parent_id":1108691409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.53833,
+    33.73389,
+    35.53833,
+    33.73389
+],
+  "geometry": {"coordinates":[35.53833,33.73389],"type":"Point"}
+}

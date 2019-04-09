@@ -1,0 +1,74 @@
+{
+  "id": 1327430839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.53333,33.71667,35.53333,33.71667",
+    "geom:latitude":33.71667,
+    "geom:longitude":35.53333,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Mazraat ez Zehzlane",
+    "gn:country_code":"LB",
+    "gn:dem":382,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":432808,
+    "gn:latitude":33.71667,
+    "gn:longitude":35.53333,
+    "gn:modification_date":"2018-02-07",
+    "gn:name":"Mazraat ez Zehzl\u00e2ne",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0632\u0631\u0639\u0629 \u0627\u0644\u0632\u062d\u0632\u0644\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Mazraat ez Zehzl\u00e2ne",
+        "Mazra\u2018at az Za\u1e29zal\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        1108691409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":432808
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"b0a7f166b54dd20d274526006c521916",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691409,
+            "locality_id":1327430839,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1327430839,
+    "wof:lastmodified":1537661300,
+    "wof:name":"Mazraat ez Zehzlane",
+    "wof:parent_id":1108691409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.53333,
+    33.71667,
+    35.53333,
+    33.71667
+],
+  "geometry": {"coordinates":[35.53333,33.71667],"type":"Point"}
+}

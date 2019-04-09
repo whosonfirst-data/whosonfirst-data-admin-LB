@@ -1,0 +1,80 @@
+{
+  "id": 1360280697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.18194,33.10417,35.18194,33.10417",
+    "geom:latitude":33.10417,
+    "geom:longitude":35.18194,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Aalma ech Chaab",
+    "gn:country_code":"LB",
+    "gn:dem":383,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":279633,
+    "gn:latitude":33.10417,
+    "gn:longitude":35.18194,
+    "gn:modification_date":"2018-03-28",
+    "gn:name":"Aalma ech Chaab",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0644\u0645\u0627 \u0627\u0644\u0634\u0639\u0628"
+    ],
+    "name:und_x_variant":[
+        "\u2018Alma esh Sha\u2018b",
+        "\u2018Alm\u0101 ash Sha\u2018b",
+        "\u2018Almat ash Sha\u2018b",
+        "\u2018Alam esh Sha\u2018b",
+        "Alma Chaab",
+        "Alma esh Shaub",
+        "Aalma ech Chaab"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673499,
+        1108691441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":279633,
+        "wk:page":"Alma_el_Chaab"
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"e7e2173c629b3aa38b3df623213891d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691441,
+            "locality_id":1360280697,
+            "region_id":85673499
+        }
+    ],
+    "wof:id":1360280697,
+    "wof:lastmodified":1537661252,
+    "wof:name":"Aalma ech Chaab",
+    "wof:parent_id":1108691441,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.18194,
+    33.10417,
+    35.18194,
+    33.10417
+],
+  "geometry": {"coordinates":[35.18194,33.10417],"type":"Point"}
+}

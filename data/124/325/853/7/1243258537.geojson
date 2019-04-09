@@ -1,0 +1,80 @@
+{
+  "id": 1243258537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.89505,34.33196,35.89505,34.33196",
+    "geom:latitude":34.33196,
+    "geom:longitude":35.89505,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Bnechaai",
+    "gn:country_code":"LB",
+    "gn:dem":357,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":276416,
+    "gn:latitude":34.33196,
+    "gn:longitude":35.89505,
+    "gn:modification_date":"2018-03-28",
+    "gn:name":"Bnechaa\u00ef",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0646\u0634\u0639\u064a"
+    ],
+    "name:und_x_variant":[
+        "Bnash\u2018\u012b",
+        "Bnecha\u00ef",
+        "Bnechaa\u00ef",
+        "Binasha\u2018\u012b",
+        "Bnashaai",
+        "Bneshaai",
+        "Bnechaai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673483,
+        1108691445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":276416,
+        "wk:page":"Bnachii"
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"ff681ebc6ded934f6989c6d6149c0e19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691445,
+            "locality_id":1243258537,
+            "region_id":85673483
+        }
+    ],
+    "wof:id":1243258537,
+    "wof:lastmodified":1537661155,
+    "wof:name":"Bnechaai",
+    "wof:parent_id":1108691445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.89505,
+    34.33196,
+    35.89505,
+    34.33196
+],
+  "geometry": {"coordinates":[35.89505,34.33196],"type":"Point"}
+}

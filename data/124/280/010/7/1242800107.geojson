@@ -1,0 +1,75 @@
+{
+  "id": 1242800107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.82639,33.66833,35.82639,33.66833",
+    "geom:latitude":33.66833,
+    "geom:longitude":35.82639,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Ghazze",
+    "gn:country_code":"LB",
+    "gn:dem":874,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":274931,
+    "gn:latitude":33.66833,
+    "gn:longitude":35.82639,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Ghazz\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u063a\u0632\u0629"
+    ],
+    "name:und_x_variant":[
+        "Ghazzih",
+        "Ghazzah",
+        "Ghazz\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673479,
+        421173359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":274931
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"2e660d093e3b7fbaf0e6d73faeb4ef65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421173359,
+            "locality_id":1242800107,
+            "region_id":85673479
+        }
+    ],
+    "wof:id":1242800107,
+    "wof:lastmodified":1537661124,
+    "wof:name":"Ghazze",
+    "wof:parent_id":421173359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.82639,
+    33.66833,
+    35.82639,
+    33.66833
+],
+  "geometry": {"coordinates":[35.82639,33.66833],"type":"Point"}
+}

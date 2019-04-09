@@ -1,0 +1,71 @@
+{
+  "id": 1242855719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.23528,33.93639,36.23528,33.93639",
+    "geom:latitude":33.93639,
+    "geom:longitude":36.23528,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"En Nabi Chbat",
+    "gn:country_code":"LB",
+    "gn:dem":1519,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":278876,
+    "gn:latitude":33.93639,
+    "gn:longitude":36.23528,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"En Nabi Chb\u00e2t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "An Nab\u012b Sb\u0101\u0163",
+        "En Nabi Chb\u00e2t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        1377074353,
+        421171405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":278876
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"bd675dd86cc21877b745c45ec94ada77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421171405,
+            "locality_id":1242855719,
+            "region_id":1377074353
+        }
+    ],
+    "wof:id":1242855719,
+    "wof:lastmodified":1551727652,
+    "wof:name":"En Nabi Chbat",
+    "wof:parent_id":421171405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.23528,
+    33.93639,
+    36.23528,
+    33.93639
+],
+  "geometry": {"coordinates":[36.23528,33.93639],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1344035775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.32028,34.41361,36.32028,34.41361",
+    "geom:latitude":34.41361,
+    "geom:longitude":36.32028,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Mrah el Mahlissi",
+    "gn:country_code":"LB",
+    "gn:dem":1410,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":271554,
+    "gn:latitude":34.41361,
+    "gn:longitude":36.32028,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mr\u00e2h el Mahl\u00eessi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mar\u0101\u1e29 al Ma\u1e29l\u012b\u015fah",
+        "Mr\u00e2h el Mahl\u00eessi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673479,
+        1108691421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":271554
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"adb0da9d908f9ae6b9ad820bf93598be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691421,
+            "locality_id":1344035775,
+            "region_id":85673479
+        }
+    ],
+    "wof:id":1344035775,
+    "wof:lastmodified":1537661065,
+    "wof:name":"Mrah el Mahlissi",
+    "wof:parent_id":1108691421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.32028,
+    34.41361,
+    36.32028,
+    34.41361
+],
+  "geometry": {"coordinates":[36.32028,34.41361],"type":"Point"}
+}

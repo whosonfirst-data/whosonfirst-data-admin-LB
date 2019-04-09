@@ -1,0 +1,73 @@
+{
+  "id": 1209537841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.27111,33.25361,35.27111,33.25361",
+    "geom:latitude":33.25361,
+    "geom:longitude":35.27111,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"El Bazouriye",
+    "gn:country_code":"LB",
+    "gn:dem":192,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":280287,
+    "gn:latitude":33.25361,
+    "gn:longitude":35.27111,
+    "gn:modification_date":"2018-03-28",
+    "gn:name":"El B\u00e2zo\u00fbr\u00eey\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0628\u0627\u0632\u0648\u0631\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Bazouriy\u00e9",
+        "El-Bazouriyah",
+        "Al Buz\u016br\u012byah",
+        "Al B\u0101z\u016br\u012byah",
+        "El B\u00e2zo\u00fbr\u00eey\u00e9",
+        "BAZOURIET"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":280287,
+        "wk:page":"Bazouriyeh"
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"e8e929e64bb60822dab12274e06da975",
+    "wof:hierarchy":[
+        {
+            "country_id":85632533,
+            "locality_id":1209537841
+        }
+    ],
+    "wof:id":1209537841,
+    "wof:lastmodified":1537661279,
+    "wof:name":"El Bazouriye",
+    "wof:parent_id":85632533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.27111,
+    33.25360999999999,
+    35.27111,
+    33.25360999999999
+],
+  "geometry": {"coordinates":[35.27111,33.25360999999999],"type":"Point"}
+}

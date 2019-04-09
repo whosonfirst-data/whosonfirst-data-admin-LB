@@ -1,0 +1,75 @@
+{
+  "id": 1259688873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.745,33.90861,35.745,33.90861",
+    "geom:latitude":33.90861,
+    "geom:longitude":35.745,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ouata el Mrouj",
+    "gn:country_code":"LB",
+    "gn:dem":1181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":266196,
+    "gn:latitude":33.90861,
+    "gn:longitude":35.745,
+    "gn:modification_date":"2018-04-06",
+    "gn:name":"Ouata el Mro\u00fbj",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0648\u0637\u0649 \u0627\u0644\u0645\u0631\u0648\u062c"
+    ],
+    "name:und_x_variant":[
+        "Wa\u0163\u0101\u2019 al Mur\u016bj",
+        "Ouata el Mro\u00fbj",
+        "Wa\u0163\u00e1 al Mur\u016bj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        1108691425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":266196
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"5cc45d1c6a7f91d6461d73b3d7513710",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691425,
+            "locality_id":1259688873,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1259688873,
+    "wof:lastmodified":1537660997,
+    "wof:name":"Ouata el Mrouj",
+    "wof:parent_id":1108691425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.745,
+    33.90861,
+    35.745,
+    33.90861
+],
+  "geometry": {"coordinates":[35.745,33.90861],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1276226393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.67111,34.19833,35.67111,34.19833",
+    "geom:latitude":34.19833,
+    "geom:longitude":35.67111,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Chmout",
+    "gn:country_code":"LB",
+    "gn:dem":431,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":267684,
+    "gn:latitude":34.19833,
+    "gn:longitude":35.67111,
+    "gn:modification_date":"2014-03-08",
+    "gn:name":"Chmo\u00fbt",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0634\u0645\u0648\u062a"
+    ],
+    "name:und_x_variant":[
+        "Chmo\u00fbte",
+        "Shamm\u016bt",
+        "Chmo\u00fbt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        421194845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":267684
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"c67d11ff308887b7e5857a39bb4d4a7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421194845,
+            "locality_id":1276226393,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1276226393,
+    "wof:lastmodified":1537661017,
+    "wof:name":"Chmout",
+    "wof:parent_id":421194845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.67111,
+    34.19833,
+    35.67111,
+    34.19833
+],
+  "geometry": {"coordinates":[35.67111,34.19833],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1226360723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.7875,34.18417,35.7875,34.18417",
+    "geom:latitude":34.18417,
+    "geom:longitude":35.7875,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Ghommas el Qottara",
+    "gn:country_code":"LB",
+    "gn:dem":961,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":275048,
+    "gn:latitude":34.18417,
+    "gn:longitude":35.7875,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ghomm\u00e2s el Qott\u00e2ra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ghamm\u0101s al Qa\u0163\u0163\u0101rah",
+        "Ghomm\u00e2s el Qott\u00e2ra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        421194845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":275048
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"23d130eb9de4d81a2e27b54a0368ead5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421194845,
+            "locality_id":1226360723,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1226360723,
+    "wof:lastmodified":1537661125,
+    "wof:name":"Ghommas el Qottara",
+    "wof:parent_id":421194845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.7875,
+    34.18417,
+    35.7875,
+    34.18417
+],
+  "geometry": {"coordinates":[35.7875,34.18417],"type":"Point"}
+}

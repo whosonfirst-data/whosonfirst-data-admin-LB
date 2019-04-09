@@ -1,0 +1,71 @@
+{
+  "id": 1309887001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.31028,34.38333,36.31028,34.38333",
+    "geom:latitude":34.38333,
+    "geom:longitude":36.31028,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Mrah Ouadi el Malloul",
+    "gn:country_code":"LB",
+    "gn:dem":1674,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":271443,
+    "gn:latitude":34.38333,
+    "gn:longitude":36.31028,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mr\u00e2h Ou\u00e2di el Mallo\u00fbl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mar\u0101\u1e29 W\u0101d\u012b al Mall\u016bl",
+        "Mr\u00e2h Ou\u00e2di el Mallo\u00fbl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673479,
+        1108691421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":271443
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"2fa77e03f125e425e4480a15af6c6627",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691421,
+            "locality_id":1309887001,
+            "region_id":85673479
+        }
+    ],
+    "wof:id":1309887001,
+    "wof:lastmodified":1537661061,
+    "wof:name":"Mrah Ouadi el Malloul",
+    "wof:parent_id":1108691421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.31028,
+    34.38333,
+    36.31028,
+    34.38333
+],
+  "geometry": {"coordinates":[36.31028,34.38333],"type":"Point"}
+}

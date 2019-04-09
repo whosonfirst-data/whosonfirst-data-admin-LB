@@ -1,0 +1,67 @@
+{
+  "id": 1226247589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.58472,33.80333,35.58472,33.80333",
+    "geom:latitude":33.80333,
+    "geom:longitude":35.58472,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Jouar",
+    "gn:country_code":"LB",
+    "gn:dem":644,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6273825,
+    "gn:latitude":33.80333,
+    "gn:longitude":35.58472,
+    "gn:modification_date":"2006-08-23",
+    "gn:name":"Jouar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        1108691409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6273825
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"a77326f8f31630c32ff6b69b814706bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691409,
+            "locality_id":1226247589,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1226247589,
+    "wof:lastmodified":1536931655,
+    "wof:name":"Jouar",
+    "wof:parent_id":1108691409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.58472000000001,
+    33.80333,
+    35.58472000000001,
+    33.80333
+],
+  "geometry": {"coordinates":[35.58472000000001,33.80333],"type":"Point"}
+}

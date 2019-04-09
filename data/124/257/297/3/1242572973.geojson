@@ -1,0 +1,67 @@
+{
+  "id": 1242572973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.14556,34.53583,36.14556,34.53583",
+    "geom:latitude":34.53583,
+    "geom:longitude":36.14556,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"El Melkiye",
+    "gn:country_code":"LB",
+    "gn:dem":448,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6279532,
+    "gn:latitude":34.53583,
+    "gn:longitude":36.14556,
+    "gn:modification_date":"2006-08-24",
+    "gn:name":"El Melkiy\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        1377074357,
+        1108691407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6279532
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"a66810e27aff7fb9c72be09300cce896",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691407,
+            "locality_id":1242572973,
+            "region_id":1377074357
+        }
+    ],
+    "wof:id":1242572973,
+    "wof:lastmodified":1551727667,
+    "wof:name":"El Melkiye",
+    "wof:parent_id":1108691407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.14556,
+    34.53583,
+    36.14556,
+    34.53583
+],
+  "geometry": {"coordinates":[36.14556,34.53583],"type":"Point"}
+}

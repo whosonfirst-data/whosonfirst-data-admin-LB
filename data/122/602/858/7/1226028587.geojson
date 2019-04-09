@@ -1,0 +1,71 @@
+{
+  "id": 1226028587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.27583,34.60167,36.27583,34.60167",
+    "geom:latitude":34.60167,
+    "geom:longitude":36.27583,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Meghraqa",
+    "gn:country_code":"LB",
+    "gn:dem":482,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":270527,
+    "gn:latitude":34.60167,
+    "gn:longitude":36.27583,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Meghraqa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mighr\u0101qah",
+        "Meghraqa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        1377074357,
+        1108691407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":270527
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"e2dccf7c0bc1c812f63b2c4c233032d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691407,
+            "locality_id":1226028587,
+            "region_id":1377074357
+        }
+    ],
+    "wof:id":1226028587,
+    "wof:lastmodified":1551727673,
+    "wof:name":"Meghraqa",
+    "wof:parent_id":1108691407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.27583,
+    34.60167,
+    36.27583,
+    34.60167
+],
+  "geometry": {"coordinates":[36.27583,34.60167],"type":"Point"}
+}

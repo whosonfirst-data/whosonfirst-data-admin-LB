@@ -1,0 +1,77 @@
+{
+  "id": 1310190779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.64167,33.50139,35.64167,33.50139",
+    "geom:latitude":33.50139,
+    "geom:longitude":35.64167,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Ain et Tine",
+    "gn:country_code":"LB",
+    "gn:dem":1068,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":277529,
+    "gn:latitude":33.50139,
+    "gn:longitude":35.64167,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"A\u00efn et T\u00een\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u064a\u0646 \u0627\u0644\u062a\u064a\u0646\u0629"
+    ],
+    "name:und_x_variant":[
+        "\u2018Ayn at T\u012bnah",
+        "\u2018Ain et-Teenah",
+        "A\u00efn ett T\u00een\u00e9",
+        "Ain et Tine",
+        "A\u00efn et T\u00een\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673479,
+        421173359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":277529
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"9b99e32bd6edb665c27135c7a3561efa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421173359,
+            "locality_id":1310190779,
+            "region_id":85673479
+        }
+    ],
+    "wof:id":1310190779,
+    "wof:lastmodified":1537661188,
+    "wof:name":"Ain et Tine",
+    "wof:parent_id":421173359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.64167,
+    33.50139,
+    35.64167,
+    33.50139
+],
+  "geometry": {"coordinates":[35.64167,33.50139],"type":"Point"}
+}

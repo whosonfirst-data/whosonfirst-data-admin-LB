@@ -1,0 +1,77 @@
+{
+  "id": 1226334859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.31056,33.19056,35.31056,33.19056",
+    "geom:latitude":33.19056,
+    "geom:longitude":35.31056,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Saddiqine",
+    "gn:country_code":"LB",
+    "gn:dem":386,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":277999,
+    "gn:latitude":33.19056,
+    "gn:longitude":35.31056,
+    "gn:modification_date":"2018-03-28",
+    "gn:name":"Sadd\u00eeq\u00eene",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0635\u062f\u064a\u0642\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "A\u015f \u015eidd\u012bq\u012bn",
+        "Sadd\u00eeq\u00eene",
+        "\u015eidd\u012bqayn",
+        "\u015eidd\u012bq\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673499,
+        1108691441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":277999,
+        "wk:page":"Siddikine"
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"463294a677aa0be927f71666f256c3f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691441,
+            "locality_id":1226334859,
+            "region_id":85673499
+        }
+    ],
+    "wof:id":1226334859,
+    "wof:lastmodified":1537661200,
+    "wof:name":"Saddiqine",
+    "wof:parent_id":1108691441,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.31055999999999,
+    33.19056,
+    35.31055999999999,
+    33.19056
+],
+  "geometry": {"coordinates":[35.31055999999999,33.19056],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1309905003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.43939,33.69131,35.43939,33.69131",
+    "geom:latitude":33.69131,
+    "geom:longitude":35.43939,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Es Siyar",
+    "gn:country_code":"LB",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":277983,
+    "gn:latitude":33.69131,
+    "gn:longitude":35.43939,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Es Siy\u00e2r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0633\u064a\u0651\u0627\u0631"
+    ],
+    "name:und_x_variant":[
+        "Es Sey\u00e2ne",
+        "As S\u012by\u0101r",
+        "Es Siy\u00e2r",
+        "As Siy\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        1108691419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":277983
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"09bc5625fb5c556277e5e0a4bcf4569c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691419,
+            "locality_id":1309905003,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1309905003,
+    "wof:lastmodified":1537661200,
+    "wof:name":"Es Siyar",
+    "wof:parent_id":1108691419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.43939,
+    33.69130999999999,
+    35.43939,
+    33.69130999999999
+],
+  "geometry": {"coordinates":[35.43939,33.69130999999999],"type":"Point"}
+}

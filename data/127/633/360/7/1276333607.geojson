@@ -1,0 +1,75 @@
+{
+  "id": 1276333607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.57056,33.73806,35.57056,33.73806",
+    "geom:latitude":33.73806,
+    "geom:longitude":35.57056,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Silfaya",
+    "gn:country_code":"LB",
+    "gn:dem":363,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":267190,
+    "gn:latitude":33.73806,
+    "gn:longitude":35.57056,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Silf\u00e2ya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u0644\u0641\u0627\u064a\u0627"
+    ],
+    "name:und_x_variant":[
+        "Silf\u0101y\u0101",
+        "Silf\u00e2ya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        1108691409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":267190,
+        "wk:page":"Silfaya"
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"3a16f82d011951d41fd5a42123b1a4d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691409,
+            "locality_id":1276333607,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1276333607,
+    "wof:lastmodified":1537661010,
+    "wof:name":"Silfaya",
+    "wof:parent_id":1108691409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.57056,
+    33.73806,
+    35.57056,
+    33.73806
+],
+  "geometry": {"coordinates":[35.57056,33.73806],"type":"Point"}
+}

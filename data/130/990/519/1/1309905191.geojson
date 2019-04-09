@@ -1,0 +1,68 @@
+{
+  "id": 1309905191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.62889,34.03028,35.62889,34.03028",
+    "geom:latitude":34.03028,
+    "geom:longitude":35.62889,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Tabarja",
+    "gn:country_code":"LB",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":266969,
+    "gn:latitude":34.03028,
+    "gn:longitude":35.62889,
+    "gn:modification_date":"2006-07-26",
+    "gn:name":"Tabarja",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        421172015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":266969,
+        "wk:page":"Tabarja"
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"5cd7f58baea559b513652128a21969da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421172015,
+            "locality_id":1309905191,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1309905191,
+    "wof:lastmodified":1537567923,
+    "wof:name":"Tabarja",
+    "wof:parent_id":421172015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.62889000000001,
+    34.03028,
+    35.62889000000001,
+    34.03028
+],
+  "geometry": {"coordinates":[35.62889000000001,34.03028],"type":"Point"}
+}

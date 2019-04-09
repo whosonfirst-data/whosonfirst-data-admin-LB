@@ -1,0 +1,72 @@
+{
+  "id": 1276215781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.12778,34.54806,36.12778,34.54806",
+    "geom:latitude":34.54806,
+    "geom:longitude":36.12778,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Haizouq",
+    "gn:country_code":"LB",
+    "gn:dem":282,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":274043,
+    "gn:latitude":34.54806,
+    "gn:longitude":36.12778,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ha\u00efzouq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Heizouq",
+        "\u1e28ayz\u016bq",
+        "Ha\u00efzouq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673483,
+        1108691407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":274043
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"9eff1cc10848b3e69bc9aaf002ed9590",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691407,
+            "locality_id":1276215781,
+            "region_id":85673483
+        }
+    ],
+    "wof:id":1276215781,
+    "wof:lastmodified":1537661104,
+    "wof:name":"Haizouq",
+    "wof:parent_id":1108691407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.12778,
+    34.54806,
+    36.12778,
+    34.54806
+],
+  "geometry": {"coordinates":[36.12778,34.54806],"type":"Point"}
+}

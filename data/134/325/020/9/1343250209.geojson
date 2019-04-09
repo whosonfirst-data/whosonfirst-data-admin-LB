@@ -1,0 +1,67 @@
+{
+  "id": 1343250209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.47917,34.33972,36.47917,34.33972",
+    "geom:latitude":34.33972,
+    "geom:longitude":36.47917,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Ras el Kroum",
+    "gn:country_code":"LB",
+    "gn:dem":666,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6277960,
+    "gn:latitude":34.33972,
+    "gn:longitude":36.47917,
+    "gn:modification_date":"2006-08-24",
+    "gn:name":"R\u00e2s el Kro\u00fbm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673479,
+        421171405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6277960
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"84f35639d6377f5da45ff5ea28a31dcf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421171405,
+            "locality_id":1343250209,
+            "region_id":85673479
+        }
+    ],
+    "wof:id":1343250209,
+    "wof:lastmodified":1537047723,
+    "wof:name":"Ras el Kroum",
+    "wof:parent_id":421171405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.47917,
+    34.33972,
+    36.47917,
+    34.33972
+],
+  "geometry": {"coordinates":[36.47917,34.33972],"type":"Point"}
+}

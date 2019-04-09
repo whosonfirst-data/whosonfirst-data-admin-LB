@@ -1,0 +1,71 @@
+{
+  "id": 1293199895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.82583,33.86472,35.82583,33.86472",
+    "geom:latitude":33.86472,
+    "geom:longitude":35.82583,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Dahr el Harf",
+    "gn:country_code":"LB",
+    "gn:dem":1703,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":275911,
+    "gn:latitude":33.86472,
+    "gn:longitude":35.82583,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dahr el Harf",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1e10ahr al \u1e28arf",
+        "Dahr el Harf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673479,
+        421172017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":275911
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"6a959738eebd82f59797d4c0f6bc3912",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421172017,
+            "locality_id":1293199895,
+            "region_id":85673479
+        }
+    ],
+    "wof:id":1293199895,
+    "wof:lastmodified":1537661141,
+    "wof:name":"Dahr el Harf",
+    "wof:parent_id":421172017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.82583,
+    33.86472,
+    35.82583,
+    33.86472
+],
+  "geometry": {"coordinates":[35.82583,33.86472],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1259782581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.70972,34.11056,35.70972,34.11056",
+    "geom:latitude":34.11056,
+    "geom:longitude":35.70972,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Sebrine",
+    "gn:country_code":"LB",
+    "gn:dem":787,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":267223,
+    "gn:latitude":34.11056,
+    "gn:longitude":35.70972,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sebr\u00eene",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sibr\u012bn",
+        "Sebr\u00eene"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        421194845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":267223
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"94efa5da3762bf8dd148a5ce9f67df76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421194845,
+            "locality_id":1259782581,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1259782581,
+    "wof:lastmodified":1537661011,
+    "wof:name":"Sebrine",
+    "wof:parent_id":421194845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.70972000000001,
+    34.11056,
+    35.70972000000001,
+    34.11056
+],
+  "geometry": {"coordinates":[35.70972000000001,34.11056],"type":"Point"}
+}

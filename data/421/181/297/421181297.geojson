@@ -1,0 +1,75 @@
+{
+  "id": 421181297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.520139,33.893235,35.520139,33.893235",
+    "geom:latitude":33.893235,
+    "geom:longitude":35.520139,
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Hikme",
+    "qs:name_adm0":"\u0644\u0628\u0646\u0627\u0646",
+    "qs:name_adm1":"\u0628\u064a\u0631\u0648\u062a",
+    "qs:photos":53,
+    "qs:photos_1k":11,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":53,
+    "qs:photos_sr":2,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "qs:qs_id":485001,
+    "qs:woe_adm0":23424873,
+    "qs:woe_id":22724443,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        890442383,
+        85632533,
+        85673487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22724443,
+        "qs:id":485001
+    },
+    "wof:country":"LB",
+    "wof:created":1459009291,
+    "wof:geomhash":"eae84fc479121140109f2a57cc0e581e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "locality_id":890442383,
+            "neighbourhood_id":421181297,
+            "region_id":85673487
+        }
+    ],
+    "wof:id":421181297,
+    "wof:lastmodified":1551727707,
+    "wof:name":"Hikme",
+    "wof:parent_id":890442383,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.520139,
+    33.893235,
+    35.520139,
+    33.893235
+],
+  "geometry": {"coordinates":[35.520139,33.893235],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1293005495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.65583,34.09111,35.65583,34.09111",
+    "geom:latitude":34.09111,
+    "geom:longitude":35.65583,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Beit el Boumi",
+    "gn:country_code":"LB",
+    "gn:dem":96,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":276766,
+    "gn:latitude":34.09111,
+    "gn:longitude":35.65583,
+    "gn:modification_date":"2013-10-07",
+    "gn:name":"Be\u00eft el Bo\u00fbmi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u064a\u062a \u0627\u0644\u0628\u0648\u0645\u064a"
+    ],
+    "name:ara_x_variant":[
+        "\u0628\u064a\u062a \u0627\u0644\u0628\u0648\u0645\u0629"
+    ],
+    "name:und_x_variant":[
+        "Beit el Bo\u00fbme",
+        "Beit el-Boumah",
+        "Beit el Boumi",
+        "Bayt al B\u016bmah",
+        "Be\u00eft el Bo\u00fbmi",
+        "Bayt al B\u016bm\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        421194845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":276766
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"3090fb4690ed12a971f0822a9ec84c7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421194845,
+            "locality_id":1293005495,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1293005495,
+    "wof:lastmodified":1537661169,
+    "wof:name":"Beit el Boumi",
+    "wof:parent_id":421194845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.65583,
+    34.09111,
+    35.65583,
+    34.09111
+],
+  "geometry": {"coordinates":[35.65583,34.09111],"type":"Point"}
+}

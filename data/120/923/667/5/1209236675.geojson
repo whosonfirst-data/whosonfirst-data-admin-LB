@@ -1,0 +1,72 @@
+{
+  "id": 1209236675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.14952,33.09771,35.14952,33.09771",
+    "geom:latitude":33.09771,
+    "geom:longitude":35.14952,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Labboune",
+    "gn:country_code":"LB",
+    "gn:dem":300,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":279663,
+    "gn:latitude":33.09771,
+    "gn:longitude":35.14952,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Labbo\u00fbn\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0644\u0628\u0648\u0646\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0644\u0628\u0651\u0648\u0646\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al Labb\u016bnah",
+        "Labbo\u00fbn\u00e9",
+        "Labb\u016bnah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":279663
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"c2ff359ea0a11e60d82f999fc39ed8d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632533,
+            "locality_id":1209236675
+        }
+    ],
+    "wof:id":1209236675,
+    "wof:lastmodified":1537661253,
+    "wof:name":"Labboune",
+    "wof:parent_id":85632533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.14952,
+    33.09771,
+    35.14952,
+    33.09771
+],
+  "geometry": {"coordinates":[35.14952,33.09771],"type":"Point"}
+}

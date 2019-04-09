@@ -1,0 +1,71 @@
+{
+  "id": 1226147673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.69944,33.99194,35.69944,33.99194",
+    "geom:latitude":33.99194,
+    "geom:longitude":35.69944,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"El Mkaides",
+    "gn:country_code":"LB",
+    "gn:dem":1021,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":279333,
+    "gn:latitude":33.99194,
+    "gn:longitude":35.69944,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El Mka\u00efd\u00eas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Mukaydis",
+        "El Mka\u00efd\u00eas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        421172015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":279333
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"57ff382d2a8993bcc2b9e8f433544684",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421172015,
+            "locality_id":1226147673,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1226147673,
+    "wof:lastmodified":1537661239,
+    "wof:name":"El Mkaides",
+    "wof:parent_id":421172015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.69944,
+    33.99194,
+    35.69944,
+    33.99194
+],
+  "geometry": {"coordinates":[35.69944,33.99194],"type":"Point"}
+}

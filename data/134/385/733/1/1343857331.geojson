@@ -1,0 +1,70 @@
+{
+  "id": 1343857331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.65778,33.99722,35.65778,33.99722",
+    "geom:latitude":33.99722,
+    "geom:longitude":35.65778,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Haret el Hajar",
+    "gn:country_code":"LB",
+    "gn:dem":224,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":274475,
+    "gn:latitude":33.99722,
+    "gn:longitude":35.65778,
+    "gn:modification_date":"2006-08-22",
+    "gn:name":"H\u00e2ret el Hajar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1e28\u0101rat al \u1e28ajar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        421172015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":274475
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"289507281167d0f3cdf2dcd512678f9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421172015,
+            "locality_id":1343857331,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1343857331,
+    "wof:lastmodified":1537661117,
+    "wof:name":"Haret el Hajar",
+    "wof:parent_id":421172015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.65777999999999,
+    33.99722,
+    35.65777999999999,
+    33.99722
+],
+  "geometry": {"coordinates":[35.65777999999999,33.99722],"type":"Point"}
+}

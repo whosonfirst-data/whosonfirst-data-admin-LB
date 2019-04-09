@@ -1,0 +1,71 @@
+{
+  "id": 1226231295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.10583,34.62722,36.10583,34.62722",
+    "geom:latitude":34.62722,
+    "geom:longitude":36.10583,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Hokr Jouret Srar",
+    "gn:country_code":"LB",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":273873,
+    "gn:latitude":34.62722,
+    "gn:longitude":36.10583,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Hokr Jo\u00fbret Sr\u00e2r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1e28ukr J\u016brat Sr\u0101r",
+        "Hokr Jo\u00fbret Sr\u00e2r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        1377074357,
+        1108691407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":273873
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"ea1c7ee04fbdb6d75962b42d3c0b05e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691407,
+            "locality_id":1226231295,
+            "region_id":1377074357
+        }
+    ],
+    "wof:id":1226231295,
+    "wof:lastmodified":1551727673,
+    "wof:name":"Hokr Jouret Srar",
+    "wof:parent_id":1108691407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.10583,
+    34.62722,
+    36.10583,
+    34.62722
+],
+  "geometry": {"coordinates":[36.10583,34.62722],"type":"Point"}
+}

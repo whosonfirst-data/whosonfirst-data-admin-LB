@@ -1,0 +1,72 @@
+{
+  "id": 1242858155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.0775,34.53306,36.0775,34.53306",
+    "geom:latitude":34.53306,
+    "geom:longitude":36.0775,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Cheikh Taba",
+    "gn:country_code":"LB",
+    "gn:dem":245,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":278177,
+    "gn:latitude":34.53306,
+    "gn:longitude":36.0775,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Che\u00efkh T\u00e2b\u00e2",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Esh-Sheikh Taba",
+        "Ash Shaykh \u0162\u0101b\u0101",
+        "Che\u00efkh T\u00e2b\u00e2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        1377074357,
+        1108691407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":278177
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"6d3ea3c47486dc844b654f24c140958b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691407,
+            "locality_id":1242858155,
+            "region_id":1377074357
+        }
+    ],
+    "wof:id":1242858155,
+    "wof:lastmodified":1551727670,
+    "wof:name":"Cheikh Taba",
+    "wof:parent_id":1108691407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.0775,
+    34.53306,
+    36.0775,
+    34.53306
+],
+  "geometry": {"coordinates":[36.0775,34.53306],"type":"Point"}
+}

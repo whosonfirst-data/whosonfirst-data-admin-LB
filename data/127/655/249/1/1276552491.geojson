@@ -1,0 +1,79 @@
+{
+  "id": 1276552491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.41833,33.58806,35.41833,33.58806",
+    "geom:latitude":33.58806,
+    "geom:longitude":35.41833,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Mazraat ez Zaarouriye",
+    "gn:country_code":"LB",
+    "gn:dem":138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":270630,
+    "gn:latitude":33.58806,
+    "gn:longitude":35.41833,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Mazraat ez Zaaro\u00fbr\u00eey\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0632\u0631\u0639\u0629 \u0627\u0644\u0628\u0631\u063a\u0648\u062a\u064a\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u0645\u0632\u0631\u0639\u0629 \u0627\u0644\u0632\u0639\u0631\u0648\u0631\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Mazra\u2018at az Zu\u2018r\u016br\u012byah",
+        "Mazraat ez Zaaro\u00fbr\u00eey\u00e9",
+        "Mazra\u2018at al Bargh\u016bt\u012byah",
+        "Mazra\u2018at az Za\u2018r\u016br\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        1108691419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":270630
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"c977bbb4e1c31ac60b474db3c173df40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691419,
+            "locality_id":1276552491,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1276552491,
+    "wof:lastmodified":1537661047,
+    "wof:name":"Mazraat ez Zaarouriye",
+    "wof:parent_id":1108691419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.41833,
+    33.58806,
+    35.41833,
+    33.58806
+],
+  "geometry": {"coordinates":[35.41833,33.58806],"type":"Point"}
+}

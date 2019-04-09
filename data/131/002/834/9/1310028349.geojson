@@ -1,0 +1,78 @@
+{
+  "id": 1310028349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.67972,33.71194,35.67972,33.71194",
+    "geom:latitude":33.71194,
+    "geom:longitude":35.67972,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"El Fraidis",
+    "gn:country_code":"LB",
+    "gn:dem":1105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":280189,
+    "gn:latitude":33.71194,
+    "gn:longitude":35.67972,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"El Fra\u00efd\u00ees",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0641\u0631\u064a\u062f\u064a\u0633"
+    ],
+    "name:und_x_variant":[
+        "Fra\u00efd\u00eess",
+        "El Fardiss",
+        "El-Freidees",
+        "Al Furayd\u012bs",
+        "El Fra\u00efd\u00ees",
+        "Al Furaydis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        1108691419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":280189
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"e46222ba8f936bc0e65684f5fd82bfad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691419,
+            "locality_id":1310028349,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1310028349,
+    "wof:lastmodified":1537661273,
+    "wof:name":"El Fraidis",
+    "wof:parent_id":1108691419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.67972,
+    33.71194000000001,
+    35.67972,
+    33.71194000000001
+],
+  "geometry": {"coordinates":[35.67972,33.71194000000001],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259402695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.96667,33.58333,35.96667,33.58333",
+    "geom:latitude":33.58333,
+    "geom:longitude":35.96667,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Ma`zar",
+    "gn:country_code":"LB",
+    "gn:dem":1581,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":270746,
+    "gn:latitude":33.58333,
+    "gn:longitude":35.96667,
+    "gn:modification_date":"2007-06-27",
+    "gn:name":"Ma\u2018z\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673479,
+        1108691439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":270746
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"1bfcff1283f5d8112acd1d111affc69c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691439,
+            "locality_id":1259402695,
+            "region_id":85673479
+        }
+    ],
+    "wof:id":1259402695,
+    "wof:lastmodified":1536974310,
+    "wof:name":"Ma`zar",
+    "wof:parent_id":1108691439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.96667,
+    33.58333,
+    35.96667,
+    33.58333
+],
+  "geometry": {"coordinates":[35.96667,33.58333],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1276140811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.95139,34.50639,35.95139,34.50639",
+    "geom:latitude":34.50639,
+    "geom:longitude":35.95139,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Et Talle",
+    "gn:country_code":"LB",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":277892,
+    "gn:latitude":34.50639,
+    "gn:longitude":35.95139,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Et Tall\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "At Tallah",
+        "Et Tall\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673483,
+        1108691427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":277892
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"290d896bab27ffdb6125e0abf1b009f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691427,
+            "locality_id":1276140811,
+            "region_id":85673483
+        }
+    ],
+    "wof:id":1276140811,
+    "wof:lastmodified":1537661197,
+    "wof:name":"Et Talle",
+    "wof:parent_id":1108691427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.95139,
+    34.50639,
+    35.95139,
+    34.50639
+],
+  "geometry": {"coordinates":[35.95139,34.50639],"type":"Point"}
+}

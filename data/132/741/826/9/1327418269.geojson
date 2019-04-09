@@ -1,0 +1,74 @@
+{
+  "id": 1327418269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.89111,34.26472,35.89111,34.26472",
+    "geom:latitude":34.26472,
+    "geom:longitude":35.89111,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Billa",
+    "gn:country_code":"LB",
+    "gn:dem":1189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":276599,
+    "gn:latitude":34.26472,
+    "gn:longitude":35.89111,
+    "gn:modification_date":"2014-03-08",
+    "gn:name":"Billa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0644\u0627"
+    ],
+    "name:und_x_variant":[
+        "Bill\u0101",
+        "Billa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673483,
+        1108691411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":276599
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"e5cf2c7ed5b42212e1e2abc39d9e58af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691411,
+            "locality_id":1327418269,
+            "region_id":85673483
+        }
+    ],
+    "wof:id":1327418269,
+    "wof:lastmodified":1537661161,
+    "wof:name":"Billa",
+    "wof:parent_id":1108691411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.89111,
+    34.26472,
+    35.89111,
+    34.26472
+],
+  "geometry": {"coordinates":[35.89111,34.26472],"type":"Point"}
+}

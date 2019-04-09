@@ -1,0 +1,70 @@
+{
+  "id": 1209537915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.58833,33.41722,35.58833,33.41722",
+    "geom:latitude":33.41722,
+    "geom:longitude":35.58833,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Mazraat Louzid",
+    "gn:country_code":"LB",
+    "gn:dem":733,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":270593,
+    "gn:latitude":33.41722,
+    "gn:longitude":35.58833,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Mazraat Louz\u00eed",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0632\u0631\u0639\u0629 \u0644\u0648\u0632\u064a\u062f"
+    ],
+    "name:und_x_variant":[
+        "Mazraat el Lo\u00fbz\u00eed",
+        "El-Wardiyah",
+        "Mazraat Louz\u00eed",
+        "Mazra\u2018at L\u016bz\u012bd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":270593
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"2823a1e9fef62c3dd5bb210710ae2d4c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632533,
+            "locality_id":1209537915
+        }
+    ],
+    "wof:id":1209537915,
+    "wof:lastmodified":1537661044,
+    "wof:name":"Mazraat Louzid",
+    "wof:parent_id":85632533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.58833,
+    33.41722,
+    35.58833,
+    33.41722
+],
+  "geometry": {"coordinates":[35.58833,33.41722],"type":"Point"}
+}

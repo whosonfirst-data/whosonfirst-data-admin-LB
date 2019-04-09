@@ -1,0 +1,78 @@
+{
+  "id": 1209738415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.48472,33.57778,35.48472,33.57778",
+    "geom:latitude":33.57778,
+    "geom:longitude":35.48472,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Mazraat el Mahtaqra",
+    "gn:country_code":"LB",
+    "gn:dem":419,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":279338,
+    "gn:latitude":33.57778,
+    "gn:longitude":35.48472,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Mazraat el Mahtaqra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0632\u0631\u0639\u0629 \u0627\u0644\u0645\u062d\u062a\u0642\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al Mu\u1e29taqarah",
+        "El Mouhtaqar\u00e2",
+        "El Mahtaqra",
+        "Mazraat el Mahtaqra",
+        "Mazra\u2018at al Ma\u1e29taqrah",
+        "Mazra\u2018at al Mu\u1e29taqarah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        1108691419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":279338
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"160903c8b0b7271ebf1fefef9665c6f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691419,
+            "locality_id":1209738415,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1209738415,
+    "wof:lastmodified":1537661239,
+    "wof:name":"Mazraat el Mahtaqra",
+    "wof:parent_id":1108691419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.48472,
+    33.57778,
+    35.48472,
+    33.57778
+],
+  "geometry": {"coordinates":[35.48472,33.57778],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1276476657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.68817,34.00912,35.68817,34.00912",
+    "geom:latitude":34.00912,
+    "geom:longitude":35.68817,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Dlebta",
+    "gn:country_code":"LB",
+    "gn:dem":664,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":275492,
+    "gn:latitude":34.00912,
+    "gn:longitude":35.68817,
+    "gn:modification_date":"2018-03-29",
+    "gn:name":"Dlebta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u0644\u0628\u062a\u0627"
+    ],
+    "name:und_x_variant":[
+        "Dalibt\u0101",
+        "Dlabta",
+        "Dlibt\u0101",
+        "Dlebta",
+        "Delebteh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        421172015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":275492,
+        "wk:page":"Dlebta"
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"9254a9c9966c6ecc56d6afb310de10cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421172015,
+            "locality_id":1276476657,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1276476657,
+    "wof:lastmodified":1537661131,
+    "wof:name":"Dlebta",
+    "wof:parent_id":421172015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.68817,
+    34.00912,
+    35.68817,
+    34.00912
+],
+  "geometry": {"coordinates":[35.68817,34.00912],"type":"Point"}
+}

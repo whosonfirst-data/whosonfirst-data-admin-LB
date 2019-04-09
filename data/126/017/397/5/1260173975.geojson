@@ -1,0 +1,78 @@
+{
+  "id": 1260173975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.38792,33.56379,35.38792,33.56379",
+    "geom:latitude":33.56379,
+    "geom:longitude":35.38792,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Qiyaa",
+    "gn:country_code":"LB",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":269051,
+    "gn:latitude":33.56379,
+    "gn:longitude":35.38792,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Qiy\u00e2a",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u064a\u0639\u0627"
+    ],
+    "name:ara_x_variant":[
+        "\u0642\u064a\u0627\u0639\u0629"
+    ],
+    "name:und_x_variant":[
+        "Qiy\u0101\u2018ah",
+        "Qiy\u00e2a",
+        "Qiya\u2018\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673499,
+        890451987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":269051
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"e8766ab4c2a5f0ea576d489f396ad856",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":890451987,
+            "locality_id":1260173975,
+            "region_id":85673499
+        }
+    ],
+    "wof:id":1260173975,
+    "wof:lastmodified":1537661030,
+    "wof:name":"Qiyaa",
+    "wof:parent_id":890451987,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.38792,
+    33.56379,
+    35.38792,
+    33.56379
+],
+  "geometry": {"coordinates":[35.38792,33.56379],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1226464581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.35265,33.46152,35.35265,33.46152",
+    "geom:latitude":33.46152,
+    "geom:longitude":35.35265,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Maamariyet el Kharab",
+    "gn:country_code":"LB",
+    "gn:dem":228,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":270504,
+    "gn:latitude":33.46152,
+    "gn:longitude":35.35265,
+    "gn:modification_date":"2013-08-06",
+    "gn:name":"Maam\u00e2r\u00eeyet el Khar\u00e2b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0639\u0645\u0631\u064a\u0629 \u0627\u0644\u062e\u0631\u0627\u0628"
+    ],
+    "name:und_x_variant":[
+        "Mi\u2018mar\u012byat al Khar\u0101b",
+        "Maam\u00e2r\u00eeyet el Khar\u00e2b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673499,
+        890451987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":270504
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"09b12732bb051e87f02927e2808926cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":890451987,
+            "locality_id":1226464581,
+            "region_id":85673499
+        }
+    ],
+    "wof:id":1226464581,
+    "wof:lastmodified":1537661041,
+    "wof:name":"Maamariyet el Kharab",
+    "wof:parent_id":890451987,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.35265,
+    33.46152,
+    35.35265,
+    33.46152
+],
+  "geometry": {"coordinates":[35.35265,33.46152],"type":"Point"}
+}

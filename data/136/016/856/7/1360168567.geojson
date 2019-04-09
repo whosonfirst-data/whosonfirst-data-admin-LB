@@ -1,0 +1,71 @@
+{
+  "id": 1360168567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.25306,34.625,36.25306,34.625",
+    "geom:latitude":34.625,
+    "geom:longitude":36.25306,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Kfar Noun",
+    "gn:country_code":"LB",
+    "gn:dem":353,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":272840,
+    "gn:latitude":34.625,
+    "gn:longitude":36.25306,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kfar Noun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kafr N\u016bn",
+        "Kfar Noun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        1377074357,
+        1108691407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":272840
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"58e8c389cdb565c33b1fdd3408fa20fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691407,
+            "locality_id":1360168567,
+            "region_id":1377074357
+        }
+    ],
+    "wof:id":1360168567,
+    "wof:lastmodified":1551727667,
+    "wof:name":"Kfar Noun",
+    "wof:parent_id":1108691407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.25306,
+    34.625,
+    36.25306,
+    34.625
+],
+  "geometry": {"coordinates":[36.25306,34.625],"type":"Point"}
+}

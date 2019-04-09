@@ -1,0 +1,77 @@
+{
+  "id": 1243157847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.91111,33.68583,35.91111,33.68583",
+    "geom:latitude":33.68583,
+    "geom:longitude":35.91111,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Saouiri",
+    "gn:country_code":"LB",
+    "gn:dem":1082,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":278023,
+    "gn:latitude":33.68583,
+    "gn:longitude":35.91111,
+    "gn:modification_date":"2018-03-29",
+    "gn:name":"Saou\u00eeri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0635\u0648\u064a\u0631\u064a"
+    ],
+    "name:und_x_variant":[
+        "Es Saou\u00eer\u00e9",
+        "A\u015f \u015eaw\u012brah",
+        "Saou\u00eeri",
+        "\u015eaw\u012br\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673479,
+        421173359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":278023,
+        "wk:page":"Sawiri,_Lebanon"
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"45d10dd65b67385d5752a92cbaf4ffed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421173359,
+            "locality_id":1243157847,
+            "region_id":85673479
+        }
+    ],
+    "wof:id":1243157847,
+    "wof:lastmodified":1537661201,
+    "wof:name":"Saouiri",
+    "wof:parent_id":421173359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.91111,
+    33.68583,
+    35.91111,
+    33.68583
+],
+  "geometry": {"coordinates":[35.91111,33.68583],"type":"Point"}
+}

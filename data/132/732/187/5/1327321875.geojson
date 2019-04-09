@@ -1,0 +1,71 @@
+{
+  "id": 1327321875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.32583,34.35639,36.32583,34.35639",
+    "geom:latitude":34.35639,
+    "geom:longitude":36.32583,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Mrah Zouaitini",
+    "gn:country_code":"LB",
+    "gn:dem":1174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":271436,
+    "gn:latitude":34.35639,
+    "gn:longitude":36.32583,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mr\u00e2h Zoua\u00eft\u00eeni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mar\u0101\u1e29 Zuwayt\u012bnah",
+        "Mr\u00e2h Zoua\u00eft\u00eeni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673479,
+        1108691421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":271436
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"eea41dd9e5b4506784206e50540c13db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691421,
+            "locality_id":1327321875,
+            "region_id":85673479
+        }
+    ],
+    "wof:id":1327321875,
+    "wof:lastmodified":1537661061,
+    "wof:name":"Mrah Zouaitini",
+    "wof:parent_id":1108691421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.32583,
+    34.35639,
+    36.32583,
+    34.35639
+],
+  "geometry": {"coordinates":[36.32583,34.35639],"type":"Point"}
+}

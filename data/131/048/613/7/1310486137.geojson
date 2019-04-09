@@ -1,0 +1,76 @@
+{
+  "id": 1310486137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.87322,34.39322,35.87322,34.39322",
+    "geom:latitude":34.39322,
+    "geom:longitude":35.87322,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Hasroun ej Jdide",
+    "gn:country_code":"LB",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":274303,
+    "gn:latitude":34.39322,
+    "gn:longitude":35.87322,
+    "gn:modification_date":"2014-03-08",
+    "gn:name":"Hasro\u00fbn ej Jd\u00eed\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0635\u0631\u0648\u0646 \u0627\u0644\u062c\u062f\u064a\u062f\u0629"
+    ],
+    "name:und_x_variant":[
+        "Hasroun el-Jdeedah",
+        "Hasroun ej Jda\u00efd\u00e9",
+        "\u1e28a\u015fr\u016bn al Jad\u012bdah",
+        "Hasro\u00fbn ej Jd\u00eed\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673483,
+        1108691445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":274303
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"0b661324ea36e1e1390d207c8d4e498e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691445,
+            "locality_id":1310486137,
+            "region_id":85673483
+        }
+    ],
+    "wof:id":1310486137,
+    "wof:lastmodified":1537661111,
+    "wof:name":"Hasroun ej Jdide",
+    "wof:parent_id":1108691445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.87322,
+    34.39322,
+    35.87322,
+    34.39322
+],
+  "geometry": {"coordinates":[35.87322,34.39322],"type":"Point"}
+}

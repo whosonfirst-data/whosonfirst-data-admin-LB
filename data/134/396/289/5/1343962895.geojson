@@ -1,0 +1,73 @@
+{
+  "id": 1343962895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.68534,34.02463,35.68534,34.02463",
+    "geom:latitude":34.02463,
+    "geom:longitude":35.68534,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Mazraat el Boustane",
+    "gn:country_code":"LB",
+    "gn:dem":676,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8622078,
+    "gn:latitude":34.02463,
+    "gn:longitude":35.68534,
+    "gn:modification_date":"2013-10-11",
+    "gn:name":"Mazraat el Boustane",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0632\u0631\u0639\u0629 \u0627\u0644\u0628\u0633\u062a\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Mazra\u2018at al Bust\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        421172015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8622078
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"6dfe4ba512641486d4c0ebb0eb67574d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421172015,
+            "locality_id":1343962895,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1343962895,
+    "wof:lastmodified":1537661323,
+    "wof:name":"Mazraat el Boustane",
+    "wof:parent_id":421172015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.68534000000001,
+    34.02463,
+    35.68534000000001,
+    34.02463
+],
+  "geometry": {"coordinates":[35.68534000000001,34.02463],"type":"Point"}
+}

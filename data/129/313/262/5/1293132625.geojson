@@ -1,0 +1,82 @@
+{
+  "id": 1293132625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.68222,34.02889,35.68222,34.02889",
+    "geom:latitude":34.02889,
+    "geom:longitude":35.68222,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Hai Saidet en Nchif",
+    "gn:country_code":"LB",
+    "gn:dem":609,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":274047,
+    "gn:latitude":34.02889,
+    "gn:longitude":35.68222,
+    "gn:modification_date":"2013-10-07",
+    "gn:name":"Ha\u00ef Sa\u00efdet en Nch\u00eef",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u064a \u0633\u064a\u062f\u0629 \u0627\u0644\u0646\u0634\u064a\u0641"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0646\u0634\u064a\u0641"
+    ],
+    "name:und_x_variant":[
+        "Innchif",
+        "En Necheif",
+        "En-Nsheef",
+        "\u1e28ayy Sayyidat an Nsh\u012bf",
+        "Ha\u00ef Sa\u00efdet en Nch\u00eef",
+        "An Nash\u012bf",
+        "\u1e28ayy Sayyidah an Nash\u012bf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        421172015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":274047
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"f2bb3edb04f1f866b404b30e887bd2f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421172015,
+            "locality_id":1293132625,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1293132625,
+    "wof:lastmodified":1537661105,
+    "wof:name":"Hai Saidet en Nchif",
+    "wof:parent_id":421172015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.68222,
+    34.02889,
+    35.68222,
+    34.02889
+],
+  "geometry": {"coordinates":[35.68222,34.02889],"type":"Point"}
+}

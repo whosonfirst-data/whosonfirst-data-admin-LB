@@ -1,0 +1,79 @@
+{
+  "id": 1226769717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.83556,33.82444,35.83556,33.82444",
+    "geom:latitude":33.82444,
+    "geom:longitude":35.83556,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Jdita",
+    "gn:country_code":"LB",
+    "gn:dem":984,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":273355,
+    "gn:latitude":33.82444,
+    "gn:longitude":35.83556,
+    "gn:modification_date":"2018-03-07",
+    "gn:name":"Jd\u00eeta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u062f\u064a\u062a\u0627"
+    ],
+    "name:und_x_variant":[
+        "Jed\u00eeta",
+        "Djedita",
+        "Jdeeta",
+        "Jad\u012bth\u0101",
+        "Jad\u012bt\u0101",
+        "Jd\u00eeta",
+        "Jd\u012bt\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        1377074351,
+        421172017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":273355
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"d122679ac7fcd17b786d22115dd742b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421172017,
+            "locality_id":1226769717,
+            "region_id":1377074351
+        }
+    ],
+    "wof:id":1226769717,
+    "wof:lastmodified":1551727603,
+    "wof:name":"Jdita",
+    "wof:parent_id":421172017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.83556,
+    33.82444,
+    35.83556,
+    33.82444
+],
+  "geometry": {"coordinates":[35.83556,33.82444],"type":"Point"}
+}

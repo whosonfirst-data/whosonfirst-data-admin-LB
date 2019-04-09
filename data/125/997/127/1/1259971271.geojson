@@ -1,0 +1,74 @@
+{
+  "id": 1259971271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.50167,33.38944,35.50167,33.38944",
+    "geom:latitude":33.38944,
+    "geom:longitude":35.50167,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kfar Roummane",
+    "gn:country_code":"LB",
+    "gn:dem":451,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":272833,
+    "gn:latitude":33.38944,
+    "gn:longitude":35.50167,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Kfar Roumm\u00e2ne",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0641\u0631 \u0631\u0645\u0651\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Kafr Rumm\u0101n",
+        "Kfar Roumm\u00e2ne"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673495,
+        1108691429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":272833
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"cab69e6b0afb90e3bd7c9b6cfce91bcd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691429,
+            "locality_id":1259971271,
+            "region_id":85673495
+        }
+    ],
+    "wof:id":1259971271,
+    "wof:lastmodified":1537661082,
+    "wof:name":"Kfar Roummane",
+    "wof:parent_id":1108691429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.50167000000001,
+    33.38944,
+    35.50167000000001,
+    33.38944
+],
+  "geometry": {"coordinates":[35.50167000000001,33.38944],"type":"Point"}
+}

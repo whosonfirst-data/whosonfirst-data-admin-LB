@@ -1,0 +1,75 @@
+{
+  "id": 1226531873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.82972,34.2775,35.82972,34.2775",
+    "geom:latitude":34.2775,
+    "geom:longitude":35.82972,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Bhabbouch",
+    "gn:country_code":"LB",
+    "gn:dem":367,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":277187,
+    "gn:latitude":34.2775,
+    "gn:longitude":35.82972,
+    "gn:modification_date":"2014-03-08",
+    "gn:name":"Bhabbo\u00fbch",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u062d\u0628\u0648\u0634"
+    ],
+    "name:und_x_variant":[
+        "Bahbo\u00fbch",
+        "Ba\u1e29b\u016bsh",
+        "Bhabbo\u00fbch"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        1377074355,
+        1108691423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":277187
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"3ebe81368fa0cb929c56f209e190f1ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691423,
+            "locality_id":1226531873,
+            "region_id":1377074355
+        }
+    ],
+    "wof:id":1226531873,
+    "wof:lastmodified":1551727626,
+    "wof:name":"Bhabbouch",
+    "wof:parent_id":1108691423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.82972,
+    34.2775,
+    35.82972,
+    34.2775
+],
+  "geometry": {"coordinates":[35.82972,34.2775],"type":"Point"}
+}

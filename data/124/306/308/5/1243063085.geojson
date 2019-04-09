@@ -1,0 +1,74 @@
+{
+  "id": 1243063085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.14944,34.50028,36.14944,34.50028",
+    "geom:latitude":34.50028,
+    "geom:longitude":36.14944,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Esh Shraife",
+    "gn:country_code":"LB",
+    "gn:dem":585,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":278247,
+    "gn:latitude":34.50028,
+    "gn:longitude":36.14944,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Esh Shra\u00eff\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Esh-Shareefah",
+        "Cher\u00eefa",
+        "Chrif\u00e9",
+        "Ash Shar\u012bfah",
+        "Esh Shra\u00eff\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        1377074357,
+        1108691407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":278247
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"f92ba2ddac69f4838119a327bcc6068c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691407,
+            "locality_id":1243063085,
+            "region_id":1377074357
+        }
+    ],
+    "wof:id":1243063085,
+    "wof:lastmodified":1551727672,
+    "wof:name":"Esh Shraife",
+    "wof:parent_id":1108691407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.14944000000001,
+    34.50028,
+    36.14944000000001,
+    34.50028
+],
+  "geometry": {"coordinates":[36.14944000000001,34.50028],"type":"Point"}
+}

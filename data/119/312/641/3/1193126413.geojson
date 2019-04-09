@@ -1,0 +1,73 @@
+{
+  "id": 1193126413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.08778,34.47889,36.08778,34.47889",
+    "geom:latitude":34.47889,
+    "geom:longitude":36.08778,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Dinbou",
+    "gn:country_code":"LB",
+    "gn:dem":599,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":275834,
+    "gn:latitude":34.47889,
+    "gn:longitude":36.08778,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Dinbou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dennbou",
+        "Dinnbo",
+        "Danb\u016b",
+        "Dinbou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        1377074357,
+        1108691407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":275834
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"9e7d981245916543da856aded6cde3e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691407,
+            "locality_id":1193126413,
+            "region_id":1377074357
+        }
+    ],
+    "wof:id":1193126413,
+    "wof:lastmodified":1551727668,
+    "wof:name":"Dinbou",
+    "wof:parent_id":1108691407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.08778,
+    34.47889,
+    36.08778,
+    34.47889
+],
+  "geometry": {"coordinates":[36.08778,34.47889],"type":"Point"}
+}

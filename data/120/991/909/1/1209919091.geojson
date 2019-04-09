@@ -1,0 +1,74 @@
+{
+  "id": 1209919091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.39389,33.59444,35.39389,33.59444",
+    "geom:latitude":33.59444,
+    "geom:longitude":35.39389,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Et Taamir",
+    "gn:country_code":"LB",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":277889,
+    "gn:latitude":33.59444,
+    "gn:longitude":35.39389,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Et Taam\u00eer",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062a\u0639\u0645\u064a\u0631"
+    ],
+    "name:und_x_variant":[
+        "At Ta\u2018m\u012br",
+        "Et Taam\u00eer"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        1108691419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":277889
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"d5caf9e222867e2e6743284f198bb47b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691419,
+            "locality_id":1209919091,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1209919091,
+    "wof:lastmodified":1537661197,
+    "wof:name":"Et Taamir",
+    "wof:parent_id":1108691419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.39389,
+    33.59444000000001,
+    35.39389,
+    33.59444000000001
+],
+  "geometry": {"coordinates":[35.39389,33.59444000000001],"type":"Point"}
+}

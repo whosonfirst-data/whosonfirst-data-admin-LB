@@ -1,0 +1,74 @@
+{
+  "id": 1243362839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.68444,33.79778,35.68444,33.79778",
+    "geom:latitude":33.79778,
+    "geom:longitude":35.68444,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"El Haffe",
+    "gn:country_code":"LB",
+    "gn:dem":1224,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6271599,
+    "gn:latitude":33.79778,
+    "gn:longitude":35.68444,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"El Haff\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u0641\u0629"
+    ],
+    "name:und_x_variant":[
+        "El Haff\u00e9",
+        "Al \u1e28affah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        1108691409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6271599
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"ad0085a2450327a1a9cf74ad2a695c65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691409,
+            "locality_id":1243362839,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1243362839,
+    "wof:lastmodified":1537661306,
+    "wof:name":"El Haffe",
+    "wof:parent_id":1108691409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.68444,
+    33.79778,
+    35.68444,
+    33.79778
+],
+  "geometry": {"coordinates":[35.68444,33.79778],"type":"Point"}
+}

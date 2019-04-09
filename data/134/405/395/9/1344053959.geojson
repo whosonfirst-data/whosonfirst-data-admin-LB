@@ -1,0 +1,78 @@
+{
+  "id": 1344053959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.685,33.39778,35.685,33.39778",
+    "geom:latitude":33.39778,
+    "geom:longitude":35.685,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Hasbaiya",
+    "gn:country_code":"LB",
+    "gn:dem":747,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":274313,
+    "gn:latitude":33.39778,
+    "gn:longitude":35.685,
+    "gn:modification_date":"2013-04-04",
+    "gn:name":"H\u00e2sba\u00efya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0627\u0635\u0628\u064a\u0627"
+    ],
+    "name:und_x_variant":[
+        "\u1e28\u0101\u015fbayy\u0101",
+        "H\u0101sbeya",
+        "Hasbeiya",
+        "H\u00e2sba\u00efya",
+        "\u1e28\u0101\u015fibayy\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673495,
+        1108691431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":274313,
+        "wk:page":"Hasbaya"
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"293f54c01637fb7a4c56dc8d4ec7af0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691431,
+            "locality_id":1344053959,
+            "region_id":85673495
+        }
+    ],
+    "wof:id":1344053959,
+    "wof:lastmodified":1537661112,
+    "wof:name":"Hasbaiya",
+    "wof:parent_id":1108691431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.685,
+    33.39778,
+    35.685,
+    33.39778
+],
+  "geometry": {"coordinates":[35.685,33.39778],"type":"Point"}
+}

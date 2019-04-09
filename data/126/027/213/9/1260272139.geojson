@@ -1,0 +1,71 @@
+{
+  "id": 1260272139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.28111,34.57083,36.28111,34.57083",
+    "geom:latitude":34.57083,
+    "geom:longitude":36.28111,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Qbaiyat",
+    "gn:country_code":"LB",
+    "gn:dem":544,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":279132,
+    "gn:latitude":34.57083,
+    "gn:longitude":36.28111,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Qba\u00efyat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Qbayy\u0101t",
+        "Qba\u00efyat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673483,
+        1108691407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":279132
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"accbbae034eea39b8ecf379559feb553",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691407,
+            "locality_id":1260272139,
+            "region_id":85673483
+        }
+    ],
+    "wof:id":1260272139,
+    "wof:lastmodified":1537661231,
+    "wof:name":"Qbaiyat",
+    "wof:parent_id":1108691407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.28111,
+    34.57083,
+    36.28111,
+    34.57083
+],
+  "geometry": {"coordinates":[36.28111,34.57083],"type":"Point"}
+}

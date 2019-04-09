@@ -1,0 +1,105 @@
+{
+  "id": 890433305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.40251,33.11023,35.40251,33.11023",
+    "geom:latitude":33.11023,
+    "geom:longitude":35.40251,
+    "gn:country":"LB",
+    "gn:fcode":"PPL",
+    "gn:pop":2000,
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0639\u064a\u0646 \u0625\u0628\u0644"
+    ],
+    "name:dut_x_preferred":[
+        "Ain Ebel"
+    ],
+    "name:eng_x_preferred":[
+        "Ain Ebel"
+    ],
+    "name:fre_x_preferred":[
+        "Ain Ebel"
+    ],
+    "name:glg_x_preferred":[
+        "Ain Ibil"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e2\u05d9\u05df \u05d0\u05d1\u05dc"
+    ],
+    "name:nno_x_preferred":[
+        "Ain Ebel"
+    ],
+    "name:nob_x_preferred":[
+        "Ain Ebel"
+    ],
+    "name:per_x_preferred":[
+        "\u0639\u06cc\u0646 \u0627\u0628\u0644"
+    ],
+    "name:pol_x_preferred":[
+        "Ajn Ibil"
+    ],
+    "name:swe_x_preferred":[
+        "Ain Ebel"
+    ],
+    "name:unk_x_variant":[
+        "`Ain Ibil"
+    ],
+    "qs:name":"Ain Ebel",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wd:wordcount":1124,
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673495,
+        1108691417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":277467,
+        "gp:id":1960883,
+        "qs:id":123896,
+        "wd:id":"Q2828135",
+        "wk:page":"Ain Ebel"
+    },
+    "wof:country":"LB",
+    "wof:created":1469051975,
+    "wof:geomhash":"af3ec9c7d60da3ec22700d706e04061f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691417,
+            "locality_id":890433305,
+            "region_id":85673495
+        }
+    ],
+    "wof:id":890433305,
+    "wof:lastmodified":1527792955,
+    "wof:name":"Ain Ebel",
+    "wof:parent_id":1108691417,
+    "wof:placetype":"locality",
+    "wof:population":2000,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.40251,
+    33.11023,
+    35.40251,
+    33.11023
+],
+  "geometry": {"coordinates":[35.40251,33.11023],"type":"Point"}
+}

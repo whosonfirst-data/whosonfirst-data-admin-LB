@@ -1,0 +1,75 @@
+{
+  "id": 1276788787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.56222,33.54167,35.56222,33.54167",
+    "geom:latitude":33.54167,
+    "geom:longitude":35.56222,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Ain et Toghra",
+    "gn:country_code":"LB",
+    "gn:dem":1133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":277515,
+    "gn:latitude":33.54167,
+    "gn:longitude":35.56222,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"A\u00efn et Toghra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u064a\u0646 \u0627\u0644\u0637\u063a\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "\u2018Ayn a\u0163 \u0162ughr\u0101\u2019",
+        "A\u00efn et Toghra",
+        "\u2018Ayn a\u0163 \u0162ughrah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673499,
+        1108691435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":277515
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"b08dcc0a9282291469216bf3f409ef91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691435,
+            "locality_id":1276788787,
+            "region_id":85673499
+        }
+    ],
+    "wof:id":1276788787,
+    "wof:lastmodified":1537661188,
+    "wof:name":"Ain et Toghra",
+    "wof:parent_id":1108691435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.56222,
+    33.54167,
+    35.56222,
+    33.54167
+],
+  "geometry": {"coordinates":[35.56222,33.54167],"type":"Point"}
+}

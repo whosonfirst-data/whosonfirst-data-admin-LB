@@ -1,0 +1,81 @@
+{
+  "id": 1242763063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.00972,33.55722,36.00972,33.55722",
+    "geom:latitude":33.55722,
+    "geom:longitude":36.00972,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Deir el Aachayer",
+    "gn:country_code":"LB",
+    "gn:dem":1296,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":275665,
+    "gn:latitude":33.55722,
+    "gn:longitude":36.00972,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"De\u00efr el Aach\u00e2yer",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u064a\u0631 \u0627\u0644\u0639\u0634\u0627\u064a\u0631"
+    ],
+    "name:und_x_variant":[
+        "Deir el-\u2018Ashayer",
+        "De\u00efr el Aacha\u00efr",
+        "Dayr al Af Ayer",
+        "Deir el Achair",
+        "Deir el Ashayir",
+        "Dayr al \u2018Ash\u0101\u2019ir",
+        "De\u00efr el Aach\u00e2yer",
+        "Dayr al \u2018Ash\u0101yir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673479,
+        1108691439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":275665,
+        "wk:page":"Deir_El_Aachayer"
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"59f11e86700c74c6f815c980407598fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691439,
+            "locality_id":1242763063,
+            "region_id":85673479
+        }
+    ],
+    "wof:id":1242763063,
+    "wof:lastmodified":1537661136,
+    "wof:name":"Deir el Aachayer",
+    "wof:parent_id":1108691439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.00972,
+    33.55722,
+    36.00972,
+    33.55722
+],
+  "geometry": {"coordinates":[36.00972,33.55722],"type":"Point"}
+}

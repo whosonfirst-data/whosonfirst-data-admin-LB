@@ -1,0 +1,65 @@
+{
+  "id": 1209414121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.66139,34.09028,35.66139,34.09028",
+    "geom:latitude":34.09028,
+    "geom:longitude":35.66139,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Chaabiyet et Tahta",
+    "gn:country_code":"LB",
+    "gn:dem":201,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":267389,
+    "gn:latitude":34.09028,
+    "gn:longitude":35.66139,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Chaabiyet et Tahta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shi\u2018b\u012byat at Ta\u1e29t\u0101",
+        "Chaabiyet et Tahta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":267389
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"04f0e2d2623f9634675a46741825d4e9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632533,
+            "locality_id":1209414121
+        }
+    ],
+    "wof:id":1209414121,
+    "wof:lastmodified":1537661015,
+    "wof:name":"Chaabiyet et Tahta",
+    "wof:parent_id":85632533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.66139000000001,
+    34.09028,
+    35.66139000000001,
+    34.09028
+],
+  "geometry": {"coordinates":[35.66139000000001,34.09028],"type":"Point"}
+}

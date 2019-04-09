@@ -1,0 +1,71 @@
+{
+  "id": 1343740335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.27556,34.14139,36.27556,34.14139",
+    "geom:latitude":34.14139,
+    "geom:longitude":36.27556,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Rasm el Hadeth",
+    "gn:country_code":"LB",
+    "gn:dem":972,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":268723,
+    "gn:latitude":34.14139,
+    "gn:longitude":36.27556,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Rasm el Hadeth",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rasm al \u1e28adath",
+        "Rasm el Hadeth"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673479,
+        421171405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":268723
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"140cf54527e0628c8eb5ac26e76facec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421171405,
+            "locality_id":1343740335,
+            "region_id":85673479
+        }
+    ],
+    "wof:id":1343740335,
+    "wof:lastmodified":1537661026,
+    "wof:name":"Rasm el Hadeth",
+    "wof:parent_id":421171405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.27556,
+    34.14139,
+    36.27556,
+    34.14139
+],
+  "geometry": {"coordinates":[36.27556,34.14139],"type":"Point"}
+}

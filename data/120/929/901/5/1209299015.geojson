@@ -1,0 +1,71 @@
+{
+  "id": 1209299015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.01028,34.32972,36.01028,34.32972",
+    "geom:latitude":34.32972,
+    "geom:longitude":36.01028,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Es Souaqi",
+    "gn:country_code":"LB",
+    "gn:dem":1670,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":278031,
+    "gn:latitude":34.32972,
+    "gn:longitude":36.01028,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Es Sou\u00e2qi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "As Saw\u0101q\u012b",
+        "Es Sou\u00e2qi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        1377074355,
+        1108691427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":278031
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"e5d16c5f08dd8cdabb28e4bc9f19aba5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691427,
+            "locality_id":1209299015,
+            "region_id":1377074355
+        }
+    ],
+    "wof:id":1209299015,
+    "wof:lastmodified":1551727618,
+    "wof:name":"Es Souaqi",
+    "wof:parent_id":1108691427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.01028,
+    34.32972,
+    36.01028,
+    34.32972
+],
+  "geometry": {"coordinates":[36.01028,34.32972],"type":"Point"}
+}

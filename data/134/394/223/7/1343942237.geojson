@@ -1,0 +1,68 @@
+{
+  "id": 1343942237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.04064,34.24438,36.04064,34.24438",
+    "geom:latitude":34.24438,
+    "geom:longitude":36.04064,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Cedars",
+    "gn:country_code":"LB",
+    "gn:dem":1854,
+    "gn:elevation":"0.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11048906,
+    "gn:latitude":34.24438,
+    "gn:longitude":36.04064,
+    "gn:modification_date":"2016-01-20",
+    "gn:name":"Cedars",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673483,
+        1108691411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11048906
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"e475abb5e9ea2be3c962ea28cfdc8953",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691411,
+            "locality_id":1343942237,
+            "region_id":85673483
+        }
+    ],
+    "wof:id":1343942237,
+    "wof:lastmodified":1537044524,
+    "wof:name":"Cedars",
+    "wof:parent_id":1108691411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.04064,
+    34.24438,
+    36.04064,
+    34.24438
+],
+  "geometry": {"coordinates":[36.04064,34.24438],"type":"Point"}
+}

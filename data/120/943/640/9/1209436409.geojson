@@ -1,0 +1,73 @@
+{
+  "id": 1209436409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.40694,33.17472,35.40694,33.17472",
+    "geom:latitude":33.17472,
+    "geom:longitude":35.40694,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Aaita ez Zott",
+    "gn:country_code":"LB",
+    "gn:dem":679,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":277368,
+    "gn:latitude":33.17472,
+    "gn:longitude":35.40694,
+    "gn:modification_date":"2013-08-06",
+    "gn:name":"Aa\u00efta ez Zott",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u064a\u062a\u0627 \u0627\u0644\u0632\u0637"
+    ],
+    "name:und_x_variant":[
+        "\u2018Ay\u0163az\u016b\u0163",
+        "A\u00efta Zott",
+        "\u2018Aytah az Zu\u0163",
+        "A\u00efta ez Zoutt",
+        "\u2018Ayt\u0101 az Zu\u0163\u0163",
+        "\u2018Aita ez-Zutt",
+        "Aa\u00efta ez Zott"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":277368
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"ef4b1ecdf259aeaa2132524941e630c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632533,
+            "locality_id":1209436409
+        }
+    ],
+    "wof:id":1209436409,
+    "wof:lastmodified":1537661182,
+    "wof:name":"Aaita ez Zott",
+    "wof:parent_id":85632533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.40694000000001,
+    33.17472,
+    35.40694000000001,
+    33.17472
+],
+  "geometry": {"coordinates":[35.40694000000001,33.17472],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1293199873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.6075,33.59917,35.6075,33.59917",
+    "geom:latitude":33.59917,
+    "geom:longitude":35.6075,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ed Delghene",
+    "gn:country_code":"LB",
+    "gn:dem":807,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":280739,
+    "gn:latitude":33.59917,
+    "gn:longitude":35.6075,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Ed Delgh\u00eane",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062f\u0644\u063a\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Charif\u00e9",
+        "Ad Dilgh\u0101n",
+        "Ed Delgh\u00eane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        1108691419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":280739
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"c686d1da4be84b301cf68485497a191c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691419,
+            "locality_id":1293199873,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1293199873,
+    "wof:lastmodified":1537661295,
+    "wof:name":"Ed Delghene",
+    "wof:parent_id":1108691419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.6075,
+    33.59917,
+    35.6075,
+    33.59917
+],
+  "geometry": {"coordinates":[35.6075,33.59917],"type":"Point"}
+}

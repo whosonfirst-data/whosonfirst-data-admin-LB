@@ -1,0 +1,80 @@
+{
+  "id": 1293394955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.78139,34.10861,35.78139,34.10861",
+    "geom:latitude":34.10861,
+    "geom:longitude":35.78139,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Aalmat",
+    "gn:country_code":"LB",
+    "gn:dem":956,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":279445,
+    "gn:latitude":34.10861,
+    "gn:longitude":35.78139,
+    "gn:modification_date":"2014-03-08",
+    "gn:name":"Aalm\u00e2t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0644\u0645\u0627\u062a"
+    ],
+    "name:ara_x_variant":[
+        "\u0639\u0644\u0645\u0627\u062a \u0627\u0644\u0634\u0645\u0627\u0644\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Aalm\u00e2te",
+        "Almate",
+        "\u2018Alm\u0101t",
+        "Aalm\u00e2t",
+        "\u2018Alm\u0101t ash Sham\u0101l\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        421194845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":279445
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"812d87d408a30eee33dda517b44e769d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421194845,
+            "locality_id":1293394955,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1293394955,
+    "wof:lastmodified":1537661244,
+    "wof:name":"Aalmat",
+    "wof:parent_id":421194845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.78139,
+    34.10861,
+    35.78139,
+    34.10861
+],
+  "geometry": {"coordinates":[35.78139,34.10861],"type":"Point"}
+}

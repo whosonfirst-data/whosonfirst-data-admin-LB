@@ -1,0 +1,71 @@
+{
+  "id": 1292908237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.66833,34.08417,35.66833,34.08417",
+    "geom:latitude":34.08417,
+    "geom:longitude":35.66833,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Meftah el Mir",
+    "gn:country_code":"LB",
+    "gn:dem":375,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":270535,
+    "gn:latitude":34.08417,
+    "gn:longitude":35.66833,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Meft\u00e2h el M\u00eer",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mift\u0101\u1e29 al M\u012br",
+        "Meft\u00e2h el M\u00eer"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        421194845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":270535
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"106753d37c4d6200eedbeb614499bc7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421194845,
+            "locality_id":1292908237,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1292908237,
+    "wof:lastmodified":1537661042,
+    "wof:name":"Meftah el Mir",
+    "wof:parent_id":421194845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.66833,
+    34.08417,
+    35.66833,
+    34.08417
+],
+  "geometry": {"coordinates":[35.66833,34.08417],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1243244577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.13111,34.12528,36.13111,34.12528",
+    "geom:latitude":34.12528,
+    "geom:longitude":36.13111,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Deir el Ahmar",
+    "gn:country_code":"LB",
+    "gn:dem":1032,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":275666,
+    "gn:latitude":34.12528,
+    "gn:longitude":36.13111,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Deir el Ahmar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dayr al A\u1e29mar",
+        "Deir el Ahmar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673479,
+        421171405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":275666,
+        "wk:page":"Deir_el_Ahmar"
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"9b6e5babe24349a990d2bebd61f57b06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421171405,
+            "locality_id":1243244577,
+            "region_id":85673479
+        }
+    ],
+    "wof:id":1243244577,
+    "wof:lastmodified":1537661136,
+    "wof:name":"Deir el Ahmar",
+    "wof:parent_id":421171405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.13111,
+    34.12528,
+    36.13111,
+    34.12528
+],
+  "geometry": {"coordinates":[36.13111,34.12528],"type":"Point"}
+}

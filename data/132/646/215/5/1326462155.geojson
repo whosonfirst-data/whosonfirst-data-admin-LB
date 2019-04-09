@@ -1,0 +1,74 @@
+{
+  "id": 1326462155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.65944,34.11111,35.65944,34.11111",
+    "geom:latitude":34.11111,
+    "geom:longitude":35.65944,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Qartaboun",
+    "gn:country_code":"LB",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":269264,
+    "gn:latitude":34.11111,
+    "gn:longitude":35.65944,
+    "gn:modification_date":"2014-03-08",
+    "gn:name":"Qartabo\u00fbn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u0637\u0628\u0648\u0646"
+    ],
+    "name:und_x_variant":[
+        "Qar\u0163ab\u016bn",
+        "Qartabo\u00fbn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        421194845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":269264
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"3fcc2c16e8fb281ac30735c8c969ef80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421194845,
+            "locality_id":1326462155,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1326462155,
+    "wof:lastmodified":1537661033,
+    "wof:name":"Qartaboun",
+    "wof:parent_id":421194845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.65944000000001,
+    34.11111,
+    35.65944000000001,
+    34.11111
+],
+  "geometry": {"coordinates":[35.65944000000001,34.11111],"type":"Point"}
+}

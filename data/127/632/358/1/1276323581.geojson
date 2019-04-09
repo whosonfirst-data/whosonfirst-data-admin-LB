@@ -1,0 +1,77 @@
+{
+  "id": 1276323581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.82139,34.27306,35.82139,34.27306",
+    "geom:latitude":34.27306,
+    "geom:longitude":35.82139,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Bziza",
+    "gn:country_code":"LB",
+    "gn:dem":405,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":275982,
+    "gn:latitude":34.27306,
+    "gn:longitude":35.82139,
+    "gn:modification_date":"2014-03-08",
+    "gn:name":"Bz\u00eeza",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0632\u064a\u0632\u0627"
+    ],
+    "name:und_x_variant":[
+        "Baz\u012bz\u0101",
+        "Bz\u012bz\u0101",
+        "Baz\u012bzah",
+        "Bz\u00eeza"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673483,
+        1108691423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":275982,
+        "wk:page":"Bziza"
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"eeb8c46d6f051ffb8e3c8d85481ba1c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691423,
+            "locality_id":1276323581,
+            "region_id":85673483
+        }
+    ],
+    "wof:id":1276323581,
+    "wof:lastmodified":1537661142,
+    "wof:name":"Bziza",
+    "wof:parent_id":1108691423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.82139,
+    34.27306,
+    35.82139,
+    34.27306
+],
+  "geometry": {"coordinates":[35.82139,34.27306],"type":"Point"}
+}

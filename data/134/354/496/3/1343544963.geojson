@@ -1,0 +1,72 @@
+{
+  "id": 1343544963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.19972,34.59111,36.19972,34.59111",
+    "geom:latitude":34.59111,
+    "geom:longitude":36.19972,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Ain ez Zait",
+    "gn:country_code":"LB",
+    "gn:dem":431,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":277507,
+    "gn:latitude":34.59111,
+    "gn:longitude":36.19972,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"A\u00efn ez Za\u00eft",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u2018Ain ez Zeit",
+        "\u2018Ayn az Zayt",
+        "A\u00efn ez Za\u00eft"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673483,
+        1108691407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":277507
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"8fa082208b89c5521bb607bd7e7c5b46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691407,
+            "locality_id":1343544963,
+            "region_id":85673483
+        }
+    ],
+    "wof:id":1343544963,
+    "wof:lastmodified":1537661188,
+    "wof:name":"Ain ez Zait",
+    "wof:parent_id":1108691407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.19972,
+    34.59111,
+    36.19972,
+    34.59111
+],
+  "geometry": {"coordinates":[36.19972,34.59111],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1309711425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.68558,34.05091,35.68558,34.05091",
+    "geom:latitude":34.05091,
+    "geom:longitude":35.68558,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Qarsa",
+    "gn:country_code":"LB",
+    "gn:dem":600,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":279176,
+    "gn:latitude":34.05091,
+    "gn:longitude":35.68558,
+    "gn:modification_date":"2013-10-07",
+    "gn:name":"Qars\u00e2",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u0635\u0627"
+    ],
+    "name:und_x_variant":[
+        "El Karsa",
+        "El Qarsa",
+        "Al Qar\u015f\u0101",
+        "Qars\u00e2",
+        "Qar\u015f\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        421172015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":279176
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"4a3f553735a96555cf88547f06c92d0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421172015,
+            "locality_id":1309711425,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1309711425,
+    "wof:lastmodified":1537661233,
+    "wof:name":"Qarsa",
+    "wof:parent_id":421172015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.68558,
+    34.05090999999999,
+    35.68558,
+    34.05090999999999
+],
+  "geometry": {"coordinates":[35.68558,34.05090999999999],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1343251731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.80028,34.18611,35.80028,34.18611",
+    "geom:latitude":34.18611,
+    "geom:longitude":35.80028,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Slaiyeb Ram",
+    "gn:country_code":"LB",
+    "gn:dem":1187,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":267051,
+    "gn:latitude":34.18611,
+    "gn:longitude":35.80028,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Sla\u00efyeb R\u00e2m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u015eulayyib R\u0101m",
+        "Sla\u00efyeb R\u00e2m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673483,
+        421204111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":267051
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"46f1689874375fb4fe109ea4b9a7805c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421204111,
+            "locality_id":1343251731,
+            "region_id":85673483
+        }
+    ],
+    "wof:id":1343251731,
+    "wof:lastmodified":1537661008,
+    "wof:name":"Slaiyeb Ram",
+    "wof:parent_id":421204111,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.80028,
+    34.18611,
+    35.80028,
+    34.18611
+],
+  "geometry": {"coordinates":[35.80028,34.18611],"type":"Point"}
+}

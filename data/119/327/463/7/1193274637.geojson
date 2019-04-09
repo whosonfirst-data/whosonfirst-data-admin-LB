@@ -1,0 +1,67 @@
+{
+  "id": 1193274637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.64361,34.0125,35.64361,34.0125",
+    "geom:latitude":34.0125,
+    "geom:longitude":35.64361,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"En Naaoura",
+    "gn:country_code":"LB",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":278818,
+    "gn:latitude":34.0125,
+    "gn:longitude":35.64361,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"En N\u00e2ao\u00fbra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "An N\u0101\u2018\u016brah",
+        "En N\u00e2ao\u00fbra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":278818
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"c1137a59ed1ae16881f63c2fc95b9904",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":-1,
+            "locality_id":1193274637,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1193274637,
+    "wof:lastmodified":1537661218,
+    "wof:name":"En Naaoura",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.64360999999999,
+    34.0125,
+    35.64360999999999,
+    34.0125
+],
+  "geometry": {"coordinates":[35.64360999999999,34.0125],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1293132533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.81028,34.01028,35.81028,34.01028",
+    "geom:latitude":34.01028,
+    "geom:longitude":35.81028,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ech Chaara",
+    "gn:country_code":"LB",
+    "gn:dem":1299,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":278261,
+    "gn:latitude":34.01028,
+    "gn:longitude":35.81028,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ech Chaara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ash Sha\u2018rah",
+        "Ech Chaara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        421172015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":278261
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"99bea31ef6935c4fb92b760cf99236c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421172015,
+            "locality_id":1293132533,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1293132533,
+    "wof:lastmodified":1537661208,
+    "wof:name":"Ech Chaara",
+    "wof:parent_id":421172015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.81028,
+    34.01028,
+    35.81028,
+    34.01028
+],
+  "geometry": {"coordinates":[35.81028,34.01028],"type":"Point"}
+}

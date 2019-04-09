@@ -1,0 +1,75 @@
+{
+  "id": 1327323481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.775,34.2325,35.775,34.2325",
+    "geom:latitude":34.2325,
+    "geom:longitude":35.775,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Kfar Chlaimane",
+    "gn:country_code":"LB",
+    "gn:dem":689,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":272817,
+    "gn:latitude":34.2325,
+    "gn:longitude":35.775,
+    "gn:modification_date":"2014-03-08",
+    "gn:name":"Kfar Chla\u00efm\u00e2ne",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0641\u0631 \u0634\u0644\u064a\u0645\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Kafr Shlaym\u0101n",
+        "Kfar Chla\u00efm\u00e2ne",
+        "Kafr Shulaym\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673483,
+        421204111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":272817
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"128595658bfc159418ebeb8a0d5a5f1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421204111,
+            "locality_id":1327323481,
+            "region_id":85673483
+        }
+    ],
+    "wof:id":1327323481,
+    "wof:lastmodified":1537661080,
+    "wof:name":"Kfar Chlaimane",
+    "wof:parent_id":421204111,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.775,
+    34.2325,
+    35.775,
+    34.2325
+],
+  "geometry": {"coordinates":[35.775,34.2325],"type":"Point"}
+}

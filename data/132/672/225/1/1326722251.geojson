@@ -1,0 +1,74 @@
+{
+  "id": 1326722251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.50257,33.48297,35.50257,33.48297",
+    "geom:latitude":33.48297,
+    "geom:longitude":35.50257,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kfar Fila",
+    "gn:country_code":"LB",
+    "gn:dem":532,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":272883,
+    "gn:latitude":33.48297,
+    "gn:longitude":35.50257,
+    "gn:modification_date":"2013-08-06",
+    "gn:name":"Kfar F\u00eela",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0641\u0631 \u0641\u064a\u0644\u0627"
+    ],
+    "name:und_x_variant":[
+        "Kafr F\u012bl\u0101",
+        "Kfar F\u00eela"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673495,
+        1108691429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":272883
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"4aed8a5a6872d1f5150d4f695e55a938",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691429,
+            "locality_id":1326722251,
+            "region_id":85673495
+        }
+    ],
+    "wof:id":1326722251,
+    "wof:lastmodified":1537661086,
+    "wof:name":"Kfar Fila",
+    "wof:parent_id":1108691429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.50257,
+    33.48297,
+    35.50257,
+    33.48297
+],
+  "geometry": {"coordinates":[35.50257,33.48297],"type":"Point"}
+}

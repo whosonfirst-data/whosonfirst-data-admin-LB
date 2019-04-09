@@ -1,0 +1,74 @@
+{
+  "id": 1209404405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.70833,34.2025,35.70833,34.2025",
+    "geom:latitude":34.2025,
+    "geom:longitude":35.70833,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Jrabta",
+    "gn:country_code":"LB",
+    "gn:dem":522,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":273222,
+    "gn:latitude":34.2025,
+    "gn:longitude":35.70833,
+    "gn:modification_date":"2014-03-08",
+    "gn:name":"Jrabt\u00e2",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u0631\u0628\u062a\u0627"
+    ],
+    "name:und_x_variant":[
+        "Jrabt\u00e2",
+        "Jarabt\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        1377074355,
+        421204111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":273222
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"932f16542d97e2dcc56b71a1209392e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421204111,
+            "locality_id":1209404405,
+            "region_id":1377074355
+        }
+    ],
+    "wof:id":1209404405,
+    "wof:lastmodified":1551727619,
+    "wof:name":"Jrabta",
+    "wof:parent_id":421204111,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.70833,
+    34.2025,
+    35.70833,
+    34.2025
+],
+  "geometry": {"coordinates":[35.70833,34.2025],"type":"Point"}
+}

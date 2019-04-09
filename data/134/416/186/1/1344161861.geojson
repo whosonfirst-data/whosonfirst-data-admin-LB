@@ -1,0 +1,77 @@
+{
+  "id": 1344161861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.71,33.91111,35.71,33.91111",
+    "geom:latitude":33.91111,
+    "geom:longitude":35.71,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ech Choueir",
+    "gn:country_code":"LB",
+    "gn:dem":1232,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":278138,
+    "gn:latitude":33.91111,
+    "gn:longitude":35.71,
+    "gn:modification_date":"2018-04-06",
+    "gn:name":"Ech Choue\u00efr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0634\u0648\u064a\u0631"
+    ],
+    "name:und_x_variant":[
+        "Chouer",
+        "Ash Shuwayr",
+        "Ech Choue\u00efr",
+        "Choueir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        1108691425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":278138,
+        "wk:page":"Shweir"
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"79acec3a21dfb22468008822fe45be36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691425,
+            "locality_id":1344161861,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1344161861,
+    "wof:lastmodified":1537661205,
+    "wof:name":"Ech Choueir",
+    "wof:parent_id":1108691425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.71,
+    33.91111,
+    35.71,
+    33.91111
+],
+  "geometry": {"coordinates":[35.71,33.91111],"type":"Point"}
+}

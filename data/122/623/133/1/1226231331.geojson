@@ -1,0 +1,73 @@
+{
+  "id": 1226231331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.00082,34.38876,36.00082,34.38876",
+    "geom:latitude":34.38876,
+    "geom:longitude":36.00082,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Jouret el Khouri",
+    "gn:country_code":"LB",
+    "gn:dem":1097,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8624908,
+    "gn:latitude":34.38876,
+    "gn:longitude":36.00082,
+    "gn:modification_date":"2013-10-11",
+    "gn:name":"Jouret el Khouri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u0648\u0631\u0629 \u0627\u0644\u062e\u0648\u0631\u064a"
+    ],
+    "name:und_x_variant":[
+        "J\u016brat al Kh\u016br\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        1377074355,
+        1108691427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8624908
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"7517ab23a16dd5745ffc5bf6d4da3ba6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691427,
+            "locality_id":1226231331,
+            "region_id":1377074355
+        }
+    ],
+    "wof:id":1226231331,
+    "wof:lastmodified":1551727625,
+    "wof:name":"Jouret el Khouri",
+    "wof:parent_id":1108691427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.00082000000001,
+    34.38876,
+    36.00082000000001,
+    34.38876
+],
+  "geometry": {"coordinates":[36.00082000000001,34.38876],"type":"Point"}
+}

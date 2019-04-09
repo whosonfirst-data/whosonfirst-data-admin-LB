@@ -1,0 +1,79 @@
+{
+  "id": 1327034827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.67667,34.12361,35.67667,34.12361",
+    "geom:latitude":34.12361,
+    "geom:longitude":35.67667,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Bmehrine",
+    "gn:country_code":"LB",
+    "gn:dem":310,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":276427,
+    "gn:latitude":34.12361,
+    "gn:longitude":35.67667,
+    "gn:modification_date":"2014-03-08",
+    "gn:name":"Bmehr\u00eene",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0645\u0647\u0631\u064a\u0646"
+    ],
+    "name:ara_x_variant":[
+        "\u0645\u0647\u0631\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "Bmahr\u012bn",
+        "Bmehr\u00eene",
+        "Bimahr\u012bn",
+        "Mahr\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        421194845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":276427
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"96ea6142c947e580249ba1524b16a087",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421194845,
+            "locality_id":1327034827,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1327034827,
+    "wof:lastmodified":1537661155,
+    "wof:name":"Bmehrine",
+    "wof:parent_id":421194845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.67667,
+    34.12361,
+    35.67667,
+    34.12361
+],
+  "geometry": {"coordinates":[35.67667,34.12361],"type":"Point"}
+}

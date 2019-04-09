@@ -1,0 +1,75 @@
+{
+  "id": 1226744299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.46778,33.19333,35.46778,33.19333",
+    "geom:latitude":33.19333,
+    "geom:longitude":35.46778,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Chaqra",
+    "gn:country_code":"LB",
+    "gn:dem":628,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":267628,
+    "gn:latitude":33.19333,
+    "gn:longitude":35.46778,
+    "gn:modification_date":"2013-08-06",
+    "gn:name":"Chaqra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0634\u0642\u0631\u0627"
+    ],
+    "name:und_x_variant":[
+        "Shaqr\u0101",
+        "Chakra",
+        "Chaqra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673495,
+        1108691417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":267628
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"2784d9f2fa3c1ac7a16873ddf48c6ed0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691417,
+            "locality_id":1226744299,
+            "region_id":85673495
+        }
+    ],
+    "wof:id":1226744299,
+    "wof:lastmodified":1537661016,
+    "wof:name":"Chaqra",
+    "wof:parent_id":1108691417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.46778,
+    33.19333,
+    35.46778,
+    33.19333
+],
+  "geometry": {"coordinates":[35.46778,33.19333],"type":"Point"}
+}

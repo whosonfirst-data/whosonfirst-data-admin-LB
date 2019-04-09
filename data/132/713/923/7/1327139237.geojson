@@ -1,0 +1,73 @@
+{
+  "id": 1327139237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.67333,33.94889,35.67333,33.94889",
+    "geom:latitude":33.94889,
+    "geom:longitude":35.67333,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Balloune",
+    "gn:country_code":"LB",
+    "gn:dem":662,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":277061,
+    "gn:latitude":33.94889,
+    "gn:longitude":35.67333,
+    "gn:modification_date":"2018-03-29",
+    "gn:name":"Ballo\u00fbn\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ball\u016bnih",
+        "Ball\u016bnah",
+        "Ballo\u00fbn\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        421172015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":277061,
+        "wk:page":"Ballouneh"
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"4676f6b03f3d52d263cb1ad7aa24e273",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421172015,
+            "locality_id":1327139237,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1327139237,
+    "wof:lastmodified":1537661175,
+    "wof:name":"Balloune",
+    "wof:parent_id":421172015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.67333,
+    33.94889000000001,
+    35.67333,
+    33.94889000000001
+],
+  "geometry": {"coordinates":[35.67333,33.94889000000001],"type":"Point"}
+}

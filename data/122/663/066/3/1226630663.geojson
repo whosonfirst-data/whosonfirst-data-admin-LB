@@ -1,0 +1,71 @@
+{
+  "id": 1226630663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.7675,34.22917,35.7675,34.22917",
+    "geom:latitude":34.22917,
+    "geom:longitude":35.7675,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Chahouta",
+    "gn:country_code":"LB",
+    "gn:dem":601,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":267877,
+    "gn:latitude":34.22917,
+    "gn:longitude":35.7675,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ch\u00e2ho\u00fbta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sh\u0101\u1e29\u016bt\u0101",
+        "Ch\u00e2ho\u00fbta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        1377074355,
+        421204111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":267877
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"2e5444929dd0aa5c304e38d0070d48c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421204111,
+            "locality_id":1226630663,
+            "region_id":1377074355
+        }
+    ],
+    "wof:id":1226630663,
+    "wof:lastmodified":1551727625,
+    "wof:name":"Chahouta",
+    "wof:parent_id":421204111,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.7675,
+    34.22917,
+    35.7675,
+    34.22917
+],
+  "geometry": {"coordinates":[35.7675,34.22917],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1343355977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.59111,33.36028,35.59111,33.36028",
+    "geom:latitude":33.36028,
+    "geom:longitude":35.59111,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Marjayoun",
+    "gn:country_code":"LB",
+    "gn:dem":731,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":271226,
+    "gn:latitude":33.36028,
+    "gn:longitude":35.59111,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Marjayo\u00fbn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0631\u062c\u0639\u064a\u0648\u0646"
+    ],
+    "name:und_x_variant":[
+        "Djedeideh",
+        "El Judeide",
+        "Marji\u2018y\u016bn",
+        "Marjayo\u00fbn",
+        "Marjaayoun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673495,
+        1108691437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":271226,
+        "wk:page":"Marjayoun"
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"76507f1e7c131eedbbdca22b5e4f0760",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691437,
+            "locality_id":1343355977,
+            "region_id":85673495
+        }
+    ],
+    "wof:id":1343355977,
+    "wof:lastmodified":1537661060,
+    "wof:name":"Marjayoun",
+    "wof:parent_id":1108691437,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.59111,
+    33.36028,
+    35.59111,
+    33.36028
+],
+  "geometry": {"coordinates":[35.59111,33.36028],"type":"Point"}
+}

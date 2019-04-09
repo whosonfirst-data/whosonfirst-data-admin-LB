@@ -1,0 +1,75 @@
+{
+  "id": 1293314729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.40057,33.48045,35.40057,33.48045",
+    "geom:latitude":33.48045,
+    "geom:longitude":35.40057,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Mazraat el Qnaitra",
+    "gn:country_code":"LB",
+    "gn:dem":235,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":270673,
+    "gn:latitude":33.48045,
+    "gn:longitude":35.40057,
+    "gn:modification_date":"2013-08-06",
+    "gn:name":"Mazraat el Qna\u00eftra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0632\u0631\u0639\u0629 \u0627\u0644\u0642\u0646\u064a\u0637\u0631\u0629"
+    ],
+    "name:und_x_variant":[
+        "El-Qneitrah",
+        "Mazra\u2018at al Qunay\u0163irah",
+        "Mazraat el Qna\u00eftra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673499,
+        890451987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":270673
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"8700f05eb2e5f4c170c9de38182fd59d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":890451987,
+            "locality_id":1293314729,
+            "region_id":85673499
+        }
+    ],
+    "wof:id":1293314729,
+    "wof:lastmodified":1537661051,
+    "wof:name":"Mazraat el Qnaitra",
+    "wof:parent_id":890451987,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.40057,
+    33.48045,
+    35.40057,
+    33.48045
+],
+  "geometry": {"coordinates":[35.40057,33.48045],"type":"Point"}
+}

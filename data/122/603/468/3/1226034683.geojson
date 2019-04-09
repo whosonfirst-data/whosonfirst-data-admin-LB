@@ -1,0 +1,70 @@
+{
+  "id": 1226034683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.68722,34.225,35.68722,34.225",
+    "geom:latitude":34.225,
+    "geom:longitude":35.68722,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Mrah Chdid",
+    "gn:country_code":"LB",
+    "gn:dem":447,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":271445,
+    "gn:latitude":34.225,
+    "gn:longitude":35.68722,
+    "gn:modification_date":"2006-08-22",
+    "gn:name":"Mrah Chd\u00eed",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mar\u0101\u1e29 Shad\u012bd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        1377074355,
+        421204111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":271445
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"c871bb2579adfc05a9eebe1210a57c20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421204111,
+            "locality_id":1226034683,
+            "region_id":1377074355
+        }
+    ],
+    "wof:id":1226034683,
+    "wof:lastmodified":1551727624,
+    "wof:name":"Mrah Chdid",
+    "wof:parent_id":421204111,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.68722,
+    34.225,
+    35.68722,
+    34.225
+],
+  "geometry": {"coordinates":[35.68722,34.225],"type":"Point"}
+}

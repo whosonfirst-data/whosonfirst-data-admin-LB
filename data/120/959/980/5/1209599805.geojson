@@ -1,0 +1,73 @@
+{
+  "id": 1209599805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.94167,34.34722,35.94167,34.34722",
+    "geom:latitude":34.34722,
+    "geom:longitude":35.94167,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Harf Hzir",
+    "gn:country_code":"LB",
+    "gn:dem":667,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":274392,
+    "gn:latitude":34.34722,
+    "gn:longitude":35.94167,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Harf Hz\u00eer",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1e28arf \u1e28az\u012br",
+        "Harf Hazeer",
+        "Harf Az\u00eer",
+        "Harf Hz\u00eer"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        1377074355,
+        1108691445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":274392
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"35ecf067d597caa1b201db07ae2b872b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691445,
+            "locality_id":1209599805,
+            "region_id":1377074355
+        }
+    ],
+    "wof:id":1209599805,
+    "wof:lastmodified":1551727622,
+    "wof:name":"Harf Hzir",
+    "wof:parent_id":1108691445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.94167,
+    34.34722,
+    35.94167,
+    34.34722
+],
+  "geometry": {"coordinates":[35.94167,34.34722],"type":"Point"}
+}

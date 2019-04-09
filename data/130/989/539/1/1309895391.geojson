@@ -1,0 +1,75 @@
+{
+  "id": 1309895391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.8425,34.26056,35.8425,34.26056",
+    "geom:latitude":34.26056,
+    "geom:longitude":35.8425,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Metrit",
+    "gn:country_code":"LB",
+    "gn:dem":765,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":270369,
+    "gn:latitude":34.26056,
+    "gn:longitude":35.8425,
+    "gn:modification_date":"2014-03-08",
+    "gn:name":"Metr\u00eet",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u062a\u0631\u064a\u062a"
+    ],
+    "name:und_x_variant":[
+        "Mitr\u012bt",
+        "Metr\u00eet"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673483,
+        1108691411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":270369,
+        "wk:page":"Mitrit"
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"2ed507d27bd2b903f289345e0c3bb5a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691411,
+            "locality_id":1309895391,
+            "region_id":85673483
+        }
+    ],
+    "wof:id":1309895391,
+    "wof:lastmodified":1537661040,
+    "wof:name":"Metrit",
+    "wof:parent_id":1108691411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.8425,
+    34.26056,
+    35.8425,
+    34.26056
+],
+  "geometry": {"coordinates":[35.8425,34.26056],"type":"Point"}
+}

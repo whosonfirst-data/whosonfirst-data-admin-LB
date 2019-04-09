@@ -1,0 +1,71 @@
+{
+  "id": 1343647151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.09288,33.87864,36.09288,33.87864",
+    "geom:latitude":33.87864,
+    "geom:longitude":36.09288,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Saraain El Faouqa",
+    "gn:country_code":"LB",
+    "gn:dem":1104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7839016,
+    "gn:latitude":33.87864,
+    "gn:longitude":36.09288,
+    "gn:modification_date":"2011-05-27",
+    "gn:name":"Saraain El Faouqa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Serrain Fawka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673479,
+        421171405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7839016,
+        "wk:page":"Saraain_El_Faouqa"
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"aed9efa8593344efecfda717ae466069",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421171405,
+            "locality_id":1343647151,
+            "region_id":85673479
+        }
+    ],
+    "wof:id":1343647151,
+    "wof:lastmodified":1537661319,
+    "wof:name":"Saraain El Faouqa",
+    "wof:parent_id":421171405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.09288,
+    33.87864,
+    36.09288,
+    33.87864
+],
+  "geometry": {"coordinates":[36.09288,33.87864],"type":"Point"}
+}

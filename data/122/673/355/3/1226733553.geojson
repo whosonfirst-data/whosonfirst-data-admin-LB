@@ -1,0 +1,76 @@
+{
+  "id": 1226733553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.03556,34.53222,36.03556,34.53222",
+    "geom:latitude":34.53222,
+    "geom:longitude":36.03556,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Mathanet ed Delbe",
+    "gn:country_code":"LB",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":270850,
+    "gn:latitude":34.53222,
+    "gn:longitude":36.03556,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mathanet ed Delb\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aarka",
+        "\u2018Arqah",
+        "Aarqa",
+        "Arka",
+        "\u2018Arq\u0101",
+        "Ma\u0163\u1e29anat ad Dulbah",
+        "Mathanet ed Delb\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        1377074357,
+        1108691407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":270850
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"e22658f752fa75c4ccc2777824bc04ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691407,
+            "locality_id":1226733553,
+            "region_id":1377074357
+        }
+    ],
+    "wof:id":1226733553,
+    "wof:lastmodified":1551727674,
+    "wof:name":"Mathanet ed Delbe",
+    "wof:parent_id":1108691407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.03556,
+    34.53222,
+    36.03556,
+    34.53222
+],
+  "geometry": {"coordinates":[36.03556,34.53222],"type":"Point"}
+}

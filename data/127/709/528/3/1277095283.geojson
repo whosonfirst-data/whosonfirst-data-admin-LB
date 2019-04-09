@@ -1,0 +1,74 @@
+{
+  "id": 1277095283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.73,34.32861,35.73,34.32861",
+    "geom:latitude":34.32861,
+    "geom:longitude":35.73,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Chekka",
+    "gn:country_code":"LB",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6280494,
+    "gn:latitude":34.32861,
+    "gn:longitude":35.73,
+    "gn:modification_date":"2014-03-09",
+    "gn:name":"Chekka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0634\u0643\u0627"
+    ],
+    "name:und_x_variant":[
+        "Shakk\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673483,
+        421204111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6280494,
+        "wk:page":"Chekka"
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"23f0b66f9e4e8827934770b5953d9f3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421204111,
+            "locality_id":1277095283,
+            "region_id":85673483
+        }
+    ],
+    "wof:id":1277095283,
+    "wof:lastmodified":1537661318,
+    "wof:name":"Chekka",
+    "wof:parent_id":421204111,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.73,
+    34.32861,
+    35.73,
+    34.32861
+],
+  "geometry": {"coordinates":[35.73,34.32861],"type":"Point"}
+}

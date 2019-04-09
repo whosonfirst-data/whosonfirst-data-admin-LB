@@ -1,0 +1,76 @@
+{
+  "id": 1293581739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.38521,33.41709,35.38521,33.41709",
+    "geom:latitude":33.41709,
+    "geom:longitude":35.38521,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kaoutariet es Siyad",
+    "gn:country_code":"LB",
+    "gn:dem":302,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":272676,
+    "gn:latitude":33.41709,
+    "gn:longitude":35.38521,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Kaoutar\u00eeet es Siy\u00e2d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0648\u062a\u0631\u064a\u0629 \u0627\u0644\u0633\u064a\u0627\u062f"
+    ],
+    "name:und_x_variant":[
+        "Kawthar\u012byat as S\u012by\u0101d",
+        "Kaoutar\u00eeet es Siy\u00e2d",
+        "Kawtar\u012byat as Siy\u0101d",
+        "Kawtar\u012byat as Sayy\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673499,
+        890451987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":272676
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"76e4e9a55899f7b7bd897fedbee24b90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":890451987,
+            "locality_id":1293581739,
+            "region_id":85673499
+        }
+    ],
+    "wof:id":1293581739,
+    "wof:lastmodified":1537661077,
+    "wof:name":"Kaoutariet es Siyad",
+    "wof:parent_id":890451987,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.38521,
+    33.41709,
+    35.38521,
+    33.41709
+],
+  "geometry": {"coordinates":[35.38521,33.41709],"type":"Point"}
+}

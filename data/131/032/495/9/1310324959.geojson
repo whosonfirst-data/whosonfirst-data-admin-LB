@@ -1,0 +1,74 @@
+{
+  "id": 1310324959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.76667,33.51528,35.76667,33.51528",
+    "geom:latitude":33.51528,
+    "geom:longitude":35.76667,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Kfarmechki",
+    "gn:country_code":"LB",
+    "gn:dem":1185,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":272844,
+    "gn:latitude":33.51528,
+    "gn:longitude":35.76667,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Kfarmechk\u00ee",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0641\u0631 \u0645\u0634\u0643\u064a"
+    ],
+    "name:und_x_variant":[
+        "Kafr Mishk\u012b",
+        "Kfarmechk\u00ee"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673479,
+        1108691439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":272844
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"a0c20c341cf6d5d5b2692f120c95d082",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691439,
+            "locality_id":1310324959,
+            "region_id":85673479
+        }
+    ],
+    "wof:id":1310324959,
+    "wof:lastmodified":1537661082,
+    "wof:name":"Kfarmechki",
+    "wof:parent_id":1108691439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.76667,
+    33.51528,
+    35.76667,
+    33.51528
+],
+  "geometry": {"coordinates":[35.76667,33.51528],"type":"Point"}
+}

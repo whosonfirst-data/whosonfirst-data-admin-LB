@@ -1,0 +1,76 @@
+{
+  "id": 1309704863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.40667,33.46694,35.40667,33.46694",
+    "geom:latitude":33.46694,
+    "geom:longitude":35.40667,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Khzaiz",
+    "gn:country_code":"LB",
+    "gn:dem":320,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":272318,
+    "gn:latitude":33.46694,
+    "gn:longitude":35.40667,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Khza\u00efz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0632\u064a\u0632"
+    ],
+    "name:und_x_variant":[
+        "Khz\u0101z",
+        "Khza\u00efz",
+        "Khaz\u012bz",
+        "Khuzyz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673499,
+        890451987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":272318
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"00642b0f14eeccdf1da27c0745b4f2cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":890451987,
+            "locality_id":1309704863,
+            "region_id":85673499
+        }
+    ],
+    "wof:id":1309704863,
+    "wof:lastmodified":1537661074,
+    "wof:name":"Khzaiz",
+    "wof:parent_id":890451987,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.40667,
+    33.46694,
+    35.40667,
+    33.46694
+],
+  "geometry": {"coordinates":[35.40667,33.46694],"type":"Point"}
+}

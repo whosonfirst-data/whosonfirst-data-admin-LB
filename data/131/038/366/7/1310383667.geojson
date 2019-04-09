@@ -1,0 +1,71 @@
+{
+  "id": 1310383667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.27306,34.1525,36.27306,34.1525",
+    "geom:latitude":34.1525,
+    "geom:longitude":36.27306,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Aabla",
+    "gn:country_code":"LB",
+    "gn:dem":939,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":281019,
+    "gn:latitude":34.1525,
+    "gn:longitude":36.27306,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Aabl\u00e2",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u2018Ablah",
+        "Aabl\u00e2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673479,
+        421171405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":281019
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"8482a4c9861fc480920af9691d7f7c69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421171405,
+            "locality_id":1310383667,
+            "region_id":85673479
+        }
+    ],
+    "wof:id":1310383667,
+    "wof:lastmodified":1537661299,
+    "wof:name":"Aabla",
+    "wof:parent_id":421171405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.27306,
+    34.1525,
+    36.27306,
+    34.1525
+],
+  "geometry": {"coordinates":[36.27306,34.1525],"type":"Point"}
+}

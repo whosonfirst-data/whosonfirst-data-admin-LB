@@ -1,0 +1,76 @@
+{
+  "id": 1259706545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.77644,34.1032,35.77644,34.1032",
+    "geom:latitude":34.1032,
+    "geom:longitude":35.77644,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Hosna",
+    "gn:country_code":"LB",
+    "gn:dem":929,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":273778,
+    "gn:latitude":34.1032,
+    "gn:longitude":35.77644,
+    "gn:modification_date":"2014-03-08",
+    "gn:name":"Hosna",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0635\u0646\u0627"
+    ],
+    "name:und_x_variant":[
+        "Asna",
+        "Husnah",
+        "\u1e28u\u015fn\u0101",
+        "Hosna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        421194845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":273778
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"5c1a61f7e6f25ea827c5c606b3312006",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421194845,
+            "locality_id":1259706545,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1259706545,
+    "wof:lastmodified":1537661100,
+    "wof:name":"Hosna",
+    "wof:parent_id":421194845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.77644,
+    34.1032,
+    35.77644,
+    34.1032
+],
+  "geometry": {"coordinates":[35.77644,34.1032],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1327157023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.66306,34.08722,35.66306,34.08722",
+    "geom:latitude":34.08722,
+    "geom:longitude":35.66306,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"En Nqour",
+    "gn:country_code":"LB",
+    "gn:dem":241,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":278812,
+    "gn:latitude":34.08722,
+    "gn:longitude":35.66306,
+    "gn:modification_date":"2013-10-07",
+    "gn:name":"En Nqo\u00fbr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0646\u0642\u0648\u0631"
+    ],
+    "name:ara_x_variant":[
+        "An Nuq\u016br"
+    ],
+    "name:und_x_variant":[
+        "Enn No\u00fbra",
+        "En Noukour",
+        "El Noura",
+        "An Nq\u016br",
+        "En Nqo\u00fbr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        421194845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":278812
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"26fcfe89fd2ae266d42ae42ede7183d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421194845,
+            "locality_id":1327157023,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1327157023,
+    "wof:lastmodified":1537661218,
+    "wof:name":"En Nqour",
+    "wof:parent_id":421194845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.66305999999999,
+    34.08722,
+    35.66305999999999,
+    34.08722
+],
+  "geometry": {"coordinates":[35.66305999999999,34.08722],"type":"Point"}
+}

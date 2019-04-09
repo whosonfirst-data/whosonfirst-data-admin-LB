@@ -1,0 +1,78 @@
+{
+  "id": 1242970103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.47806,33.67528,35.47806,33.67528",
+    "geom:latitude":33.67528,
+    "geom:longitude":35.47806,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Baqaoun el Faouqa",
+    "gn:country_code":"LB",
+    "gn:dem":419,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":277013,
+    "gn:latitude":33.67528,
+    "gn:longitude":35.47806,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Baqaoun el Faouqa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0628\u0642\u0639\u0648\u0646"
+    ],
+    "name:ara_x_variant":[
+        "\u0628\u0642\u0639\u0648\u0646 \u0627\u0644\u0641\u0648\u0642\u0627"
+    ],
+    "name:und_x_variant":[
+        "Baq\u2018\u016bn al Fawq\u0101",
+        "Baqaoun el Faouqa",
+        "Al Baqa\u2018\u016bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        1108691419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":277013
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"c0dce29eca086813571035ad36f6f2be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691419,
+            "locality_id":1242970103,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1242970103,
+    "wof:lastmodified":1537661174,
+    "wof:name":"Baqaoun el Faouqa",
+    "wof:parent_id":1108691419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.47806,
+    33.67528,
+    35.47806,
+    33.67528
+],
+  "geometry": {"coordinates":[35.47806,33.67528],"type":"Point"}
+}

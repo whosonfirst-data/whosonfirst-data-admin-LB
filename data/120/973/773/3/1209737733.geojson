@@ -1,0 +1,76 @@
+{
+  "id": 1209737733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.60417,33.44083,35.60417,33.44083",
+    "geom:latitude":33.44083,
+    "geom:longitude":35.60417,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"El Qatrani",
+    "gn:country_code":"LB",
+    "gn:dem":990,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":279052,
+    "gn:latitude":33.44083,
+    "gn:longitude":35.60417,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"El Qatr\u00e2ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0642\u0637\u0631\u0627\u0646\u064a"
+    ],
+    "name:und_x_variant":[
+        "Al Qu\u0163r\u0101n\u012b",
+        "El-Qittrani",
+        "El Qatr\u00e2ni",
+        "Al Qa\u0163r\u0101n\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673499,
+        1108691435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":279052
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"99f256b31fca928e5f2c2e511c57e25c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691435,
+            "locality_id":1209737733,
+            "region_id":85673499
+        }
+    ],
+    "wof:id":1209737733,
+    "wof:lastmodified":1537661228,
+    "wof:name":"El Qatrani",
+    "wof:parent_id":1108691435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.60417,
+    33.44083,
+    35.60417,
+    33.44083
+],
+  "geometry": {"coordinates":[35.60417,33.44083],"type":"Point"}
+}

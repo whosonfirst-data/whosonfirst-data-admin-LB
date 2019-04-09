@@ -1,0 +1,75 @@
+{
+  "id": 1259482417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.58833,33.90222,35.58833,33.90222",
+    "geom:latitude":33.90222,
+    "geom:longitude":35.58833,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Bainnaya",
+    "gn:country_code":"LB",
+    "gn:dem":183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":276401,
+    "gn:latitude":33.90222,
+    "gn:longitude":35.58833,
+    "gn:modification_date":"2018-03-07",
+    "gn:name":"Bainn\u00e2ya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0642\u0646\u0627\u064a\u0627"
+    ],
+    "name:und_x_variant":[
+        "Bqenn\u00e2ya",
+        "Bqinn\u0101y\u0101",
+        "Bainn\u00e2ya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        1108691425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":276401
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"c38bef3ab9a6f8b80457b685f8a89148",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691425,
+            "locality_id":1259482417,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1259482417,
+    "wof:lastmodified":1537661154,
+    "wof:name":"Bainnaya",
+    "wof:parent_id":1108691425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.58833,
+    33.90222,
+    35.58833,
+    33.90222
+],
+  "geometry": {"coordinates":[35.58833,33.90222],"type":"Point"}
+}

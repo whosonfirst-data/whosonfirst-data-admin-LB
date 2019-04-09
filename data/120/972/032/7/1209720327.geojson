@@ -1,0 +1,71 @@
+{
+  "id": 1209720327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.76806,33.98861,35.76806,33.98861",
+    "geom:latitude":33.98861,
+    "geom:longitude":35.76806,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Qattine el Marj",
+    "gn:country_code":"LB",
+    "gn:dem":1331,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":269149,
+    "gn:latitude":33.98861,
+    "gn:longitude":35.76806,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Qatt\u00eene el Marj",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qa\u0163\u0163\u012bn al Marj",
+        "Qatt\u00eene el Marj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        421172015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":269149
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"b376c876ce2c17cf8ff92aeae262f4d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421172015,
+            "locality_id":1209720327,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1209720327,
+    "wof:lastmodified":1537661032,
+    "wof:name":"Qattine el Marj",
+    "wof:parent_id":421172015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.76806,
+    33.98860999999999,
+    35.76806,
+    33.98860999999999
+],
+  "geometry": {"coordinates":[35.76806,33.98860999999999],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1292901271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.28718,33.22689,35.28718,33.22689",
+    "geom:latitude":33.22689,
+    "geom:longitude":35.28718,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Reqlay",
+    "gn:country_code":"LB",
+    "gn:dem":235,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":268795,
+    "gn:latitude":33.22689,
+    "gn:longitude":35.28718,
+    "gn:modification_date":"2013-08-06",
+    "gn:name":"Reql\u00e2y",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0631\u0642\u0644\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Raql\u012byah",
+        "Reql\u00e2y"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673499,
+        1108691441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":268795
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"1917688e88320468ac987aa190feae8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691441,
+            "locality_id":1292901271,
+            "region_id":85673499
+        }
+    ],
+    "wof:id":1292901271,
+    "wof:lastmodified":1537661027,
+    "wof:name":"Reqlay",
+    "wof:parent_id":1108691441,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.28718,
+    33.22689,
+    35.28718,
+    33.22689
+],
+  "geometry": {"coordinates":[35.28718,33.22689],"type":"Point"}
+}

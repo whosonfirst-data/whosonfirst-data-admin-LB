@@ -1,0 +1,77 @@
+{
+  "id": 1293611839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.46417,33.63972,35.46417,33.63972",
+    "geom:latitude":33.63972,
+    "geom:longitude":35.46417,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Chemmis",
+    "gn:country_code":"LB",
+    "gn:dem":421,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":278288,
+    "gn:latitude":33.63972,
+    "gn:longitude":35.46417,
+    "gn:modification_date":"2013-04-04",
+    "gn:name":"Chemm\u00ees",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0634\u0645\u064a\u0633"
+    ],
+    "name:und_x_variant":[
+        "Chma\u00efss",
+        "Chemmass\u00e9",
+        "Ash Sham\u012bs",
+        "Chemm\u00ees",
+        "Sham\u012bs"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        1108691419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":278288
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"6375c6afe5a4f180ff6dcb3f17936a2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691419,
+            "locality_id":1293611839,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1293611839,
+    "wof:lastmodified":1537661209,
+    "wof:name":"Chemmis",
+    "wof:parent_id":1108691419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.46417,
+    33.63972,
+    35.46417,
+    33.63972
+],
+  "geometry": {"coordinates":[35.46417,33.63972],"type":"Point"}
+}

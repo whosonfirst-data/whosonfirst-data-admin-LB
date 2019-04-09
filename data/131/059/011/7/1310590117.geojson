@@ -1,0 +1,72 @@
+{
+  "id": 1310590117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.10917,34.48194,36.10917,34.48194",
+    "geom:latitude":34.48194,
+    "geom:longitude":36.10917,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Beit ez Zahle",
+    "gn:country_code":"LB",
+    "gn:dem":573,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":276737,
+    "gn:latitude":34.48194,
+    "gn:longitude":36.10917,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Be\u00eft ez Zahl\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Es S\u00eeh\u00e2ne",
+        "Bayt az Za\u1e29lah",
+        "Be\u00eft ez Zahl\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673483,
+        1108691407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":276737
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"339b5824a718a9d07c00d1d5eb70b1e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691407,
+            "locality_id":1310590117,
+            "region_id":85673483
+        }
+    ],
+    "wof:id":1310590117,
+    "wof:lastmodified":1537661168,
+    "wof:name":"Beit ez Zahle",
+    "wof:parent_id":1108691407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.10917,
+    34.48194,
+    36.10917,
+    34.48194
+],
+  "geometry": {"coordinates":[36.10917,34.48194],"type":"Point"}
+}

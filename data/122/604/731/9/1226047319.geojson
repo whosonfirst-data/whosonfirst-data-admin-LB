@@ -1,0 +1,74 @@
+{
+  "id": 1226047319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.69333,34.01972,35.69333,34.01972",
+    "geom:latitude":34.01972,
+    "geom:longitude":35.69333,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Jdaidet Ghazir",
+    "gn:country_code":"LB",
+    "gn:dem":587,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":273174,
+    "gn:latitude":34.01972,
+    "gn:longitude":35.69333,
+    "gn:modification_date":"2013-10-07",
+    "gn:name":"Jda\u00efdet Ghaz\u00eer",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u062f\u064a\u062f\u0629 \u063a\u0632\u064a\u0631"
+    ],
+    "name:und_x_variant":[
+        "Judaydat Ghaz\u012br",
+        "Jda\u00efdet Ghaz\u00eer"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        421172015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":273174
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"5b2d5ff436a2c3b5df7c8aadbeef9f3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421172015,
+            "locality_id":1226047319,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1226047319,
+    "wof:lastmodified":1537661090,
+    "wof:name":"Jdaidet Ghazir",
+    "wof:parent_id":421172015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.69333,
+    34.01972,
+    35.69333,
+    34.01972
+],
+  "geometry": {"coordinates":[35.69333,34.01972],"type":"Point"}
+}

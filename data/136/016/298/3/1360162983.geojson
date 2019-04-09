@@ -1,0 +1,74 @@
+{
+  "id": 1360162983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.17139,34.03694,36.17139,34.03694",
+    "geom:latitude":34.03694,
+    "geom:longitude":36.17139,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Iaat",
+    "gn:country_code":"LB",
+    "gn:dem":1046,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":273753,
+    "gn:latitude":34.03694,
+    "gn:longitude":36.17139,
+    "gn:modification_date":"2018-03-30",
+    "gn:name":"\u00cea\u00e2t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ay\u2018\u0101t",
+        "\u012a\u2018\u0101t",
+        "\u00cea\u00e2t",
+        "Ya'ad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        1377074353,
+        421171405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":273753,
+        "wk:page":"Iaat"
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"0baa99c67cafe3b8abf7887623258c0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421171405,
+            "locality_id":1360162983,
+            "region_id":1377074353
+        }
+    ],
+    "wof:id":1360162983,
+    "wof:lastmodified":1551727646,
+    "wof:name":"Iaat",
+    "wof:parent_id":421171405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.17139,
+    34.03694,
+    36.17139,
+    34.03694
+],
+  "geometry": {"coordinates":[36.17139,34.03694],"type":"Point"}
+}

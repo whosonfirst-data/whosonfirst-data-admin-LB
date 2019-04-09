@@ -1,0 +1,71 @@
+{
+  "id": 1259806359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.67222,33.935,35.67222,33.935",
+    "geom:latitude":33.935,
+    "geom:longitude":35.67222,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Es Sfarjle",
+    "gn:country_code":"LB",
+    "gn:dem":657,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":278106,
+    "gn:latitude":33.935,
+    "gn:longitude":35.67222,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Es Sfarjl\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "As Safarjalah",
+        "Es Sfarjl\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        1108691425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":278106
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"15fb184415c805a4b8ee0208151d473a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691425,
+            "locality_id":1259806359,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1259806359,
+    "wof:lastmodified":1537661204,
+    "wof:name":"Es Sfarjle",
+    "wof:parent_id":1108691425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.67222,
+    33.935,
+    35.67222,
+    33.935
+],
+  "geometry": {"coordinates":[35.67222,33.935],"type":"Point"}
+}

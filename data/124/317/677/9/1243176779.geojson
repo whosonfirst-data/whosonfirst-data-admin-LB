@@ -1,0 +1,74 @@
+{
+  "id": 1243176779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.68889,33.85972,35.68889,33.85972",
+    "geom:latitude":33.85972,
+    "geom:longitude":35.68889,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Arsoun",
+    "gn:country_code":"LB",
+    "gn:dem":763,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":278399,
+    "gn:latitude":33.85972,
+    "gn:longitude":35.68889,
+    "gn:modification_date":"2018-04-06",
+    "gn:name":"Arso\u00fbn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0631\u0635\u0648\u0646"
+    ],
+    "name:und_x_variant":[
+        "Ar\u015f\u016bn",
+        "Arso\u00fbn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        421202301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":278399
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"66de554c81bd0468fe47b7c7607386c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421202301,
+            "locality_id":1243176779,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1243176779,
+    "wof:lastmodified":1537661210,
+    "wof:name":"Arsoun",
+    "wof:parent_id":421202301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.68889,
+    33.85972,
+    35.68889,
+    33.85972
+],
+  "geometry": {"coordinates":[35.68889,33.85972],"type":"Point"}
+}

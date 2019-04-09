@@ -1,0 +1,71 @@
+{
+  "id": 1293906245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.76889,34.11917,35.76889,34.11917",
+    "geom:latitude":34.11917,
+    "geom:longitude":35.76889,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Hai Mar Jeryos",
+    "gn:country_code":"LB",
+    "gn:dem":1276,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":274065,
+    "gn:latitude":34.11917,
+    "gn:longitude":35.76889,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ha\u00ef M\u00e2r Jeryos",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1e28ayy M\u0101r Jiryis",
+        "Ha\u00ef M\u00e2r Jeryos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        421194845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":274065
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"04b0c41c6236def731f1604361e2d779",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421194845,
+            "locality_id":1293906245,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1293906245,
+    "wof:lastmodified":1537661105,
+    "wof:name":"Hai Mar Jeryos",
+    "wof:parent_id":421194845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.76889,
+    34.11917,
+    35.76889,
+    34.11917
+],
+  "geometry": {"coordinates":[35.76889,34.11917],"type":"Point"}
+}

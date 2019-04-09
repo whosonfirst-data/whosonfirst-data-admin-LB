@@ -1,0 +1,71 @@
+{
+  "id": 1193007961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.07,34.41833,36.07,34.41833",
+    "geom:latitude":34.41833,
+    "geom:longitude":36.07,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Beit Haouik",
+    "gn:country_code":"LB",
+    "gn:dem":893,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":276724,
+    "gn:latitude":34.41833,
+    "gn:longitude":36.07,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Be\u00eft H\u00e2ou\u00eek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bayt \u1e28\u0101w\u012bk",
+        "Be\u00eft H\u00e2ou\u00eek"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        1377074355,
+        1108691427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":276724
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"97dcc0924cbd486ccc6d4a99a0b42fbf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691427,
+            "locality_id":1193007961,
+            "region_id":1377074355
+        }
+    ],
+    "wof:id":1193007961,
+    "wof:lastmodified":1551727615,
+    "wof:name":"Beit Haouik",
+    "wof:parent_id":1108691427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.07,
+    34.41833,
+    36.07,
+    34.41833
+],
+  "geometry": {"coordinates":[36.07,34.41833],"type":"Point"}
+}

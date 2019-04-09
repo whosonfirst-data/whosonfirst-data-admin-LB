@@ -1,0 +1,79 @@
+{
+  "id": 1326853235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.51861,33.86444,35.51861,33.86444",
+    "geom:latitude":33.86444,
+    "geom:longitude":35.51861,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Chiyah",
+    "gn:country_code":"LB",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":278159,
+    "gn:latitude":33.86444,
+    "gn:longitude":35.51861,
+    "gn:modification_date":"2018-03-07",
+    "gn:name":"Chiyah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0634\u064a\u0627\u062d"
+    ],
+    "name:und_x_variant":[
+        "Ech Ch\u00eey\u00e2h",
+        "Chiah",
+        "Chiya",
+        "Ash Sh\u012by\u0101\u1e29",
+        "Chiyah",
+        "Ash Shiy\u0101\u1e29"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        421202301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":278159,
+        "wk:page":"Chyah"
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"15ab4025e81875c4f29d26d55423b31a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421202301,
+            "locality_id":1326853235,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1326853235,
+    "wof:lastmodified":1537661205,
+    "wof:name":"Chiyah",
+    "wof:parent_id":421202301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.51860999999999,
+    33.86444,
+    35.51860999999999,
+    33.86444
+],
+  "geometry": {"coordinates":[35.51860999999999,33.86444],"type":"Point"}
+}

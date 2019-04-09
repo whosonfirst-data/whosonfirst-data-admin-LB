@@ -1,0 +1,73 @@
+{
+  "id": 1326728157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.23888,33.1946,35.23888,33.1946",
+    "geom:latitude":33.1946,
+    "geom:longitude":35.23888,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Aamrane",
+    "gn:country_code":"LB",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8595350,
+    "gn:latitude":33.1946,
+    "gn:longitude":35.23888,
+    "gn:modification_date":"2013-08-10",
+    "gn:name":"Aamrane",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0645\u0631\u0627\u0646"
+    ],
+    "name:ara_x_variant":[
+        "\u2018Amr\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673499,
+        1108691441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8595350
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"f6700f865a63bfd9f4d3e35b6617a9d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691441,
+            "locality_id":1326728157,
+            "region_id":85673499
+        }
+    ],
+    "wof:id":1326728157,
+    "wof:lastmodified":1537661321,
+    "wof:name":"Aamrane",
+    "wof:parent_id":1108691441,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.23888,
+    33.1946,
+    35.23888,
+    33.1946
+],
+  "geometry": {"coordinates":[35.23888,33.1946],"type":"Point"}
+}

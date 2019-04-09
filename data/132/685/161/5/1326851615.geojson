@@ -1,0 +1,75 @@
+{
+  "id": 1326851615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.71361,33.42,35.71361,33.42",
+    "geom:latitude":33.42,
+    "geom:longitude":35.71361,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Mimess",
+    "gn:country_code":"LB",
+    "gn:dem":786,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":270502,
+    "gn:latitude":33.42,
+    "gn:longitude":35.71361,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"M\u00eemess",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u064a\u0645\u0633"
+    ],
+    "name:und_x_variant":[
+        "M\u012bmis",
+        "M\u00eemess",
+        "Maymis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673495,
+        1108691431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":270502
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"1ac4f2c2821bad74262130bb21828d8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691431,
+            "locality_id":1326851615,
+            "region_id":85673495
+        }
+    ],
+    "wof:id":1326851615,
+    "wof:lastmodified":1537661041,
+    "wof:name":"Mimess",
+    "wof:parent_id":1108691431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.71361,
+    33.42,
+    35.71361,
+    33.42
+],
+  "geometry": {"coordinates":[35.71361,33.42],"type":"Point"}
+}

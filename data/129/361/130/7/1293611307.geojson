@@ -1,0 +1,75 @@
+{
+  "id": 1293611307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.54528,33.57417,35.54528,33.57417",
+    "geom:latitude":33.57417,
+    "geom:longitude":35.54528,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Taaid",
+    "gn:country_code":"LB",
+    "gn:dem":598,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":266711,
+    "gn:latitude":33.57417,
+    "gn:longitude":35.54528,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Taa\u00efd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0637\u0639\u064a\u062f"
+    ],
+    "name:und_x_variant":[
+        "T\u2018\u012bd",
+        "Taa\u00efd",
+        "\u0162a\u2018\u012bd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673499,
+        1108691435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":266711
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"c218e7c3c2fe069b56dc1a4859f47d4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691435,
+            "locality_id":1293611307,
+            "region_id":85673499
+        }
+    ],
+    "wof:id":1293611307,
+    "wof:lastmodified":1537661003,
+    "wof:name":"Taaid",
+    "wof:parent_id":1108691435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.54528,
+    33.57417,
+    35.54528,
+    33.57417
+],
+  "geometry": {"coordinates":[35.54528,33.57417],"type":"Point"}
+}

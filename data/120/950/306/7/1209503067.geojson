@@ -1,0 +1,71 @@
+{
+  "id": 1209503067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.27472,34.07917,36.27472,34.07917",
+    "geom:latitude":34.07917,
+    "geom:longitude":36.27472,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Younine",
+    "gn:country_code":"LB",
+    "gn:dem":1207,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":266091,
+    "gn:latitude":34.07917,
+    "gn:longitude":36.27472,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Yo\u00fbn\u00eene",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Y\u016bn\u012bn",
+        "Yo\u00fbn\u00eene"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        1377074353,
+        421171405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":266091
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"0ffd96d5fa18ef53855c8391933a52c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421171405,
+            "locality_id":1209503067,
+            "region_id":1377074353
+        }
+    ],
+    "wof:id":1209503067,
+    "wof:lastmodified":1551727653,
+    "wof:name":"Younine",
+    "wof:parent_id":421171405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.27472,
+    34.07917,
+    36.27472,
+    34.07917
+],
+  "geometry": {"coordinates":[36.27472,34.07917],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1344061895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.64139,33.86306,35.64139,33.86306",
+    "geom:latitude":33.86306,
+    "geom:longitude":35.64139,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Haql Hassan",
+    "gn:country_code":"LB",
+    "gn:dem":583,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":274512,
+    "gn:latitude":33.86306,
+    "gn:longitude":35.64139,
+    "gn:modification_date":"2018-04-06",
+    "gn:name":"Haql Hassan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0642\u0644 \u062d\u0633\u0646"
+    ],
+    "name:und_x_variant":[
+        "\u1e28aql \u1e28asan",
+        "Haql Hassan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        421202301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":274512
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"213e0e7577e78cb969e94993b93c023f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421202301,
+            "locality_id":1344061895,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1344061895,
+    "wof:lastmodified":1537661118,
+    "wof:name":"Haql Hassan",
+    "wof:parent_id":421202301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.64139,
+    33.86306,
+    35.64139,
+    33.86306
+],
+  "geometry": {"coordinates":[35.64139,33.86306],"type":"Point"}
+}

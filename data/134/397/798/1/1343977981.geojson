@@ -1,0 +1,78 @@
+{
+  "id": 1343977981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.91167,33.75694,35.91167,33.75694",
+    "geom:latitude":33.75694,
+    "geom:longitude":35.91167,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Deir Zenoun",
+    "gn:country_code":"LB",
+    "gn:dem":873,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":275759,
+    "gn:latitude":33.75694,
+    "gn:longitude":35.91167,
+    "gn:modification_date":"2018-03-07",
+    "gn:name":"De\u00efr Zeno\u00fbn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u064a\u0631 \u0632\u0646\u0648\u0646"
+    ],
+    "name:und_x_variant":[
+        "Darzanoun",
+        "De\u00efr Zenoun",
+        "Derzenoun",
+        "Darzayn\u016bn",
+        "De\u00efr Zeno\u00fbn",
+        "Dayr Zan\u016bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673479,
+        421172017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":275759
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"0004156d21f4ccd80a67511c0734b2e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421172017,
+            "locality_id":1343977981,
+            "region_id":85673479
+        }
+    ],
+    "wof:id":1343977981,
+    "wof:lastmodified":1537661136,
+    "wof:name":"Deir Zenoun",
+    "wof:parent_id":421172017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.91167,
+    33.75694,
+    35.91167,
+    33.75694
+],
+  "geometry": {"coordinates":[35.91167,33.75694],"type":"Point"}
+}

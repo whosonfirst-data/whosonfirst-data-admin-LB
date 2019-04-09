@@ -1,0 +1,74 @@
+{
+  "id": 1327430665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.6625,34.11167,35.6625,34.11167",
+    "geom:latitude":34.11167,
+    "geom:longitude":35.6625,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ainat",
+    "gn:country_code":"LB",
+    "gn:dem":154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":277537,
+    "gn:latitude":34.11167,
+    "gn:longitude":35.6625,
+    "gn:modification_date":"2014-03-08",
+    "gn:name":"A\u00efn\u00e2t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u064a\u0646\u0627\u062a"
+    ],
+    "name:und_x_variant":[
+        "\u2018Ayn\u0101t",
+        "A\u00efn\u00e2t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        421194845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":277537
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"2043bf680ddfd888554748b5567a3e6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421194845,
+            "locality_id":1327430665,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1327430665,
+    "wof:lastmodified":1537661189,
+    "wof:name":"Ainat",
+    "wof:parent_id":421194845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.6625,
+    34.11167,
+    35.6625,
+    34.11167
+],
+  "geometry": {"coordinates":[35.6625,34.11167],"type":"Point"}
+}

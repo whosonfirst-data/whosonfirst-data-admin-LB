@@ -1,0 +1,78 @@
+{
+  "id": 1209705395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.87394,34.3535,35.87394,34.3535",
+    "geom:latitude":34.3535,
+    "geom:longitude":35.87394,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Bisbeel",
+    "gn:country_code":"LB",
+    "gn:dem":232,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":276343,
+    "gn:latitude":34.3535,
+    "gn:longitude":35.87394,
+    "gn:modification_date":"2014-03-08",
+    "gn:name":"Bisbeel",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0633\u0628\u0639\u0644"
+    ],
+    "name:ara_x_variant":[
+        "Bisib\u2018il"
+    ],
+    "name:und_x_variant":[
+        "Bsib\u2018il",
+        "Bsiba\u00efl",
+        "Bisbeel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        1377074355,
+        1108691445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":276343
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"5ecc6744e96c21ca1fafc32e573d1454",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691445,
+            "locality_id":1209705395,
+            "region_id":1377074355
+        }
+    ],
+    "wof:id":1209705395,
+    "wof:lastmodified":1551727622,
+    "wof:name":"Bisbeel",
+    "wof:parent_id":1108691445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.87394000000001,
+    34.3535,
+    35.87394000000001,
+    34.3535
+],
+  "geometry": {"coordinates":[35.87394000000001,34.3535],"type":"Point"}
+}

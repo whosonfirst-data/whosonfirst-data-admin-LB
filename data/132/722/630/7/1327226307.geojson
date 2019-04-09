@@ -1,0 +1,74 @@
+{
+  "id": 1327226307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.57333,33.4675,35.57333,33.4675",
+    "geom:latitude":33.4675,
+    "geom:longitude":35.57333,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Ech Chahouta",
+    "gn:country_code":"LB",
+    "gn:dem":1022,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":433883,
+    "gn:latitude":33.4675,
+    "gn:longitude":35.57333,
+    "gn:modification_date":"2018-01-11",
+    "gn:name":"Ech Ch\u00e2ho\u00fbta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0634\u0627\u062d\u0648\u0637\u0629"
+    ],
+    "name:und_x_variant":[
+        "Ech Ch\u00e2ho\u00fbta",
+        "Ash Sh\u0101\u1e29\u016b\u0163ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673499,
+        1108691435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":433883
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"987c77839aff114ec662a4f11957356d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691435,
+            "locality_id":1327226307,
+            "region_id":85673499
+        }
+    ],
+    "wof:id":1327226307,
+    "wof:lastmodified":1537661301,
+    "wof:name":"Ech Chahouta",
+    "wof:parent_id":1108691435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.57333,
+    33.4675,
+    35.57333,
+    33.4675
+],
+  "geometry": {"coordinates":[35.57333,33.4675],"type":"Point"}
+}

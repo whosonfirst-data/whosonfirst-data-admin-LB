@@ -1,0 +1,73 @@
+{
+  "id": 1276220721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.99763,34.49186,35.99763,34.49186",
+    "geom:latitude":34.49186,
+    "geom:longitude":35.99763,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Zouq el Bacha",
+    "gn:country_code":"LB",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8624336,
+    "gn:latitude":34.49186,
+    "gn:longitude":35.99763,
+    "gn:modification_date":"2013-10-11",
+    "gn:name":"Zouq el Bacha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0632\u0648\u0642 \u0627\u0644\u0628\u0627\u0634\u0627"
+    ],
+    "name:und_x_variant":[
+        "Z\u016bq al B\u0101sh\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673483,
+        1108691407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8624336
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"3a24c1413121d15026208cfdf092e65d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691407,
+            "locality_id":1276220721,
+            "region_id":85673483
+        }
+    ],
+    "wof:id":1276220721,
+    "wof:lastmodified":1537661323,
+    "wof:name":"Zouq el Bacha",
+    "wof:parent_id":1108691407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.99763,
+    34.49186,
+    35.99763,
+    34.49186
+],
+  "geometry": {"coordinates":[35.99763,34.49186],"type":"Point"}
+}

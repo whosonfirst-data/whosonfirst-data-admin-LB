@@ -1,0 +1,71 @@
+{
+  "id": 1276122937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.72583,33.9875,35.72583,33.9875",
+    "geom:latitude":33.9875,
+    "geom:longitude":35.72583,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ouadi Ain el Aallaiq",
+    "gn:country_code":"LB",
+    "gn:dem":1214,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":266334,
+    "gn:latitude":33.9875,
+    "gn:longitude":35.72583,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ou\u00e2di A\u00efn el Aalla\u00efq",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "W\u0101d\u012b \u2018Ayn al \u2018Ullayq",
+        "Ou\u00e2di A\u00efn el Aalla\u00efq"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        421172015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":266334
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"208cdb833eca4b3b6d4e2e25026ce9a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421172015,
+            "locality_id":1276122937,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1276122937,
+    "wof:lastmodified":1537660999,
+    "wof:name":"Ouadi Ain el Aallaiq",
+    "wof:parent_id":421172015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.72583,
+    33.9875,
+    35.72583,
+    33.9875
+],
+  "geometry": {"coordinates":[35.72583,33.9875],"type":"Point"}
+}

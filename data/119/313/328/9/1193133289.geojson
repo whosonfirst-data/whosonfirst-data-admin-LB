@@ -1,0 +1,78 @@
+{
+  "id": 1193133289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.89565,34.34714,35.89565,34.34714",
+    "geom:latitude":34.34714,
+    "geom:longitude":35.89565,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Kfar Yachit",
+    "gn:country_code":"LB",
+    "gn:dem":258,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":272802,
+    "gn:latitude":34.34714,
+    "gn:longitude":35.89565,
+    "gn:modification_date":"2018-03-28",
+    "gn:name":"Kfar Y\u00e2ch\u00eet",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0641\u0631 \u064a\u0627\u0634\u064a\u062a"
+    ],
+    "name:und_x_variant":[
+        "Kafr Y\u0101sh\u012bt",
+        "Kfar Y\u00e2ch\u00eet",
+        "Kfaryachit",
+        "Kafaryachit",
+        "Kfaryashit"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        1377074355,
+        1108691445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":272802,
+        "wk:page":"Kfaryachit"
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"dfd89a392c8fce73b5f676ec676fcef7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691445,
+            "locality_id":1193133289,
+            "region_id":1377074355
+        }
+    ],
+    "wof:id":1193133289,
+    "wof:lastmodified":1551727614,
+    "wof:name":"Kfar Yachit",
+    "wof:parent_id":1108691445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.89565,
+    34.34714,
+    35.89565,
+    34.34714
+],
+  "geometry": {"coordinates":[35.89565,34.34714],"type":"Point"}
+}

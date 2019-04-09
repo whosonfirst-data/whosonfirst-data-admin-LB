@@ -1,0 +1,71 @@
+{
+  "id": 1343379229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.15722,34.51917,36.15722,34.51917",
+    "geom:latitude":34.51917,
+    "geom:longitude":36.15722,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Tikrit",
+    "gn:country_code":"LB",
+    "gn:dem":572,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":266709,
+    "gn:latitude":34.51917,
+    "gn:longitude":36.15722,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tikrit",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tekrit",
+        "Tikrit"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673483,
+        1108691407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":266709
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"f01d1d3d9d92ef1c0725c577c8529a18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691407,
+            "locality_id":1343379229,
+            "region_id":85673483
+        }
+    ],
+    "wof:id":1343379229,
+    "wof:lastmodified":1537661003,
+    "wof:name":"Tikrit",
+    "wof:parent_id":1108691407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.15722,
+    34.51917,
+    36.15722,
+    34.51917
+],
+  "geometry": {"coordinates":[36.15722,34.51917],"type":"Point"}
+}

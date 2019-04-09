@@ -1,0 +1,79 @@
+{
+  "id": 1309801317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.31361,33.40833,35.31361,33.40833",
+    "geom:latitude":33.40833,
+    "geom:longitude":35.31361,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Er Rouayess",
+    "gn:country_code":"LB",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":278490,
+    "gn:latitude":33.40833,
+    "gn:longitude":35.31361,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Er Rou\u00e2yess",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0631\u0648\u064a\u0633"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0631\u0648\u0627\u064a\u0633"
+    ],
+    "name:und_x_variant":[
+        "Ar Raw\u0101\u2019is",
+        "Er Rou\u00e2yess",
+        "Ar Ruways",
+        "Ar Ruw\u0101yis"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673499,
+        890451987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":278490
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"b3751c1b0ec3deed23bebe7fa5aa7287",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":890451987,
+            "locality_id":1309801317,
+            "region_id":85673499
+        }
+    ],
+    "wof:id":1309801317,
+    "wof:lastmodified":1537661212,
+    "wof:name":"Er Rouayess",
+    "wof:parent_id":890451987,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.31361,
+    33.40833,
+    35.31361,
+    33.40833
+],
+  "geometry": {"coordinates":[35.31361,33.40833],"type":"Point"}
+}

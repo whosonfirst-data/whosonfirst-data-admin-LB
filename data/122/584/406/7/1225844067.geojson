@@ -1,0 +1,76 @@
+{
+  "id": 1225844067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.51222,33.80333,35.51222,33.80333",
+    "geom:latitude":33.80333,
+    "geom:longitude":35.51222,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Haret el Qobbe",
+    "gn:country_code":"LB",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":279098,
+    "gn:latitude":33.80333,
+    "gn:longitude":35.51222,
+    "gn:modification_date":"2018-03-07",
+    "gn:name":"Haret el Qobb\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0627\u0631\u0629 \u0627\u0644\u0642\u0628\u0651\u0629"
+    ],
+    "name:und_x_variant":[
+        "Choue\u00eff\u00e2te Qo\u00fbbb\u00e9",
+        "Al Qubbah",
+        "Haret el Qobb\u00e9",
+        "\u1e28\u0101rat al Qubbah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        1108691409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":279098
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"e819ebbd1326c301733ebf3cca5b0ee9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691409,
+            "locality_id":1225844067,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1225844067,
+    "wof:lastmodified":1537661230,
+    "wof:name":"Haret el Qobbe",
+    "wof:parent_id":1108691409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.51222,
+    33.80333,
+    35.51222,
+    33.80333
+],
+  "geometry": {"coordinates":[35.51222,33.80333],"type":"Point"}
+}

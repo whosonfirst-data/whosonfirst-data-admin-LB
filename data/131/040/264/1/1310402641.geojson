@@ -1,0 +1,74 @@
+{
+  "id": 1310402641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.81694,33.57194,35.81694,33.57194",
+    "geom:latitude":33.57194,
+    "geom:longitude":35.81694,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Er Rafid",
+    "gn:country_code":"LB",
+    "gn:dem":1112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":278529,
+    "gn:latitude":33.57194,
+    "gn:longitude":35.81694,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Er Raf\u00eed",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0631\u0641\u064a\u062f"
+    ],
+    "name:und_x_variant":[
+        "Ar Raf\u012bd",
+        "Er Raf\u00eed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673479,
+        1108691439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":278529
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"7275639081db2663f359e438741e56c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691439,
+            "locality_id":1310402641,
+            "region_id":85673479
+        }
+    ],
+    "wof:id":1310402641,
+    "wof:lastmodified":1537661214,
+    "wof:name":"Er Rafid",
+    "wof:parent_id":1108691439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.81694,
+    33.57194,
+    35.81694,
+    33.57194
+],
+  "geometry": {"coordinates":[35.81694,33.57194],"type":"Point"}
+}

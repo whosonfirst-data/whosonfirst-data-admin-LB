@@ -1,0 +1,75 @@
+{
+  "id": 1276433027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.4725,33.31972,35.4725,33.31972",
+    "geom:latitude":33.31972,
+    "geom:longitude":35.4725,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Zaoutar ech Charqiye",
+    "gn:country_code":"LB",
+    "gn:dem":473,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":265894,
+    "gn:latitude":33.31972,
+    "gn:longitude":35.4725,
+    "gn:modification_date":"2018-03-28",
+    "gn:name":"Zaoutar ech Charq\u00eey\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0632\u0648\u0637\u0631 \u0627\u0644\u0634\u0631\u0642\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Zaw\u0163ar ash Sharq\u012byah",
+        "Zaoutar ech Charq\u00eey\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673495,
+        1108691429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":265894,
+        "wk:page":"Zawtar_El_Charkiyeh"
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"ccaaccb3a9a3f272ce94be15339c36f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691429,
+            "locality_id":1276433027,
+            "region_id":85673495
+        }
+    ],
+    "wof:id":1276433027,
+    "wof:lastmodified":1537660993,
+    "wof:name":"Zaoutar ech Charqiye",
+    "wof:parent_id":1108691429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.4725,
+    33.31972,
+    35.4725,
+    33.31972
+],
+  "geometry": {"coordinates":[35.4725,33.31972],"type":"Point"}
+}

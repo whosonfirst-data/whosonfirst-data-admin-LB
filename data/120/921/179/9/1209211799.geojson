@@ -1,0 +1,68 @@
+{
+  "id": 1209211799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.68722,33.40361,35.68722,33.40361",
+    "geom:latitude":33.40361,
+    "geom:longitude":35.68722,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Zaghla",
+    "gn:country_code":"LB",
+    "gn:dem":762,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":266057,
+    "gn:latitude":33.40361,
+    "gn:longitude":35.68722,
+    "gn:modification_date":"2013-04-04",
+    "gn:name":"Zaghla",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0632\u063a\u0644\u0629"
+    ],
+    "name:und_x_variant":[
+        "Zaghlah",
+        "Zaghla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":266057
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"95a377cdb1313781c136e3bffba5a781",
+    "wof:hierarchy":[
+        {
+            "country_id":85632533,
+            "locality_id":1209211799
+        }
+    ],
+    "wof:id":1209211799,
+    "wof:lastmodified":1537660995,
+    "wof:name":"Zaghla",
+    "wof:parent_id":85632533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.68722,
+    33.40361,
+    35.68722,
+    33.40361
+],
+  "geometry": {"coordinates":[35.68722,33.40361],"type":"Point"}
+}

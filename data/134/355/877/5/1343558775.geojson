@@ -1,0 +1,76 @@
+{
+  "id": 1343558775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.37111,33.43806,35.37111,33.43806",
+    "geom:latitude":33.43806,
+    "geom:longitude":35.37111,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Teffahta",
+    "gn:country_code":"LB",
+    "gn:dem":296,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":266645,
+    "gn:latitude":33.43806,
+    "gn:longitude":35.37111,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Teff\u00e2ht\u00e2",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0641\u0627\u062d\u062a\u0627"
+    ],
+    "name:und_x_variant":[
+        "Tuff\u0101\u1e29t\u0101",
+        "Teff\u00e2ht\u00e2",
+        "Taf\u0101\u1e29it\u0101",
+        "Tif\u0101\u1e29t\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673499,
+        890451987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":266645
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"d86f01278dc0b0ea932432391312912d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":890451987,
+            "locality_id":1343558775,
+            "region_id":85673499
+        }
+    ],
+    "wof:id":1343558775,
+    "wof:lastmodified":1537661002,
+    "wof:name":"Teffahta",
+    "wof:parent_id":890451987,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.37110999999999,
+    33.43806,
+    35.37110999999999,
+    33.43806
+],
+  "geometry": {"coordinates":[35.37110999999999,33.43806],"type":"Point"}
+}

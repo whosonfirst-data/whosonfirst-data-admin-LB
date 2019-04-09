@@ -1,0 +1,68 @@
+{
+  "id": 1360083993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.53606,33.81687,35.53606,33.81687",
+    "geom:latitude":33.81687,
+    "geom:longitude":35.53606,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kfarshima",
+    "gn:country_code":"LB",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7840010,
+    "gn:latitude":33.81687,
+    "gn:longitude":35.53606,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Kfarshima",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        421202301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7840010,
+        "wk:page":"Kfarshima"
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"479822adf9e94f32c469073704926ff1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421202301,
+            "locality_id":1360083993,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1360083993,
+    "wof:lastmodified":1537567955,
+    "wof:name":"Kfarshima",
+    "wof:parent_id":421202301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.53606,
+    33.81687,
+    35.53606,
+    33.81687
+],
+  "geometry": {"coordinates":[35.53606,33.81687],"type":"Point"}
+}

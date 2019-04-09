@@ -1,0 +1,73 @@
+{
+  "id": 1260071915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.4075,33.36472,35.4075,33.36472",
+    "geom:latitude":33.36472,
+    "geom:longitude":35.4075,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"El Mhanbar",
+    "gn:country_code":"LB",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":433714,
+    "gn:latitude":33.36472,
+    "gn:longitude":35.4075,
+    "gn:modification_date":"2018-01-11",
+    "gn:name":"El Mhanbar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0647\u0646\u0628\u0631"
+    ],
+    "name:und_x_variant":[
+        "Al Mahanbar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673495,
+        1108691429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":433714
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"df06bf77f80f550f6e95bd11dad91719",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691429,
+            "locality_id":1260071915,
+            "region_id":85673495
+        }
+    ],
+    "wof:id":1260071915,
+    "wof:lastmodified":1537661301,
+    "wof:name":"El Mhanbar",
+    "wof:parent_id":1108691429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.4075,
+    33.36472,
+    35.4075,
+    33.36472
+],
+  "geometry": {"coordinates":[35.4075,33.36472],"type":"Point"}
+}

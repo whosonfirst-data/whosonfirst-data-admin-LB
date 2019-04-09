@@ -1,0 +1,74 @@
+{
+  "id": 1209801065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.83694,33.80833,35.83694,33.80833",
+    "geom:latitude":33.80833,
+    "geom:longitude":35.83694,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"En Naqbe",
+    "gn:country_code":"LB",
+    "gn:dem":912,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":278839,
+    "gn:latitude":33.80833,
+    "gn:longitude":35.83694,
+    "gn:modification_date":"2018-03-07",
+    "gn:name":"En Naqb\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0646\u0642\u0628\u0629"
+    ],
+    "name:und_x_variant":[
+        "An Naqbah",
+        "En Naqb\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        1377074351,
+        421172017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":278839
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"22fcb84e0bc8825460d784cd09d161ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421172017,
+            "locality_id":1209801065,
+            "region_id":1377074351
+        }
+    ],
+    "wof:id":1209801065,
+    "wof:lastmodified":1551727601,
+    "wof:name":"En Naqbe",
+    "wof:parent_id":421172017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.83694000000001,
+    33.80833,
+    35.83694000000001,
+    33.80833
+],
+  "geometry": {"coordinates":[35.83694000000001,33.80833],"type":"Point"}
+}

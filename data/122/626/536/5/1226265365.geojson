@@ -1,0 +1,77 @@
+{
+  "id": 1226265365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.69917,34.07917,35.69917,34.07917",
+    "geom:latitude":34.07917,
+    "geom:longitude":35.69917,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Bazhal",
+    "gn:country_code":"LB",
+    "gn:dem":483,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":276452,
+    "gn:latitude":34.07917,
+    "gn:longitude":35.69917,
+    "gn:modification_date":"2013-10-07",
+    "gn:name":"Bazhal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0632\u062d\u0644"
+    ],
+    "name:und_x_variant":[
+        "Biz\u1e29al",
+        "Bessel",
+        "Bizhel",
+        "Biz\u1e29il",
+        "Bazhal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        421172015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":276452
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"eaffec0ccc6377056933aa59a1f6f87f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421172015,
+            "locality_id":1226265365,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1226265365,
+    "wof:lastmodified":1537661157,
+    "wof:name":"Bazhal",
+    "wof:parent_id":421172015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.69917,
+    34.07917,
+    35.69917,
+    34.07917
+],
+  "geometry": {"coordinates":[35.69917,34.07917],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1293486847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.65861,34.11833,35.65861,34.11833",
+    "geom:latitude":34.11833,
+    "geom:longitude":35.65861,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Hai ech Chami",
+    "gn:country_code":"LB",
+    "gn:dem":96,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":274109,
+    "gn:latitude":34.11833,
+    "gn:longitude":35.65861,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ha\u00ef ech Ch\u00e2mi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bay\u00e2da",
+        "Bayade",
+        "Baiyad",
+        "\u1e28ayy ash Sh\u0101m\u012b",
+        "Ha\u00ef ech Ch\u00e2mi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        421194845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":274109
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"06ddff40ce1a879368150fc48614e699",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421194845,
+            "locality_id":1293486847,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1293486847,
+    "wof:lastmodified":1537661106,
+    "wof:name":"Hai ech Chami",
+    "wof:parent_id":421194845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.65861,
+    34.11833,
+    35.65861,
+    34.11833
+],
+  "geometry": {"coordinates":[35.65861,34.11833],"type":"Point"}
+}

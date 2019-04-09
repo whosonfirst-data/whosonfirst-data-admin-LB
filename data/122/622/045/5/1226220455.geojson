@@ -1,0 +1,71 @@
+{
+  "id": 1226220455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.37278,34.21111,36.37278,34.21111",
+    "geom:latitude":34.21111,
+    "geom:longitude":36.37278,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"En Nabi Osmane",
+    "gn:country_code":"LB",
+    "gn:dem":965,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":278866,
+    "gn:latitude":34.21111,
+    "gn:longitude":36.37278,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"En Nabi Osm\u00e2ne",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "An Nab\u012b \u2018Uthm\u0101n",
+        "En Nabi Osm\u00e2ne"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        1377074353,
+        421171405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":278866
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"f8167d3f65c817fa9dcb2b29067532fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421171405,
+            "locality_id":1226220455,
+            "region_id":1377074353
+        }
+    ],
+    "wof:id":1226220455,
+    "wof:lastmodified":1551727655,
+    "wof:name":"En Nabi Osmane",
+    "wof:parent_id":421171405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.37278,
+    34.21111,
+    36.37278,
+    34.21111
+],
+  "geometry": {"coordinates":[36.37278,34.21111],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1209904271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.30639,34.31278,36.30639,34.31278",
+    "geom:latitude":34.31278,
+    "geom:longitude":36.30639,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Ouadi en Naira",
+    "gn:country_code":"LB",
+    "gn:dem":1204,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":266342,
+    "gn:latitude":34.31278,
+    "gn:longitude":36.30639,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ou\u00e2di en Na\u00efra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "W\u0101d\u012b an Na\u2019irah",
+        "Ou\u00e2di en Na\u00efra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        1377074353,
+        1108691421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":266342
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"7c52264b88e4dac796baf49382bc6fee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691421,
+            "locality_id":1209904271,
+            "region_id":1377074353
+        }
+    ],
+    "wof:id":1209904271,
+    "wof:lastmodified":1551727652,
+    "wof:name":"Ouadi en Naira",
+    "wof:parent_id":1108691421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.30639,
+    34.31278,
+    36.30639,
+    34.31278
+],
+  "geometry": {"coordinates":[36.30639,34.31278],"type":"Point"}
+}

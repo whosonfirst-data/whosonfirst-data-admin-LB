@@ -1,0 +1,73 @@
+{
+  "id": 1209814577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.55,33.85,35.55,33.85",
+    "geom:latitude":33.85,
+    "geom:longitude":35.55,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ash Sharshar",
+    "gn:cc2":"LB",
+    "gn:country_code":"LB",
+    "gn:dem":187,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":278243,
+    "gn:latitude":33.85,
+    "gn:longitude":35.55,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ash Sharsh\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Esh-Sharshar",
+        "Cherchar",
+        "Ash Sharsh\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        421202301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":278243
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"7aaebd944753aefde908c4a6a573a776",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421202301,
+            "locality_id":1209814577,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1209814577,
+    "wof:lastmodified":1537661207,
+    "wof:name":"Ash Sharshar",
+    "wof:parent_id":421202301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.55,
+    33.85,
+    35.55,
+    33.85
+],
+  "geometry": {"coordinates":[35.55,33.85],"type":"Point"}
+}

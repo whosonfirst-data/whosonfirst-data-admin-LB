@@ -1,0 +1,71 @@
+{
+  "id": 1344135071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.02028,34.06361,36.02028,34.06361",
+    "geom:latitude":34.06361,
+    "geom:longitude":36.02028,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Mrah Beit Aassaf",
+    "gn:country_code":"LB",
+    "gn:dem":1384,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":271493,
+    "gn:latitude":34.06361,
+    "gn:longitude":36.02028,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mr\u00e2h Be\u00eft Aass\u00e2f",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mar\u0101\u1e29 Bayt \u2018Ass\u0101f",
+        "Mr\u00e2h Be\u00eft Aass\u00e2f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673479,
+        421171405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":271493
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"2fa4b69a2cbe79c091b2ba1dbceda697",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421171405,
+            "locality_id":1344135071,
+            "region_id":85673479
+        }
+    ],
+    "wof:id":1344135071,
+    "wof:lastmodified":1537661062,
+    "wof:name":"Mrah Beit Aassaf",
+    "wof:parent_id":421171405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.02028,
+    34.06361,
+    36.02028,
+    34.06361
+],
+  "geometry": {"coordinates":[36.02028,34.06361],"type":"Point"}
+}

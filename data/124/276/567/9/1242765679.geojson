@@ -1,0 +1,71 @@
+{
+  "id": 1242765679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.0225,34.04361,36.0225,34.04361",
+    "geom:latitude":34.04361,
+    "geom:longitude":36.0225,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Mazraat Remasse",
+    "gn:country_code":"LB",
+    "gn:dem":1274,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":270585,
+    "gn:latitude":34.04361,
+    "gn:longitude":36.0225,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mazraat Rem\u00e2ss\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mazra\u2018at Ram\u0101sah",
+        "Mazraat Rem\u00e2ss\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673479,
+        421171405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":270585
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"a9be4d11d5860234a32b9aaaebf16863",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421171405,
+            "locality_id":1242765679,
+            "region_id":85673479
+        }
+    ],
+    "wof:id":1242765679,
+    "wof:lastmodified":1537661044,
+    "wof:name":"Mazraat Remasse",
+    "wof:parent_id":421171405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.0225,
+    34.04361,
+    36.0225,
+    34.04361
+],
+  "geometry": {"coordinates":[36.0225,34.04361],"type":"Point"}
+}

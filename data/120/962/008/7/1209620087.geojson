@@ -1,0 +1,68 @@
+{
+  "id": 1209620087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.44917,33.595,35.44917,33.595",
+    "geom:latitude":33.595,
+    "geom:longitude":35.44917,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Majdalouna",
+    "gn:country_code":"LB",
+    "gn:dem":328,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":271856,
+    "gn:latitude":33.595,
+    "gn:longitude":35.44917,
+    "gn:modification_date":"2013-04-04",
+    "gn:name":"Majdalo\u00fbna",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u062c\u062f\u0644\u0648\u0646\u0627"
+    ],
+    "name:und_x_variant":[
+        "Majdal\u016bn\u0101",
+        "Majdalo\u00fbna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":271856
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"c4e8fd71f16b78d2abffc0f4bd98537b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632533,
+            "locality_id":1209620087
+        }
+    ],
+    "wof:id":1209620087,
+    "wof:lastmodified":1537661068,
+    "wof:name":"Majdalouna",
+    "wof:parent_id":85632533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.44917,
+    33.595,
+    35.44917,
+    33.595
+],
+  "geometry": {"coordinates":[35.44917,33.595],"type":"Point"}
+}

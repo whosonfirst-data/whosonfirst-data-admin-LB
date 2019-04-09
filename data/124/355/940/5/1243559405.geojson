@@ -1,0 +1,74 @@
+{
+  "id": 1243559405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.44278,33.64972,35.44278,33.64972",
+    "geom:latitude":33.64972,
+    "geom:longitude":35.44278,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Barja",
+    "gn:country_code":"LB",
+    "gn:dem":282,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":276965,
+    "gn:latitude":33.64972,
+    "gn:longitude":35.44278,
+    "gn:modification_date":"2013-04-04",
+    "gn:name":"Barja",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0631\u062c\u0627"
+    ],
+    "name:und_x_variant":[
+        "Barj\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        1108691419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":276965,
+        "wk:page":"Barja"
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"d92334d6b68052e5cd20b96aa347f9fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691419,
+            "locality_id":1243559405,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1243559405,
+    "wof:lastmodified":1537661173,
+    "wof:name":"Barja",
+    "wof:parent_id":1108691419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.44278,
+    33.64972,
+    35.44278,
+    33.64972
+],
+  "geometry": {"coordinates":[35.44278,33.64972],"type":"Point"}
+}

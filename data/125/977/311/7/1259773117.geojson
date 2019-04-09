@@ -1,0 +1,79 @@
+{
+  "id": 1259773117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.82167,34.24056,35.82167,34.24056",
+    "geom:latitude":34.24056,
+    "geom:longitude":35.82167,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Bsatine el Aossi",
+    "gn:country_code":"LB",
+    "gn:dem":586,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":276928,
+    "gn:latitude":34.24056,
+    "gn:longitude":35.82167,
+    "gn:modification_date":"2014-03-08",
+    "gn:name":"Bs\u00e2t\u00eene el Aossi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0633\u0627\u062a\u064a\u0646 \u0627\u0644\u0639\u0635\u064a"
+    ],
+    "name:ara_x_variant":[
+        "\u0628\u0633\u062a\u0627\u0646 \u0627\u0644\u0639\u0635\u064a"
+    ],
+    "name:und_x_variant":[
+        "Ez-Zeerah",
+        "Bas\u0101t\u012bn al \u2018U\u015f\u012b",
+        "Bs\u00e2t\u00eene el Aossi",
+        "Bust\u0101n al \u2018U\u015f\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673483,
+        421204111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":276928
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"7e9058a03ce55347f3588a7fae8f1aba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421204111,
+            "locality_id":1259773117,
+            "region_id":85673483
+        }
+    ],
+    "wof:id":1259773117,
+    "wof:lastmodified":1537661173,
+    "wof:name":"Bsatine el Aossi",
+    "wof:parent_id":421204111,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.82167000000001,
+    34.24056,
+    35.82167000000001,
+    34.24056
+],
+  "geometry": {"coordinates":[35.82167000000001,34.24056],"type":"Point"}
+}

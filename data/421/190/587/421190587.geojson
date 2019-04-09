@@ -1,0 +1,75 @@
+{
+  "id": 421190587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.639219,33.914161,35.639219,33.914161",
+    "geom:latitude":33.914161,
+    "geom:longitude":35.639219,
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"\u0628\u064a\u062a \u0627\u0644\u0643\u0648\u0643\u0648",
+    "qs:name_adm0":"\u0644\u0628\u0646\u0627\u0646",
+    "qs:name_adm1":"\u062c\u0628\u0644 \u0644\u0628\u0646\u0627\u0646",
+    "qs:photos":20,
+    "qs:photos_1k":4,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":20,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1119747,
+    "qs:woe_adm0":23424873,
+    "qs:woe_id":1960351,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        1108691425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1960351,
+        "qs:id":1119747
+    },
+    "wof:country":"LB",
+    "wof:created":1459009662,
+    "wof:geomhash":"d03a3015528bebc3b5d54f3ccf92a72f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691425,
+            "locality_id":421190587,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":421190587,
+    "wof:lastmodified":1500013137,
+    "wof:name":"\u0628\u064a\u062a \u0627\u0644\u0643\u0648\u0643\u0648",
+    "wof:parent_id":1108691425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.639219,
+    33.914161,
+    35.639219,
+    33.914161
+],
+  "geometry": {"coordinates":[35.639219,33.914161],"type":"Point"}
+}

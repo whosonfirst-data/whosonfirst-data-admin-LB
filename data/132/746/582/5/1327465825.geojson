@@ -1,0 +1,74 @@
+{
+  "id": 1327465825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.70361,34.11944,35.70361,34.11944",
+    "geom:latitude":34.11944,
+    "geom:longitude":35.70361,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"El Braij",
+    "gn:country_code":"LB",
+    "gn:dem":694,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":280249,
+    "gn:latitude":34.11944,
+    "gn:longitude":35.70361,
+    "gn:modification_date":"2014-03-08",
+    "gn:name":"El Bra\u00efj",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0628\u0631\u064a\u062c"
+    ],
+    "name:und_x_variant":[
+        "Al Burayj",
+        "El Bra\u00efj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        421194845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":280249
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"f3a970f710c87a6e016e9143a3f4a61f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421194845,
+            "locality_id":1327465825,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1327465825,
+    "wof:lastmodified":1537661277,
+    "wof:name":"El Braij",
+    "wof:parent_id":421194845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.70361,
+    34.11944,
+    35.70361,
+    34.11944
+],
+  "geometry": {"coordinates":[35.70361,34.11944],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1293882845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.82583,34.01139,35.82583,34.01139",
+    "geom:latitude":34.01139,
+    "geom:longitude":35.82583,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Bein en Nhour",
+    "gn:country_code":"LB",
+    "gn:dem":1330,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":276787,
+    "gn:latitude":34.01139,
+    "gn:longitude":35.82583,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Be\u00efn en Nho\u00fbr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bayn an Nuh\u016br",
+        "Be\u00efn en Nho\u00fbr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        421172015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":276787
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"6e1e0f85fb859166aed85e9949f3097c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421172015,
+            "locality_id":1293882845,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1293882845,
+    "wof:lastmodified":1537661170,
+    "wof:name":"Bein en Nhour",
+    "wof:parent_id":421172015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.82583,
+    34.01139000000001,
+    35.82583,
+    34.01139000000001
+],
+  "geometry": {"coordinates":[35.82583,34.01139000000001],"type":"Point"}
+}

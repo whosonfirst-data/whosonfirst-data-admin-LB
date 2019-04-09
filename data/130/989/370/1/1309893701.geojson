@@ -1,0 +1,71 @@
+{
+  "id": 1309893701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.99806,34.04,35.99806,34.04",
+    "geom:latitude":34.04,
+    "geom:longitude":35.99806,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Ouadi el Assouad",
+    "gn:country_code":"LB",
+    "gn:dem":1454,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":266370,
+    "gn:latitude":34.04,
+    "gn:longitude":35.99806,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Ou\u00e2di el Assouad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "W\u0101d\u012b al Aswad",
+        "Ou\u00e2di el Assouad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673479,
+        421171405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":266370
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"d6b37838ea57072dcca4f38f33a47534",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421171405,
+            "locality_id":1309893701,
+            "region_id":85673479
+        }
+    ],
+    "wof:id":1309893701,
+    "wof:lastmodified":1537661000,
+    "wof:name":"Ouadi el Assouad",
+    "wof:parent_id":421171405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.99805999999999,
+    34.04,
+    35.99805999999999,
+    34.04
+],
+  "geometry": {"coordinates":[35.99805999999999,34.04],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1243544401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.9625,34.24361,35.9625,34.24361",
+    "geom:latitude":34.24361,
+    "geom:longitude":35.9625,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Kfarsaroun",
+    "gn:country_code":"LB",
+    "gn:dem":1384,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":272831,
+    "gn:latitude":34.24361,
+    "gn:longitude":35.9625,
+    "gn:modification_date":"2014-03-08",
+    "gn:name":"Kfars\u00e2ro\u00fbn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0641\u0631 \u0635\u0627\u0631\u0648\u0646"
+    ],
+    "name:und_x_variant":[
+        "Kafr \u015e\u0101r\u016bn",
+        "Kfars\u00e2ro\u00fbn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        1377074355,
+        1108691411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":272831,
+        "wk:page":"Kfarsaroun"
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"601ece70dcbf3b17d54549c6d1c4fc13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691411,
+            "locality_id":1243544401,
+            "region_id":1377074355
+        }
+    ],
+    "wof:id":1243544401,
+    "wof:lastmodified":1551727624,
+    "wof:name":"Kfarsaroun",
+    "wof:parent_id":1108691411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.9625,
+    34.24361,
+    35.9625,
+    34.24361
+],
+  "geometry": {"coordinates":[35.9625,34.24361],"type":"Point"}
+}

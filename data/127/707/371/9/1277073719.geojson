@@ -1,0 +1,73 @@
+{
+  "id": 1277073719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.5475,33.85556,35.5475,33.85556",
+    "geom:latitude":33.85556,
+    "geom:longitude":35.5475,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Mar Taqla",
+    "gn:country_code":"LB",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6274974,
+    "gn:latitude":33.85556,
+    "gn:longitude":35.5475,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Mar Taqla",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0627\u0631 \u062a\u0642\u0644\u0627"
+    ],
+    "name:und_x_variant":[
+        "M\u0101r Taql\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        421202301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6274974
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"71c4b984ab7d22772f3d72a2efbb9528",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421202301,
+            "locality_id":1277073719,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1277073719,
+    "wof:lastmodified":1537661312,
+    "wof:name":"Mar Taqla",
+    "wof:parent_id":421202301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.5475,
+    33.85556,
+    35.5475,
+    33.85556
+],
+  "geometry": {"coordinates":[35.5475,33.85556],"type":"Point"}
+}

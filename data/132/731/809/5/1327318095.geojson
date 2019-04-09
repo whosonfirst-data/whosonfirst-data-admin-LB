@@ -1,0 +1,77 @@
+{
+  "id": 1327318095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.74667,34.25056,35.74667,34.25056",
+    "geom:latitude":34.25056,
+    "geom:longitude":35.74667,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Kfar Hai",
+    "gn:country_code":"LB",
+    "gn:dem":395,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":272868,
+    "gn:latitude":34.25056,
+    "gn:longitude":35.74667,
+    "gn:modification_date":"2014-03-08",
+    "gn:name":"Kfar Ha\u00ef",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0641\u0631 \u062d\u064a"
+    ],
+    "name:und_x_variant":[
+        "El Ftahat",
+        "El Fteihat",
+        "Ft\u00e2h\u00e2te",
+        "Kafr \u1e28ayy",
+        "Kfar Ha\u00ef"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673483,
+        421204111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":272868
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"87a40534ceabec55e9ec1f3ad9e88508",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421204111,
+            "locality_id":1327318095,
+            "region_id":85673483
+        }
+    ],
+    "wof:id":1327318095,
+    "wof:lastmodified":1537661085,
+    "wof:name":"Kfar Hai",
+    "wof:parent_id":421204111,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.74667,
+    34.25056,
+    35.74667,
+    34.25056
+],
+  "geometry": {"coordinates":[35.74667,34.25056],"type":"Point"}
+}

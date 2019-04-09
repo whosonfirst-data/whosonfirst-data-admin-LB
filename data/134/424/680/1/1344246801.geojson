@@ -1,0 +1,74 @@
+{
+  "id": 1344246801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.92845,34.2138,35.92845,34.2138",
+    "geom:latitude":34.2138,
+    "geom:longitude":35.92845,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"El Fouar",
+    "gn:country_code":"LB",
+    "gn:dem":1569,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":280209,
+    "gn:latitude":34.2138,
+    "gn:longitude":35.92845,
+    "gn:modification_date":"2014-03-08",
+    "gn:name":"El Fou\u00e2r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0641\u0648\u0627\u0631"
+    ],
+    "name:und_x_variant":[
+        "Al Faww\u0101r",
+        "El Fou\u00e2r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673483,
+        1108691411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":280209
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"c7196d88bf8db8f62b99a76ff1f524af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691411,
+            "locality_id":1344246801,
+            "region_id":85673483
+        }
+    ],
+    "wof:id":1344246801,
+    "wof:lastmodified":1537661275,
+    "wof:name":"El Fouar",
+    "wof:parent_id":1108691411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.92845,
+    34.2138,
+    35.92845,
+    34.2138
+],
+  "geometry": {"coordinates":[35.92845,34.2138],"type":"Point"}
+}

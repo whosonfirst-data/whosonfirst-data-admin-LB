@@ -1,0 +1,71 @@
+{
+  "id": 1209496355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.35444,34.47778,36.35444,34.47778",
+    "geom:latitude":34.47778,
+    "geom:longitude":36.35444,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Mrah el Aarab",
+    "gn:country_code":"LB",
+    "gn:dem":1035,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":271602,
+    "gn:latitude":34.47778,
+    "gn:longitude":36.35444,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mr\u00e2h el Aarab",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mar\u0101\u1e29 al \u2018Arab",
+        "Mr\u00e2h el Aarab"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        1377074353,
+        1108691421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":271602
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"b0d909972abc73935eb5c1b7ee844409",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691421,
+            "locality_id":1209496355,
+            "region_id":1377074353
+        }
+    ],
+    "wof:id":1209496355,
+    "wof:lastmodified":1551727653,
+    "wof:name":"Mrah el Aarab",
+    "wof:parent_id":1108691421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.35444,
+    34.47778,
+    36.35444,
+    34.47778
+],
+  "geometry": {"coordinates":[36.35444,34.47778],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1293673489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.79972,34.18472,35.79972,34.18472",
+    "geom:latitude":34.18472,
+    "geom:longitude":35.79972,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Ram",
+    "gn:country_code":"LB",
+    "gn:dem":1181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":268856,
+    "gn:latitude":34.18472,
+    "gn:longitude":35.79972,
+    "gn:modification_date":"2014-03-08",
+    "gn:name":"R\u00e2m",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0631\u0627\u0645"
+    ],
+    "name:ara_x_variant":[
+        "R\u0101m"
+    ],
+    "name:und_x_variant":[
+        "Jaoua",
+        "Er Ram",
+        "R\u00e2m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673483,
+        421204111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":268856
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"c81c67baa593c20e05ddb672bc93066c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421204111,
+            "locality_id":1293673489,
+            "region_id":85673483
+        }
+    ],
+    "wof:id":1293673489,
+    "wof:lastmodified":1537661028,
+    "wof:name":"Ram",
+    "wof:parent_id":421204111,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.79972,
+    34.18472,
+    35.79972,
+    34.18472
+],
+  "geometry": {"coordinates":[35.79972,34.18472],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1260308629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.59306,33.915,35.59306,33.915",
+    "geom:latitude":33.915,
+    "geom:longitude":35.59306,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Antelias",
+    "gn:country_code":"LB",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":278792,
+    "gn:latitude":33.915,
+    "gn:longitude":35.59306,
+    "gn:modification_date":"2018-03-07",
+    "gn:name":"Antelias",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0646\u0637\u0644\u064a\u0627\u0633"
+    ],
+    "name:und_x_variant":[
+        "Annt\u00e9li\u0101s",
+        "An\u0163ily\u0101s",
+        "Antelias"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        1108691425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":278792,
+        "wk:page":"Antelias"
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"6f53619785f5f5d89ee4590fb981ac02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691425,
+            "locality_id":1260308629,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1260308629,
+    "wof:lastmodified":1537661217,
+    "wof:name":"Antelias",
+    "wof:parent_id":1108691425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.59305999999999,
+    33.915,
+    35.59305999999999,
+    33.915
+],
+  "geometry": {"coordinates":[35.59305999999999,33.915],"type":"Point"}
+}

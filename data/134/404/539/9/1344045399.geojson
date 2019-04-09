@@ -1,0 +1,71 @@
+{
+  "id": 1344045399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.36222,34.30139,36.36222,34.30139",
+    "geom:latitude":34.30139,
+    "geom:longitude":36.36222,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Qalaat Bakdach",
+    "gn:country_code":"LB",
+    "gn:dem":783,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":271499,
+    "gn:latitude":34.30139,
+    "gn:longitude":36.36222,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Qalaat Bakd\u00e2ch",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mar\u0101\u1e29 Bakd\u0101sh",
+        "Qalaat Bakd\u00e2ch"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673479,
+        1108691421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":271499
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"4469ad615a041da00afe6f27923069fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691421,
+            "locality_id":1344045399,
+            "region_id":85673479
+        }
+    ],
+    "wof:id":1344045399,
+    "wof:lastmodified":1537661063,
+    "wof:name":"Qalaat Bakdach",
+    "wof:parent_id":1108691421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.36222,
+    34.30139,
+    36.36222,
+    34.30139
+],
+  "geometry": {"coordinates":[36.36222,34.30139],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1209195671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.02306,33.92583,36.02306,33.92583",
+    "geom:latitude":33.92583,
+    "geom:longitude":36.02306,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Beit Chama",
+    "gn:country_code":"LB",
+    "gn:dem":1054,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":276688,
+    "gn:latitude":33.92583,
+    "gn:longitude":36.02306,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Be\u00eft Ch\u00e2ma",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Beit Shama",
+        "Bayt Sh\u0101m\u0101",
+        "Be\u00eft Ch\u00e2ma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        1377074353,
+        421171405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":276688
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"dc406076bfa7e5613ad5d9671018c722",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421171405,
+            "locality_id":1209195671,
+            "region_id":1377074353
+        }
+    ],
+    "wof:id":1209195671,
+    "wof:lastmodified":1551727651,
+    "wof:name":"Beit Chama",
+    "wof:parent_id":421171405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.02306,
+    33.92583,
+    36.02306,
+    33.92583
+],
+  "geometry": {"coordinates":[36.02306,33.92583],"type":"Point"}
+}

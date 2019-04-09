@@ -1,0 +1,71 @@
+{
+  "id": 1276849039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.265,34.23972,36.265,34.23972",
+    "geom:latitude":34.23972,
+    "geom:longitude":36.265,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Mrah el Aabd",
+    "gn:country_code":"LB",
+    "gn:dem":1330,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":271609,
+    "gn:latitude":34.23972,
+    "gn:longitude":36.265,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mr\u00e2h el Aabd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mar\u0101\u1e29 al \u2018Abd",
+        "Mr\u00e2h el Aabd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673479,
+        421171405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":271609
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"01fa882c267a74402dd80c5bec4485b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421171405,
+            "locality_id":1276849039,
+            "region_id":85673479
+        }
+    ],
+    "wof:id":1276849039,
+    "wof:lastmodified":1537661067,
+    "wof:name":"Mrah el Aabd",
+    "wof:parent_id":421171405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.265,
+    34.23972,
+    36.265,
+    34.23972
+],
+  "geometry": {"coordinates":[36.265,34.23972],"type":"Point"}
+}

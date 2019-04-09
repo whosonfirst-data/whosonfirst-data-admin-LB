@@ -1,0 +1,74 @@
+{
+  "id": 1259477771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.83689,34.23069,35.83689,34.23069",
+    "geom:latitude":34.23069,
+    "geom:longitude":35.83689,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Aaqbe",
+    "gn:country_code":"LB",
+    "gn:dem":606,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8717528,
+    "gn:latitude":34.23069,
+    "gn:longitude":35.83689,
+    "gn:modification_date":"2014-03-11",
+    "gn:name":"Aaqb\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0639\u0642\u0628\u0629"
+    ],
+    "name:und_x_variant":[
+        "Aaqb\u00e9",
+        "Al \u2018Aqabah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673483,
+        421204111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8717528
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"1205817c2dd386436bd72fa2971910e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421204111,
+            "locality_id":1259477771,
+            "region_id":85673483
+        }
+    ],
+    "wof:id":1259477771,
+    "wof:lastmodified":1537661324,
+    "wof:name":"Aaqbe",
+    "wof:parent_id":421204111,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.83689000000001,
+    34.23069,
+    35.83689000000001,
+    34.23069
+],
+  "geometry": {"coordinates":[35.83689000000001,34.23069],"type":"Point"}
+}

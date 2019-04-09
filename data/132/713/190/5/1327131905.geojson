@@ -1,0 +1,74 @@
+{
+  "id": 1327131905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.54861,33.57667,35.54861,33.57667",
+    "geom:latitude":33.57667,
+    "geom:longitude":35.54861,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"El Lzaq",
+    "gn:country_code":"LB",
+    "gn:dem":623,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":433418,
+    "gn:latitude":33.57667,
+    "gn:longitude":35.54861,
+    "gn:modification_date":"2018-02-07",
+    "gn:name":"El Lz\u00e2q",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0644\u0632\u0627\u0642"
+    ],
+    "name:und_x_variant":[
+        "El Lz\u00e2q",
+        "Al Liz\u0101q"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673499,
+        1108691435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":433418
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"356cb73ac0d7ed6d1e7feaad1fe3acb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691435,
+            "locality_id":1327131905,
+            "region_id":85673499
+        }
+    ],
+    "wof:id":1327131905,
+    "wof:lastmodified":1537661301,
+    "wof:name":"El Lzaq",
+    "wof:parent_id":1108691435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.54861,
+    33.57667,
+    35.54861,
+    33.57667
+],
+  "geometry": {"coordinates":[35.54861,33.57667],"type":"Point"}
+}

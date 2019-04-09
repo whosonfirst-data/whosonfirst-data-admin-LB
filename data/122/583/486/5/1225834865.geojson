@@ -1,0 +1,67 @@
+{
+  "id": 1225834865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.89333,34.18028,35.89333,34.18028",
+    "geom:latitude":34.18028,
+    "geom:longitude":35.89333,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Chaabiye",
+    "gn:country_code":"LB",
+    "gn:dem":1542,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6279862,
+    "gn:latitude":34.18028,
+    "gn:longitude":35.89333,
+    "gn:modification_date":"2006-08-24",
+    "gn:name":"Chaab\u00eey\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        1377074355,
+        421204111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6279862
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"4aec69fe8b0813f41afe65fc85e806a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421204111,
+            "locality_id":1225834865,
+            "region_id":1377074355
+        }
+    ],
+    "wof:id":1225834865,
+    "wof:lastmodified":1551727616,
+    "wof:name":"Chaabiye",
+    "wof:parent_id":421204111,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.89333,
+    34.18028,
+    35.89333,
+    34.18028
+],
+  "geometry": {"coordinates":[35.89333,34.18028],"type":"Point"}
+}

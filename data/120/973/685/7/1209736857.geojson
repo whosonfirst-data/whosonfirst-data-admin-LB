@@ -1,0 +1,76 @@
+{
+  "id": 1209736857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.47639,33.34722,35.47639,33.34722",
+    "geom:latitude":33.34722,
+    "geom:longitude":35.47639,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Maifadoun",
+    "gn:country_code":"LB",
+    "gn:dem":459,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":270782,
+    "gn:latitude":33.34722,
+    "gn:longitude":35.47639,
+    "gn:modification_date":"2018-03-28",
+    "gn:name":"Ma\u00effado\u00fbn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u064a\u0641\u062f\u0648\u0646"
+    ],
+    "name:und_x_variant":[
+        "Mayfad\u016bn",
+        "Ma\u00effado\u00fbn",
+        "Mayfadoun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673495,
+        1108691429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":270782,
+        "wk:page":"Mayfadoun"
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"f56be9e9d2f8c5468351539c8305e87c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691429,
+            "locality_id":1209736857,
+            "region_id":85673495
+        }
+    ],
+    "wof:id":1209736857,
+    "wof:lastmodified":1537661056,
+    "wof:name":"Maifadoun",
+    "wof:parent_id":1108691429,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.47639,
+    33.34722,
+    35.47639,
+    33.34722
+],
+  "geometry": {"coordinates":[35.47639,33.34722],"type":"Point"}
+}

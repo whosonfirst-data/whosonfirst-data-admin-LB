@@ -1,0 +1,78 @@
+{
+  "id": 1327052225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.27722,33.22111,35.27722,33.22111",
+    "geom:latitude":33.22111,
+    "geom:longitude":35.27722,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Hanaouay",
+    "gn:country_code":"LB",
+    "gn:dem":256,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":274595,
+    "gn:latitude":33.22111,
+    "gn:longitude":35.27722,
+    "gn:modification_date":"2018-03-28",
+    "gn:name":"Han\u00e2ou\u00e2y",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0646\u0627\u0648\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Han\u00e2ouiy\u00e9",
+        "\u1e28an\u0101w\u012byih",
+        "\u1e28ann\u0101w\u012byah",
+        "Han\u00e2ou\u00e2y",
+        "HANAWEH"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673499,
+        1108691441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":274595,
+        "wk:page":"Hanaouay"
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"b46bbf2da9484bcc39297d01e53bf589",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691441,
+            "locality_id":1327052225,
+            "region_id":85673499
+        }
+    ],
+    "wof:id":1327052225,
+    "wof:lastmodified":1537661119,
+    "wof:name":"Hanaouay",
+    "wof:parent_id":1108691441,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.27722,
+    33.22111,
+    35.27722,
+    33.22111
+],
+  "geometry": {"coordinates":[35.27722,33.22111],"type":"Point"}
+}

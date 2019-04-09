@@ -1,0 +1,75 @@
+{
+  "id": 1210039061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.53972,33.83056,35.53972,33.83056",
+    "geom:latitude":33.83056,
+    "geom:longitude":35.53972,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Sibnai",
+    "gn:country_code":"LB",
+    "gn:dem":213,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":267224,
+    "gn:latitude":33.83056,
+    "gn:longitude":35.53972,
+    "gn:modification_date":"2018-03-07",
+    "gn:name":"Sibna\u00ef",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u0628\u0646\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Sibna\u00ef",
+        "Sibnay",
+        "Sibn\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        421202301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":267224
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"c190cda448fd7d25e3bc8de46995215f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421202301,
+            "locality_id":1210039061,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1210039061,
+    "wof:lastmodified":1537661011,
+    "wof:name":"Sibnai",
+    "wof:parent_id":421202301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.53972,
+    33.83056,
+    35.53972,
+    33.83056
+],
+  "geometry": {"coordinates":[35.53972,33.83056],"type":"Point"}
+}

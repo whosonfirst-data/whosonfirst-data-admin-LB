@@ -1,0 +1,78 @@
+{
+  "id": 1343553929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.35827,33.41949,35.35827,33.41949",
+    "geom:latitude":33.41949,
+    "geom:longitude":35.35827,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Ghassaniye",
+    "gn:country_code":"LB",
+    "gn:dem":313,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":274970,
+    "gn:latitude":33.41949,
+    "gn:longitude":35.35827,
+    "gn:modification_date":"2018-03-28",
+    "gn:name":"Ghass\u00e2n\u00eey\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u063a\u0633\u0627\u0646\u064a\u0651\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al Ghass\u0101n\u012byah",
+        "El-Ghassaniyah",
+        "Ghass\u0101n\u012byah",
+        "Ghass\u00e2n\u00eey\u00e9",
+        "Ghas\u0101n\u012by\u012bah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673499,
+        890451987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":274970,
+        "wk:page":"Ghessanieh"
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"f3a4619f599dd9e29cbf63e0c41e6532",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":890451987,
+            "locality_id":1343553929,
+            "region_id":85673499
+        }
+    ],
+    "wof:id":1343553929,
+    "wof:lastmodified":1537661124,
+    "wof:name":"Ghassaniye",
+    "wof:parent_id":890451987,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.35827000000001,
+    33.41949,
+    35.35827000000001,
+    33.41949
+],
+  "geometry": {"coordinates":[35.35827000000001,33.41949],"type":"Point"}
+}

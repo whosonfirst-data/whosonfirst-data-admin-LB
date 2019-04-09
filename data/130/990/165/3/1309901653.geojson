@@ -1,0 +1,78 @@
+{
+  "id": 1309901653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.95668,34.35145,35.95668,34.35145",
+    "geom:latitude":34.35145,
+    "geom:longitude":35.95668,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Kaf el Malloul",
+    "gn:country_code":"LB",
+    "gn:dem":941,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":272920,
+    "gn:latitude":34.35145,
+    "gn:longitude":35.95668,
+    "gn:modification_date":"2013-10-07",
+    "gn:name":"K\u00e2f el Mallo\u00fbl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0627\u0641 \u0627\u0644\u0645\u0644\u0648\u0644"
+    ],
+    "name:ara_x_variant":[
+        "\u0643\u0647\u0641 \u0627\u0644\u0645\u0644\u0648\u0644"
+    ],
+    "name:und_x_variant":[
+        "K\u0101f al Mall\u016bl",
+        "K\u00e2f el Mallo\u00fbl",
+        "Kahf al Mall\u016bl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673483,
+        1108691427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":272920
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"506fe7ab12c002ab39bafcd3cce88d42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691427,
+            "locality_id":1309901653,
+            "region_id":85673483
+        }
+    ],
+    "wof:id":1309901653,
+    "wof:lastmodified":1537661088,
+    "wof:name":"Kaf el Malloul",
+    "wof:parent_id":1108691427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.95668,
+    34.35145,
+    35.95668,
+    34.35145
+],
+  "geometry": {"coordinates":[35.95668,34.35145],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1242878705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.85833,34.075,35.85833,34.075",
+    "geom:latitude":34.075,
+    "geom:longitude":35.85833,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Lassa",
+    "gn:country_code":"LB",
+    "gn:dem":1166,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":272143,
+    "gn:latitude":34.075,
+    "gn:longitude":35.85833,
+    "gn:modification_date":"2018-03-29",
+    "gn:name":"L\u00e2ssa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "L\u0101s\u0101"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        421194845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":272143,
+        "wk:page":"Lassa,_Lebanon"
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"cc4e1e8a2f3d842b2c38f628cd9d5dee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421194845,
+            "locality_id":1242878705,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1242878705,
+    "wof:lastmodified":1537661071,
+    "wof:name":"Lassa",
+    "wof:parent_id":421194845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.85833,
+    34.075,
+    35.85833,
+    34.075
+],
+  "geometry": {"coordinates":[35.85833,34.075],"type":"Point"}
+}

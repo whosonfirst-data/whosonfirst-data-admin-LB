@@ -1,0 +1,71 @@
+{
+  "id": 1293768057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.8675,34.38972,35.8675,34.38972",
+    "geom:latitude":34.38972,
+    "geom:longitude":35.8675,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"El Aaqbe",
+    "gn:country_code":"LB",
+    "gn:dem":121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":280491,
+    "gn:latitude":34.38972,
+    "gn:longitude":35.8675,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"El Aaqb\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al \u2018Aqabah",
+        "El Aaqb\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673483,
+        1108691423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":280491
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"2f56a02918e572f49eb56d85e4267c2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691423,
+            "locality_id":1293768057,
+            "region_id":85673483
+        }
+    ],
+    "wof:id":1293768057,
+    "wof:lastmodified":1537661286,
+    "wof:name":"El Aaqbe",
+    "wof:parent_id":1108691423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.8675,
+    34.38972,
+    35.8675,
+    34.38972
+],
+  "geometry": {"coordinates":[35.8675,34.38972],"type":"Point"}
+}

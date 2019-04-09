@@ -1,0 +1,71 @@
+{
+  "id": 1277057291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.1325,34.1425,36.1325,34.1425",
+    "geom:latitude":34.1425,
+    "geom:longitude":36.1325,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Mrah Rouhana",
+    "gn:country_code":"LB",
+    "gn:dem":1226,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":271452,
+    "gn:latitude":34.1425,
+    "gn:longitude":36.1325,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mr\u00e2h Rouh\u00e2n\u00e2",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mar\u0101\u1e29 R\u016b\u1e29\u0101n\u0101",
+        "Mr\u00e2h Rouh\u00e2n\u00e2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673479,
+        421171405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":271452
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"34a03927001b9b5ed4d54c0e316277a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421171405,
+            "locality_id":1277057291,
+            "region_id":85673479
+        }
+    ],
+    "wof:id":1277057291,
+    "wof:lastmodified":1537661061,
+    "wof:name":"Mrah Rouhana",
+    "wof:parent_id":421171405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.1325,
+    34.1425,
+    36.1325,
+    34.1425
+],
+  "geometry": {"coordinates":[36.1325,34.1425],"type":"Point"}
+}

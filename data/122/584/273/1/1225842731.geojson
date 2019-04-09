@@ -1,0 +1,77 @@
+{
+  "id": 1225842731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.41437,33.46409,35.41437,33.46409",
+    "geom:latitude":33.46409,
+    "geom:longitude":35.41437,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Erkay",
+    "gn:country_code":"LB",
+    "gn:dem":341,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":273682,
+    "gn:latitude":33.46409,
+    "gn:longitude":35.41437,
+    "gn:modification_date":"2013-08-06",
+    "gn:name":"Erkay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0625\u0631\u0643\u064a"
+    ],
+    "name:und_x_variant":[
+        "Erki",
+        "Irkey",
+        "Irkay",
+        "Erkay"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673499,
+        890451987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":273682,
+        "wk:page":"Irkay"
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"e26f48fead2c8c466b5c8c09bd5a1ad7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":890451987,
+            "locality_id":1225842731,
+            "region_id":85673499
+        }
+    ],
+    "wof:id":1225842731,
+    "wof:lastmodified":1537661098,
+    "wof:name":"Erkay",
+    "wof:parent_id":890451987,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.41437,
+    33.46409,
+    35.41437,
+    33.46409
+],
+  "geometry": {"coordinates":[35.41437,33.46409],"type":"Point"}
+}

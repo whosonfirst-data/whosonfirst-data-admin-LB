@@ -1,0 +1,71 @@
+{
+  "id": 1293577685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.26083,34.04222,36.26083,34.04222",
+    "geom:latitude":34.04222,
+    "geom:longitude":36.26083,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Nahle",
+    "gn:country_code":"LB",
+    "gn:dem":1288,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":269971,
+    "gn:latitude":34.04222,
+    "gn:longitude":36.26083,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Nahl\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Na\u1e29lah",
+        "Nahl\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673479,
+        421171405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":269971
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"810eec91ae60856c932c7da520f8556a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421171405,
+            "locality_id":1293577685,
+            "region_id":85673479
+        }
+    ],
+    "wof:id":1293577685,
+    "wof:lastmodified":1537661037,
+    "wof:name":"Nahle",
+    "wof:parent_id":421171405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.26083,
+    34.04222,
+    36.26083,
+    34.04222
+],
+  "geometry": {"coordinates":[36.26083,34.04222],"type":"Point"}
+}

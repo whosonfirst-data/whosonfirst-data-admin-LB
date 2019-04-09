@@ -1,0 +1,67 @@
+{
+  "id": 1276641497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.87111,33.8275,35.87111,33.8275",
+    "geom:latitude":33.8275,
+    "geom:longitude":35.87111,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Beit Zakhour",
+    "gn:country_code":"LB",
+    "gn:dem":968,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6275574,
+    "gn:latitude":33.8275,
+    "gn:longitude":35.87111,
+    "gn:modification_date":"2006-08-23",
+    "gn:name":"Be\u00eft Zakho\u00fbr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673479,
+        421172017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6275574
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"907b5daf3668cee680046f15e61dc4c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421172017,
+            "locality_id":1276641497,
+            "region_id":85673479
+        }
+    ],
+    "wof:id":1276641497,
+    "wof:lastmodified":1536861598,
+    "wof:name":"Beit Zakhour",
+    "wof:parent_id":421172017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.87110999999999,
+    33.8275,
+    35.87110999999999,
+    33.8275
+],
+  "geometry": {"coordinates":[35.87110999999999,33.8275],"type":"Point"}
+}

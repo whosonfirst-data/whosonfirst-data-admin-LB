@@ -1,0 +1,73 @@
+{
+  "id": 1360207561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.795,33.99028,35.795,33.99028",
+    "geom:latitude":33.99028,
+    "geom:longitude":35.795,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Haqlet es Saiyed",
+    "gn:country_code":"LB",
+    "gn:dem":1300,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":274525,
+    "gn:latitude":33.99028,
+    "gn:longitude":35.795,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Haqlet es Sa\u00efyed",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al Qal\u2018ah",
+        "El-Qal\u2018ah",
+        "\u1e28aqlat as Sayyid",
+        "Haqlet es Sa\u00efyed"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        421172015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":274525
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"b1ef2c1835cf1e915e12368190c8618b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421172015,
+            "locality_id":1360207561,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1360207561,
+    "wof:lastmodified":1537661118,
+    "wof:name":"Haqlet es Saiyed",
+    "wof:parent_id":421172015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.795,
+    33.99028,
+    35.795,
+    33.99028
+],
+  "geometry": {"coordinates":[35.795,33.99028],"type":"Point"}
+}

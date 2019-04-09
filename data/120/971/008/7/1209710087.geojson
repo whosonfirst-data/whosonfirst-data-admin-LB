@@ -1,0 +1,67 @@
+{
+  "id": 1209710087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.92389,34.45917,35.92389,34.45917",
+    "geom:latitude":34.45917,
+    "geom:longitude":35.92389,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Karm el Akhras",
+    "gn:country_code":"LB",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6279325,
+    "gn:latitude":34.45917,
+    "gn:longitude":35.92389,
+    "gn:modification_date":"2006-08-24",
+    "gn:name":"Karm el Akhras",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        1377074355,
+        1108691427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6279325
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"b0bdce17a842c21dbc15c45ffe24c49d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691427,
+            "locality_id":1209710087,
+            "region_id":1377074355
+        }
+    ],
+    "wof:id":1209710087,
+    "wof:lastmodified":1551727619,
+    "wof:name":"Karm el Akhras",
+    "wof:parent_id":1108691427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.92389,
+    34.45917,
+    35.92389,
+    34.45917
+],
+  "geometry": {"coordinates":[35.92389,34.45917],"type":"Point"}
+}

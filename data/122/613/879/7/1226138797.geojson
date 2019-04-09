@@ -1,0 +1,67 @@
+{
+  "id": 1226138797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.81194,34.29556,35.81194,34.29556",
+    "geom:latitude":34.29556,
+    "geom:longitude":35.81194,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Sarghoun",
+    "gn:country_code":"LB",
+    "gn:dem":342,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":434998,
+    "gn:latitude":34.29556,
+    "gn:longitude":35.81194,
+    "gn:modification_date":"2006-10-12",
+    "gn:name":"Sargho\u00fbn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        1377074355,
+        1108691423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":434998
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"4a16dd1c8faf72c4c31925fb04f412cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691423,
+            "locality_id":1226138797,
+            "region_id":1377074355
+        }
+    ],
+    "wof:id":1226138797,
+    "wof:lastmodified":1551727628,
+    "wof:name":"Sarghoun",
+    "wof:parent_id":1108691423,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.81194,
+    34.29555999999999,
+    35.81194,
+    34.29555999999999
+],
+  "geometry": {"coordinates":[35.81194,34.29555999999999],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1260279055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.01167,33.85083,36.01167,33.85083",
+    "geom:latitude":33.85083,
+    "geom:longitude":36.01167,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Rayak",
+    "gn:country_code":"LB",
+    "gn:dem":928,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":268662,
+    "gn:latitude":33.85083,
+    "gn:longitude":36.01167,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Rayak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Riy\u0101q",
+        "Rayak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673479,
+        421172017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":268662,
+        "wk:page":"Rayak_%28Riyaq%29"
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"65e44b78176da26a9e8538c284364c7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421172017,
+            "locality_id":1260279055,
+            "region_id":85673479
+        }
+    ],
+    "wof:id":1260279055,
+    "wof:lastmodified":1537661024,
+    "wof:name":"Rayak",
+    "wof:parent_id":421172017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.01167,
+    33.85083,
+    36.01167,
+    33.85083
+],
+  "geometry": {"coordinates":[36.01167,33.85083],"type":"Point"}
+}

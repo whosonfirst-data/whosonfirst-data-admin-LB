@@ -1,0 +1,71 @@
+{
+  "id": 1310194745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.98972,34.24111,35.98972,34.24111",
+    "geom:latitude":34.24111,
+    "geom:longitude":35.98972,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Haret Chaaya",
+    "gn:country_code":"LB",
+    "gn:dem":1426,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":274423,
+    "gn:latitude":34.24111,
+    "gn:longitude":35.98972,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"H\u00e2ret Chaaya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u1e28\u0101rat Sha\u2018y\u0101",
+        "H\u00e2ret Chaaya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673483,
+        1108691411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":274423
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"b108e03ed729078ca0ce1616199350f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691411,
+            "locality_id":1310194745,
+            "region_id":85673483
+        }
+    ],
+    "wof:id":1310194745,
+    "wof:lastmodified":1537661114,
+    "wof:name":"Haret Chaaya",
+    "wof:parent_id":1108691411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.98972,
+    34.24111,
+    35.98972,
+    34.24111
+],
+  "geometry": {"coordinates":[35.98972,34.24111],"type":"Point"}
+}

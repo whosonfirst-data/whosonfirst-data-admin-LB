@@ -1,0 +1,71 @@
+{
+  "id": 1226232051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.98583,34.23389,35.98583,34.23389",
+    "geom:latitude":34.23389,
+    "geom:longitude":35.98583,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Beit Choulit",
+    "gn:country_code":"LB",
+    "gn:dem":1567,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":276686,
+    "gn:latitude":34.23389,
+    "gn:longitude":35.98583,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Be\u00eft Cho\u00fbl\u00eet",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bayt Sh\u016bl\u012b\u0163",
+        "Be\u00eft Cho\u00fbl\u00eet"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        1377074355,
+        1108691411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":276686
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"11750dce88d036236a4c370cf8e0ae5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691411,
+            "locality_id":1226232051,
+            "region_id":1377074355
+        }
+    ],
+    "wof:id":1226232051,
+    "wof:lastmodified":1551727625,
+    "wof:name":"Beit Choulit",
+    "wof:parent_id":1108691411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.98583,
+    34.23389,
+    35.98583,
+    34.23389
+],
+  "geometry": {"coordinates":[35.98583,34.23389],"type":"Point"}
+}

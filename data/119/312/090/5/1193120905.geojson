@@ -1,0 +1,72 @@
+{
+  "id": 1193120905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.23889,34.54639,36.23889,34.54639",
+    "geom:latitude":34.54639,
+    "geom:longitude":36.23889,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Mrah Aakkar",
+    "gn:country_code":"LB",
+    "gn:dem":610,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":271611,
+    "gn:latitude":34.54639,
+    "gn:longitude":36.23889,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mrah Aakkar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El-Mrahat",
+        "Mar\u0101\u1e29 \u2018Akk\u0101r",
+        "Mrah Aakkar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        1377074357,
+        1108691407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":271611
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"f13bf8dd6f97fa811a0ba448483915bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691407,
+            "locality_id":1193120905,
+            "region_id":1377074357
+        }
+    ],
+    "wof:id":1193120905,
+    "wof:lastmodified":1551727667,
+    "wof:name":"Mrah Aakkar",
+    "wof:parent_id":1108691407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.23889000000001,
+    34.54639,
+    36.23889000000001,
+    34.54639
+],
+  "geometry": {"coordinates":[36.23889000000001,34.54639],"type":"Point"}
+}

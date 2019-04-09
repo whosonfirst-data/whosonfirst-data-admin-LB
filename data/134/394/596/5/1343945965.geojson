@@ -1,0 +1,75 @@
+{
+  "id": 1343945965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.40417,34.245,36.40417,34.245",
+    "geom:latitude":34.245,
+    "geom:longitude":36.40417,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Fekehe",
+    "gn:country_code":"LB",
+    "gn:dem":1038,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":280221,
+    "gn:latitude":34.245,
+    "gn:longitude":36.40417,
+    "gn:modification_date":"2018-04-02",
+    "gn:name":"F\u00e9keh\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fakie",
+        "Fakieh",
+        "F\u00e2k\u00e9h\u00e9",
+        "Al F\u0101kyah",
+        "F\u00e9keh\u00e9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673479,
+        421171405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":280221,
+        "wk:page":"Fakiha"
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"c2530864373c2c044ba5413947f045e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421171405,
+            "locality_id":1343945965,
+            "region_id":85673479
+        }
+    ],
+    "wof:id":1343945965,
+    "wof:lastmodified":1537661276,
+    "wof:name":"Fekehe",
+    "wof:parent_id":421171405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.40417,
+    34.245,
+    36.40417,
+    34.245
+],
+  "geometry": {"coordinates":[36.40417,34.245],"type":"Point"}
+}

@@ -1,0 +1,136 @@
+{
+  "id": 85903051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.483361,33.90067,35.483361,33.90067",
+    "geom:latitude":33.90067,
+    "geom:longitude":35.483361,
+    "gn:gn_country":"LB",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "iso:country":"LB",
+    "lbl:latitude":33.90067,
+    "lbl:longitude":35.483361,
+    "mps:latitude":33.901191,
+    "mps:longitude":35.482424,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":2,
+    "name:ara_x_colloquial":[
+        "Al Qantari"
+    ],
+    "name:ara_x_preferred":[
+        "Al Qan\u0163\u0101r\u012b"
+    ],
+    "name:ara_x_variant":[
+        "El Qantari"
+    ],
+    "name:unk_x_variant":[
+        "Al Qan\u0163\u0101r\u012b"
+    ],
+    "qs:gn_adm0_cc":"LB",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":276781,
+    "qs:gn_namadm1":"04",
+    "qs:gn_name":"Al Qan\u0163\u0101r\u012b",
+    "qs:local_max":1709,
+    "qs:local_sum":10240,
+    "qs:localhoods":30,
+    "qs:name":"Al Qan\u0163\u0101r\u012b",
+    "qs:name_adm0":"\u0644\u0628\u0646\u0627\u0646",
+    "qs:name_adm1":"\u0628\u064a\u0631\u0648\u062a",
+    "qs:name_adm2":"\u0628\u064a\u0631\u0648\u062a",
+    "qs:name_lau":"\u0627\u0644\u062c\u0627\u0645\u0639\u0629",
+    "qs:name_local":"\u0628\u064a\u0631\u0648\u062a",
+    "qs:photo_max":183,
+    "qs:photo_sum":596,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":10,
+    "qs:woe_adm0":23424873,
+    "qs:woe_adm1":2346016,
+    "qs:woe_adm2":56049614,
+    "qs:woe_lau":56411173,
+    "qs:woe_local":1960307,
+    "qs:woe_ver":"7.10.0",
+    "qs_pg:aaroncc":"LB",
+    "qs_pg:gn_country":"LB",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":279213,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Al Qan\u0163\u0101r\u012b",
+    "qs_pg:name_adm0":"\u0644\u0628\u0646\u0627\u0646",
+    "qs_pg:name_adm1":"\u0628\u064a\u0631\u0648\u062a",
+    "qs_pg:photos":397,
+    "qs_pg:photos_1k":80,
+    "qs_pg:photos_9k":2,
+    "qs_pg:photos_9r":5,
+    "qs_pg:photos_all":397,
+    "qs_pg:photos_sr":6,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":900086,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424873,
+    "qs_pg:woe_id":1959736,
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191569,
+        890442383,
+        85632533,
+        85673487
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":279213,
+        "gp:id":1959736,
+        "qs:id":900086,
+        "qs_pg:id":900086
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"bf256ce18ee05d1e6f24b8c33f2851e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "locality_id":890442383,
+            "neighbourhood_id":85903051,
+            "region_id":85673487
+        }
+    ],
+    "wof:id":85903051,
+    "wof:lang":[
+        "ara"
+    ],
+    "wof:lastmodified":1551727705,
+    "wof:name":"Al Qan\u0163\u0101r\u012b",
+    "wof:parent_id":890442383,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1126073937
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.483361,
+    33.90067,
+    35.483361,
+    33.90067
+],
+  "geometry": {"coordinates":[35.483361,33.90067],"type":"Point"}
+}

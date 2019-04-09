@@ -1,0 +1,82 @@
+{
+  "id": 1293685999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.50149,33.66216,35.50149,33.66216",
+    "geom:latitude":33.66216,
+    "geom:longitude":35.50149,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Dahr Ain el Haour",
+    "gn:country_code":"LB",
+    "gn:dem":654,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":275446,
+    "gn:latitude":33.66216,
+    "gn:longitude":35.50149,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Dahr A\u00efn el Haour",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0636\u0647\u0648\u0631 \u0639\u064a\u0646 \u0627\u0644\u062d\u0648\u0631"
+    ],
+    "name:ara_x_variant":[
+        "\u0636\u0647\u0631 \u0639\u064a\u0646 \u0627\u0644\u062d\u0648\u0631"
+    ],
+    "name:und_x_variant":[
+        "A\u00efn el Hao\u00fbr",
+        "Ain el Hour",
+        "Ain el How",
+        "\u1e10uh\u016br \u2018Ayn al \u1e28awr",
+        "Dho\u00fbr A\u00efn el Haour",
+        "Dahr A\u00efn el Haour",
+        "\u1e10ahr \u2018Ayn al \u1e28awr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        1108691419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":275446
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"72190ddf4cd07cd2194b138902857a5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691419,
+            "locality_id":1293685999,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1293685999,
+    "wof:lastmodified":1537661130,
+    "wof:name":"Dahr Ain el Haour",
+    "wof:parent_id":1108691419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.50149000000001,
+    33.66216,
+    35.50149000000001,
+    33.66216
+],
+  "geometry": {"coordinates":[35.50149000000001,33.66216],"type":"Point"}
+}

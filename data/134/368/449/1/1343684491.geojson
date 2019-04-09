@@ -1,0 +1,75 @@
+{
+  "id": 1343684491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.43506,33.62223,35.43506,33.62223",
+    "geom:latitude":33.62223,
+    "geom:longitude":35.43506,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Sibline",
+    "gn:country_code":"LB",
+    "gn:dem":347,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":268525,
+    "gn:latitude":33.62223,
+    "gn:longitude":35.43506,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Sibl\u00eene",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u0628\u0644\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "Sabl\u012bn",
+        "Sibl\u00eene",
+        "Sibl\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        1108691419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":268525
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"a5bbe94d01f889d5571cd896e4d17550",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691419,
+            "locality_id":1343684491,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1343684491,
+    "wof:lastmodified":1537661022,
+    "wof:name":"Sibline",
+    "wof:parent_id":1108691419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.43506,
+    33.62223,
+    35.43506,
+    33.62223
+],
+  "geometry": {"coordinates":[35.43506,33.62223],"type":"Point"}
+}

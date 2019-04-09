@@ -1,0 +1,74 @@
+{
+  "id": 1343647209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.81444,33.57556,35.81444,33.57556",
+    "geom:latitude":33.57556,
+    "geom:longitude":35.81444,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Ez Zaroub",
+    "gn:country_code":"LB",
+    "gn:dem":1172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":277281,
+    "gn:latitude":33.57556,
+    "gn:longitude":35.81444,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Ez Z\u00e2ro\u00fbb",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0632\u0627\u0631\u0648\u0628"
+    ],
+    "name:und_x_variant":[
+        "Az Z\u0101r\u016bb",
+        "Ez Z\u00e2ro\u00fbb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673479,
+        1108691439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":277281
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"703314e91338291a9758ea9045a636c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691439,
+            "locality_id":1343647209,
+            "region_id":85673479
+        }
+    ],
+    "wof:id":1343647209,
+    "wof:lastmodified":1537661180,
+    "wof:name":"Ez Zaroub",
+    "wof:parent_id":1108691439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.81444000000001,
+    33.57556,
+    35.81444000000001,
+    33.57556
+],
+  "geometry": {"coordinates":[35.81444000000001,33.57556],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1209906933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.72194,33.56278,35.72194,33.56278",
+    "geom:latitude":33.56278,
+    "geom:longitude":35.72194,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"El Qaraaoun",
+    "gn:country_code":"LB",
+    "gn:dem":972,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":279120,
+    "gn:latitude":33.56278,
+    "gn:longitude":35.72194,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"El Qaraaoun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0642\u0631\u0639\u0648\u0646"
+    ],
+    "name:und_x_variant":[
+        "Al Qar\u2018\u016bn",
+        "Qaraaoun",
+        "Al Qar\u2018awn",
+        "El-Qer\u2018ann",
+        "Al Qir\u2018awn",
+        "El Qaraoun",
+        "El Qar\u2018aun",
+        "El Qaraaoun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        1377074351,
+        421173359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":279120,
+        "wk:page":"Qaraoun"
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"8e8e334aecc1aa688f79733fbb70370d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421173359,
+            "locality_id":1209906933,
+            "region_id":1377074351
+        }
+    ],
+    "wof:id":1209906933,
+    "wof:lastmodified":1551727602,
+    "wof:name":"El Qaraaoun",
+    "wof:parent_id":421173359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.72194000000001,
+    33.56278,
+    35.72194000000001,
+    33.56278
+],
+  "geometry": {"coordinates":[35.72194000000001,33.56278],"type":"Point"}
+}

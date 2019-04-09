@@ -1,0 +1,69 @@
+{
+  "id": 1209536947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.42806,33.11833,35.42806,33.11833",
+    "geom:latitude":33.11833,
+    "geom:longitude":35.42806,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Haret el Mghayer",
+    "gn:country_code":"LB",
+    "gn:dem":725,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":274465,
+    "gn:latitude":33.11833,
+    "gn:longitude":35.42806,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Haret el Mghayer",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062d\u0627\u0631\u0629 \u0627\u0644\u0645\u063a\u0627\u064a\u0631"
+    ],
+    "name:und_x_variant":[
+        "\u1e28\u0101rat al Magh\u0101\u2019ir",
+        "Haret el Mghayer",
+        "\u1e28\u0101rat al Maghayir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":274465
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"4d78b69a1164dd61f20260afe774e9f8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632533,
+            "locality_id":1209536947
+        }
+    ],
+    "wof:id":1209536947,
+    "wof:lastmodified":1537661116,
+    "wof:name":"Haret el Mghayer",
+    "wof:parent_id":85632533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.42805999999999,
+    33.11833,
+    35.42805999999999,
+    33.11833
+],
+  "geometry": {"coordinates":[35.42805999999999,33.11833],"type":"Point"}
+}

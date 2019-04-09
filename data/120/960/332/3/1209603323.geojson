@@ -1,0 +1,67 @@
+{
+  "id": 1209603323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.38056,34.39528,36.38056,34.39528",
+    "geom:latitude":34.39528,
+    "geom:longitude":36.38056,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"El Jaouzal",
+    "gn:country_code":"LB",
+    "gn:dem":742,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6277916,
+    "gn:latitude":34.39528,
+    "gn:longitude":36.38056,
+    "gn:modification_date":"2006-08-24",
+    "gn:name":"El Jaouz\u00e2l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        1377074353,
+        1108691421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6277916
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"497ffc1b741b40c202796536efcb86db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691421,
+            "locality_id":1209603323,
+            "region_id":1377074353
+        }
+    ],
+    "wof:id":1209603323,
+    "wof:lastmodified":1551727652,
+    "wof:name":"El Jaouzal",
+    "wof:parent_id":1108691421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.38056,
+    34.39528,
+    36.38056,
+    34.39528
+],
+  "geometry": {"coordinates":[36.38056,34.39528],"type":"Point"}
+}

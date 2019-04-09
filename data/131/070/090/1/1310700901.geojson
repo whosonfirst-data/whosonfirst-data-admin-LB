@@ -1,0 +1,75 @@
+{
+  "id": 1310700901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.73639,33.84083,35.73639,33.84083",
+    "geom:latitude":33.84083,
+    "geom:longitude":35.73639,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"El Khalouat",
+    "gn:country_code":"LB",
+    "gn:dem":1169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":279798,
+    "gn:latitude":33.84083,
+    "gn:longitude":35.73639,
+    "gn:modification_date":"2018-04-06",
+    "gn:name":"El Khalou\u00e2t",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062e\u0644\u0648\u0627\u062a"
+    ],
+    "name:und_x_variant":[
+        "Al Khalaw\u0101t",
+        "El Khalou\u00e2t",
+        "Al Khalw\u0101t"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        421202301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":279798
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"206a1fb06c4a0cf440b42781e2ead9b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421202301,
+            "locality_id":1310700901,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1310700901,
+    "wof:lastmodified":1537661258,
+    "wof:name":"El Khalouat",
+    "wof:parent_id":421202301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.73639,
+    33.84083,
+    35.73639,
+    33.84083
+],
+  "geometry": {"coordinates":[35.73639,33.84083],"type":"Point"}
+}

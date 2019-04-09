@@ -1,0 +1,79 @@
+{
+  "id": 1309903495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.23722,33.20389,35.23722,33.20389",
+    "geom:latitude":33.20389,
+    "geom:longitude":35.23722,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"El Maalliye",
+    "gn:country_code":"LB",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":279575,
+    "gn:latitude":33.20389,
+    "gn:longitude":35.23722,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"El Maall\u00eey\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0639\u0644\u064a\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0645\u0639\u0644\u0651\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al M\u2018all\u012byah",
+        "El Maall\u00eey\u00e9",
+        "Ma\u2018l\u012byah",
+        "Al Mu\u2018all\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673499,
+        1108691441
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":279575
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"beb2db639cae1d58fc36695999a50f29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691441,
+            "locality_id":1309903495,
+            "region_id":85673499
+        }
+    ],
+    "wof:id":1309903495,
+    "wof:lastmodified":1537661249,
+    "wof:name":"El Maalliye",
+    "wof:parent_id":1108691441,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.23722,
+    33.20389,
+    35.23722,
+    33.20389
+],
+  "geometry": {"coordinates":[35.23722,33.20389],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1243090357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.86852,34.09484,35.86852,34.09484",
+    "geom:latitude":34.09484,
+    "geom:longitude":35.86852,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ain Qouna",
+    "gn:country_code":"LB",
+    "gn:dem":1094,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8622004,
+    "gn:latitude":34.09484,
+    "gn:longitude":35.86852,
+    "gn:modification_date":"2013-10-11",
+    "gn:name":"A\u00efn Qouna",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u064a\u0646 \u0642\u0648\u0646\u0627"
+    ],
+    "name:ara_x_variant":[
+        "\u2018Ayn Q\u016bn\u0101"
+    ],
+    "name:und_x_variant":[
+        "A\u00efn Qouna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        421194845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8622004
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"933cac58607989f33fce01decadf84f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421194845,
+            "locality_id":1243090357,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1243090357,
+    "wof:lastmodified":1537661322,
+    "wof:name":"Ain Qouna",
+    "wof:parent_id":421194845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.86852000000001,
+    34.09484,
+    35.86852000000001,
+    34.09484
+],
+  "geometry": {"coordinates":[35.86852000000001,34.09484],"type":"Point"}
+}

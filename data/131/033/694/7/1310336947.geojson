@@ -1,0 +1,74 @@
+{
+  "id": 1310336947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.57333,33.88611,35.57333,33.88611",
+    "geom:latitude":33.88611,
+    "geom:longitude":35.57333,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ras ej Jdaide",
+    "gn:country_code":"LB",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6274994,
+    "gn:latitude":33.88611,
+    "gn:longitude":35.57333,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Ras ej Jda\u00efd\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0631\u0623\u0633 \u0627\u0644\u062c\u062f\u064a\u062f\u0629"
+    ],
+    "name:und_x_variant":[
+        "Ras ej Jda\u00efd\u00e9",
+        "Ra\u2019s al Judaydah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        1108691425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6274994
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"dd41708f8b6e42b1998ca1ac8250baad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691425,
+            "locality_id":1310336947,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1310336947,
+    "wof:lastmodified":1537661313,
+    "wof:name":"Ras ej Jdaide",
+    "wof:parent_id":1108691425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.57333,
+    33.88611,
+    35.57333,
+    33.88611
+],
+  "geometry": {"coordinates":[35.57333,33.88611],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1259688859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.67167,34.06583,35.67167,34.06583",
+    "geom:latitude":34.06583,
+    "geom:longitude":35.67167,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Fniouene",
+    "gn:country_code":"LB",
+    "gn:dem":466,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":275195,
+    "gn:latitude":34.06583,
+    "gn:longitude":35.67167,
+    "gn:modification_date":"2013-10-07",
+    "gn:name":"Fn\u00eeou\u00eane",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0641\u0646\u064a\u0648\u0627\u0646"
+    ],
+    "name:ara_x_variant":[
+        "\u0641\u0646\u064a\u0648\u0646"
+    ],
+    "name:und_x_variant":[
+        "Fn\u012bw\u0101n",
+        "Fn\u00eeou\u00eane",
+        "Funaywan",
+        "Fan\u012bw\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        421172015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":275195
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"1846e336cf00aaf97226173d9f18aec0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421172015,
+            "locality_id":1259688859,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1259688859,
+    "wof:lastmodified":1537661126,
+    "wof:name":"Fniouene",
+    "wof:parent_id":421172015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.67167,
+    34.06583,
+    35.67167,
+    34.06583
+],
+  "geometry": {"coordinates":[35.67167,34.06583],"type":"Point"}
+}

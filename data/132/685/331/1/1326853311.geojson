@@ -1,0 +1,76 @@
+{
+  "id": 1326853311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.7373,34.10833,35.7373,34.10833",
+    "geom:latitude":34.10833,
+    "geom:longitude":35.7373,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kfar Baal",
+    "gn:country_code":"LB",
+    "gn:dem":901,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":272895,
+    "gn:latitude":34.10833,
+    "gn:longitude":35.7373,
+    "gn:modification_date":"2018-03-29",
+    "gn:name":"Kfar Ba\u00e2l",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0641\u0631 \u0628\u0639\u0627\u0644"
+    ],
+    "name:und_x_variant":[
+        "Kafr B\u2018\u0101l",
+        "Kfar Ba\u00e2l",
+        "Kafr Ba\u2018\u0101l"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        421194845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":272895,
+        "wk:page":"Kfar_Baal"
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"98dbd368f2ec913e668f88b4db5a5914",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421194845,
+            "locality_id":1326853311,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1326853311,
+    "wof:lastmodified":1537661087,
+    "wof:name":"Kfar Baal",
+    "wof:parent_id":421194845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.7373,
+    34.10833,
+    35.7373,
+    34.10833
+],
+  "geometry": {"coordinates":[35.7373,34.10833],"type":"Point"}
+}

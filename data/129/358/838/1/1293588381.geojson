@@ -1,0 +1,74 @@
+{
+  "id": 1293588381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.5325,33.81639,35.5325,33.81639",
+    "geom:latitude":33.81639,
+    "geom:longitude":35.5325,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kfarchima",
+    "gn:country_code":"LB",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":272819,
+    "gn:latitude":33.81639,
+    "gn:longitude":35.5325,
+    "gn:modification_date":"2018-03-07",
+    "gn:name":"Kfarchima",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0641\u0631 \u0634\u064a\u0645\u0627"
+    ],
+    "name:und_x_variant":[
+        "Kafr Sh\u012bm\u0101",
+        "Kfarchima"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673491,
+        421202301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":272819
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"ebcab329a435dc87ec15a916f1b32587",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421202301,
+            "locality_id":1293588381,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":1293588381,
+    "wof:lastmodified":1537661080,
+    "wof:name":"Kfarchima",
+    "wof:parent_id":421202301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.5325,
+    33.81639000000001,
+    35.5325,
+    33.81639000000001
+],
+  "geometry": {"coordinates":[35.5325,33.81639000000001],"type":"Point"}
+}

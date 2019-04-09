@@ -1,0 +1,72 @@
+{
+  "id": 1209308955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.73972,33.43,35.73972,33.43",
+    "geom:latitude":33.43,
+    "geom:longitude":35.73972,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kfair ez Zait",
+    "gn:country_code":"LB",
+    "gn:dem":913,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":272249,
+    "gn:latitude":33.43,
+    "gn:longitude":35.73972,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Kfa\u00efr ez Za\u00eft",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0643\u0641\u064a\u0631 \u0627\u0644\u0632\u064a\u062a"
+    ],
+    "name:und_x_variant":[
+        "Al Kufayr",
+        "El Kfa\u00efr",
+        "El Kfa\u00efr ez Za\u00efte",
+        "El-Kfeir",
+        "Kufayr az Zayt",
+        "Kfa\u00efr ez Za\u00eft"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":272249
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"659de57e7983b46a1a4835a1120751b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632533,
+            "locality_id":1209308955
+        }
+    ],
+    "wof:id":1209308955,
+    "wof:lastmodified":1537661072,
+    "wof:name":"Kfair ez Zait",
+    "wof:parent_id":85632533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.73972,
+    33.43,
+    35.73972,
+    33.43
+],
+  "geometry": {"coordinates":[35.73972,33.43],"type":"Point"}
+}

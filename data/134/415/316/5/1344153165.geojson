@@ -1,0 +1,75 @@
+{
+  "id": 1344153165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.95056,34.32278,35.95056,34.32278",
+    "geom:latitude":34.32278,
+    "geom:longitude":35.95056,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Mazraat et Teffah",
+    "gn:country_code":"LB",
+    "gn:dem":892,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":270642,
+    "gn:latitude":34.32278,
+    "gn:longitude":35.95056,
+    "gn:modification_date":"2018-03-28",
+    "gn:name":"Mazraat et Teff\u00e2h",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0632\u0631\u0639\u0629 \u0627\u0644\u062a\u0641\u0627\u062d"
+    ],
+    "name:und_x_variant":[
+        "Mazra\u2018at at Tuff\u0101\u1e29",
+        "Mazraat et Teff\u00e2h"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673483,
+        1108691445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":270642,
+        "wk:page":"Mazraat_Al_Toufah"
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"9502ef18c447dc4e3cc4b283c57c4678",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691445,
+            "locality_id":1344153165,
+            "region_id":85673483
+        }
+    ],
+    "wof:id":1344153165,
+    "wof:lastmodified":1537661048,
+    "wof:name":"Mazraat et Teffah",
+    "wof:parent_id":1108691445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.95056,
+    34.32278,
+    35.95056,
+    34.32278
+],
+  "geometry": {"coordinates":[35.95056,34.32278],"type":"Point"}
+}

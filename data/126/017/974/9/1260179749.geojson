@@ -1,0 +1,74 @@
+{
+  "id": 1260179749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.24833,33.34278,35.24833,33.34278",
+    "geom:latitude":33.34278,
+    "geom:longitude":35.24833,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Khrebet Ain el Qanater",
+    "gn:country_code":"LB",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":6272131,
+    "gn:latitude":33.34278,
+    "gn:longitude":35.24833,
+    "gn:modification_date":"2013-08-08",
+    "gn:name":"Khrebet A\u00efn el Qan\u00e2ter",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062e\u0631\u0628\u0629 \u0639\u064a\u0646 \u0627\u0644\u0642\u0646\u0627\u0637\u0631"
+    ],
+    "name:und_x_variant":[
+        "Khrebet A\u00efn el Qan\u00e2ter",
+        "Khirbat \u2018Ayn al Qan\u0101\u0163ir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        85673499,
+        890451987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6272131
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"ba806e3e0080042588be9bb592531527",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":890451987,
+            "locality_id":1260179749,
+            "region_id":85673499
+        }
+    ],
+    "wof:id":1260179749,
+    "wof:lastmodified":1537661308,
+    "wof:name":"Khrebet Ain el Qanater",
+    "wof:parent_id":890451987,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.24833,
+    33.34278,
+    35.24833,
+    33.34278
+],
+  "geometry": {"coordinates":[35.24833,33.34278],"type":"Point"}
+}

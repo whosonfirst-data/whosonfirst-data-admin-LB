@@ -1,0 +1,69 @@
+{
+  "id": 1209213885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.56778,33.87417,35.56778,33.87417",
+    "geom:latitude":33.87417,
+    "geom:longitude":35.56778,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Es Sabtiye",
+    "gn:country_code":"LB",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":268520,
+    "gn:latitude":33.87417,
+    "gn:longitude":35.56778,
+    "gn:modification_date":"2018-03-07",
+    "gn:name":"Es Sabtiy\u00e9",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0633\u0628\u062a\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Sabt\u012byah",
+        "Es Sabtiy\u00e9",
+        "As Sabt\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":268520
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"ff0a640ca715f42bf76fb68d8f1dea6f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632533,
+            "locality_id":1209213885
+        }
+    ],
+    "wof:id":1209213885,
+    "wof:lastmodified":1537661022,
+    "wof:name":"Es Sabtiye",
+    "wof:parent_id":85632533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.56778,
+    33.87417,
+    35.56778,
+    33.87417
+],
+  "geometry": {"coordinates":[35.56778,33.87417],"type":"Point"}
+}

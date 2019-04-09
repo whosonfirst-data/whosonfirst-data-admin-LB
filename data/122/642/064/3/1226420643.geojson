@@ -1,0 +1,71 @@
+{
+  "id": 1226420643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"36.04028,34.045,36.04028,34.045",
+    "geom:latitude":34.045,
+    "geom:longitude":36.04028,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Mazraat Oumm Aali",
+    "gn:country_code":"LB",
+    "gn:dem":1135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":270570,
+    "gn:latitude":34.045,
+    "gn:longitude":36.04028,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mazraat Oumm Aali",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mazra\u2018at Umm \u2018Al\u012b",
+        "Mazraat Oumm Aali"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        1377074353,
+        421171405
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":270570
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"f2da1408778e9b1412c4e356f8839f94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421171405,
+            "locality_id":1226420643,
+            "region_id":1377074353
+        }
+    ],
+    "wof:id":1226420643,
+    "wof:lastmodified":1551727656,
+    "wof:name":"Mazraat Oumm Aali",
+    "wof:parent_id":421171405,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    36.04028,
+    34.045,
+    36.04028,
+    34.045
+],
+  "geometry": {"coordinates":[36.04028,34.045],"type":"Point"}
+}

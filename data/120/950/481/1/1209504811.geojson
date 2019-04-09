@@ -1,0 +1,74 @@
+{
+  "id": 1209504811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.975,34.34639,35.975,34.34639",
+    "geom:latitude":34.34639,
+    "geom:longitude":35.975,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Mgharet ech Cheikh",
+    "gn:country_code":"LB",
+    "gn:dem":1108,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":271947,
+    "gn:latitude":34.34639,
+    "gn:longitude":35.975,
+    "gn:modification_date":"2013-10-07",
+    "gn:name":"Mgh\u00e2ret ech Che\u00efkh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u063a\u0627\u0631\u0629 \u0627\u0644\u0634\u064a\u062e"
+    ],
+    "name:und_x_variant":[
+        "Magh\u0101rat ash Shaykh",
+        "Mgh\u00e2ret ech Che\u00efkh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        1377074355,
+        1108691427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":271947
+    },
+    "wof:country":"LB",
+    "wof:geomhash":"46a19c627097bf4a08ee70bc47c7800c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":1108691427,
+            "locality_id":1209504811,
+            "region_id":1377074355
+        }
+    ],
+    "wof:id":1209504811,
+    "wof:lastmodified":1551727621,
+    "wof:name":"Mgharet ech Cheikh",
+    "wof:parent_id":1108691427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.975,
+    34.34639,
+    35.975,
+    34.34639
+],
+  "geometry": {"coordinates":[35.975,34.34639],"type":"Point"}
+}

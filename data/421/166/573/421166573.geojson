@@ -1,0 +1,80 @@
+{
+  "id": 421166573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"35.52083,33.87278,35.52083,33.87278",
+    "geom:latitude":33.87278,
+    "geom:longitude":35.52083,
+    "iso:country":"LB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Fourn ech Chebbak"
+    ],
+    "qs:gn_country":"LB",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":275158,
+    "qs:gn_pop":0,
+    "qs:name":"Furn Ech Chebbak",
+    "qs:name_adm0":"\u0644\u0628\u0646\u0627\u0646",
+    "qs:name_adm1":"\u062c\u0628\u0644 \u0644\u0628\u0646\u0627\u0646",
+    "qs:photos":9,
+    "qs:photos_1k":2,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":9,
+    "qs:photos_sr":1,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "qs:qs_id":267508,
+    "qs:woe_adm0":23424873,
+    "qs:woe_id":22724434,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632533,
+        421202301,
+        85673491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":275158,
+        "gp:id":22724434,
+        "qs:id":267508
+    },
+    "wof:country":"LB",
+    "wof:created":1459008695,
+    "wof:geomhash":"9a27a0dec5214c98b206403b8033a79c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632533,
+            "county_id":421202301,
+            "locality_id":-1,
+            "neighbourhood_id":421166573,
+            "region_id":85673491
+        }
+    ],
+    "wof:id":421166573,
+    "wof:lastmodified":1531858293,
+    "wof:name":"Furn Ech Chebbak",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    35.52083,
+    33.87278,
+    35.52083,
+    33.87278
+],
+  "geometry": {"coordinates":[35.52083,33.87278],"type":"Point"}
+}
