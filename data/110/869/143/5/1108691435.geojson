@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022609,
-    "geom:area_square_m":233136314.478269,
+    "geom:area_square_m":233136314.478272,
     "geom:bbox":"35.4192155782,33.3574451968,35.6337940551,33.5963402886",
     "geom:latitude":33.49448,
     "geom:longitude":35.548451,
     "iso:country":"LB",
+    "label:eng_x_preferred_longname":[
+        "Jezzine County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":33.470253,
     "lbl:longitude":35.573622,
     "meso:admin_1":"South",
@@ -124,7 +130,7 @@
         }
     ],
     "wof:id":1108691435,
-    "wof:lastmodified":1553816455,
+    "wof:lastmodified":1555037596,
     "wof:name":"Jezzine",
     "wof:parent_id":85673499,
     "wof:placetype":"county",

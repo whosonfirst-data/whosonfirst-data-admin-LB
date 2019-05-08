@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.027403,
-    "geom:area_square_m":280186439.205191,
+    "geom:area_square_m":280186439.205216,
     "geom:bbox":"35.6473849592,34.1356773772,36.0313578434,34.3379487455",
     "geom:latitude":34.220815,
     "geom:longitude":35.813503,
     "iso:country":"LB",
+    "label:eng_x_preferred_longname":[
+        "El Batroun County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":34.231423,
     "lbl:longitude":35.746909,
     "meso:admin_1":"North",
@@ -151,7 +157,7 @@
         }
     ],
     "wof:id":421204111,
-    "wof:lastmodified":1553816390,
+    "wof:lastmodified":1555037049,
     "wof:name":"El Batroun",
     "wof:parent_id":1377074355,
     "wof:placetype":"county",

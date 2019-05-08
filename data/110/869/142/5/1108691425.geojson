@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025541,
-    "geom:area_square_m":262093186.665555,
+    "geom:area_square_m":262093186.665546,
     "geom:bbox":"35.5281180088,33.8395969815,35.9036538738,33.9863562583",
     "geom:latitude":33.912912,
     "geom:longitude":35.710156,
     "iso:country":"LB",
+    "label:eng_x_preferred_longname":[
+        "El Meten County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":33.919638,
     "lbl:longitude":35.74434,
     "meso:admin_1":"Mount Lebanon",
@@ -133,7 +139,7 @@
         }
     ],
     "wof:id":1108691425,
-    "wof:lastmodified":1553816455,
+    "wof:lastmodified":1555037597,
     "wof:name":"El Meten",
     "wof:parent_id":85673491,
     "wof:placetype":"county",

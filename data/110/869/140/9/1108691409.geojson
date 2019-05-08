@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025766,
-    "geom:area_square_m":264841068.876576,
+    "geom:area_square_m":264841068.876557,
     "geom:bbox":"35.4592718882,33.7056705307,35.812583431,33.8292167381",
     "geom:latitude":33.771047,
     "geom:longitude":35.611458,
     "iso:country":"LB",
+    "label:eng_x_preferred_longname":[
+        "Aley County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":33.775611,
     "lbl:longitude":35.579507,
     "meso:admin_1":"Mount Lebanon",
@@ -127,7 +133,7 @@
         }
     ],
     "wof:id":1108691409,
-    "wof:lastmodified":1553816455,
+    "wof:lastmodified":1555037599,
     "wof:name":"Aley",
     "wof:parent_id":85673491,
     "wof:placetype":"county",

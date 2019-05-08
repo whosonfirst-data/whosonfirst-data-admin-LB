@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.076818,
-    "geom:area_square_m":782352535.859625,
+    "geom:area_square_m":782352535.859548,
     "geom:bbox":"35.9553617723,34.4131759664,36.46269,34.69208",
     "geom:latitude":34.548553,
     "geom:longitude":36.182736,
     "iso:country":"LB",
+    "label:eng_x_preferred_longname":[
+        "Akkar County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":34.536017,
     "lbl:longitude":36.186513,
     "meso:admin_1":"Akkar",
@@ -124,7 +130,7 @@
         }
     ],
     "wof:id":1108691407,
-    "wof:lastmodified":1553816455,
+    "wof:lastmodified":1555037600,
     "wof:name":"Akkar",
     "wof:parent_id":1377074357,
     "wof:placetype":"county",

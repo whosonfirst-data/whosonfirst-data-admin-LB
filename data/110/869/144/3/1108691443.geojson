@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002717,
-    "geom:area_square_m":27717795.41751,
+    "geom:area_square_m":27717795.417502,
     "geom:bbox":"35.7693161363,34.3734267701,35.870986789,34.458667755",
     "geom:latitude":34.421611,
     "geom:longitude":35.834056,
     "iso:country":"LB",
+    "label:eng_x_preferred_longname":[
+        "Tripoli County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":34.435813,
     "lbl:longitude":35.837002,
     "meso:admin_1":"North",
@@ -130,7 +136,7 @@
         }
     ],
     "wof:id":1108691443,
-    "wof:lastmodified":1553816455,
+    "wof:lastmodified":1555037595,
     "wof:name":"Tripoli",
     "wof:parent_id":1377074355,
     "wof:placetype":"county",

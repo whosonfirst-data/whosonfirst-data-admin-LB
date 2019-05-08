@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.046808,
-    "geom:area_square_m":481787145.807821,
+    "geom:area_square_m":481787145.807809,
     "geom:bbox":"35.3846813836,33.4893654158,35.7640412116,33.7638054083",
     "geom:latitude":33.653,
     "geom:longitude":35.563814,
     "iso:country":"LB",
+    "label:eng_x_preferred_longname":[
+        "Chouf County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":33.656758,
     "lbl:longitude":35.576685,
     "meso:admin_1":"Mount Lebanon",
@@ -136,7 +142,7 @@
         }
     ],
     "wof:id":1108691419,
-    "wof:lastmodified":1553816455,
+    "wof:lastmodified":1555037599,
     "wof:name":"Chouf",
     "wof:parent_id":85673491,
     "wof:placetype":"county",

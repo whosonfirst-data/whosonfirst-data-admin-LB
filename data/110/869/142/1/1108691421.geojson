@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.051743,
-    "geom:area_square_m":528013677.855452,
+    "geom:area_square_m":528013677.855358,
     "geom:bbox":"36.137252153,34.2591707418,36.4951989681,34.5210938113",
     "geom:latitude":34.385021,
     "geom:longitude":36.306151,
     "iso:country":"LB",
+    "label:eng_x_preferred_longname":[
+        "El Hermel County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":34.378103,
     "lbl:longitude":36.303416,
     "meso:admin_1":"Baalbek-El Hermel",
@@ -121,7 +127,7 @@
         }
     ],
     "wof:id":1108691421,
-    "wof:lastmodified":1553816455,
+    "wof:lastmodified":1555037598,
     "wof:name":"El Hermel",
     "wof:parent_id":1377074353,
     "wof:placetype":"county",

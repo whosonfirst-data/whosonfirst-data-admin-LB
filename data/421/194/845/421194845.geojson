@@ -10,6 +10,12 @@
     "geom:latitude":34.123831,
     "geom:longitude":35.811183,
     "iso:country":"LB",
+    "label:eng_x_preferred_longname":[
+        "Jbeil County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":34.120512,
     "lbl:longitude":35.826937,
     "meso:admin_1":"Mount Lebanon",
@@ -95,7 +101,7 @@
         }
     ],
     "wof:id":421194845,
-    "wof:lastmodified":1536616117,
+    "wof:lastmodified":1553717531,
     "wof:name":"Jbeil",
     "wof:parent_id":85673491,
     "wof:placetype":"county",

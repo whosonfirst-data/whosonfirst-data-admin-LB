@@ -10,6 +10,12 @@
     "geom:latitude":33.377899,
     "geom:longitude":35.697668,
     "iso:country":"LB",
+    "label:eng_x_preferred_longname":[
+        "Hasbaya County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":33.382327,
     "lbl:longitude":35.699055,
     "meso:admin_1":"El Nabatieh",
@@ -72,7 +78,7 @@
         }
     ],
     "wof:id":1108691431,
-    "wof:lastmodified":1536615237,
+    "wof:lastmodified":1553718183,
     "wof:name":"Hasbaya",
     "wof:parent_id":85673495,
     "wof:placetype":"county",

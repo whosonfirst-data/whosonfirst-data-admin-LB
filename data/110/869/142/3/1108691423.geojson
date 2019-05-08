@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016653,
-    "geom:area_square_m":170059951.319108,
+    "geom:area_square_m":170059951.319096,
     "geom:bbox":"35.7078230437,34.2447822805,35.8702420847,34.4195285719",
     "geom:latitude":34.324675,
     "geom:longitude":35.798684,
     "iso:country":"LB",
+    "label:eng_x_preferred_longname":[
+        "El Koura County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":34.328931,
     "lbl:longitude":35.806037,
     "meso:admin_1":"North",
@@ -127,7 +133,7 @@
         }
     ],
     "wof:id":1108691423,
-    "wof:lastmodified":1553816455,
+    "wof:lastmodified":1555037597,
     "wof:name":"El Koura",
     "wof:parent_id":1377074355,
     "wof:placetype":"county",

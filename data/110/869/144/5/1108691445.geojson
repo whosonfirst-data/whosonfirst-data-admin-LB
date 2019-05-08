@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017231,
-    "geom:area_square_m":175892730.181839,
+    "geom:area_square_m":175892730.181827,
     "geom:bbox":"35.8524052619,34.2657900504,36.0306229211,34.4538316245",
     "geom:latitude":34.35563,
     "geom:longitude":35.920379,
     "iso:country":"LB",
+    "label:eng_x_preferred_longname":[
+        "Zgharta County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":34.331749,
     "lbl:longitude":35.899438,
     "meso:admin_1":"North",
@@ -124,7 +130,7 @@
         }
     ],
     "wof:id":1108691445,
-    "wof:lastmodified":1553816455,
+    "wof:lastmodified":1555037595,
     "wof:name":"Zgharta",
     "wof:parent_id":1377074355,
     "wof:placetype":"county",

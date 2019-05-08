@@ -10,6 +10,12 @@
     "geom:latitude":33.843798,
     "geom:longitude":35.671934,
     "iso:country":"LB",
+    "label:eng_x_preferred_longname":[
+        "Baabda County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":33.843592,
     "lbl:longitude":35.683968,
     "meso:admin_1":"Mount Lebanon",
@@ -95,7 +101,7 @@
         }
     ],
     "wof:id":421202301,
-    "wof:lastmodified":1536616145,
+    "wof:lastmodified":1553717560,
     "wof:name":"Baabda",
     "wof:parent_id":85673491,
     "wof:placetype":"county",

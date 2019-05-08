@@ -10,6 +10,12 @@
     "geom:latitude":34.381042,
     "geom:longitude":36.04035,
     "iso:country":"LB",
+    "label:eng_x_preferred_longname":[
+        "El Minieh-Dennie County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":34.366885,
     "lbl:longitude":36.051555,
     "meso:admin_1":"North",
@@ -71,7 +77,7 @@
         }
     ],
     "wof:id":1108691427,
-    "wof:lastmodified":1551727609,
+    "wof:lastmodified":1553718183,
     "wof:name":"El Minieh-Dennie",
     "wof:parent_id":1377074355,
     "wof:placetype":"county",
