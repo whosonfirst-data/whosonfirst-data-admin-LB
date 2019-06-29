@@ -18,26 +18,26 @@
     "name:ara_x_preferred":[
         "\u0628\u062d\u0645\u062f\u0648\u0646"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Bhamdoun"
     ],
     "name:eng_x_preferred":[
         "Bhamdoun"
     ],
-    "name:fre_x_preferred":[
-        "Bhamdoun"
+    "name:fas_x_preferred":[
+        "\u0628\u062d\u0645\u062f\u0648\u0646"
     ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Bhamdoun"
     ],
     "name:heb_x_preferred":[
         "\u05d1\u05d7\u05de\u05d3\u05d5\u05df"
     ],
-    "name:nno_x_preferred":[
+    "name:nld_x_preferred":[
         "Bhamdoun"
     ],
-    "name:per_x_preferred":[
-        "\u0628\u062d\u0645\u062f\u0648\u0646"
+    "name:nno_x_preferred":[
+        "Bhamdoun"
     ],
     "name:pol_x_preferred":[
         "Bahamdun"
@@ -81,7 +81,7 @@
         }
     ],
     "wof:id":890422271,
-    "wof:lastmodified":1514470142,
+    "wof:lastmodified":1561830006,
     "wof:name":"Bhamdo\u00fbn el Mhatta",
     "wof:parent_id":1108691409,
     "wof:placetype":"locality",

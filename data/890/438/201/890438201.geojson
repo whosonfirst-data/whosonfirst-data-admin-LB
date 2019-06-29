@@ -25,14 +25,8 @@
         "B\u012bbl\u016bs",
         "\u0628\u064a\u0628\u0644\u0648\u0633"
     ],
-    "name:arm_x_preferred":[
-        "\u0532\u056b\u0562\u056c"
-    ],
     "name:arz_x_preferred":[
         "\u062c\u0628\u064a\u0644"
-    ],
-    "name:baq_x_preferred":[
-        "Biblos"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0411\u0456\u0431\u043b"
@@ -46,19 +40,16 @@
     "name:cat_x_preferred":[
         "Biblos"
     ],
-    "name:chi_x_preferred":[
-        "\u6731\u62dc\u52d2"
+    "name:ces_x_preferred":[
+        "Byblos"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Byblos"
     ],
     "name:dan_x_preferred":[
         "Byblos"
     ],
     "name:deu_x_preferred":[
-        "Byblos"
-    ],
-    "name:dut_x_preferred":[
         "Byblos"
     ],
     "name:egy_x_historical":[
@@ -71,11 +62,20 @@
     "name:egy_x_variant":[
         "Kypt (Kepen)"
     ],
+    "name:ell_x_preferred":[
+        "\u0392\u03cd\u03b2\u03bb\u03bf\u03c2"
+    ],
     "name:eng_x_preferred":[
         "Byblos"
     ],
     "name:epo_x_preferred":[
         "Biblos"
+    ],
+    "name:eus_x_preferred":[
+        "Biblos"
+    ],
+    "name:fas_x_preferred":[
+        "\u062c\u0628\u06cc\u06cc\u0644"
     ],
     "name:fin_x_preferred":[
         "Byblos"
@@ -83,23 +83,11 @@
     "name:fra_x_preferred":[
         "Byblos"
     ],
-    "name:fre_x_preferred":[
-        "Byblos"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d1\u10d8\u10d1\u10da\u10dd\u10e1\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Byblos"
-    ],
     "name:glg_x_preferred":[
         "Biblos"
     ],
     "name:grc_x_preferred":[
         "\u03b2\u1f7b\u03b2\u03bb\u03bf\u03c2 (byblos)"
-    ],
-    "name:gre_x_preferred":[
-        "\u0392\u03cd\u03b2\u03bb\u03bf\u03c2"
     ],
     "name:hbs_x_preferred":[
         "Gibelet"
@@ -116,6 +104,9 @@
     "name:hun_x_preferred":[
         "B\u00fcblosz"
     ],
+    "name:hye_x_preferred":[
+        "\u0532\u056b\u0562\u056c"
+    ],
     "name:ind_x_preferred":[
         "Byblos"
     ],
@@ -124,6 +115,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30d3\u30d6\u30ed\u30b9"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10d8\u10d1\u10da\u10dd\u10e1\u10d8"
     ],
     "name:kor_x_preferred":[
         "\ube44\ube14\ub85c\uc2a4"
@@ -158,9 +152,6 @@
     "name:nor_x_preferred":[
         "Jbeil"
     ],
-    "name:per_x_preferred":[
-        "\u062c\u0628\u06cc\u06cc\u0644"
-    ],
     "name:phn_x_historical":[
         "Gebal",
         "Gubla"
@@ -177,7 +168,7 @@
     "name:por_x_preferred":[
         "Biblos"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Byblos"
     ],
     "name:rus_x_preferred":[
@@ -186,7 +177,7 @@
     "name:sco_x_preferred":[
         "Byblos"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Byblos"
     ],
     "name:slv_x_preferred":[
@@ -222,8 +213,8 @@
     "name:vmf_x_preferred":[
         "Byblos"
     ],
-    "name:wel_x_preferred":[
-        "Byblos"
+    "name:zho_x_preferred":[
+        "\u6731\u62dc\u52d2"
     ],
     "qs:name":"Jba\u00efl",
     "qs:photos_9r":0,
@@ -256,7 +247,7 @@
         }
     ],
     "wof:id":890438201,
-    "wof:lastmodified":1514470146,
+    "wof:lastmodified":1561830007,
     "wof:name":"Jba\u00efl",
     "wof:parent_id":421194845,
     "wof:placetype":"locality",

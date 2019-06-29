@@ -160,9 +160,6 @@
     "name:cym_x_preferred":[
         "Libanus"
     ],
-    "name:cze_x_preferred":[
-        "Libanon"
-    ],
     "name:dan_x_preferred":[
         "Libanon"
     ],
@@ -604,9 +601,6 @@
     "name:ron_x_preferred":[
         "Liban"
     ],
-    "name:rum_x_preferred":[
-        "Liban"
-    ],
     "name:run_x_preferred":[
         "Libani"
     ],
@@ -799,9 +793,6 @@
     "name:zho_x_preferred":[
         "\u9ece\u5df4\u5ae9"
     ],
-    "name:zho_x_variant":[
-        "\u9ece\u5df4\u5ae9"
-    ],
     "name:zho_yue_x_preferred":[
         "\u9ece\u5df4\u5ae9"
     ],
@@ -940,7 +931,7 @@
     },
     "wof:country":"LB",
     "wof:country_alpha3":"LBN",
-    "wof:geomhash":"5f6fb51a5f1d415cc17a8ca7dae780a7",
+    "wof:geomhash":"c596403385e0f1fc6ec47fb7bf04ea1b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -957,7 +948,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1549501880,
+    "wof:lastmodified":1561829998,
     "wof:name":"Lebanon",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

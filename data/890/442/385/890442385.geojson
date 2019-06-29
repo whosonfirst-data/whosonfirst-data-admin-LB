@@ -18,17 +18,11 @@
     "name:ara_x_preferred":[
         "\u0628\u0639\u0644\u0628\u0643"
     ],
-    "name:arm_x_preferred":[
-        "\u0532\u0561\u0561\u056c\u0562\u0565\u056f"
-    ],
     "name:arz_x_preferred":[
         "\u0628\u0639\u0644\u0628\u0643"
     ],
     "name:aze_x_preferred":[
         "B\u0259\u0259lb\u0259k"
-    ],
-    "name:baq_x_preferred":[
-        "Baalbek"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0411\u0430\u0430\u043b\u044c\u0431\u0435\u043a"
@@ -39,19 +33,13 @@
     "name:cat_x_preferred":[
         "Baalbek"
     ],
-    "name:chi_x_preferred":[
-        "\u5df4\u52d2\u8d1d\u514b"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Baalbek"
     ],
     "name:dan_x_preferred":[
         "Baalbek"
     ],
     "name:deu_x_preferred":[
-        "Baalbek"
-    ],
-    "name:dut_x_preferred":[
         "Baalbek"
     ],
     "name:ell_x_preferred":[
@@ -63,6 +51,9 @@
     "name:est_x_preferred":[
         "Ba\u2018labakk"
     ],
+    "name:eus_x_preferred":[
+        "Baalbek"
+    ],
     "name:fas_x_preferred":[
         "\u0628\u0639\u0644\u0628\u06a9"
     ],
@@ -72,20 +63,8 @@
     "name:fra_x_preferred":[
         "Baalbek"
     ],
-    "name:fre_x_preferred":[
-        "Baalbek"
-    ],
     "name:fry_x_preferred":[
         "Baalbek"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d1\u10d0\u10d0\u10da\u10d1\u10d4\u10e5\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Baalbek"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03ac\u03b1\u03bb\u03bc\u03c0\u03b5\u03ba"
     ],
     "name:heb_x_preferred":[
         "\u05d1\u05e2\u05dc\u05d1\u05db"
@@ -147,9 +126,6 @@
     "name:nor_x_preferred":[
         "Baalbek"
     ],
-    "name:per_x_preferred":[
-        "\u0628\u0639\u0644\u0628\u06a9"
-    ],
     "name:pnb_x_preferred":[
         "\u0628\u0639\u0644\u0628\u06a9"
     ],
@@ -159,7 +135,7 @@
     "name:por_x_preferred":[
         "Baalbeck"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Baalbek"
     ],
     "name:rus_x_preferred":[
@@ -168,7 +144,7 @@
     "name:sco_x_preferred":[
         "Baalbek"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Baalbek"
     ],
     "name:slv_x_preferred":[
@@ -242,7 +218,7 @@
         }
     ],
     "wof:id":890442385,
-    "wof:lastmodified":1551727649,
+    "wof:lastmodified":1561830007,
     "wof:name":"Baalbek",
     "wof:parent_id":421171405,
     "wof:placetype":"locality",

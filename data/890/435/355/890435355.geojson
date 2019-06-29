@@ -19,9 +19,6 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0646\u0628\u0637\u064a\u0629"
     ],
-    "name:baq_x_preferred":[
-        "Nabatieh"
-    ],
     "name:ben_x_preferred":[
         "\u09a8\u09be\u09ac\u09be\u09a4\u09bf\u09af\u09bc\u09c7"
     ],
@@ -31,11 +28,8 @@
     "name:cat_x_preferred":[
         "Nabatieh"
     ],
-    "name:chi_x_preferred":[
-        "\u7d0d\u5df4\u6cf0"
-    ],
-    "name:dut_x_preferred":[
-        "Nabatiye"
+    "name:deu_x_preferred":[
+        "Nabat\u00e4a"
     ],
     "name:eng_x_preferred":[
         "Nabatieh"
@@ -43,11 +37,14 @@
     "name:est_x_preferred":[
         "An-Naba\u0163\u012byah at-Ta\u1e29t\u0101"
     ],
-    "name:fre_x_preferred":[
+    "name:eus_x_preferred":[
         "Nabatieh"
     ],
-    "name:ger_x_preferred":[
-        "Nabat\u00e4a"
+    "name:fas_x_preferred":[
+        "\u0646\u0628\u0637\u06cc\u0647\u060c \u0644\u0628\u0646\u0627\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Nabatieh"
     ],
     "name:heb_x_preferred":[
         "\u05d0-\u05e0\u05d1\u05d8\u05d9\u05d4"
@@ -67,6 +64,9 @@
     "name:mzn_x_preferred":[
         "\u0646\u0628\u0637\u06cc\u0647"
     ],
+    "name:nld_x_preferred":[
+        "Nabatiye"
+    ],
     "name:nno_x_preferred":[
         "Nabatieh"
     ],
@@ -75,9 +75,6 @@
     ],
     "name:oci_x_preferred":[
         "Nabatieh"
-    ],
-    "name:per_x_preferred":[
-        "\u0646\u0628\u0637\u06cc\u0647\u060c \u0644\u0628\u0646\u0627\u0646"
     ],
     "name:pol_x_preferred":[
         "An-Nabatija"
@@ -111,6 +108,9 @@
     ],
     "name:vie_x_preferred":[
         "Nabatieh"
+    ],
+    "name:zho_x_preferred":[
+        "\u7d0d\u5df4\u6cf0"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Lebanon",
@@ -235,7 +235,7 @@
         }
     ],
     "wof:id":890435355,
-    "wof:lastmodified":1514470147,
+    "wof:lastmodified":1561830007,
     "wof:name":"Nabat\u00eey\u00e9 et Tahta",
     "wof:parent_id":1108691429,
     "wof:placetype":"locality",
