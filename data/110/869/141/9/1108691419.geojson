@@ -36,14 +36,11 @@
     "name:ara_x_preferred":[
         "\u0642\u0636\u0627\u0621 \u0627\u0644\u0634\u0648\u0641"
     ],
-    "name:arm_x_preferred":[
-        "\u0547\u0578\u0582\u0586\u056b \u0577\u0580\u057b\u0561\u0576"
-    ],
     "name:cat_x_preferred":[
         "Xuf"
     ],
-    "name:dut_x_preferred":[
-        "Chouf"
+    "name:deu_x_preferred":[
+        "Distrikt Chouf"
     ],
     "name:eng_x_preferred":[
         "Chouf"
@@ -52,14 +49,17 @@
         "Chouf",
         "Chouf District"
     ],
-    "name:fre_x_preferred":[
-        "District du Chouf"
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u062c\u0628\u0644 \u0634\u0648\u0641"
     ],
-    "name:ger_x_preferred":[
-        "Distrikt Chouf"
+    "name:fra_x_preferred":[
+        "District du Chouf"
     ],
     "name:heb_x_preferred":[
         "\u05e0\u05e4\u05ea \u05e9\u05d5\u05e3"
+    ],
+    "name:hye_x_preferred":[
+        "\u0547\u0578\u0582\u0586\u056b \u0577\u0580\u057b\u0561\u0576"
     ],
     "name:ita_x_preferred":[
         "Distretto dello Shuf"
@@ -70,11 +70,11 @@
     "name:lit_x_preferred":[
         "\u010coufo rajonas"
     ],
+    "name:nld_x_preferred":[
+        "Chouf"
+    ],
     "name:nno_x_preferred":[
         "Chouf distrikt"
-    ],
-    "name:per_x_preferred":[
-        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u062c\u0628\u0644 \u0634\u0648\u0641"
     ],
     "name:pnb_x_preferred":[
         "\u0636\u0644\u0639 \u0634\u0648\u0641"
@@ -142,7 +142,7 @@
         }
     ],
     "wof:id":1108691419,
-    "wof:lastmodified":1555037599,
+    "wof:lastmodified":1561830003,
     "wof:name":"Chouf",
     "wof:parent_id":85673491,
     "wof:placetype":"county",

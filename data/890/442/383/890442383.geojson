@@ -26,9 +26,6 @@
     "name:afr_x_preferred":[
         "Beiroet"
     ],
-    "name:alb_x_preferred":[
-        "Bejrut"
-    ],
     "name:amh_x_preferred":[
         "\u1264\u12ed\u1229\u1275"
     ],
@@ -47,9 +44,6 @@
     "name:arg_x_preferred":[
         "Beirut"
     ],
-    "name:arm_x_preferred":[
-        "\u0532\u0565\u0575\u0580\u0578\u0582\u0569"
-    ],
     "name:arz_x_preferred":[
         "\u0628\u064a\u0631\u0648\u062a"
     ],
@@ -61,9 +55,6 @@
     ],
     "name:bak_x_preferred":[
         "\u0411\u04d9\u0439\u0440\u04af\u0442"
-    ],
-    "name:baq_x_preferred":[
-        "Beirut"
     ],
     "name:bcl_x_preferred":[
         "Beirut"
@@ -86,9 +77,6 @@
     "name:bul_x_preferred":[
         "\u0411\u0435\u0439\u0440\u0443\u0442"
     ],
-    "name:bur_x_preferred":[
-        "\u1018\u1031\u101b\u103d\u1010\u103a\u1019\u103c\u102d\u102f\u1037"
-    ],
     "name:bxr_x_preferred":[
         "\u0411\u0435\u0439\u0440\u0443\u0442"
     ],
@@ -104,14 +92,11 @@
     "name:che_x_preferred":[
         "\u0411\u0435\u0439\u0440\u0443\u0442"
     ],
-    "name:chi_x_preferred":[
-        "\u8d1d\u9c81\u7279"
-    ],
     "name:ckb_x_preferred":[
         "\u0628\u06d5\u06cc\u0631\u0648\u0648\u062a"
     ],
-    "name:cze_x_preferred":[
-        "Bejr\u00fat"
+    "name:cym_x_preferred":[
+        "Beirut"
     ],
     "name:dan_x_preferred":[
         "Beirut"
@@ -121,9 +106,6 @@
     ],
     "name:diq_x_preferred":[
         "Beyrut"
-    ],
-    "name:dut_x_preferred":[
-        "Beiroet"
     ],
     "name:ell_x_preferred":[
         "\u0392\u03b7\u03c1\u03c5\u03c4\u03cc\u03c2"
@@ -135,6 +117,9 @@
         "Bejruto"
     ],
     "name:est_x_preferred":[
+        "Beirut"
+    ],
+    "name:eus_x_preferred":[
         "Beirut"
     ],
     "name:ext_x_preferred":[
@@ -152,20 +137,11 @@
     "name:fra_x_preferred":[
         "Beyrouth"
     ],
-    "name:fre_x_preferred":[
-        "Beyrouth"
-    ],
     "name:fry_x_preferred":[
         "Beir\u00fbt"
     ],
     "name:gag_x_preferred":[
         "Beyrut"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d1\u10d4\u10d8\u10e0\u10e3\u10d7\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Beirut"
     ],
     "name:gla_x_preferred":[
         "Beirut"
@@ -178,9 +154,6 @@
     ],
     "name:glv_x_preferred":[
         "Beirut"
-    ],
-    "name:gre_x_preferred":[
-        "\u0392\u03b7\u03c1\u03c5\u03c4\u03cc\u03c2"
     ],
     "name:grn_x_preferred":[
         "Beirut"
@@ -221,8 +194,8 @@
     "name:hye_x_preferred":[
         "\u0532\u0565\u0575\u00ad\u0580\u0578\u0582\u0569"
     ],
-    "name:ice_x_preferred":[
-        "Beir\u00fat"
+    "name:hye_x_variant":[
+        "\u0532\u0565\u0575\u0580\u0578\u0582\u0569"
     ],
     "name:ido_x_preferred":[
         "Beirut"
@@ -296,17 +269,11 @@
     "name:ltz_x_preferred":[
         "Beirut"
     ],
-    "name:mac_x_preferred":[
-        "\u0411\u0435\u0458\u0440\u0443\u0442"
-    ],
     "name:mal_x_preferred":[
         "\u0d2c\u0d46\u0d2f\u0d4d\u200c\u0d31\u0d42\u0d24\u0d4d\u0d24\u0d4d"
     ],
     "name:mar_x_preferred":[
         "\u092c\u0948\u0930\u0942\u0924"
-    ],
-    "name:may_x_preferred":[
-        "Beirut"
     ],
     "name:mdf_x_preferred":[
         "\u0411\u0435\u0439\u0440\u0443\u0442 \u043e\u0448\u0441\u044c"
@@ -325,6 +292,9 @@
     ],
     "name:mon_x_preferred":[
         "\u0411\u0435\u0439\u0440\u0443\u0442"
+    ],
+    "name:msa_x_preferred":[
+        "Beirut"
     ],
     "name:mwl_x_preferred":[
         "Beirute"
@@ -380,9 +350,6 @@
     "name:pap_x_preferred":[
         "Beirut"
     ],
-    "name:per_x_preferred":[
-        "\u0628\u06cc\u0631\u0648\u062a"
-    ],
     "name:pms_x_preferred":[
         "Beirut"
     ],
@@ -396,9 +363,6 @@
         "Beirute"
     ],
     "name:ron_x_preferred":[
-        "Beirut"
-    ],
-    "name:rum_x_preferred":[
         "Beirut"
     ],
     "name:rup_x_preferred":[
@@ -425,9 +389,6 @@
     "name:slk_x_preferred":[
         "Bejr\u00fat"
     ],
-    "name:slo_x_preferred":[
-        "Bejr\u00fat"
-    ],
     "name:slv_x_preferred":[
         "Bejrut"
     ],
@@ -442,6 +403,9 @@
     ],
     "name:sqi_x_preferred":[
         "Bejruti"
+    ],
+    "name:sqi_x_variant":[
+        "Bejrut"
     ],
     "name:srp_x_preferred":[
         "\u0411\u0435\u0458\u0440\u0443\u0442"
@@ -475,9 +439,6 @@
     ],
     "name:tha_x_preferred":[
         "\u0e40\u0e1a\u0e23\u0e38\u0e15"
-    ],
-    "name:tib_x_preferred":[
-        "\u0f54\u0f7a\u0f0b\u0f62\u0f74\u0f0b\u0f50\u0f7a\u0f0d"
     ],
     "name:tuk_x_preferred":[
         "Be\u00fdrut"
@@ -513,9 +474,6 @@
         "Beirut"
     ],
     "name:war_x_preferred":[
-        "Beirut"
-    ],
-    "name:wel_x_preferred":[
         "Beirut"
     ],
     "name:wuu_x_preferred":[
@@ -670,7 +628,7 @@
         }
     ],
     "wof:id":890442383,
-    "wof:lastmodified":1551727710,
+    "wof:lastmodified":1561830007,
     "wof:name":"Beirut",
     "wof:parent_id":85673487,
     "wof:placetype":"locality",

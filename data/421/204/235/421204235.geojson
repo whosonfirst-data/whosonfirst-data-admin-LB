@@ -22,20 +22,11 @@
     "name:deu_x_preferred":[
         "Naqura"
     ],
-    "name:dut_x_preferred":[
-        "Naqoura"
-    ],
     "name:eng_x_preferred":[
         "Naqoura"
     ],
     "name:fra_x_preferred":[
         "Naqoura"
-    ],
-    "name:fre_x_preferred":[
-        "Naqoura"
-    ],
-    "name:ger_x_preferred":[
-        "Naqura"
     ],
     "name:heb_x_preferred":[
         "\u05d0-\u05e0\u05d0\u05e7\u05d5\u05e8\u05d4"
@@ -118,7 +109,7 @@
         }
     ],
     "wof:id":421204235,
-    "wof:lastmodified":1527716180,
+    "wof:lastmodified":1561830006,
     "wof:name":"Enn Naqoura",
     "wof:parent_id":1108691441,
     "wof:placetype":"locality",

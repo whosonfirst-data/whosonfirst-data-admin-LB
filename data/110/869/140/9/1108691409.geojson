@@ -36,11 +36,8 @@
     "name:ara_x_preferred":[
         "\u0642\u0636\u0627\u0621 \u0639\u0627\u0644\u064a\u0647"
     ],
-    "name:arm_x_preferred":[
-        "\u0531\u056c\u0565\u0575\u056b \u0577\u0580\u057b\u0561\u0576"
-    ],
-    "name:dut_x_preferred":[
-        "Aley"
+    "name:deu_x_preferred":[
+        "Distrikt Aley"
     ],
     "name:eng_x_preferred":[
         "Aley"
@@ -49,11 +46,14 @@
         "Aley",
         "Aley District"
     ],
-    "name:fre_x_preferred":[
+    "name:fas_x_preferred":[
+        "\u0642\u0636\u0627\u0621 \u0639\u0627\u0644\u06cc\u0647"
+    ],
+    "name:fra_x_preferred":[
         "District d'Aley"
     ],
-    "name:ger_x_preferred":[
-        "Distrikt Aley"
+    "name:hye_x_preferred":[
+        "\u0531\u056c\u0565\u0575\u056b \u0577\u0580\u057b\u0561\u0576"
     ],
     "name:ita_x_preferred":[
         "Distretto di Aley"
@@ -61,11 +61,11 @@
     "name:lit_x_preferred":[
         "Alejaus rajonas"
     ],
+    "name:nld_x_preferred":[
+        "Aley"
+    ],
     "name:nno_x_preferred":[
         "Aley distrikt"
-    ],
-    "name:per_x_preferred":[
-        "\u0642\u0636\u0627\u0621 \u0639\u0627\u0644\u06cc\u0647"
     ],
     "name:pnb_x_preferred":[
         "\u0636\u0644\u0639 \u0639\u0627\u0644\u06cc\u06c1"
@@ -76,7 +76,7 @@
     "name:por_x_preferred":[
         "Aley"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Districtul Aley"
     ],
     "name:rus_x_preferred":[
@@ -133,7 +133,7 @@
         }
     ],
     "wof:id":1108691409,
-    "wof:lastmodified":1555037599,
+    "wof:lastmodified":1561830004,
     "wof:name":"Aley",
     "wof:parent_id":85673491,
     "wof:placetype":"county",

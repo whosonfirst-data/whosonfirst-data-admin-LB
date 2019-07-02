@@ -22,50 +22,47 @@
     "name:ara_x_preferred":[
         "\u0628\u0634\u0631\u064a"
     ],
-    "name:arm_x_preferred":[
-        "\u0532\u056b\u0577\u0561\u0580\u056b"
-    ],
     "name:bul_x_preferred":[
         "\u0411\u0438\u0448\u0430\u0440\u0438"
     ],
     "name:cat_x_preferred":[
         "Bsharra"
     ],
-    "name:chi_x_preferred":[
-        "\u535c\u820d\u91cc"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "B\u0161arr\u00e9"
     ],
-    "name:dut_x_preferred":[
-        "Bsharri"
+    "name:deu_x_preferred":[
+        "Bischarri"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03c3\u03b1\u03c1\u03af"
     ],
     "name:eng_x_preferred":[
         "Bsharri"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Bcharr\u00e9"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d1\u10d8\u10e8\u10d0\u10e0\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Bischarri"
     ],
     "name:glg_x_preferred":[
         "Bxari"
     ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03c3\u03b1\u03c1\u03af"
-    ],
     "name:heb_x_preferred":[
         "\u05d1\u05e9\u05e8\u05d9"
+    ],
+    "name:hye_x_preferred":[
+        "\u0532\u056b\u0577\u0561\u0580\u056b"
     ],
     "name:ita_x_preferred":[
         "Bsharre"
     ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10d8\u10e8\u10d0\u10e0\u10d8"
+    ],
     "name:lit_x_preferred":[
         "Be\u0161aris"
+    ],
+    "name:nld_x_preferred":[
+        "Bsharri"
     ],
     "name:nno_x_preferred":[
         "Bsharri"
@@ -93,6 +90,9 @@
     ],
     "name:unk_x_variant":[
         "Bsharr\u012b"
+    ],
+    "name:zho_x_preferred":[
+        "\u535c\u820d\u91cc"
     ],
     "qs_pg:aaroncc":"LB",
     "qs_pg:gn_country":"LB",
@@ -133,7 +133,7 @@
         }
     ],
     "wof:id":1125769799,
-    "wof:lastmodified":1551727612,
+    "wof:lastmodified":1561830007,
     "wof:name":"Bcharr\u00e9",
     "wof:parent_id":1108691411,
     "wof:placetype":"locality",

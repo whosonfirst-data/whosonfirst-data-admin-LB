@@ -16,23 +16,23 @@
     "name:ara_x_preferred":[
         "\u0642\u0631\u0637\u0628\u0627"
     ],
-    "name:dut_x_preferred":[
-        "Qartaba"
-    ],
     "name:eng_x_preferred":[
         "Qartaba"
     ],
-    "name:fre_x_preferred":[
+    "name:fas_x_preferred":[
+        "\u0642\u0631\u0637\u0628\u0647"
+    ],
+    "name:fra_x_preferred":[
         "Qartaba"
     ],
     "name:mzn_x_preferred":[
         "\u0642\u0631\u0637\u0628\u0647"
     ],
-    "name:nno_x_preferred":[
+    "name:nld_x_preferred":[
         "Qartaba"
     ],
-    "name:per_x_preferred":[
-        "\u0642\u0631\u0637\u0628\u0647"
+    "name:nno_x_preferred":[
+        "Qartaba"
     ],
     "name:unk_x_variant":[
         "Qartaba"
@@ -83,7 +83,7 @@
         }
     ],
     "wof:id":421204373,
-    "wof:lastmodified":1514470151,
+    "wof:lastmodified":1561830006,
     "wof:name":"\u0642\u0631\u0637\u0628\u0627",
     "wof:parent_id":421194845,
     "wof:placetype":"locality",
