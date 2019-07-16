@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":7448608.627132,
+    "geom:area_square_m":0.0,
     "geom:bbox":"35.545924,33.878227,35.545924,33.878227",
     "geom:latitude":33.878227,
     "geom:longitude":35.545924,
@@ -27,6 +27,12 @@
         "Salome",
         "\u0633\u0627\u0644\u0648\u0645\u064a"
     ],
+    "name:ara_x_variant":[
+        "\u0633\u0627\u0644\u0648\u0645\u0629"
+    ],
+    "name:bel_x_preferred":[
+        "\u0421\u0430\u043b\u0430\u043c\u0435\u044f"
+    ],
     "name:bre_x_preferred":[
         "Salome merc'h Herodiadez"
     ],
@@ -39,11 +45,26 @@
     "name:ces_x_preferred":[
         "Salome"
     ],
+    "name:chv_x_preferred":[
+        "\u0421\u0430\u043b\u043e\u043c\u0435\u044f"
+    ],
+    "name:dan_x_preferred":[
+        "Salome"
+    ],
     "name:deu_x_preferred":[
         "Salome"
     ],
     "name:ell_x_preferred":[
         "\u03a3\u03b1\u03bb\u03ce\u03bc\u03b7"
+    ],
+    "name:eng_x_preferred":[
+        "Salome"
+    ],
+    "name:epo_x_preferred":[
+        "Salomeo"
+    ],
+    "name:eus_x_preferred":[
+        "Salome"
     ],
     "name:fas_x_preferred":[
         "\u0633\u0627\u0644\u0648\u0645\u0647"
@@ -54,6 +75,9 @@
     "name:fra_x_preferred":[
         "Salom\u00e9"
     ],
+    "name:glg_x_preferred":[
+        "Salom\u00e9"
+    ],
     "name:hbs_x_preferred":[
         "Saloma"
     ],
@@ -62,6 +86,9 @@
     ],
     "name:hrv_x_preferred":[
         "Saloma"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u0561\u056c\u0578\u0574\u0565"
     ],
     "name:ind_x_preferred":[
         "Salome anak Herodias"
@@ -81,6 +108,9 @@
     "name:nld_x_preferred":[
         "Salom\u00e9 II"
     ],
+    "name:nob_x_preferred":[
+        "Salome"
+    ],
     "name:nor_x_preferred":[
         "Salome"
     ],
@@ -96,6 +126,9 @@
     "name:spa_x_preferred":[
         "Salom\u00e9"
     ],
+    "name:srp_x_preferred":[
+        "\u0421\u0430\u043b\u043e\u043c\u0430"
+    ],
     "name:swe_x_preferred":[
         "Salome"
     ],
@@ -108,8 +141,14 @@
     "name:unk_x_variant":[
         "Salome"
     ],
+    "name:urd_x_preferred":[
+        "\u0633\u0644\u0648\u0645\u06cc"
+    ],
     "name:wuu_x_preferred":[
         "\u838e\u4e50\u7f8e"
+    ],
+    "name:yue_x_preferred":[
+        "\u838e\u6a02\u7f8e"
     ],
     "name:zho_x_preferred":[
         "\u838e\u4e50\u7f8e"
@@ -144,10 +183,10 @@
     "src:lbl:centroid":"yerbashapes",
     "wd:wordcount":2890,
     "wof:belongsto":[
+        85673491,
         102191569,
         85632533,
-        1108691425,
-        85673491
+        1108691425
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -170,7 +209,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1531936463,
+    "wof:lastmodified":1563279974,
     "wof:name":"Salome",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

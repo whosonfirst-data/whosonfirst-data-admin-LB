@@ -21,14 +21,26 @@
     "name:arz_x_preferred":[
         "\u0635\u064a\u062f\u0627"
     ],
+    "name:aze_x_preferred":[
+        "Sayda"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0421\u0430\u0439\u0434\u0430"
+    ],
+    "name:bel_x_variant":[
+        "\u0421\u0430\u0439\u0434\u0430"
     ],
     "name:bul_x_preferred":[
         "\u0421\u0430\u0439\u0434\u0430"
     ],
+    "name:bul_x_variant":[
+        "\u0421\u0438\u0434\u043e\u043d"
+    ],
     "name:cat_x_preferred":[
         "Sid\u00f3"
+    ],
+    "name:ceb_x_preferred":[
+        "Sidon"
     ],
     "name:ces_x_preferred":[
         "Sid\u00f3n"
@@ -87,6 +99,9 @@
     "name:hye_x_preferred":[
         "\u054d\u0561\u0575\u0564\u0561"
     ],
+    "name:hyw_x_preferred":[
+        "\u054d\u0561\u0575\u057f\u0561"
+    ],
     "name:ind_x_preferred":[
         "Sidon"
     ],
@@ -119,6 +134,9 @@
     ],
     "name:lmo_x_preferred":[
         "Sidun"
+    ],
+    "name:ltz_x_preferred":[
+        "Sidon"
     ],
     "name:msa_x_preferred":[
         "Sidon"
@@ -198,6 +216,9 @@
     "name:vep_x_preferred":[
         "Sidon"
     ],
+    "name:war_x_preferred":[
+        "Sidon"
+    ],
     "name:yid_x_preferred":[
         "\u05e6\u05d9\u05d3\u05d5\u05df"
     ],
@@ -237,7 +258,7 @@
         }
     ],
     "wof:id":890441591,
-    "wof:lastmodified":1561830006,
+    "wof:lastmodified":1563280264,
     "wof:name":"Sidon",
     "wof:parent_id":890451987,
     "wof:placetype":"locality",

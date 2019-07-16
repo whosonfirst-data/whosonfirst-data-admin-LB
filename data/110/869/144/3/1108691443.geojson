@@ -36,6 +36,9 @@
     "name:ara_x_preferred":[
         "\u0642\u0636\u0627\u0621 \u0637\u0631\u0627\u0628\u0644\u0633"
     ],
+    "name:ceb_x_preferred":[
+        "Tripoli"
+    ],
     "name:deu_x_preferred":[
         "Distrikt Tripoli"
     ],
@@ -43,7 +46,6 @@
         "Tripoli"
     ],
     "name:eng_x_variant":[
-        "Tripoli",
         "Tripoli District"
     ],
     "name:fas_x_preferred":[
@@ -51,6 +53,9 @@
     ],
     "name:fra_x_preferred":[
         "District de Tripoli"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05e4\u05ea \u05d8\u05e8\u05d9\u05e4\u05d5\u05dc\u05d9"
     ],
     "name:hye_x_preferred":[
         "\u054f\u0580\u056b\u057a\u0578\u056c\u056b\u056b \u0577\u0580\u057b\u0561\u0576"
@@ -100,6 +105,9 @@
     "name:urd_x_preferred":[
         "\u062a\u0631\u06cc\u067e\u0648\u0644\u06cc \u0636\u0644\u0639"
     ],
+    "name:zho_x_preferred":[
+        "\u7684\u9ece\u6ce2\u91cc\u7e23"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -136,7 +144,7 @@
         }
     ],
     "wof:id":1108691443,
-    "wof:lastmodified":1561830003,
+    "wof:lastmodified":1563280178,
     "wof:name":"Tripoli",
     "wof:parent_id":1377074355,
     "wof:placetype":"county",

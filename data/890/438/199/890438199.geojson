@@ -27,6 +27,9 @@
     "name:cat_x_preferred":[
         "Jounieh"
     ],
+    "name:ceb_x_preferred":[
+        "Jounieh"
+    ],
     "name:ces_x_preferred":[
         "D\u017eunija"
     ],
@@ -47,6 +50,9 @@
     ],
     "name:hye_x_preferred":[
         "\u054b\u0578\u0582\u0576\u056b\u0561"
+    ],
+    "name:hyw_x_preferred":[
+        "\u053a\u0578\u0582\u0576\u056b\u0567"
     ],
     "name:ita_x_preferred":[
         "Jounieh"
@@ -148,7 +154,7 @@
         }
     ],
     "wof:id":890438199,
-    "wof:lastmodified":1561830007,
+    "wof:lastmodified":1563280265,
     "wof:name":"Djounie",
     "wof:parent_id":421172015,
     "wof:placetype":"locality",

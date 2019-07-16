@@ -25,6 +25,9 @@
     "name:fra_x_preferred":[
         "Qartaba"
     ],
+    "name:ita_x_preferred":[
+        "Qartaba"
+    ],
     "name:mzn_x_preferred":[
         "\u0642\u0631\u0637\u0628\u0647"
     ],
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":421204373,
-    "wof:lastmodified":1561830006,
+    "wof:lastmodified":1563280248,
     "wof:name":"\u0642\u0631\u0637\u0628\u0627",
     "wof:parent_id":421194845,
     "wof:placetype":"locality",

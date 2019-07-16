@@ -21,16 +21,25 @@
     "name:arz_x_preferred":[
         "\u0628\u0639\u0644\u0628\u0643"
     ],
+    "name:ast_x_preferred":[
+        "Baalbek"
+    ],
     "name:aze_x_preferred":[
         "B\u0259\u0259lb\u0259k"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0411\u0430\u0430\u043b\u044c\u0431\u0435\u043a"
     ],
+    "name:bel_x_variant":[
+        "\u0411\u0430\u0430\u043b\u044c\u0431\u0435\u043a"
+    ],
     "name:bul_x_preferred":[
         "\u0411\u0430\u0430\u043b\u0431\u0435\u043a"
     ],
     "name:cat_x_preferred":[
+        "Baalbek"
+    ],
+    "name:ceb_x_preferred":[
         "Baalbek"
     ],
     "name:ces_x_preferred":[
@@ -66,6 +75,9 @@
     "name:fry_x_preferred":[
         "Baalbek"
     ],
+    "name:glg_x_preferred":[
+        "Baalbek"
+    ],
     "name:heb_x_preferred":[
         "\u05d1\u05e2\u05dc\u05d1\u05db"
     ],
@@ -77,6 +89,9 @@
     ],
     "name:hye_x_preferred":[
         "\u0532\u0561\u0561\u056c\u0562\u0565\u056f"
+    ],
+    "name:hyw_x_preferred":[
+        "\u054a\u0561\u0561\u056c\u057a\u0567\u0584"
     ],
     "name:ind_x_preferred":[
         "Baalbek"
@@ -135,6 +150,9 @@
     "name:por_x_preferred":[
         "Baalbeck"
     ],
+    "name:por_x_variant":[
+        "Baalbek"
+    ],
     "name:ron_x_preferred":[
         "Baalbek"
     ],
@@ -159,6 +177,9 @@
     "name:swe_x_preferred":[
         "Baalbek"
     ],
+    "name:tgk_x_preferred":[
+        "\u0411\u0430\u0430\u043b\u0431\u0430\u043a"
+    ],
     "name:tur_x_preferred":[
         "Baalbek"
     ],
@@ -175,6 +196,9 @@
         "Baalbek"
     ],
     "name:vie_x_preferred":[
+        "Baalbek"
+    ],
+    "name:war_x_preferred":[
         "Baalbek"
     ],
     "name:xmf_x_preferred":[
@@ -218,7 +242,7 @@
         }
     ],
     "wof:id":890442385,
-    "wof:lastmodified":1561830007,
+    "wof:lastmodified":1563280269,
     "wof:name":"Baalbek",
     "wof:parent_id":421171405,
     "wof:placetype":"locality",

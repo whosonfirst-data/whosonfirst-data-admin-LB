@@ -46,7 +46,6 @@
         "Chouf"
     ],
     "name:eng_x_variant":[
-        "Chouf",
         "Chouf District"
     ],
     "name:fas_x_preferred":[
@@ -60,6 +59,9 @@
     ],
     "name:hye_x_preferred":[
         "\u0547\u0578\u0582\u0586\u056b \u0577\u0580\u057b\u0561\u0576"
+    ],
+    "name:hyw_x_preferred":[
+        "\u0547\u0578\u0582\u0586\u056b \u0547\u0580\u057b\u0561\u0576"
     ],
     "name:ita_x_preferred":[
         "Distretto dello Shuf"
@@ -106,6 +108,9 @@
     "name:urd_x_preferred":[
         "\u0634\u0648\u0641 \u0636\u0644\u0639"
     ],
+    "name:zho_x_preferred":[
+        "\u8212\u592b\u7e23"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -142,7 +147,7 @@
         }
     ],
     "wof:id":1108691419,
-    "wof:lastmodified":1561830003,
+    "wof:lastmodified":1563280179,
     "wof:name":"Chouf",
     "wof:parent_id":85673491,
     "wof:placetype":"county",

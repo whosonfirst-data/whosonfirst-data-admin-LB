@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":5917977.834254,
+    "geom:area_square_m":0.0,
     "geom:bbox":"35.477428,33.904613,35.477428,33.904613",
     "geom:latitude":33.904613,
     "geom:longitude":35.477428,
@@ -32,8 +32,17 @@
         "\u0631\u0623\u0633 \u0628\u064a\u0631\u0648\u062a",
         "Ras Beirut"
     ],
+    "name:deu_x_preferred":[
+        "Ras Beirut"
+    ],
+    "name:eng_x_preferred":[
+        "Ras Beirut"
+    ],
     "name:unk_x_variant":[
         "Ras Beyrouth",
+        "Ras Beirut"
+    ],
+    "name:vie_x_preferred":[
         "Ras Beirut"
     ],
     "name:zho_x_preferred":[
@@ -117,7 +126,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1534379375,
+    "wof:lastmodified":1563279975,
     "wof:name":"Ras Beirut",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

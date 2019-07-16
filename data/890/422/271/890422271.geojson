@@ -18,6 +18,9 @@
     "name:ara_x_preferred":[
         "\u0628\u062d\u0645\u062f\u0648\u0646"
     ],
+    "name:ceb_x_preferred":[
+        "Bhamdo\u00fbn el Mhatta"
+    ],
     "name:deu_x_preferred":[
         "Bhamdoun"
     ],
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":890422271,
-    "wof:lastmodified":1561830006,
+    "wof:lastmodified":1563280263,
     "wof:name":"Bhamdo\u00fbn el Mhatta",
     "wof:parent_id":1108691409,
     "wof:placetype":"locality",
