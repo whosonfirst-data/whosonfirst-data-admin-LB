@@ -44,7 +44,6 @@
         "Baalbek"
     ],
     "name:eng_x_variant":[
-        "Baalbek",
         "Baalbeck",
         "Baalbek District"
     ],
@@ -59,6 +58,9 @@
     ],
     "name:ita_x_preferred":[
         "Distretto di Baalbek"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d0\u30fc\u30eb\u30d9\u30c3\u30af\u90e1"
     ],
     "name:lit_x_preferred":[
         "Balbekas"
@@ -95,6 +97,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0628\u0639\u0644\u0628\u06a9 \u0636\u0644\u0639"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u52d2\u8c9d\u514b\u7e23"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -155,7 +160,7 @@
         }
     ],
     "wof:id":421171405,
-    "wof:lastmodified":1561830006,
+    "wof:lastmodified":1563280262,
     "wof:name":"Baalbek",
     "wof:parent_id":1377074353,
     "wof:placetype":"county",

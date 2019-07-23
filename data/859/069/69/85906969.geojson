@@ -27,8 +27,26 @@
     "name:ara_x_preferred":[
         "Beirut Central District"
     ],
+    "name:ara_x_variant":[
+        "\u0648\u0633\u0637 \u0628\u064a\u0631\u0648\u062a"
+    ],
+    "name:arz_x_preferred":[
+        "\u0648\u0633\u0637 \u0628\u064a\u0631\u0648\u062a"
+    ],
+    "name:deu_x_preferred":[
+        "Beirut Central District"
+    ],
+    "name:eng_x_preferred":[
+        "Beirut Central District"
+    ],
+    "name:nld_x_preferred":[
+        "Beirut Central District"
+    ],
     "name:unk_x_variant":[
         "Beirut Central District"
+    ],
+    "name:zho_x_preferred":[
+        "\u8d1d\u9c81\u7279\u4e2d\u592e\u533a"
     ],
     "qs:gn_adm0_cc":"LB",
     "qs:gn_id":0,
@@ -88,7 +106,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1551727706,
+    "wof:lastmodified":1563279973,
     "wof:name":"Beirut Central District",
     "wof:parent_id":890442383,
     "wof:placetype":"neighbourhood",

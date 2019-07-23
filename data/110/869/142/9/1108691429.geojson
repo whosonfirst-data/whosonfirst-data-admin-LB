@@ -44,7 +44,6 @@
     ],
     "name:eng_x_variant":[
         "Nabatiye",
-        "Nabatiyeh",
         "Nabatieh District"
     ],
     "name:fas_x_preferred":[
@@ -52,6 +51,9 @@
     ],
     "name:fra_x_preferred":[
         "District de Nabatieh"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05e4\u05ea \u05d0-\u05e0\u05d1\u05d8\u05d9\u05d4"
     ],
     "name:hye_x_preferred":[
         "\u0546\u0561\u0562\u0561\u057f\u056b\u0561\u0575\u056b \u0577\u0580\u057b\u0561\u0576"
@@ -89,6 +91,9 @@
     "name:urd_x_preferred":[
         "\u0646\u0628\u0637\u06cc\u06c1 \u0636\u0644\u0639"
     ],
+    "name:zho_x_preferred":[
+        "\u7d0d\u5df4\u63d0\u8036\u7e23"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "src:population":"statoids",
@@ -125,7 +130,7 @@
         }
     ],
     "wof:id":1108691429,
-    "wof:lastmodified":1561830003,
+    "wof:lastmodified":1563280173,
     "wof:name":"El Nabatieh",
     "wof:parent_id":85673495,
     "wof:placetype":"county",

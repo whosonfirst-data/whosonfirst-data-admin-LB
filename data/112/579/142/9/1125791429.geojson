@@ -27,6 +27,9 @@
     "name:arz_x_preferred":[
         "\u0637\u0631\u0627\u0628\u0644\u0633"
     ],
+    "name:ast_x_preferred":[
+        "Tr\u00edpoli"
+    ],
     "name:aze_x_preferred":[
         "Tripoli"
     ],
@@ -44,6 +47,9 @@
     ],
     "name:cat_x_preferred":[
         "Tr\u00edpoli"
+    ],
+    "name:ceb_x_preferred":[
+        "Tripoli"
     ],
     "name:ces_x_preferred":[
         "Tripolis"
@@ -99,11 +105,17 @@
     "name:hin_x_preferred":[
         "\u0924\u094d\u0930\u093f\u092a\u094b\u0932\u0940"
     ],
+    "name:hrv_x_preferred":[
+        "Tripoli"
+    ],
     "name:hun_x_preferred":[
         "Tripoli"
     ],
     "name:hye_x_preferred":[
         "\u054f\u0580\u056b\u057a\u0578\u056c\u056b"
+    ],
+    "name:hyw_x_preferred":[
+        "\u0539\u0580\u056b\u0562\u0578\u056c\u056b"
     ],
     "name:ind_x_preferred":[
         "Tripoli"
@@ -301,7 +313,7 @@
         }
     ],
     "wof:id":1125791429,
-    "wof:lastmodified":1561830007,
+    "wof:lastmodified":1563280275,
     "wof:name":"Tripoli",
     "wof:parent_id":1108691443,
     "wof:placetype":"locality",
