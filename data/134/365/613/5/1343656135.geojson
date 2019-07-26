@@ -28,6 +28,12 @@
     "name:ara_x_preferred":[
         "\u062c\u0631\u062c\u0648\u0639"
     ],
+    "name:ita_x_preferred":[
+        "Jarjouh"
+    ],
+    "name:nno_x_preferred":[
+        "Jarjouh"
+    ],
     "name:und_x_variant":[
         "Jarj\u016b\u2018",
         "Jarjou\u2018",
@@ -57,7 +63,7 @@
         }
     ],
     "wof:id":1343656135,
-    "wof:lastmodified":1537661095,
+    "wof:lastmodified":1564155924,
     "wof:name":"Jarjouaa",
     "wof:parent_id":1108691429,
     "wof:placetype":"locality",

@@ -28,6 +28,12 @@
     "name:ara_x_preferred":[
         "\u063a\u0631\u064a\u0641\u0629"
     ],
+    "name:ita_x_preferred":[
+        "Gharife"
+    ],
+    "name:nno_x_preferred":[
+        "Gharife"
+    ],
     "name:und_x_variant":[
         "Ghar\u012bfah",
         "Ghar\u00eef\u00e9"
@@ -56,7 +62,7 @@
         }
     ],
     "wof:id":1293721307,
-    "wof:lastmodified":1537661124,
+    "wof:lastmodified":1564156055,
     "wof:name":"Gharife",
     "wof:parent_id":1108691419,
     "wof:placetype":"locality",

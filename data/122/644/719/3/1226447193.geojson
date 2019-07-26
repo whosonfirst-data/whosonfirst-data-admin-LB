@@ -28,6 +28,12 @@
     "name:ara_x_preferred":[
         "\u062d\u0635\u0631\u0627\u064a\u0644"
     ],
+    "name:fra_x_preferred":[
+        "Hosrayel"
+    ],
+    "name:ita_x_preferred":[
+        "Hosrayel"
+    ],
     "name:und_x_variant":[
         "Jazil",
         "Hisrayel",
@@ -58,7 +64,7 @@
         }
     ],
     "wof:id":1226447193,
-    "wof:lastmodified":1537661103,
+    "wof:lastmodified":1564156397,
     "wof:name":"Hosrayel",
     "wof:parent_id":421194845,
     "wof:placetype":"locality",

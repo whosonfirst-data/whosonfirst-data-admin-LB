@@ -28,6 +28,12 @@
     "name:ara_x_preferred":[
         "\u0644\u0628\u0651\u0627\u064a\u0627"
     ],
+    "name:ara_x_variant":[
+        "\u0644\u0628\u0627\u064a\u0627"
+    ],
+    "name:ita_x_preferred":[
+        "Lebbaya"
+    ],
     "name:und_x_variant":[
         "Lebbaya",
         "Libb\u00e2ya",
@@ -57,7 +63,7 @@
         }
     ],
     "wof:id":1209026243,
-    "wof:lastmodified":1551727599,
+    "wof:lastmodified":1564156140,
     "wof:name":"Libbaya",
     "wof:parent_id":421173359,
     "wof:placetype":"locality",

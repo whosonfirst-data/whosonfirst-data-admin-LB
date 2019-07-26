@@ -28,6 +28,18 @@
     "name:ara_x_preferred":[
         "\u0639\u064a\u0646\u0627\u062a\u0627"
     ],
+    "name:deu_x_preferred":[
+        "Aynata"
+    ],
+    "name:ita_x_preferred":[
+        "Aynata"
+    ],
+    "name:nno_x_preferred":[
+        "Aynata"
+    ],
+    "name:nor_x_preferred":[
+        "Aynata"
+    ],
     "name:und_x_variant":[
         "\u2018Ayn\u0101t\u0101",
         "A\u00efnata"
@@ -56,7 +68,7 @@
         }
     ],
     "wof:id":1209937775,
-    "wof:lastmodified":1537661189,
+    "wof:lastmodified":1564156135,
     "wof:name":"Ainata",
     "wof:parent_id":1108691417,
     "wof:placetype":"locality",

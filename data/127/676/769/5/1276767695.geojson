@@ -31,6 +31,57 @@
     "name:ara_x_variant":[
         "\u0639\u0627\u0644\u064a\u0629"
     ],
+    "name:cat_x_preferred":[
+        "Aley"
+    ],
+    "name:ceb_x_preferred":[
+        "Aaley"
+    ],
+    "name:eus_x_preferred":[
+        "Aley"
+    ],
+    "name:fas_x_preferred":[
+        "\u0639\u0627\u0644\u06cc\u0647 \u0644\u0628\u0646\u0627\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Aley"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e2\u05d0\u05dc\u05d9\u05d9"
+    ],
+    "name:hye_x_preferred":[
+        "\u0531\u056c\u0565\u0575"
+    ],
+    "name:ita_x_preferred":[
+        "Aley"
+    ],
+    "name:lit_x_preferred":[
+        "Alejus"
+    ],
+    "name:mzn_x_preferred":[
+        "\u0639\u0627\u0644\u06cc\u0647"
+    ],
+    "name:nld_x_preferred":[
+        "Aley"
+    ],
+    "name:nno_x_preferred":[
+        "Aley"
+    ],
+    "name:pol_x_preferred":[
+        "Alajh"
+    ],
+    "name:ron_x_preferred":[
+        "Aley"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043b\u0430\u0439\u0445"
+    ],
+    "name:srp_x_preferred":[
+        "\u0410\u043b\u0435\u0458"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u043b\u0435\u0439"
+    ],
     "name:und_x_variant":[
         "Alley",
         "\u2018\u0100leih",
@@ -40,6 +91,12 @@
         "Aley",
         "Aaley",
         "\u2018\u0100liyah"
+    ],
+    "name:urd_x_preferred":[
+        "\u0639\u0627\u0644\u06cc\u06c1"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u5217\u4f0a"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -65,7 +122,7 @@
         }
     ],
     "wof:id":1276767695,
-    "wof:lastmodified":1537661284,
+    "wof:lastmodified":1564156089,
     "wof:name":"Aaley",
     "wof:parent_id":1108691409,
     "wof:placetype":"locality",

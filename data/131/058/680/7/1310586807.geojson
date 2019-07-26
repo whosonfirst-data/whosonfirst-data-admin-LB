@@ -28,6 +28,9 @@
     "name:ara_x_preferred":[
         "\u0645\u062f\u0648\u062e\u0627"
     ],
+    "name:ita_x_preferred":[
+        "Mdoukha"
+    ],
     "name:und_x_variant":[
         "Md\u016bkh\u0101",
         "Mdo\u00fbkha"
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":1310586807,
-    "wof:lastmodified":1537661042,
+    "wof:lastmodified":1564156239,
     "wof:name":"Mdoukha",
     "wof:parent_id":1108691439,
     "wof:placetype":"locality",

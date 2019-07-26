@@ -28,6 +28,12 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u063a\u0627\u0632\u064a\u0629"
     ],
+    "name:ita_x_preferred":[
+        "Ghazieh"
+    ],
+    "name:nno_x_preferred":[
+        "Ghaziyeh"
+    ],
     "name:und_x_variant":[
         "Ghaziy\u00e9",
         "Ghazie",
@@ -59,7 +65,7 @@
         }
     ],
     "wof:id":1243385665,
-    "wof:lastmodified":1537661272,
+    "wof:lastmodified":1564156295,
     "wof:name":"El Ghaziye",
     "wof:parent_id":890451987,
     "wof:placetype":"locality",

@@ -28,6 +28,21 @@
     "name:ara_x_preferred":[
         "\u062d\u062f\u0634\u064a\u062a"
     ],
+    "name:fas_x_preferred":[
+        "\u062d\u062f\u0634\u06cc\u062a"
+    ],
+    "name:fra_x_preferred":[
+        "Hadshit"
+    ],
+    "name:ita_x_preferred":[
+        "Hadshit"
+    ],
+    "name:nno_x_preferred":[
+        "Hadchit"
+    ],
+    "name:spa_x_preferred":[
+        "Hadchit"
+    ],
     "name:und_x_variant":[
         "Hadch\u00eete",
         "\u1e28adsh\u012bt",
@@ -57,7 +72,7 @@
         }
     ],
     "wof:id":1259673377,
-    "wof:lastmodified":1537661122,
+    "wof:lastmodified":1564156380,
     "wof:name":"Hadchit",
     "wof:parent_id":1108691411,
     "wof:placetype":"locality",

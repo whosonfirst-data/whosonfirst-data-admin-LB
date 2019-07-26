@@ -28,6 +28,9 @@
     "name:ara_x_preferred":[
         "\u062d\u0627\u0631\u0629 \u062c\u0646\u062f\u0644"
     ],
+    "name:ita_x_preferred":[
+        "Haret Jandal"
+    ],
     "name:und_x_variant":[
         "H\u00e2ret Janndal",
         "\u1e28\u0101rat Jandal",
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1276339711,
-    "wof:lastmodified":1537661114,
+    "wof:lastmodified":1564156075,
     "wof:name":"Haret Jandal",
     "wof:parent_id":1108691419,
     "wof:placetype":"locality",

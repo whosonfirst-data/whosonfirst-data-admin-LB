@@ -28,6 +28,12 @@
     "name:ara_x_preferred":[
         "\u064a\u0627\u0637\u0631"
     ],
+    "name:ita_x_preferred":[
+        "Yater"
+    ],
+    "name:nno_x_preferred":[
+        "Yater"
+    ],
     "name:und_x_variant":[
         "Y\u00e2tar",
         "Y\u0101tar",
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1209127481,
-    "wof:lastmodified":1537660995,
+    "wof:lastmodified":1564156126,
     "wof:name":"Yatar",
     "wof:parent_id":85632533,
     "wof:placetype":"locality",

@@ -28,6 +28,12 @@
     "name:ara_x_preferred":[
         "\u0628\u0639\u062f\u0631\u0627\u0646"
     ],
+    "name:ara_x_variant":[
+        "\u0628\u0639\u0630\u0631\u0627\u0646"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0639\u0630\u0631\u0627\u0646"
+    ],
     "name:und_x_variant":[
         "Ba\u2018dhar\u0101n",
         "Baadar\u00e2ne",
@@ -57,7 +63,7 @@
         }
     ],
     "wof:id":1277108419,
-    "wof:lastmodified":1537661178,
+    "wof:lastmodified":1564156107,
     "wof:name":"Baadarane",
     "wof:parent_id":1108691419,
     "wof:placetype":"locality",

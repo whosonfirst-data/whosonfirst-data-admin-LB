@@ -25,6 +25,15 @@
     "iso:country":"LB",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Janine"
+    ],
+    "name:fra_x_preferred":[
+        "Janine"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0436\u0430\u043d\u0438\u043d"
+    ],
     "name:und_x_variant":[
         "Janeen",
         "J\u0101n\u012bn",
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1293184725,
-    "wof:lastmodified":1537661095,
+    "wof:lastmodified":1564156044,
     "wof:name":"Janine",
     "wof:parent_id":1108691407,
     "wof:placetype":"locality",

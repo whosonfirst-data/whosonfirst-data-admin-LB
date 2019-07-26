@@ -28,6 +28,9 @@
     "name:ara_x_preferred":[
         "\u0645\u062c\u062f\u0644 \u0633\u0644\u0645"
     ],
+    "name:ita_x_preferred":[
+        "Majdel Selem"
+    ],
     "name:und_x_variant":[
         "Majdal Silm",
         "Majdel Selm",
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":1243446137,
-    "wof:lastmodified":1537661069,
+    "wof:lastmodified":1564156350,
     "wof:name":"Majdel Selm",
     "wof:parent_id":1108691437,
     "wof:placetype":"locality",

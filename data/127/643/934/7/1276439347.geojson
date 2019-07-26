@@ -28,6 +28,12 @@
     "name:ara_x_preferred":[
         "\u0639\u0646\u0642\u0648\u0646"
     ],
+    "name:ita_x_preferred":[
+        "Anqoun"
+    ],
+    "name:nno_x_preferred":[
+        "Anqoun"
+    ],
     "name:und_x_variant":[
         "\u2018Ank\u016bn",
         "\u2018Anq\u016bn",
@@ -58,7 +64,7 @@
         }
     ],
     "wof:id":1276439347,
-    "wof:lastmodified":1537661217,
+    "wof:lastmodified":1564156065,
     "wof:name":"Aanqoun",
     "wof:parent_id":890451987,
     "wof:placetype":"locality",

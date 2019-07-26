@@ -28,6 +28,12 @@
     "name:ara_x_preferred":[
         "\u062c\u0648\u0646"
     ],
+    "name:ita_x_preferred":[
+        "Joun"
+    ],
+    "name:nno_x_preferred":[
+        "Joun"
+    ],
     "name:und_x_variant":[
         "J\u016bn",
         "Jo\u00fbn"
@@ -56,7 +62,7 @@
         }
     ],
     "wof:id":1276871405,
-    "wof:lastmodified":1537661089,
+    "wof:lastmodified":1564156074,
     "wof:name":"Joun",
     "wof:parent_id":1108691419,
     "wof:placetype":"locality",

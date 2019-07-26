@@ -28,6 +28,30 @@
     "name:ara_x_preferred":[
         "\u0628\u0644\u0627"
     ],
+    "name:bar_x_preferred":[
+        "Billa"
+    ],
+    "name:ceb_x_preferred":[
+        "Billa"
+    ],
+    "name:deu_x_preferred":[
+        "Billa"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u06cc\u0644\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Billa"
+    ],
+    "name:ind_x_preferred":[
+        "Billa"
+    ],
+    "name:nld_x_preferred":[
+        "Billa"
+    ],
+    "name:swe_x_preferred":[
+        "Billa"
+    ],
     "name:und_x_variant":[
         "Bill\u0101",
         "Billa"
@@ -55,7 +79,7 @@
         }
     ],
     "wof:id":1327418269,
-    "wof:lastmodified":1537661161,
+    "wof:lastmodified":1564155891,
     "wof:name":"Billa",
     "wof:parent_id":1108691411,
     "wof:placetype":"locality",

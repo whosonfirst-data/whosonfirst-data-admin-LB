@@ -28,6 +28,21 @@
     "name:ara_x_preferred":[
         "\u0643\u0641\u0631 \u0634\u0648\u0628\u0627"
     ],
+    "name:ceb_x_preferred":[
+        "Kfar Chouba"
+    ],
+    "name:fra_x_preferred":[
+        "Kfarchouba"
+    ],
+    "name:ita_x_preferred":[
+        "Kfarchouba"
+    ],
+    "name:nor_x_preferred":[
+        "Kfar Chouba"
+    ],
+    "name:swe_x_preferred":[
+        "Kfar Chouba"
+    ],
     "name:und_x_variant":[
         "Kafr Sh\u016bb\u0101",
         "Kfar Shouba"
@@ -56,7 +71,7 @@
         }
     ],
     "wof:id":1226667277,
-    "wof:lastmodified":1537661080,
+    "wof:lastmodified":1564156417,
     "wof:name":"Kfar Shouba",
     "wof:parent_id":1108691431,
     "wof:placetype":"locality",

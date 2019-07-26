@@ -28,9 +28,36 @@
     "name:ara_x_preferred":[
         "\u0645\u0648\u0646\u062a\u0641\u0631\u062f\u0629"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0648\u0646\u062a\u0647\u200c\u0648\u0631\u062f\u0647"
+    ],
+    "name:fra_x_preferred":[
+        "Monteverde"
+    ],
+    "name:ind_x_preferred":[
+        "Monteverde"
+    ],
+    "name:ita_x_preferred":[
+        "Monteverde"
+    ],
+    "name:nld_x_preferred":[
+        "Monteverde"
+    ],
+    "name:nor_x_preferred":[
+        "Monteverde"
+    ],
+    "name:spa_x_preferred":[
+        "Monteverde"
+    ],
     "name:und_x_variant":[
         "Monteverd\u00e9",
         "M\u016bntafaridah"
+    ],
+    "name:vie_x_preferred":[
+        "Monteverde"
+    ],
+    "name:zho_x_preferred":[
+        "\u8499\u6cf0\u97cb\u723e\u5fb7\u5340"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +82,7 @@
         }
     ],
     "wof:id":1243004815,
-    "wof:lastmodified":1537661314,
+    "wof:lastmodified":1564156297,
     "wof:name":"Monteverde",
     "wof:parent_id":1108691425,
     "wof:placetype":"locality",

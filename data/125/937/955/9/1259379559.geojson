@@ -28,6 +28,12 @@
     "name:ara_x_preferred":[
         "\u0628\u0631\u0639\u0634\u064a\u062a"
     ],
+    "name:fra_x_preferred":[
+        "Baraachit"
+    ],
+    "name:ita_x_preferred":[
+        "Braachit"
+    ],
     "name:und_x_variant":[
         "Braach\u00eete",
         "Bra\u2018sheet",
@@ -60,7 +66,7 @@
         }
     ],
     "wof:id":1259379559,
-    "wof:lastmodified":1537661153,
+    "wof:lastmodified":1564156357,
     "wof:name":"Baraachit",
     "wof:parent_id":1108691417,
     "wof:placetype":"locality",

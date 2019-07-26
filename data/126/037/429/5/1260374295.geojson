@@ -25,6 +25,12 @@
     "iso:country":"LB",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Chane"
+    ],
+    "name:swe_x_preferred":[
+        "Chane"
+    ],
     "name:und_x_variant":[
         "Sh\u0101n",
         "Chane"
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1260374295,
-    "wof:lastmodified":1537661017,
+    "wof:lastmodified":1564156188,
     "wof:name":"Chane",
     "wof:parent_id":1108691407,
     "wof:placetype":"locality",

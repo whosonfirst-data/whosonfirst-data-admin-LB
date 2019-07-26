@@ -28,6 +28,12 @@
     "name:ara_x_preferred":[
         "\u0639\u064a\u062a\u0646\u064a\u062a"
     ],
+    "name:ara_x_variant":[
+        "\u0639\u064a\u062a\u0627\u0646\u064a\u062a"
+    ],
+    "name:ita_x_preferred":[
+        "Aytanit"
+    ],
     "name:und_x_variant":[
         "\u2018Ayn Tan\u012bt",
         "\u2018Aitaneet",
@@ -60,7 +66,7 @@
         }
     ],
     "wof:id":1243439717,
-    "wof:lastmodified":1537661182,
+    "wof:lastmodified":1564156351,
     "wof:name":"Aaitanit",
     "wof:parent_id":421173359,
     "wof:placetype":"locality",

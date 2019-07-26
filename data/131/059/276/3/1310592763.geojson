@@ -28,6 +28,12 @@
     "name:ara_x_preferred":[
         "\u0637\u0627\u0631\u0627\u064a"
     ],
+    "name:ceb_x_preferred":[
+        "Taray"
+    ],
+    "name:swe_x_preferred":[
+        "Taray"
+    ],
     "name:und_x_variant":[
         "\u0162\u0101r\u0101y",
         "T\u00e2r\u00e2y"
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1310592763,
-    "wof:lastmodified":1537661004,
+    "wof:lastmodified":1564156232,
     "wof:name":"Taray",
     "wof:parent_id":1108691437,
     "wof:placetype":"locality",

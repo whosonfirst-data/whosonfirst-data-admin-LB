@@ -28,6 +28,12 @@
     "name:ara_x_preferred":[
         "\u062f\u062f\u0629"
     ],
+    "name:ara_x_variant":[
+        "\u062f\u062f\u0647"
+    ],
+    "name:nno_x_preferred":[
+        "Deddeh"
+    ],
     "name:und_x_variant":[
         "Diddih",
         "Didde",
@@ -58,7 +64,7 @@
         }
     ],
     "wof:id":1193267869,
-    "wof:lastmodified":1551727617,
+    "wof:lastmodified":1564156179,
     "wof:name":"Dedde",
     "wof:parent_id":1108691423,
     "wof:placetype":"locality",

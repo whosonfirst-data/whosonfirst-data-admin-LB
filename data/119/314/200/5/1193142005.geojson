@@ -28,6 +28,15 @@
     "name:ara_x_preferred":[
         "\u0639\u0646\u0628\u0627\u0644"
     ],
+    "name:ara_x_variant":[
+        "\u0639\u064a\u0646\u0628\u0627\u0644"
+    ],
+    "name:deu_x_preferred":[
+        "Ainbal"
+    ],
+    "name:ita_x_preferred":[
+        "Ainbal"
+    ],
     "name:und_x_variant":[
         "Aannb\u00e2l",
         "A\u00efn Ba\u00e2l",
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":1193142005,
-    "wof:lastmodified":1537661223,
+    "wof:lastmodified":1564156171,
     "wof:name":"Aanbal",
     "wof:parent_id":1108691419,
     "wof:placetype":"locality",

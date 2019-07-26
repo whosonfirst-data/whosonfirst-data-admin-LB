@@ -28,6 +28,15 @@
     "name:ara_x_preferred":[
         "\u0639\u062f\u064a\u0633\u0629"
     ],
+    "name:ind_x_preferred":[
+        "Adaysseh"
+    ],
+    "name:nor_x_preferred":[
+        "Addaisseh"
+    ],
+    "name:pol_x_preferred":[
+        "Al-Adajsa"
+    ],
     "name:und_x_variant":[
         "Aada\u00efss\u00e9",
         "\u2018Udaysah",
@@ -59,7 +68,7 @@
         }
     ],
     "wof:id":1293680755,
-    "wof:lastmodified":1537661001,
+    "wof:lastmodified":1564156027,
     "wof:name":"Aadaisse",
     "wof:parent_id":1108691437,
     "wof:placetype":"locality",

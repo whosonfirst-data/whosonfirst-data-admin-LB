@@ -28,6 +28,9 @@
     "name:ara_x_preferred":[
         "\u0642\u0628\u0631\u064a\u062e\u0627"
     ],
+    "name:ita_x_preferred":[
+        "Kabrikha"
+    ],
     "name:und_x_variant":[
         "Kabrikha",
         "Qabr\u00eekh\u00e2",
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1259504923,
-    "wof:lastmodified":1537661035,
+    "wof:lastmodified":1564156376,
     "wof:name":"Qabrikha",
     "wof:parent_id":1108691437,
     "wof:placetype":"locality",

@@ -28,6 +28,12 @@
     "name:ara_x_preferred":[
         "\u0645\u062c\u062f\u0644\u064a\u0648\u0646"
     ],
+    "name:ita_x_preferred":[
+        "Majdelyoun"
+    ],
+    "name:nno_x_preferred":[
+        "Majdelyoun"
+    ],
     "name:und_x_variant":[
         "Majdaly\u016bn",
         "Mejdelyo\u00fbn",
@@ -58,7 +64,7 @@
         }
     ],
     "wof:id":1343354043,
-    "wof:lastmodified":1537661068,
+    "wof:lastmodified":1564155958,
     "wof:name":"Mejdelyoun",
     "wof:parent_id":890451987,
     "wof:placetype":"locality",

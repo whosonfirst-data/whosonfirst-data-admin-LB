@@ -28,6 +28,18 @@
     "name:ara_x_preferred":[
         "\u062d\u0648\u0644\u0627"
     ],
+    "name:deu_x_preferred":[
+        "Hula"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d7\u05d5\u05dc\u05d0"
+    ],
+    "name:nor_x_preferred":[
+        "Hula"
+    ],
+    "name:pol_x_preferred":[
+        "Hula"
+    ],
     "name:und_x_variant":[
         "Al \u1e28\u016blah",
         "Houl\u00e9",
@@ -60,7 +72,7 @@
         }
     ],
     "wof:id":1210013403,
-    "wof:lastmodified":1537661101,
+    "wof:lastmodified":1564156160,
     "wof:name":"Houla",
     "wof:parent_id":1108691437,
     "wof:placetype":"locality",

@@ -28,6 +28,15 @@
     "name:ara_x_preferred":[
         "\u0628\u0633\u0644\u0648\u0642\u064a\u062a"
     ],
+    "name:ara_x_variant":[
+        "\u0628\u0633\u0644\u0648\u0642\u064a\u0637"
+    ],
+    "name:ita_x_preferred":[
+        "Basloukit"
+    ],
+    "name:nno_x_preferred":[
+        "Basloukit"
+    ],
     "name:und_x_variant":[
         "Baslo\u00fbq\u00eet",
         "Baslo\u00fbq\u00eete",
@@ -59,7 +68,7 @@
         }
     ],
     "wof:id":1242863881,
-    "wof:lastmodified":1537661172,
+    "wof:lastmodified":1564156311,
     "wof:name":"Baslouqit",
     "wof:parent_id":1108691445,
     "wof:placetype":"locality",

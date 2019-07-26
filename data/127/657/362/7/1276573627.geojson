@@ -28,6 +28,15 @@
     "name:ara_x_preferred":[
         "\u0639\u064a\u062a\u064a\u062a"
     ],
+    "name:fas_x_preferred":[
+        "\u0639\u06cc\u062a\u06cc\u062a"
+    ],
+    "name:ita_x_preferred":[
+        "Aaytit"
+    ],
+    "name:nno_x_preferred":[
+        "Aitit"
+    ],
     "name:und_x_variant":[
         "A\u00eft\u00eete",
         "\u2018Aiteet",
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":1276573627,
-    "wof:lastmodified":1537661181,
+    "wof:lastmodified":1564156083,
     "wof:name":"Aatit",
     "wof:parent_id":1108691441,
     "wof:placetype":"locality",

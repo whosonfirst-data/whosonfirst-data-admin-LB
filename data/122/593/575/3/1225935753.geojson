@@ -31,6 +31,12 @@
     "name:ara_x_variant":[
         "\u0642\u0646\u0637\u0631\u0629"
     ],
+    "name:ita_x_preferred":[
+        "Kantara"
+    ],
+    "name:pol_x_preferred":[
+        "Kantara"
+    ],
     "name:und_x_variant":[
         "El-Qantarah",
         "El Qanntara",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1225935753,
-    "wof:lastmodified":1537661235,
+    "wof:lastmodified":1564156393,
     "wof:name":"Qantara",
     "wof:parent_id":1108691437,
     "wof:placetype":"locality",

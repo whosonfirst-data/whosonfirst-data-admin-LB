@@ -28,6 +28,15 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u0635\u0648\u0631"
     ],
+    "name:fra_x_preferred":[
+        "Bayssour"
+    ],
+    "name:ita_x_preferred":[
+        "Bayssour"
+    ],
+    "name:nno_x_preferred":[
+        "Baissour"
+    ],
     "name:und_x_variant":[
         "Bayy \u015e\u016br",
         "Baisour",
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":1259506415,
-    "wof:lastmodified":1537661170,
+    "wof:lastmodified":1564156376,
     "wof:name":"Baissour",
     "wof:parent_id":1108691409,
     "wof:placetype":"locality",

@@ -28,6 +28,18 @@
     "name:ara_x_preferred":[
         "\u0645\u0634\u0627\u0646"
     ],
+    "name:fra_x_preferred":[
+        "M\u00e8chan\u00e8"
+    ],
+    "name:ita_x_preferred":[
+        "Mechan\u00e8"
+    ],
+    "name:kor_x_preferred":[
+        "\uba54\uce74\ub124"
+    ],
+    "name:nld_x_preferred":[
+        "Mechane"
+    ],
     "name:und_x_variant":[
         "Msh\u0101n",
         "M\u00e9ch\u00e2ne",
@@ -56,7 +68,7 @@
         }
     ],
     "wof:id":1293685957,
-    "wof:lastmodified":1537661040,
+    "wof:lastmodified":1564156027,
     "wof:name":"Mechane",
     "wof:parent_id":421194845,
     "wof:placetype":"locality",

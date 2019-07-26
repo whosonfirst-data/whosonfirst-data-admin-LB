@@ -28,6 +28,21 @@
     "name:ara_x_preferred":[
         "\u0623\u0631\u0646\u0648\u0646"
     ],
+    "name:fas_x_preferred":[
+        "\u0623\u0631\u0646\u0648\u0646"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05e8\u05e0\u05d5\u05df"
+    ],
+    "name:ita_x_preferred":[
+        "Arnoun"
+    ],
+    "name:nno_x_preferred":[
+        "Arnoun"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0440\u043d\u0443\u043d"
+    ],
     "name:und_x_variant":[
         "Arn\u016bn",
         "Arnao\u00fbn",
@@ -57,7 +72,7 @@
         }
     ],
     "wof:id":1292992519,
-    "wof:lastmodified":1537661214,
+    "wof:lastmodified":1564156041,
     "wof:name":"Arnoun",
     "wof:parent_id":1108691429,
     "wof:placetype":"locality",

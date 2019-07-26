@@ -28,6 +28,33 @@
     "name:ara_x_preferred":[
         "\u0639\u064a\u062a\u0631\u0648\u0646"
     ],
+    "name:ceb_x_preferred":[
+        "A\u00eftaroun"
+    ],
+    "name:deu_x_preferred":[
+        "Aitarun"
+    ],
+    "name:fas_x_preferred":[
+        "\u0639\u06cc\u062a\u0631\u0648\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Aitaroun"
+    ],
+    "name:ita_x_preferred":[
+        "Aytaroun"
+    ],
+    "name:nno_x_preferred":[
+        "Aitaroun"
+    ],
+    "name:nor_x_preferred":[
+        "Aitaroun"
+    ],
+    "name:pol_x_preferred":[
+        "Ajtarun"
+    ],
+    "name:swe_x_preferred":[
+        "A\u00eftaroun"
+    ],
     "name:und_x_variant":[
         "\u2018Aytar\u016bn",
         "A\u00eftaroun",
@@ -57,7 +84,7 @@
         }
     ],
     "wof:id":1310000487,
-    "wof:lastmodified":1537661182,
+    "wof:lastmodified":1564156214,
     "wof:name":"Aitaroun",
     "wof:parent_id":1108691417,
     "wof:placetype":"locality",

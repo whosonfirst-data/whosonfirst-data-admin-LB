@@ -28,6 +28,9 @@
     "name:ara_x_preferred":[
         "\u0645\u064a\u0641\u062f\u0648\u0646"
     ],
+    "name:ita_x_preferred":[
+        "Mayfadoun"
+    ],
     "name:und_x_variant":[
         "Mayfad\u016bn",
         "Ma\u00effado\u00fbn",
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1209736857,
-    "wof:lastmodified":1537661056,
+    "wof:lastmodified":1564156145,
     "wof:name":"Maifadoun",
     "wof:parent_id":1108691429,
     "wof:placetype":"locality",

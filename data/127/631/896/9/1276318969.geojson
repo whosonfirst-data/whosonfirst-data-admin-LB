@@ -28,6 +28,9 @@
     "name:ara_x_preferred":[
         "\u062a\u0644 \u0632\u0646\u0648\u0628"
     ],
+    "name:ara_x_variant":[
+        "\u062a\u0644 \u0630\u0646\u0648\u0628"
+    ],
     "name:und_x_variant":[
         "Tall Dhn\u016bb",
         "Tell Zno\u00fbb",
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1276318969,
-    "wof:lastmodified":1537661006,
+    "wof:lastmodified":1564156106,
     "wof:name":"Tell Znoub",
     "wof:parent_id":421173359,
     "wof:placetype":"locality",

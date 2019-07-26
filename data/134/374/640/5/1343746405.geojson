@@ -28,6 +28,12 @@
     "name:ara_x_preferred":[
         "\u0628\u0637\u0631\u0627\u0645"
     ],
+    "name:ita_x_preferred":[
+        "Bterram"
+    ],
+    "name:nno_x_preferred":[
+        "Btourram"
+    ],
     "name:und_x_variant":[
         "Batarr\u0101m",
         "B\u0163urr\u0101m",
@@ -58,7 +64,7 @@
         }
     ],
     "wof:id":1343746405,
-    "wof:lastmodified":1537661147,
+    "wof:lastmodified":1564155975,
     "wof:name":"Bterram",
     "wof:parent_id":1108691423,
     "wof:placetype":"locality",

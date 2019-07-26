@@ -25,6 +25,15 @@
     "iso:country":"LB",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Harfouch"
+    ],
+    "name:fra_x_preferred":[
+        "Harfouch"
+    ],
+    "name:nds_x_preferred":[
+        "Harfouch"
+    ],
     "name:und_x_variant":[
         "Mar\u0101\u1e29 al \u1e28arf\u016bsh",
         "Harfo\u00fbch"
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1327017877,
-    "wof:lastmodified":1537661065,
+    "wof:lastmodified":1564155872,
     "wof:name":"Harfouch",
     "wof:parent_id":421171405,
     "wof:placetype":"locality",

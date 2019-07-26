@@ -28,6 +28,9 @@
     "name:ara_x_preferred":[
         "\u0628\u0631\u0633\u0627"
     ],
+    "name:ita_x_preferred":[
+        "Barsa"
+    ],
     "name:und_x_variant":[
         "Bar\u015fah",
         "Barsa",
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1293276705,
-    "wof:lastmodified":1537661173,
+    "wof:lastmodified":1564156045,
     "wof:name":"Barsa",
     "wof:parent_id":1108691423,
     "wof:placetype":"locality",

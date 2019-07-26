@@ -28,6 +28,9 @@
     "name:ara_x_preferred":[
         "\u0628\u0646\u0634\u0639\u064a"
     ],
+    "name:nno_x_preferred":[
+        "Bnachii"
+    ],
     "name:und_x_variant":[
         "Bnash\u2018\u012b",
         "Bnecha\u00ef",
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1243258537,
-    "wof:lastmodified":1537661155,
+    "wof:lastmodified":1564156325,
     "wof:name":"Bnechaai",
     "wof:parent_id":1108691445,
     "wof:placetype":"locality",

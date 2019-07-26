@@ -25,6 +25,12 @@
     "iso:country":"LB",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Jdeide"
+    ],
+    "name:nno_x_preferred":[
+        "Jdeide"
+    ],
     "name:und_x_variant":[
         "El-Jdeidah",
         "Jedid\u00e9",
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1276645029,
-    "wof:lastmodified":1537661259,
+    "wof:lastmodified":1564156097,
     "wof:name":"Jdeide",
     "wof:parent_id":1108691407,
     "wof:placetype":"locality",

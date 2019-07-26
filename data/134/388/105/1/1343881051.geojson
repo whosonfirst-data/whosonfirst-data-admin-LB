@@ -28,6 +28,24 @@
     "name:ara_x_preferred":[
         "\u0632\u064a\u062a\u0648\u0646"
     ],
+    "name:deu_x_preferred":[
+        "Zeitoun"
+    ],
+    "name:fas_x_preferred":[
+        "\u0632\u06cc\u062a\u0648\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Zeitoun"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d6\u05d9\u05ea\u05d5\u05df"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u0435\u0439\u0442\u0443\u043d"
+    ],
+    "name:tur_x_preferred":[
+        "Zeytun"
+    ],
     "name:und_x_variant":[
         "Zayt\u016bn",
         "Ze\u00efto\u00fbn"
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1343881051,
-    "wof:lastmodified":1537660993,
+    "wof:lastmodified":1564155982,
     "wof:name":"Zeitoun",
     "wof:parent_id":421172015,
     "wof:placetype":"locality",

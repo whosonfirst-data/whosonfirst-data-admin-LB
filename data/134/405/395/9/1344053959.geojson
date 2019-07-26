@@ -28,12 +28,57 @@
     "name:ara_x_preferred":[
         "\u062d\u0627\u0635\u0628\u064a\u0627"
     ],
+    "name:bel_x_preferred":[
+        "\u0425\u0430\u0441\u0431\u0435\u044f"
+    ],
+    "name:ceb_x_preferred":[
+        "H\u00e2sba\u00efya"
+    ],
+    "name:fas_x_preferred":[
+        "\u062d\u0627\u0635\u0628\u06cc\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Hasbaya"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d7\u05d0\u05e6\u05d1\u05d9\u05d0"
+    ],
+    "name:hye_x_preferred":[
+        "\u0540\u0561\u057d\u0562\u0561\u0575\u0561"
+    ],
+    "name:ita_x_preferred":[
+        "Hasbaya"
+    ],
+    "name:nld_x_preferred":[
+        "Hasbeya"
+    ],
+    "name:nno_x_preferred":[
+        "Hasbaya"
+    ],
+    "name:nor_x_preferred":[
+        "Hasbeya"
+    ],
+    "name:pol_x_preferred":[
+        "Hasbajja"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0430\u0441\u0431\u0430\u0439\u044f"
+    ],
+    "name:swe_x_preferred":[
+        "H\u00e2sba\u00efya"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0430\u0441\u0431\u0430\u0439\u044f"
+    ],
     "name:und_x_variant":[
         "\u1e28\u0101\u015fbayy\u0101",
         "H\u0101sbeya",
         "Hasbeiya",
         "H\u00e2sba\u00efya",
         "\u1e28\u0101\u015fibayy\u0101"
+    ],
+    "name:zho_x_preferred":[
+        "\u54c8\u65af\u62dc\u4e9e"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -59,7 +104,7 @@
         }
     ],
     "wof:id":1344053959,
-    "wof:lastmodified":1537661112,
+    "wof:lastmodified":1564155969,
     "wof:name":"Hasbaiya",
     "wof:parent_id":1108691431,
     "wof:placetype":"locality",

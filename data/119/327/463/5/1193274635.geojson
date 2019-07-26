@@ -28,6 +28,30 @@
     "name:ara_x_preferred":[
         "\u0636\u0647\u0648\u0631 \u0627\u0644\u0634\u0648\u064a\u0631"
     ],
+    "name:ceb_x_preferred":[
+        "Dho\u00fbr ech Choue\u00efr"
+    ],
+    "name:deu_x_preferred":[
+        "Dhour El Choueir"
+    ],
+    "name:fra_x_preferred":[
+        "Dhour Choueir"
+    ],
+    "name:ita_x_preferred":[
+        "Duhur al-Shuwayr"
+    ],
+    "name:nno_x_preferred":[
+        "Dhour El Choueir"
+    ],
+    "name:pam_x_preferred":[
+        "Dhour El Choueir"
+    ],
+    "name:sco_x_preferred":[
+        "Dhour El Choueir"
+    ],
+    "name:swe_x_preferred":[
+        "Dho\u00fbr ech Choue\u00efr"
+    ],
     "name:und_x_variant":[
         "Dhour Choueir",
         "Douho\u00fbr ech Choue\u00efr",
@@ -58,7 +82,7 @@
         }
     ],
     "wof:id":1193274635,
-    "wof:lastmodified":1537661130,
+    "wof:lastmodified":1564156177,
     "wof:name":"Dhour ech Choueir",
     "wof:parent_id":1108691425,
     "wof:placetype":"locality",

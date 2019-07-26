@@ -28,6 +28,12 @@
     "name:ara_x_preferred":[
         "\u0625\u062f\u0629"
     ],
+    "name:deu_x_preferred":[
+        "Edde"
+    ],
+    "name:fra_x_preferred":[
+        "Edde"
+    ],
     "name:und_x_variant":[
         "Iddih",
         "Iddah",
@@ -57,7 +63,7 @@
         }
     ],
     "wof:id":1293806539,
-    "wof:lastmodified":1537661099,
+    "wof:lastmodified":1564156048,
     "wof:name":"Edde",
     "wof:parent_id":421194845,
     "wof:placetype":"locality",

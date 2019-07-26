@@ -24,6 +24,15 @@
     "iso:country":"LB",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062c\u0645\u064a\u062c\u0645\u0629"
+    ],
+    "name:fra_x_preferred":[
+        "Jmeijme"
+    ],
+    "name:ita_x_preferred":[
+        "Jmeyjmeh"
+    ],
     "name:und_x_variant":[
         "Jmeyjmey"
     ],
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1226261407,
-    "wof:lastmodified":1537661319,
+    "wof:lastmodified":1564156399,
     "wof:name":"Jmayjmeh",
     "wof:parent_id":1108691417,
     "wof:placetype":"locality",

@@ -25,6 +25,12 @@
     "iso:country":"LB",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0631\u064a\u062a\u0627\u0644"
+    ],
+    "name:ita_x_preferred":[
+        "Brital"
+    ],
     "name:und_x_variant":[
         "Breetal",
         "Bre\u00eetel",
@@ -58,7 +64,7 @@
         }
     ],
     "wof:id":1259364115,
-    "wof:lastmodified":1537661152,
+    "wof:lastmodified":1564156352,
     "wof:name":"Britel",
     "wof:parent_id":421171405,
     "wof:placetype":"locality",

@@ -28,6 +28,15 @@
     "name:ara_x_preferred":[
         "\u0634\u0646\u0646\u0639\u064a\u0631"
     ],
+    "name:ara_x_variant":[
+        "\u0634\u0646\u0627\u0646\u0639\u064a\u0631"
+    ],
+    "name:fra_x_preferred":[
+        "Chnanir"
+    ],
+    "name:ita_x_preferred":[
+        "Chnaniir"
+    ],
     "name:und_x_variant":[
         "Chenan A\u00efr",
         "Chnanha\u00efr",
@@ -59,7 +68,7 @@
         }
     ],
     "wof:id":1344256269,
-    "wof:lastmodified":1537661013,
+    "wof:lastmodified":1564155933,
     "wof:name":"Chenan Aair",
     "wof:parent_id":421172015,
     "wof:placetype":"locality",

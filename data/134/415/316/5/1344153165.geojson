@@ -28,6 +28,12 @@
     "name:ara_x_preferred":[
         "\u0645\u0632\u0631\u0639\u0629 \u0627\u0644\u062a\u0641\u0627\u062d"
     ],
+    "name:ita_x_preferred":[
+        "Mazraat el Teffah"
+    ],
+    "name:nno_x_preferred":[
+        "Mazraat Al Toufah"
+    ],
     "name:und_x_variant":[
         "Mazra\u2018at at Tuff\u0101\u1e29",
         "Mazraat et Teff\u00e2h"
@@ -56,7 +62,7 @@
         }
     ],
     "wof:id":1344153165,
-    "wof:lastmodified":1537661048,
+    "wof:lastmodified":1564155939,
     "wof:name":"Mazraat et Teffah",
     "wof:parent_id":1108691445,
     "wof:placetype":"locality",

@@ -28,6 +28,12 @@
     "name:ara_x_preferred":[
         "\u0633\u062d\u0645\u0631"
     ],
+    "name:ita_x_preferred":[
+        "Sohmor"
+    ],
+    "name:nno_x_preferred":[
+        "Sohmor"
+    ],
     "name:und_x_variant":[
         "Su\u1e29mur",
         "Sohmor",
@@ -57,7 +63,7 @@
         }
     ],
     "wof:id":1344252723,
-    "wof:lastmodified":1537661008,
+    "wof:lastmodified":1564155933,
     "wof:name":"Sohmor",
     "wof:parent_id":421173359,
     "wof:placetype":"locality",

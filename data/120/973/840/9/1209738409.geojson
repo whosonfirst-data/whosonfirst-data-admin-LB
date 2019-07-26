@@ -28,6 +28,24 @@
     "name:ara_x_preferred":[
         "\u062c\u0646\u0629"
     ],
+    "name:deu_x_preferred":[
+        "Janne"
+    ],
+    "name:est_x_preferred":[
+        "Janne"
+    ],
+    "name:fin_x_preferred":[
+        "Janne"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e4\u30f3\u30cd"
+    ],
+    "name:nno_x_preferred":[
+        "Janne"
+    ],
+    "name:nor_x_preferred":[
+        "Janne"
+    ],
     "name:und_x_variant":[
         "Jannah",
         "Jann\u00e9"
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1209738409,
-    "wof:lastmodified":1537661095,
+    "wof:lastmodified":1564156145,
     "wof:name":"Janne",
     "wof:parent_id":421194845,
     "wof:placetype":"locality",

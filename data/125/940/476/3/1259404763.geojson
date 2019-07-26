@@ -28,6 +28,12 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u062c\u0631\u0645\u0642"
     ],
+    "name:ara_x_variant":[
+        "\u062c\u0631\u0645\u0642"
+    ],
+    "name:ita_x_preferred":[
+        "Jarmak"
+    ],
     "name:und_x_variant":[
         "Al Jarmaq",
         "El-Jarmaq",
@@ -58,7 +64,7 @@
         }
     ],
     "wof:id":1259404763,
-    "wof:lastmodified":1537661261,
+    "wof:lastmodified":1564156369,
     "wof:name":"Ej Jarmaq",
     "wof:parent_id":1108691435,
     "wof:placetype":"locality",

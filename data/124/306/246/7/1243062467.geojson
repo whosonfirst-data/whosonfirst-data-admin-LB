@@ -31,6 +31,9 @@
     "name:ara_x_variant":[
         "Fur\u016bn"
     ],
+    "name:ita_x_preferred":[
+        "Froun"
+    ],
     "name:und_x_variant":[
         "Fr\u016bn",
         "Fro\u00fbn"
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1243062467,
-    "wof:lastmodified":1537661125,
+    "wof:lastmodified":1564156304,
     "wof:name":"Froun",
     "wof:parent_id":1108691417,
     "wof:placetype":"locality",

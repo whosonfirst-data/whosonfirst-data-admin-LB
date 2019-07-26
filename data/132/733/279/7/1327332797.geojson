@@ -25,6 +25,18 @@
     "iso:country":"LB",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0631\u064a\u0641\u0648\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Rayfoun"
+    ],
+    "name:ita_x_preferred":[
+        "Rayfoun"
+    ],
+    "name:spa_x_preferred":[
+        "Rayfoun"
+    ],
     "name:und_x_variant":[
         "Rayf\u016bn",
         "Ra\u00effo\u00fbn",
@@ -55,7 +67,7 @@
         }
     ],
     "wof:id":1327332797,
-    "wof:lastmodified":1537661025,
+    "wof:lastmodified":1564155896,
     "wof:name":"Raifoun",
     "wof:parent_id":421172015,
     "wof:placetype":"locality",

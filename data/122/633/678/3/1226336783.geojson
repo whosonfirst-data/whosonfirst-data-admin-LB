@@ -28,6 +28,12 @@
     "name:ara_x_preferred":[
         "\u062d\u0627\u0631\u064a\u0635"
     ],
+    "name:ita_x_preferred":[
+        "Hariss"
+    ],
+    "name:nno_x_preferred":[
+        "Hariss"
+    ],
     "name:und_x_variant":[
         "Hareess",
         "\u1e28\u0101r\u012b\u015f",
@@ -58,7 +64,7 @@
         }
     ],
     "wof:id":1226336783,
-    "wof:lastmodified":1537661112,
+    "wof:lastmodified":1564156409,
     "wof:name":"Hariis",
     "wof:parent_id":1108691417,
     "wof:placetype":"locality",

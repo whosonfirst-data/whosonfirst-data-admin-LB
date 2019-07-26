@@ -28,6 +28,15 @@
     "name:ara_x_preferred":[
         "\u0631\u0634\u062f\u0628\u064a\u0646"
     ],
+    "name:ara_x_variant":[
+        "\u0631\u064a\u0634\u062f\u0628\u064a\u0646"
+    ],
+    "name:ita_x_preferred":[
+        "Rechdebbine"
+    ],
+    "name:nno_x_preferred":[
+        "Rachedbine"
+    ],
     "name:und_x_variant":[
         "Rishdibb\u012bn",
         "Rechdibb\u00eene"
@@ -56,7 +65,7 @@
         }
     ],
     "wof:id":1243444123,
-    "wof:lastmodified":1537661025,
+    "wof:lastmodified":1564156350,
     "wof:name":"Rechdibbine",
     "wof:parent_id":1108691423,
     "wof:placetype":"locality",

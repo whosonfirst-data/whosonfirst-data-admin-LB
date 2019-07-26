@@ -28,6 +28,15 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0632\u0631\u0627\u0631\u064a\u0651\u0629"
     ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0632\u0631\u0627\u0631\u064a\u0629"
+    ],
+    "name:ita_x_preferred":[
+        "Zrariyeh"
+    ],
+    "name:nno_x_preferred":[
+        "Zrarieh"
+    ],
     "name:und_x_variant":[
         "Az Zar\u0101r\u012byah",
         "Ez Zrariyah",
@@ -61,7 +70,7 @@
         }
     ],
     "wof:id":1344254943,
-    "wof:lastmodified":1537661180,
+    "wof:lastmodified":1564155934,
     "wof:name":"Ez Zrariye",
     "wof:parent_id":890451987,
     "wof:placetype":"locality",

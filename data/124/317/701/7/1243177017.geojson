@@ -29,7 +29,14 @@
         "\u0628\u0642\u0639\u0627\u062a\u0627"
     ],
     "name:ara_x_variant":[
-        "\u0628\u0642\u0639\u0627\u062a\u0629 \u0639\u0634\u0642\u0648\u062a"
+        "\u0628\u0642\u0639\u0627\u062a\u0629 \u0639\u0634\u0642\u0648\u062a",
+        "\u0639\u0634\u0642\u0648\u062a"
+    ],
+    "name:fra_x_preferred":[
+        "Achkout"
+    ],
+    "name:ita_x_preferred":[
+        "Achkout"
     ],
     "name:und_x_variant":[
         "Buq\u2018atat Ashqout",
@@ -63,7 +70,7 @@
         }
     ],
     "wof:id":1243177017,
-    "wof:lastmodified":1537661146,
+    "wof:lastmodified":1564156344,
     "wof:name":"Boqaata",
     "wof:parent_id":421172015,
     "wof:placetype":"locality",

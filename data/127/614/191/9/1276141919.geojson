@@ -28,6 +28,12 @@
     "name:ara_x_preferred":[
         "\u0639\u064a\u062a\u0627 \u0627\u0644\u0641\u062e\u0651\u0627\u0631"
     ],
+    "name:ara_x_variant":[
+        "\u0639\u064a\u062a\u0627 \u0627\u0644\u0641\u062e\u0627\u0631"
+    ],
+    "name:ita_x_preferred":[
+        "Ayta el Fekhar"
+    ],
     "name:und_x_variant":[
         "Aa\u00efta el Foukh\u00e2r",
         "\u2018Aytah al Fakhkh\u0101r",
@@ -59,7 +65,7 @@
         }
     ],
     "wof:id":1276141919,
-    "wof:lastmodified":1537661182,
+    "wof:lastmodified":1564156084,
     "wof:name":"Aita el Foukhar",
     "wof:parent_id":1108691439,
     "wof:placetype":"locality",

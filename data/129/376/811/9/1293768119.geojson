@@ -28,6 +28,9 @@
     "name:ara_x_preferred":[
         "\u0639\u064a\u0646 \u0639\u0643\u0631\u064a\u0646"
     ],
+    "name:nno_x_preferred":[
+        "Ain Akrine"
+    ],
     "name:und_x_variant":[
         "\u2018Ayn \u2018Ikr\u012bn",
         "A\u00efn Aakr\u00eene"
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":1293768119,
-    "wof:lastmodified":1537661187,
+    "wof:lastmodified":1564156014,
     "wof:name":"Ain Aakrine",
     "wof:parent_id":1108691423,
     "wof:placetype":"locality",

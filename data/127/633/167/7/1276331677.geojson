@@ -28,6 +28,12 @@
     "name:ara_x_preferred":[
         "\u0634\u064a\u062d\u064a\u0646"
     ],
+    "name:ita_x_preferred":[
+        "Chihine"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0428\u0456\u0445\u0456\u043d"
+    ],
     "name:und_x_variant":[
         "Sh\u012b\u1e29\u012bn",
         "Ch\u00eeh\u00eene",
@@ -57,7 +63,7 @@
         }
     ],
     "wof:id":1276331677,
-    "wof:lastmodified":1537661014,
+    "wof:lastmodified":1564156075,
     "wof:name":"Chihine",
     "wof:parent_id":1108691441,
     "wof:placetype":"locality",

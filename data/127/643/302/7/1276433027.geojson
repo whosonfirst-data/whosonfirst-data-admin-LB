@@ -28,6 +28,15 @@
     "name:ara_x_preferred":[
         "\u0632\u0648\u0637\u0631 \u0627\u0644\u0634\u0631\u0642\u064a\u0629"
     ],
+    "name:fas_x_preferred":[
+        "\u0632\u0648\u0637\u0631 \u0627\u0644\u0634\u0631\u0642\u06cc\u0629"
+    ],
+    "name:ita_x_preferred":[
+        "Zawtar el Charkiyeh"
+    ],
+    "name:nno_x_preferred":[
+        "Zawtar El Charkiyeh"
+    ],
     "name:und_x_variant":[
         "Zaw\u0163ar ash Sharq\u012byah",
         "Zaoutar ech Charq\u00eey\u00e9"
@@ -56,7 +65,7 @@
         }
     ],
     "wof:id":1276433027,
-    "wof:lastmodified":1537660993,
+    "wof:lastmodified":1564156065,
     "wof:name":"Zaoutar ech Charqiye",
     "wof:parent_id":1108691429,
     "wof:placetype":"locality",

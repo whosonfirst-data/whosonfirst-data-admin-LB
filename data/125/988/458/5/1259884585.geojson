@@ -28,9 +28,24 @@
     "name:ara_x_preferred":[
         "\u0628\u0645\u0647\u0631\u0627\u064a"
     ],
+    "name:ara_x_variant":[
+        "\u0628\u0645\u0647\u0631\u064a\u0647"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0645\u0647\u0631\u06cc\u0647"
+    ],
+    "name:ita_x_preferred":[
+        "Bmahray"
+    ],
+    "name:nno_x_preferred":[
+        "Bmahray"
+    ],
     "name:und_x_variant":[
         "Bmahr\u0101y",
         "Bmahra\u00ef"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0645\u06c1\u0631\u06cc\u06c1"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -56,7 +71,7 @@
         }
     ],
     "wof:id":1259884585,
-    "wof:lastmodified":1537661155,
+    "wof:lastmodified":1564156389,
     "wof:name":"Bmahrai",
     "wof:parent_id":1108691409,
     "wof:placetype":"locality",

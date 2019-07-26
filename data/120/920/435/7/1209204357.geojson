@@ -28,6 +28,9 @@
     "name:ara_x_preferred":[
         "\u0628\u0643\u0641\u062a\u064a\u0646"
     ],
+    "name:nno_x_preferred":[
+        "Bkeftine"
+    ],
     "name:und_x_variant":[
         "Bkeft\u012bn",
         "Bkaft\u012bn",
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1209204357,
-    "wof:lastmodified":1551727617,
+    "wof:lastmodified":1564156144,
     "wof:name":"Bkeftine",
     "wof:parent_id":1108691423,
     "wof:placetype":"locality",

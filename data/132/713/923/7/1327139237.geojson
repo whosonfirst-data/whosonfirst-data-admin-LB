@@ -25,6 +25,15 @@
     "iso:country":"LB",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0644\u0648\u0646\u0629"
+    ],
+    "name:fra_x_preferred":[
+        "Ballouneh"
+    ],
+    "name:ita_x_preferred":[
+        "Ballouneh"
+    ],
     "name:und_x_variant":[
         "Ball\u016bnih",
         "Ball\u016bnah",
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1327139237,
-    "wof:lastmodified":1537661175,
+    "wof:lastmodified":1564155884,
     "wof:name":"Balloune",
     "wof:parent_id":421172015,
     "wof:placetype":"locality",

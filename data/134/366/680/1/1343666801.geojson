@@ -25,6 +25,21 @@
     "iso:country":"LB",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0630\u0648\u0642 \u0645\u0643\u0627\u064a\u0644"
+    ],
+    "name:fas_x_preferred":[
+        "\u0632\u0648\u0642 \u0645\u06a9\u0627\u06cc\u0644"
+    ],
+    "name:fra_x_preferred":[
+        "Zouk Mikael"
+    ],
+    "name:ita_x_preferred":[
+        "Zouk Mikael"
+    ],
+    "name:pol_x_preferred":[
+        "Zuk Mikajil"
+    ],
     "name:und_x_variant":[
         "Z\u016bq M\u012bkh\u0101\u2019\u012bl",
         "Zouq Mkayel",
@@ -55,7 +70,7 @@
         }
     ],
     "wof:id":1343666801,
-    "wof:lastmodified":1537660991,
+    "wof:lastmodified":1564155953,
     "wof:name":"Zouq Mkayel",
     "wof:parent_id":421172015,
     "wof:placetype":"locality",

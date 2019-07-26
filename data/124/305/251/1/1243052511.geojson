@@ -28,6 +28,18 @@
     "name:ara_x_preferred":[
         "\u0643\u0641\u0631 \u0639\u0628\u064a\u062f\u0627"
     ],
+    "name:ara_x_variant":[
+        "\u0643\u0641\u0631\u0639\u0628\u064a\u062f\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Kfar Abida"
+    ],
+    "name:ita_x_preferred":[
+        "Kfar Abida"
+    ],
+    "name:nno_x_preferred":[
+        "Kfar Abida"
+    ],
     "name:und_x_variant":[
         "Kafr \u2018Ubayd\u0101",
         "Kfar Aab\u00eeda"
@@ -56,7 +68,7 @@
         }
     ],
     "wof:id":1243052511,
-    "wof:lastmodified":1551727623,
+    "wof:lastmodified":1564156329,
     "wof:name":"Kfar Aabida",
     "wof:parent_id":421204111,
     "wof:placetype":"locality",

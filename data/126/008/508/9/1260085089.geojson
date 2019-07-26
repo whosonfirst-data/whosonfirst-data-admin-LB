@@ -28,6 +28,15 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u062c\u0627\u0647\u0644\u064a\u0629"
     ],
+    "name:ara_x_variant":[
+        "\u062c\u0627\u0647\u0644\u064a\u0629"
+    ],
+    "name:ita_x_preferred":[
+        "Jahlieh"
+    ],
+    "name:nno_x_preferred":[
+        "Jahlieh"
+    ],
     "name:und_x_variant":[
         "Ej J\u00e2l\u00eey\u00e9",
         "Al J\u0101hil\u012byih",
@@ -61,7 +70,7 @@
         }
     ],
     "wof:id":1260085089,
-    "wof:lastmodified":1537661262,
+    "wof:lastmodified":1564156187,
     "wof:name":"EJ Jahliye",
     "wof:parent_id":1108691419,
     "wof:placetype":"locality",

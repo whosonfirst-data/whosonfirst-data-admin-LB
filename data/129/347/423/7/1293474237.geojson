@@ -28,6 +28,15 @@
     "name:ara_x_preferred":[
         "\u062a\u0648\u0644\u0627"
     ],
+    "name:ceb_x_preferred":[
+        "Toula"
+    ],
+    "name:fra_x_preferred":[
+        "Toula"
+    ],
+    "name:swe_x_preferred":[
+        "Toula"
+    ],
     "name:und_x_variant":[
         "T\u016bl\u0101",
         "Toul\u00e2"
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1293474237,
-    "wof:lastmodified":1537661002,
+    "wof:lastmodified":1564156016,
     "wof:name":"Toula",
     "wof:parent_id":421204111,
     "wof:placetype":"locality",

@@ -28,6 +28,24 @@
     "name:ara_x_preferred":[
         "\u0645\u0631\u0648\u0627\u062d\u064a\u0646"
     ],
+    "name:ara_x_variant":[
+        "\u0645\u0631\u0648\u062d\u064a\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Marwahin"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05e8\u05d5\u05d5\u05d7\u05d9\u05df"
+    ],
+    "name:ita_x_preferred":[
+        "Marwahine"
+    ],
+    "name:nno_x_preferred":[
+        "Marwahin"
+    ],
+    "name:pol_x_preferred":[
+        "Marwahin"
+    ],
     "name:und_x_variant":[
         "Marw\u0101\u1e29\u012bn",
         "Marou\u00e2h\u00eene"
@@ -56,7 +74,7 @@
         }
     ],
     "wof:id":1226264835,
-    "wof:lastmodified":1537661058,
+    "wof:lastmodified":1564156398,
     "wof:name":"Marouahine",
     "wof:parent_id":1108691441,
     "wof:placetype":"locality",

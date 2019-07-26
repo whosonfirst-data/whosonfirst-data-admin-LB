@@ -32,6 +32,9 @@
         "Al B\u0101ridah",
         "El Bard\u00e9"
     ],
+    "name:urd_x_preferred":[
+        "\u0627\u0644\u0628\u0627\u0631\u062f"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1292895047,
-    "wof:lastmodified":1537661281,
+    "wof:lastmodified":1564156003,
     "wof:name":"El Barde",
     "wof:parent_id":1108691407,
     "wof:placetype":"locality",

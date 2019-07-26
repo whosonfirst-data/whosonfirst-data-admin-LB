@@ -28,6 +28,12 @@
     "name:ara_x_preferred":[
         "\u0639\u064a\u0646 \u0639\u0637\u0627"
     ],
+    "name:fas_x_preferred":[
+        "\u0622\u0626\u06cc\u0646 \u0639\u0637\u0627"
+    ],
+    "name:ita_x_preferred":[
+        "Ain Ata"
+    ],
     "name:und_x_variant":[
         "\u2018Ain \u2018Ata",
         "\u2018Ayn \u2018A\u0163\u0101",
@@ -57,7 +63,7 @@
         }
     ],
     "wof:id":1242869653,
-    "wof:lastmodified":1537661189,
+    "wof:lastmodified":1564156310,
     "wof:name":"Ain Aata",
     "wof:parent_id":1108691439,
     "wof:placetype":"locality",

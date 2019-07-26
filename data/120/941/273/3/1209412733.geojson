@@ -28,6 +28,15 @@
     "name:ara_x_preferred":[
         "\u0635\u0628\u0651\u0627\u062d"
     ],
+    "name:deu_x_preferred":[
+        "Sabbah"
+    ],
+    "name:fra_x_preferred":[
+        "Sabbah"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u0431\u0431\u0430\u0445"
+    ],
     "name:und_x_variant":[
         "\u015eabb\u0101\u1e29",
         "Sabbah"
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1209412733,
-    "wof:lastmodified":1537661022,
+    "wof:lastmodified":1564156124,
     "wof:name":"Sabbah",
     "wof:parent_id":85632533,
     "wof:placetype":"locality",

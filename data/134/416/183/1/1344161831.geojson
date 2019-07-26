@@ -28,6 +28,9 @@
     "name:ara_x_preferred":[
         "\u0643\u0641\u0631 \u0646\u0628\u0631\u062e"
     ],
+    "name:ara_x_variant":[
+        "\u0643\u0641\u0631\u0646\u0628\u0631\u062e"
+    ],
     "name:und_x_variant":[
         "Kafr Nabrakh",
         "Kfar Nabrakh"
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":1344161831,
-    "wof:lastmodified":1537661082,
+    "wof:lastmodified":1564155967,
     "wof:name":"Kfar Nabrakh",
     "wof:parent_id":1108691419,
     "wof:placetype":"locality",

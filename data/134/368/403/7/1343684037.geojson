@@ -28,6 +28,9 @@
     "name:ara_x_preferred":[
         "\u0623\u0646\u0627\u0646"
     ],
+    "name:por_x_preferred":[
+        "Anane"
+    ],
     "name:und_x_variant":[
         "Aan\u00e2ne",
         "An\u0101n",
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":1343684037,
-    "wof:lastmodified":1537661223,
+    "wof:lastmodified":1564155956,
     "wof:name":"Anane",
     "wof:parent_id":1108691435,
     "wof:placetype":"locality",

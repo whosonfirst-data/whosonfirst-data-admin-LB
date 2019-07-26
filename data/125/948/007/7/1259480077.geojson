@@ -28,6 +28,15 @@
     "name:ara_x_preferred":[
         "\u062d\u0627\u0631\u0648\u0641"
     ],
+    "name:fra_x_preferred":[
+        "Harouf"
+    ],
+    "name:ita_x_preferred":[
+        "Harouf"
+    ],
+    "name:nno_x_preferred":[
+        "Harouf"
+    ],
     "name:und_x_variant":[
         "\u1e28\u0101r\u016bf",
         "H\u00e2ro\u00fbf"
@@ -56,7 +65,7 @@
         }
     ],
     "wof:id":1259480077,
-    "wof:lastmodified":1537661112,
+    "wof:lastmodified":1564156364,
     "wof:name":"Harouf",
     "wof:parent_id":1108691429,
     "wof:placetype":"locality",

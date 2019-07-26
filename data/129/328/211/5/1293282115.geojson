@@ -31,6 +31,18 @@
     "name:ara_x_variant":[
         "K\u016bsib\u0101"
     ],
+    "name:fra_x_preferred":[
+        "Kousba"
+    ],
+    "name:ita_x_preferred":[
+        "Kosba"
+    ],
+    "name:nno_x_preferred":[
+        "Kousba"
+    ],
+    "name:spa_x_preferred":[
+        "Kousba"
+    ],
     "name:und_x_variant":[
         "K\u016bsb\u0101",
         "Ko\u00fbsba"
@@ -59,7 +71,7 @@
         }
     ],
     "wof:id":1293282115,
-    "wof:lastmodified":1537661071,
+    "wof:lastmodified":1564156049,
     "wof:name":"Kousba",
     "wof:parent_id":1108691423,
     "wof:placetype":"locality",

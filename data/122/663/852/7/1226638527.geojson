@@ -49,6 +49,9 @@
     "name:epo_x_preferred":[
         "Kanao"
     ],
+    "name:est_x_preferred":[
+        "Q\u0101n\u0101"
+    ],
     "name:fas_x_preferred":[
         "\u0642\u0627\u0646\u0627"
     ],
@@ -57,6 +60,9 @@
     ],
     "name:fra_x_preferred":[
         "Cana"
+    ],
+    "name:fry_x_preferred":[
+        "Kana"
     ],
     "name:heb_x_preferred":[
         "\u05e7\u05d0\u05e0\u05d0"
@@ -69,6 +75,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30ab\u30ca"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e5\u10d0\u10dc\u10d0"
     ],
     "name:nld_x_preferred":[
         "Qana"
@@ -90,6 +99,9 @@
     ],
     "name:und_x_variant":[
         "Q\u00e2na"
+    ],
+    "name:urd_x_preferred":[
+        "\u0642\u0627\u0646\u0627"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -115,7 +127,7 @@
         }
     ],
     "wof:id":1226638527,
-    "wof:lastmodified":1537661034,
+    "wof:lastmodified":1564156437,
     "wof:name":"Qana",
     "wof:parent_id":1108691441,
     "wof:placetype":"locality",

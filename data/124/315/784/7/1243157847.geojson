@@ -28,6 +28,15 @@
     "name:ara_x_preferred":[
         "\u0635\u0648\u064a\u0631\u064a"
     ],
+    "name:ara_x_variant":[
+        "\u0633\u0648\u064a\u0631\u064a"
+    ],
+    "name:ita_x_preferred":[
+        "Souairy"
+    ],
+    "name:nno_x_preferred":[
+        "Sawiri"
+    ],
     "name:und_x_variant":[
         "Es Saou\u00eer\u00e9",
         "A\u015f \u015eaw\u012brah",
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":1243157847,
-    "wof:lastmodified":1537661201,
+    "wof:lastmodified":1564156322,
     "wof:name":"Saouiri",
     "wof:parent_id":421173359,
     "wof:placetype":"locality",

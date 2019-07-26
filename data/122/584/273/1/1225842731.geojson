@@ -28,6 +28,9 @@
     "name:ara_x_preferred":[
         "\u0625\u0631\u0643\u064a"
     ],
+    "name:ita_x_preferred":[
+        "Irzay"
+    ],
     "name:und_x_variant":[
         "Erki",
         "Irkey",
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1225842731,
-    "wof:lastmodified":1537661098,
+    "wof:lastmodified":1564156446,
     "wof:name":"Erkay",
     "wof:parent_id":890451987,
     "wof:placetype":"locality",

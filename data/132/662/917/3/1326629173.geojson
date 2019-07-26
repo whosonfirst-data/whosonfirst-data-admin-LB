@@ -28,6 +28,15 @@
     "name:ara_x_preferred":[
         "\u0645\u064a\u0641\u0648\u0642"
     ],
+    "name:fra_x_preferred":[
+        "Mayfouk"
+    ],
+    "name:nno_x_preferred":[
+        "Mayfouq"
+    ],
+    "name:pol_x_preferred":[
+        "Majfuk"
+    ],
     "name:und_x_variant":[
         "Mayf\u016bq",
         "Ma\u00effo\u00fbq"
@@ -56,7 +65,7 @@
         }
     ],
     "wof:id":1326629173,
-    "wof:lastmodified":1537661055,
+    "wof:lastmodified":1564155911,
     "wof:name":"Maifouq",
     "wof:parent_id":421194845,
     "wof:placetype":"locality",

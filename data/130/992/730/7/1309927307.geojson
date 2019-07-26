@@ -28,6 +28,12 @@
     "name:ara_x_preferred":[
         "\u0631\u0627\u0645\u064a\u0629"
     ],
+    "name:heb_x_preferred":[
+        "\u05e8\u05d0\u05de\u05d9\u05d4"
+    ],
+    "name:pol_x_preferred":[
+        "Ramja"
+    ],
     "name:und_x_variant":[
         "R\u0101myah",
         "R\u00e2m\u00eey\u00e9",
@@ -61,7 +67,7 @@
         }
     ],
     "wof:id":1309927307,
-    "wof:lastmodified":1537661028,
+    "wof:lastmodified":1564156272,
     "wof:name":"Ramiye",
     "wof:parent_id":1108691417,
     "wof:placetype":"locality",

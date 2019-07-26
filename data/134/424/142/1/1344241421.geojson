@@ -28,6 +28,9 @@
     "name:ara_x_preferred":[
         "\u062d\u0644\u062a\u0627"
     ],
+    "name:nno_x_preferred":[
+        "Helta"
+    ],
     "name:und_x_variant":[
         "\u1e28alt\u0101",
         "\u1e28ilt\u0101",
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1344241421,
-    "wof:lastmodified":1537661103,
+    "wof:lastmodified":1564155939,
     "wof:name":"Helta",
     "wof:parent_id":421204111,
     "wof:placetype":"locality",

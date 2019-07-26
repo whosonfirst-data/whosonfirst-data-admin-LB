@@ -28,6 +28,12 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0637\u064a\u0628\u0629"
     ],
+    "name:ita_x_preferred":[
+        "Taybeh"
+    ],
+    "name:pol_x_preferred":[
+        "At-Tajba"
+    ],
     "name:und_x_variant":[
         "Et Ta\u00efb\u00e9",
         "A\u0163 \u0162ayyibah",
@@ -61,7 +67,7 @@
         }
     ],
     "wof:id":1259775085,
-    "wof:lastmodified":1537661196,
+    "wof:lastmodified":1564156366,
     "wof:name":"Et Taibe",
     "wof:parent_id":1108691437,
     "wof:placetype":"locality",

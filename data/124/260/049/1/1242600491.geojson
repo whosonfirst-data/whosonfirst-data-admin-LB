@@ -31,6 +31,21 @@
     "name:ara_x_variant":[
         "\u0645\u064a\u0631\u0648\u0628\u0629"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u06cc\u0631\u0648\u0628\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Mayrouba"
+    ],
+    "name:ita_x_preferred":[
+        "Mayrouba"
+    ],
+    "name:pol_x_preferred":[
+        "Majruba"
+    ],
+    "name:spa_x_preferred":[
+        "Mayrouba"
+    ],
     "name:und_x_variant":[
         "Mayr\u016bb\u0101",
         "Ma\u00efro\u00fbba",
@@ -62,7 +77,7 @@
         }
     ],
     "wof:id":1242600491,
-    "wof:lastmodified":1537661055,
+    "wof:lastmodified":1564156316,
     "wof:name":"Mairouba",
     "wof:parent_id":421172015,
     "wof:placetype":"locality",

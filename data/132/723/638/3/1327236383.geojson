@@ -29,7 +29,14 @@
         "\u0631\u0623\u0633 \u0627\u0648\u0633\u0637\u0627"
     ],
     "name:ara_x_variant":[
-        "\u0631\u0623\u0633 \u0627\u0633\u0637\u0627"
+        "\u0631\u0623\u0633 \u0627\u0633\u0637\u0627",
+        "\u0631\u0627\u0633 \u0627\u0633\u0637\u0627"
+    ],
+    "name:ita_x_preferred":[
+        "Ras Osta"
+    ],
+    "name:nno_x_preferred":[
+        "Ras Osta"
     ],
     "name:und_x_variant":[
         "Ra\u2019s Qus\u0163\u0101",
@@ -61,7 +68,7 @@
         }
     ],
     "wof:id":1327236383,
-    "wof:lastmodified":1537661025,
+    "wof:lastmodified":1564155890,
     "wof:name":"Ras Osta",
     "wof:parent_id":421194845,
     "wof:placetype":"locality",

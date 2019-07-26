@@ -28,11 +28,44 @@
     "name:ara_x_preferred":[
         "\u062c\u0628 \u062c\u0646\u064a\u0646"
     ],
+    "name:fas_x_preferred":[
+        "\u062c\u0628 \u062c\u0646\u06cc\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Joub Jenin"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d2'\u05d5\u05d1 \u05d2'\u05e0\u05d9\u05df"
+    ],
+    "name:ita_x_preferred":[
+        "Joub Jannine"
+    ],
+    "name:mzn_x_preferred":[
+        "\u062c\u0628 \u062c\u0646\u06cc\u0646"
+    ],
+    "name:nld_x_preferred":[
+        "Joub Jannine"
+    ],
+    "name:nno_x_preferred":[
+        "Joub Jannine"
+    ],
+    "name:pol_x_preferred":[
+        "D\u017cubb D\u017cannin"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0436\u0443\u0431\u0431-\u0414\u0436\u0430\u043d\u043d\u0438\u043d"
+    ],
+    "name:srp_x_preferred":[
+        "\u040f\u0443\u0431 \u040f\u0430\u043d\u0438\u043d"
+    ],
     "name:und_x_variant":[
         "Djeb Djennin",
         "Jubb Jann\u012bn",
         "Joub Jannine",
         "Joubb Jann\u00eene"
+    ],
+    "name:zho_x_preferred":[
+        "\u6731\u535c\u5805\u5be7"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +91,7 @@
         }
     ],
     "wof:id":1210036421,
-    "wof:lastmodified":1551727598,
+    "wof:lastmodified":1564156161,
     "wof:name":"Joubb Jannine",
     "wof:parent_id":421173359,
     "wof:placetype":"locality",

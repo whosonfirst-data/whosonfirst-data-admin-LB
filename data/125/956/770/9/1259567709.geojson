@@ -31,6 +31,9 @@
     "name:ara_x_variant":[
         "\u012az\u0101l"
     ],
+    "name:eus_x_preferred":[
+        "Izal"
+    ],
     "name:und_x_variant":[
         "Eezal",
         "Iz\u00e2l"
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1259567709,
-    "wof:lastmodified":1537661096,
+    "wof:lastmodified":1564156384,
     "wof:name":"Izal",
     "wof:parent_id":1108691427,
     "wof:placetype":"locality",

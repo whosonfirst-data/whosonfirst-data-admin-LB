@@ -28,6 +28,12 @@
     "name:ara_x_preferred":[
         "\u062d\u062f\u0627\u062b\u0627"
     ],
+    "name:ita_x_preferred":[
+        "Hdatha"
+    ],
+    "name:nno_x_preferred":[
+        "Haddatha"
+    ],
     "name:und_x_variant":[
         "Hadd\u00e2ss\u00e9",
         "Hdathah",
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1209306315,
-    "wof:lastmodified":1537661122,
+    "wof:lastmodified":1564156115,
     "wof:name":"Haddatha",
     "wof:parent_id":85632533,
     "wof:placetype":"locality",

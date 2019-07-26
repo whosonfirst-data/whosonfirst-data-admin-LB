@@ -25,6 +25,12 @@
     "iso:country":"LB",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u0627\u0631\u064a\u0646"
+    ],
+    "name:msa_x_preferred":[
+        "Darine"
+    ],
     "name:und_x_variant":[
         "Dareen",
         "D\u0101r\u012bn",
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1310188881,
-    "wof:lastmodified":1537661137,
+    "wof:lastmodified":1564156225,
     "wof:name":"Darine",
     "wof:parent_id":1108691407,
     "wof:placetype":"locality",

@@ -28,6 +28,12 @@
     "name:ara_x_preferred":[
         "\u0628\u0639\u0644\u0648\u0644"
     ],
+    "name:ita_x_preferred":[
+        "Baaloul"
+    ],
+    "name:spa_x_preferred":[
+        "Baaloul"
+    ],
     "name:und_x_variant":[
         "Ba\u2018l\u016bl",
         "Ba\u2018loul",
@@ -57,7 +63,7 @@
         }
     ],
     "wof:id":1193038055,
-    "wof:lastmodified":1551727599,
+    "wof:lastmodified":1564156173,
     "wof:name":"Baaloul",
     "wof:parent_id":421173359,
     "wof:placetype":"locality",

@@ -28,6 +28,12 @@
     "name:ara_x_preferred":[
         "\u0639\u0628\u0627\u0633\u064a\u0629"
     ],
+    "name:ita_x_preferred":[
+        "Abbassieh"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0431\u0431\u0430\u0441\u0438\u044f"
+    ],
     "name:und_x_variant":[
         "El \u2018Abbasiyah",
         "El Aabb\u00e2ssiy\u00e9",
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1226564051,
-    "wof:lastmodified":1537661300,
+    "wof:lastmodified":1564156412,
     "wof:name":"Aabbassiye",
     "wof:parent_id":1108691441,
     "wof:placetype":"locality",

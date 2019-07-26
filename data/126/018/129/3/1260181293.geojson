@@ -28,9 +28,114 @@
     "name:ara_x_preferred":[
         "\u0631\u0627\u0645\u064a\u0629"
     ],
+    "name:ara_x_variant":[
+        "\u0631\u0627\u0645\u064a"
+    ],
+    "name:azb_x_preferred":[
+        "\u0642\u0627\u0631 \u0628\u0645\u0631\u06cc\u0627\u0633\u06cc"
+    ],
+    "name:aze_x_preferred":[
+        "Qar bemeriyas\u0131"
+    ],
+    "name:bul_x_preferred":[
+        "\u0420\u0430\u043c\u0438\u044f"
+    ],
+    "name:cat_x_preferred":[
+        "Rami"
+    ],
+    "name:ceb_x_preferred":[
+        "Boehmeria nivea"
+    ],
+    "name:ces_x_preferred":[
+        "Ramie sn\u011bhob\u00edl\u00e1"
+    ],
+    "name:deu_x_preferred":[
+        "Ramie"
+    ],
+    "name:eus_x_preferred":[
+        "Boehmeria nivea"
+    ],
+    "name:fas_x_preferred":[
+        "\u0631\u0627\u0645\u06cc"
+    ],
+    "name:fin_x_preferred":[
+        "Rami"
+    ],
+    "name:fra_x_preferred":[
+        "Ramie"
+    ],
+    "name:hin_x_preferred":[
+        "\u0930\u0948\u092e\u0940"
+    ],
+    "name:hrv_x_preferred":[
+        "Ramija"
+    ],
+    "name:ido_x_preferred":[
+        "Ramio"
+    ],
+    "name:isl_x_preferred":[
+        "Ram\u00ed"
+    ],
+    "name:ita_x_preferred":[
+        "Boehmeria nivea"
+    ],
+    "name:jav_x_preferred":[
+        "Rami"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30e9\u30e0\u30b7"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c95\u0cbf\u0ca4\u0ccd\u0ca4\u0ca8\u0cbe\u0cb0\u0cc1"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e0\u10d0\u10db\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\ubaa8\uc2dc\ud480"
+    ],
+    "name:lit_x_preferred":[
+        "Pluo\u0161tin\u0117 bemerija"
+    ],
+    "name:nld_x_preferred":[
+        "Ramie"
+    ],
+    "name:nno_x_preferred":[
+        "Kinagras"
+    ],
+    "name:pol_x_preferred":[
+        "Szczmiel bia\u0142y"
+    ],
+    "name:por_x_preferred":[
+        "Rami"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0430\u043c\u0438 \u0431\u0435\u043b\u043e\u0435"
+    ],
+    "name:spa_x_preferred":[
+        "Boehmeria nivea"
+    ],
+    "name:sun_x_preferred":[
+        "Haramay"
+    ],
+    "name:swe_x_preferred":[
+        "Boehmeria nivea"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e1b\u0e48\u0e32\u0e19\u0e23\u0e32\u0e21\u0e35"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0430\u043c\u0456"
+    ],
     "name:und_x_variant":[
         "R\u0101miyah",
         "R\u00e2mi\u00e9"
+    ],
+    "name:vie_x_preferred":[
+        "Gai"
+    ],
+    "name:war_x_preferred":[
+        "Boehmeria nivea"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +160,7 @@
         }
     ],
     "wof:id":1260181293,
-    "wof:lastmodified":1537661028,
+    "wof:lastmodified":1564156192,
     "wof:name":"Ramie",
     "wof:parent_id":1108691425,
     "wof:placetype":"locality",

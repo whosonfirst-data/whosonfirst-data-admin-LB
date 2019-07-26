@@ -28,6 +28,15 @@
     "name:ara_x_preferred":[
         "\u0639\u0631\u0628\u0629 \u0642\u0632\u062d\u064a\u0627"
     ],
+    "name:ita_x_preferred":[
+        "Arabet Kozhaya"
+    ],
+    "name:nno_x_preferred":[
+        "Arbet Kozhaya"
+    ],
+    "name:nor_x_preferred":[
+        "Arbet Kozhaya"
+    ],
     "name:und_x_variant":[
         "\u2018Arabat Qiz\u1e29ayy\u0101",
         "El Arabi",
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":1259372671,
-    "wof:lastmodified":1537661216,
+    "wof:lastmodified":1564156358,
     "wof:name":"Aarbet Qouzhaiya",
     "wof:parent_id":1108691445,
     "wof:placetype":"locality",

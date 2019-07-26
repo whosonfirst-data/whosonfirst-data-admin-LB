@@ -28,6 +28,12 @@
     "name:ara_x_preferred":[
         "\u062d\u0646\u0627\u0648\u064a\u0629"
     ],
+    "name:ara_x_variant":[
+        "\u062d\u0646\u0627\u0648\u064a\u0647"
+    ],
+    "name:ita_x_preferred":[
+        "Hanawey"
+    ],
     "name:und_x_variant":[
         "Han\u00e2ouiy\u00e9",
         "\u1e28an\u0101w\u012byih",
@@ -59,7 +65,7 @@
         }
     ],
     "wof:id":1327052225,
-    "wof:lastmodified":1537661119,
+    "wof:lastmodified":1564155893,
     "wof:name":"Hanaouay",
     "wof:parent_id":1108691441,
     "wof:placetype":"locality",

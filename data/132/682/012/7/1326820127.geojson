@@ -28,6 +28,9 @@
     "name:ara_x_preferred":[
         "\u0632\u0643\u0631\u0648\u0646"
     ],
+    "name:nno_x_preferred":[
+        "Zakroun"
+    ],
     "name:und_x_variant":[
         "Zakr\u016bn",
         "Zakro\u00fbn"
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":1326820127,
-    "wof:lastmodified":1537660995,
+    "wof:lastmodified":1564155902,
     "wof:name":"Zakroun",
     "wof:parent_id":1108691423,
     "wof:placetype":"locality",

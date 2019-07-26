@@ -28,6 +28,12 @@
     "name:ara_x_preferred":[
         "\u0627\u0646\u0635\u0627\u0631"
     ],
+    "name:ara_x_variant":[
+        "\u0623\u0646\u0635\u0627\u0631"
+    ],
+    "name:ita_x_preferred":[
+        "Ansar"
+    ],
     "name:und_x_variant":[
         "Inns\u00e2r",
         "An\u015f\u0101r",
@@ -58,7 +64,7 @@
         }
     ],
     "wof:id":1310226501,
-    "wof:lastmodified":1537661217,
+    "wof:lastmodified":1564156208,
     "wof:name":"Insar",
     "wof:parent_id":1108691429,
     "wof:placetype":"locality",

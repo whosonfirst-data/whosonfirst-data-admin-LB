@@ -31,6 +31,12 @@
     "name:ara_x_variant":[
         "\u0643\u0631\u0647 \u0628\u0627\u0634"
     ],
+    "name:ita_x_preferred":[
+        "Korah Bach"
+    ],
+    "name:nno_x_preferred":[
+        "Karahbache"
+    ],
     "name:und_x_variant":[
         "Qarah B\u0101sh",
         "Qarah B\u00e2ch",
@@ -62,7 +68,7 @@
         }
     ],
     "wof:id":1259767707,
-    "wof:lastmodified":1537661033,
+    "wof:lastmodified":1564156374,
     "wof:name":"Qarah Bach",
     "wof:parent_id":1108691445,
     "wof:placetype":"locality",

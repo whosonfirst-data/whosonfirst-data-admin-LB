@@ -31,6 +31,27 @@
     "name:ara_x_variant":[
         "\u0645\u0627\u0631\u0648\u0646 \u0627\u0644\u0631\u0627\u0633"
     ],
+    "name:deu_x_preferred":[
+        "Marun ar-Ras"
+    ],
+    "name:fra_x_preferred":[
+        "Maroun al-Ras"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d0\u05e8\u05d5\u05df \u05d0-\u05e8\u05d0\u05e1"
+    ],
+    "name:ita_x_preferred":[
+        "Maroun el Ras"
+    ],
+    "name:nno_x_preferred":[
+        "Maroun al-Ras"
+    ],
+    "name:nor_x_preferred":[
+        "Maroun er Ras"
+    ],
+    "name:sco_x_preferred":[
+        "Maroun al-Ras"
+    ],
     "name:und_x_variant":[
         "M\u0101r\u016bn ar Ra\u2019s",
         "Maroun er Ras",
@@ -61,7 +82,7 @@
         }
     ],
     "wof:id":1243059557,
-    "wof:lastmodified":1537661058,
+    "wof:lastmodified":1564156328,
     "wof:name":"Maroun er Ras",
     "wof:parent_id":1108691417,
     "wof:placetype":"locality",

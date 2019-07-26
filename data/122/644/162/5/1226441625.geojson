@@ -28,6 +28,18 @@
     "name:ara_x_preferred":[
         "\u0646\u0627\u0628\u064a\u0647"
     ],
+    "name:fra_x_preferred":[
+        "Nabay"
+    ],
+    "name:glg_x_preferred":[
+        "Nabai"
+    ],
+    "name:ita_x_preferred":[
+        "Nabay"
+    ],
+    "name:nno_x_preferred":[
+        "Nabay"
+    ],
     "name:und_x_variant":[
         "N\u0101bayh"
     ],
@@ -55,7 +67,7 @@
         }
     ],
     "wof:id":1226441625,
-    "wof:lastmodified":1537661037,
+    "wof:lastmodified":1564156397,
     "wof:name":"Nabay",
     "wof:parent_id":1108691425,
     "wof:placetype":"locality",

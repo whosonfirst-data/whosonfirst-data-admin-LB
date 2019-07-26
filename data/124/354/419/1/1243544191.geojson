@@ -31,6 +31,12 @@
     "name:ara_x_variant":[
         "\u0628\u062a\u0639\u0628\u0648\u0631\u0629"
     ],
+    "name:nno_x_preferred":[
+        "Btaaboura"
+    ],
+    "name:por_x_preferred":[
+        "Btaaboura"
+    ],
     "name:und_x_variant":[
         "Bta\u2018b\u016br\u0101",
         "Btaabo\u00fbrra",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1243544191,
-    "wof:lastmodified":1551727624,
+    "wof:lastmodified":1564156301,
     "wof:name":"Btaaboura",
     "wof:parent_id":1108691423,
     "wof:placetype":"locality",

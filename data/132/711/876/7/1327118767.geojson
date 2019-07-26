@@ -31,6 +31,12 @@
     "name:ara_x_variant":[
         "N\u012b\u1e29\u0101"
     ],
+    "name:ceb_x_preferred":[
+        "Niha"
+    ],
+    "name:swe_x_preferred":[
+        "Niha"
+    ],
     "name:und_x_variant":[
         "N\u00eeha"
     ],
@@ -57,7 +63,7 @@
         }
     ],
     "wof:id":1327118767,
-    "wof:lastmodified":1537661036,
+    "wof:lastmodified":1564155922,
     "wof:name":"Niha",
     "wof:parent_id":421204111,
     "wof:placetype":"locality",
