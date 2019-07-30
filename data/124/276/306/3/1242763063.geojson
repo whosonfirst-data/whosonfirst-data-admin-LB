@@ -28,6 +28,18 @@
     "name:ara_x_preferred":[
         "\u062f\u064a\u0631 \u0627\u0644\u0639\u0634\u0627\u064a\u0631"
     ],
+    "name:ara_x_variant":[
+        "\u062f\u064a\u0631 \u0639\u0634\u0627\u064a\u0631"
+    ],
+    "name:ceb_x_preferred":[
+        "De\u00efr el Aach\u00e2yer"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u06cc\u0631\u0627\u0644\u0639\u0634\u0627\u06cc\u0631"
+    ],
+    "name:ita_x_preferred":[
+        "Deir el Achayer"
+    ],
     "name:und_x_variant":[
         "Deir el-\u2018Ashayer",
         "De\u00efr el Aacha\u00efr",
@@ -62,7 +74,7 @@
         }
     ],
     "wof:id":1242763063,
-    "wof:lastmodified":1537661136,
+    "wof:lastmodified":1564156334,
     "wof:name":"Deir el Aachayer",
     "wof:parent_id":1108691439,
     "wof:placetype":"locality",

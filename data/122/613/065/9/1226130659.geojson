@@ -25,6 +25,9 @@
     "iso:country":"LB",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0641\u0644\u0627\u0648\u064a"
+    ],
     "name:und_x_variant":[
         "Flaoui",
         "Flawi",
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1226130659,
-    "wof:lastmodified":1551727656,
+    "wof:lastmodified":1564156423,
     "wof:name":"Flaoue",
     "wof:parent_id":421171405,
     "wof:placetype":"locality",

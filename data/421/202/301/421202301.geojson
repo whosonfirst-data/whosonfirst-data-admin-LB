@@ -34,14 +34,95 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0628\u0639\u0628\u062f\u0627"
+    ],
+    "name:ceb_x_preferred":[
+        "Baabda"
+    ],
+    "name:deu_x_preferred":[
+        "Baabda"
+    ],
     "name:eng_x_preferred":[
         "Baabda"
     ],
     "name:eng_x_variant":[
         "Baabda"
     ],
+    "name:eus_x_preferred":[
+        "Baabda"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0639\u0628\u062f\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Baabda"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05e2\u05d1\u05d3\u05d0"
+    ],
+    "name:hye_x_preferred":[
+        "\u0532\u0561\u0561\u0562\u0564\u0561"
+    ],
+    "name:hyw_x_preferred":[
+        "\u054a\u0561\u0561\u057a\u057f\u0561"
+    ],
+    "name:ita_x_preferred":[
+        "Baabda"
+    ],
+    "name:kor_x_preferred":[
+        "\ubc14\ube0c\ub2e4"
+    ],
+    "name:lit_x_preferred":[
+        "Babda"
+    ],
+    "name:mzn_x_preferred":[
+        "\u0628\u0639\u0628\u062f\u0627"
+    ],
+    "name:nld_x_preferred":[
+        "Baabda"
+    ],
+    "name:nno_x_preferred":[
+        "Baabda"
+    ],
+    "name:nor_x_preferred":[
+        "Baabda"
+    ],
+    "name:pam_x_preferred":[
+        "Baabda"
+    ],
+    "name:pol_x_preferred":[
+        "Babda"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0430\u0431\u0434\u0430"
+    ],
+    "name:sco_x_preferred":[
+        "Baabda"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0430\u0430\u0431\u0434\u0430"
+    ],
+    "name:tur_x_preferred":[
+        "Baabda"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u0430\u0431\u0434\u0430"
+    ],
     "name:und_x_variant":[
         "\u0628\u0639\u0628\u062f\u0627"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0639\u0628\u062f\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Baabda"
+    ],
+    "name:yid_x_preferred":[
+        "\u05d1\u05d0\u05d0\u05d1\u05d3\u05e2"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u535c\u9054"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -101,7 +182,7 @@
         }
     ],
     "wof:id":421202301,
-    "wof:lastmodified":1553717560,
+    "wof:lastmodified":1564156282,
     "wof:name":"Baabda",
     "wof:parent_id":85673491,
     "wof:placetype":"county",

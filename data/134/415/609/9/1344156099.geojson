@@ -25,6 +25,30 @@
     "iso:country":"LB",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0642\u0635\u0631"
+    ],
+    "name:cat_x_preferred":[
+        "El Ksar"
+    ],
+    "name:ceb_x_preferred":[
+        "El Ksar"
+    ],
+    "name:cym_x_preferred":[
+        "El Ksar"
+    ],
+    "name:fra_x_preferred":[
+        "El Ksar"
+    ],
+    "name:ita_x_preferred":[
+        "El Ksar"
+    ],
+    "name:por_x_preferred":[
+        "El Ksar"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0415\u043b\u044c-\u041a\u0441\u0430\u0440"
+    ],
     "name:und_x_variant":[
         "Al Ks\u0101r",
         "El Ks\u00e2r"
@@ -52,7 +76,7 @@
         }
     ],
     "wof:id":1344156099,
-    "wof:lastmodified":1537661253,
+    "wof:lastmodified":1564155938,
     "wof:name":"El Ksar",
     "wof:parent_id":421172015,
     "wof:placetype":"locality",

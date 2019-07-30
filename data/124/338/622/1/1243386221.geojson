@@ -28,6 +28,24 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0628\u0627\u0631\u0648\u0643"
     ],
+    "name:ara_x_variant":[
+        "\u0628\u0627\u0631\u0648\u0643"
+    ],
+    "name:deu_x_preferred":[
+        "Barouk"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u0628\u0627\u0631\u0648\u06a9"
+    ],
+    "name:fra_x_preferred":[
+        "Barouk"
+    ],
+    "name:ita_x_preferred":[
+        "Barouk"
+    ],
+    "name:nno_x_preferred":[
+        "Barouk"
+    ],
     "name:und_x_variant":[
         "Baruk",
         "El B\u0101r\u016bk",
@@ -59,7 +77,7 @@
         }
     ],
     "wof:id":1243386221,
-    "wof:lastmodified":1537661281,
+    "wof:lastmodified":1564156295,
     "wof:name":"El Barouk",
     "wof:parent_id":1108691419,
     "wof:placetype":"locality",

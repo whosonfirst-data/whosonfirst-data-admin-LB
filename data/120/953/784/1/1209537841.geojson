@@ -28,6 +28,12 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0628\u0627\u0632\u0648\u0631\u064a\u0629"
     ],
+    "name:ita_x_preferred":[
+        "Al-Bazuriyya"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u043b\u044c-\u0411\u0430\u0437\u0443\u0440\u0438\u044f"
+    ],
     "name:und_x_variant":[
         "Bazouriy\u00e9",
         "El-Bazouriyah",
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1209537841,
-    "wof:lastmodified":1537661279,
+    "wof:lastmodified":1564156111,
     "wof:name":"El Bazouriye",
     "wof:parent_id":85632533,
     "wof:placetype":"locality",

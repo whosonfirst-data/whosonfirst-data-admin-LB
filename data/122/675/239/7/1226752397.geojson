@@ -28,6 +28,15 @@
     "name:ara_x_preferred":[
         "\u0625\u0647\u0645\u062c"
     ],
+    "name:fra_x_preferred":[
+        "Ehmej"
+    ],
+    "name:ita_x_preferred":[
+        "Ehmej"
+    ],
+    "name:pol_x_preferred":[
+        "Ihmid\u017c"
+    ],
     "name:und_x_variant":[
         "Ahmaj",
         "Ihmij",
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":1226752397,
-    "wof:lastmodified":1537661098,
+    "wof:lastmodified":1564156395,
     "wof:name":"Ehmej",
     "wof:parent_id":421194845,
     "wof:placetype":"locality",

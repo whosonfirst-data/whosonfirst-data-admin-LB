@@ -28,6 +28,33 @@
     "name:ara_x_preferred":[
         "\u0628\u0639\u0642\u0644\u064a\u0646"
     ],
+    "name:ceb_x_preferred":[
+        "Baaql\u00eene"
+    ],
+    "name:deu_x_preferred":[
+        "Baaklin"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0639\u0642\u0644\u06cc\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Baakline"
+    ],
+    "name:ita_x_preferred":[
+        "Baakline"
+    ],
+    "name:nno_x_preferred":[
+        "Baakleen"
+    ],
+    "name:pol_x_preferred":[
+        "Baklin"
+    ],
+    "name:spa_x_preferred":[
+        "Baakline"
+    ],
+    "name:swe_x_preferred":[
+        "Baaql\u00eene"
+    ],
     "name:und_x_variant":[
         "Baaklin",
         "B\u2018aqleen",
@@ -60,7 +87,7 @@
         }
     ],
     "wof:id":1309928491,
-    "wof:lastmodified":1537661174,
+    "wof:lastmodified":1564156272,
     "wof:name":"Baaqline",
     "wof:parent_id":1108691419,
     "wof:placetype":"locality",

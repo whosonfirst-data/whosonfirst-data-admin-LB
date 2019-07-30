@@ -28,6 +28,15 @@
     "name:ara_x_preferred":[
         "\u0639\u064a\u0646 \u0639\u0646\u0648\u0628"
     ],
+    "name:fas_x_preferred":[
+        "\u0639\u06cc\u0646 \u0639\u0646\u0648\u0628"
+    ],
+    "name:fra_x_preferred":[
+        "Ain Aanoub"
+    ],
+    "name:nno_x_preferred":[
+        "Ain Aanoub"
+    ],
     "name:und_x_variant":[
         "A\u00efn Enoub",
         "\u2018Ayn \u2018Un\u016bb",
@@ -60,7 +69,7 @@
         }
     ],
     "wof:id":1225849751,
-    "wof:lastmodified":1537661185,
+    "wof:lastmodified":1564156448,
     "wof:name":"Ain Aanoub",
     "wof:parent_id":1108691409,
     "wof:placetype":"locality",

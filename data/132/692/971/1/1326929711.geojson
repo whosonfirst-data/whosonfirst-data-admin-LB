@@ -28,6 +28,12 @@
     "name:ara_x_preferred":[
         "\u0645\u0632\u0631\u0639\u0629 \u0627\u0644\u0636\u0647\u0631"
     ],
+    "name:glg_x_preferred":[
+        "Masrat-al-Dahr"
+    ],
+    "name:ita_x_preferred":[
+        "Mazraat el Daher"
+    ],
     "name:und_x_variant":[
         "Mazra\u2018at a\u1e11 \u1e10ahr",
         "Mazraat ed Dahr"
@@ -56,7 +62,7 @@
         }
     ],
     "wof:id":1326929711,
-    "wof:lastmodified":1537661054,
+    "wof:lastmodified":1564155879,
     "wof:name":"Mazraat ed Dahr",
     "wof:parent_id":1108691419,
     "wof:placetype":"locality",

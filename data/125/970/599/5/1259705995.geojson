@@ -28,6 +28,18 @@
     "name:ara_x_preferred":[
         "\u0634\u062d\u0648\u0631"
     ],
+    "name:ceb_x_preferred":[
+        "Cheho\u00fbr"
+    ],
+    "name:ita_x_preferred":[
+        "Chehour"
+    ],
+    "name:nno_x_preferred":[
+        "Chehour"
+    ],
+    "name:swe_x_preferred":[
+        "Cheho\u00fbr"
+    ],
     "name:und_x_variant":[
         "Sh\u1e29\u016br",
         "Cheho\u00fbr",
@@ -57,7 +69,7 @@
         }
     ],
     "wof:id":1259705995,
-    "wof:lastmodified":1537661015,
+    "wof:lastmodified":1564156367,
     "wof:name":"Chehour",
     "wof:parent_id":1108691441,
     "wof:placetype":"locality",

@@ -28,6 +28,15 @@
     "name:ara_x_preferred":[
         "\u0643\u0641\u0631 \u0632\u064a\u0646\u0627"
     ],
+    "name:ara_x_variant":[
+        "\u0643\u0641\u0631\u0632\u064a\u0646\u0627"
+    ],
+    "name:ita_x_preferred":[
+        "Kfarzayna"
+    ],
+    "name:nno_x_preferred":[
+        "Kfarzeina"
+    ],
     "name:und_x_variant":[
         "Kafr Zayn\u0101",
         "Kfar Za\u00efna",
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":1310685587,
-    "wof:lastmodified":1537661079,
+    "wof:lastmodified":1564156235,
     "wof:name":"Kfar Zaina",
     "wof:parent_id":1108691445,
     "wof:placetype":"locality",

@@ -28,9 +28,18 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0639\u0642\u0628\u0629"
     ],
+    "name:fas_x_preferred":[
+        "\u0622\u06a9\u0628\u06cc"
+    ],
+    "name:nno_x_preferred":[
+        "Aaqbe"
+    ],
     "name:und_x_variant":[
         "Aaqb\u00e9",
         "Al \u2018Aqabah"
+    ],
+    "name:urd_x_preferred":[
+        "\u0622\u0642\u0627\u0628\u06d2"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1259477771,
-    "wof:lastmodified":1537661324,
+    "wof:lastmodified":1564156373,
     "wof:name":"Aaqbe",
     "wof:parent_id":421204111,
     "wof:placetype":"locality",

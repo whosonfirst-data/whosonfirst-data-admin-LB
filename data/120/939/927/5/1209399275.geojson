@@ -28,6 +28,12 @@
     "name:ara_x_preferred":[
         "\u062f\u0627\u0631\u064a\u0627"
     ],
+    "name:fas_x_preferred":[
+        "\u062f\u0627\u0631\u0627\u06cc\u0627"
+    ],
+    "name:nno_x_preferred":[
+        "Daraya"
+    ],
     "name:und_x_variant":[
         "D\u0101rayy\u0101",
         "D\u00e2ra\u00efya"
@@ -56,7 +62,7 @@
         }
     ],
     "wof:id":1209399275,
-    "wof:lastmodified":1551727621,
+    "wof:lastmodified":1564156114,
     "wof:name":"Daraiya",
     "wof:parent_id":1108691445,
     "wof:placetype":"locality",

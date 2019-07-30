@@ -29,7 +29,8 @@
         "\u0633\u0644\u0637\u0627\u0646\u064a\u0629"
     ],
     "name:ara_x_variant":[
-        "\u0627\u0644\u0633\u0644\u0637\u0627\u0646\u064a\u0629"
+        "\u0627\u0644\u0633\u0644\u0637\u0627\u0646\u064a\u0629",
+        "\u0627\u0644\u0633\u0644\u0637\u0627\u0646\u064a\u0647"
     ],
     "name:und_x_variant":[
         "Al Yah\u016bd\u012byah",
@@ -64,7 +65,7 @@
         }
     ],
     "wof:id":1259379547,
-    "wof:lastmodified":1537661199,
+    "wof:lastmodified":1564156357,
     "wof:name":"Es Soultaniye",
     "wof:parent_id":1108691417,
     "wof:placetype":"locality",

@@ -28,6 +28,15 @@
     "name:ara_x_preferred":[
         "\u0628\u0646\u064a \u062d\u064a\u0651\u0627\u0646"
     ],
+    "name:ara_x_variant":[
+        "\u0628\u0646\u064a \u062d\u064a\u0627\u0646"
+    ],
+    "name:ita_x_preferred":[
+        "Bani Hayann"
+    ],
+    "name:pol_x_preferred":[
+        "Bani Hajan"
+    ],
     "name:und_x_variant":[
         "Ban\u012b \u1e28ayy\u0101n",
         "Bani Heiyah",
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":1276756061,
-    "wof:lastmodified":1537661175,
+    "wof:lastmodified":1564156064,
     "wof:name":"Beni Haiyane",
     "wof:parent_id":1108691437,
     "wof:placetype":"locality",

@@ -25,6 +25,18 @@
     "iso:country":"LB",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "M\u00e8chan\u00e8"
+    ],
+    "name:ita_x_preferred":[
+        "Mechan\u00e8"
+    ],
+    "name:kor_x_preferred":[
+        "\uba54\uce74\ub124"
+    ],
+    "name:nld_x_preferred":[
+        "Mechane"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -48,7 +60,7 @@
         }
     ],
     "wof:id":1259381895,
-    "wof:lastmodified":1537003822,
+    "wof:lastmodified":1564156353,
     "wof:name":"Mechane",
     "wof:parent_id":421194845,
     "wof:placetype":"locality",

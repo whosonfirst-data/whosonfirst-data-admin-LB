@@ -25,6 +25,12 @@
     "iso:country":"LB",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u0631\u0639\u064a\u0646 \u0627\u0644\u062a\u062d\u062a\u0627"
+    ],
+    "name:ita_x_preferred":[
+        "Seriine el Tahta"
+    ],
     "name:und_x_variant":[
         "Sir\u2018\u012bn at Ta\u1e29t\u0101",
         "Serraa\u00efn et Tahta",
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1243251559,
-    "wof:lastmodified":1537661009,
+    "wof:lastmodified":1564156325,
     "wof:name":"Serraain et Tahta",
     "wof:parent_id":421171405,
     "wof:placetype":"locality",

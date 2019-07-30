@@ -28,6 +28,12 @@
     "name:ara_x_preferred":[
         "\u0628\u0644\u0627\u0637"
     ],
+    "name:ita_x_preferred":[
+        "Blatt"
+    ],
+    "name:nor_x_preferred":[
+        "Blatt"
+    ],
     "name:und_x_variant":[
         "Bl\u00e2te",
         "Bal\u0101\u0163",
@@ -58,7 +64,7 @@
         }
     ],
     "wof:id":1243255369,
-    "wof:lastmodified":1537661176,
+    "wof:lastmodified":1564156325,
     "wof:name":"Blat",
     "wof:parent_id":1108691437,
     "wof:placetype":"locality",

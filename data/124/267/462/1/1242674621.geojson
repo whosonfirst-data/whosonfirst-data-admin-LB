@@ -28,6 +28,21 @@
     "name:ara_x_preferred":[
         "\u0643\u0641\u0631 \u0643\u0644\u0627"
     ],
+    "name:ara_x_variant":[
+        "\u0643\u0641\u0631\u0643\u0644\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Kfar Kila"
+    ],
+    "name:heb_x_preferred":[
+        "\u05db\u05e4\u05e8 \u05db\u05d9\u05dc\u05d0"
+    ],
+    "name:ita_x_preferred":[
+        "Kfarkila"
+    ],
+    "name:pol_x_preferred":[
+        "Kafar Kila"
+    ],
     "name:und_x_variant":[
         "Kafr Kil\u0101",
         "Kfarkila"
@@ -56,7 +71,7 @@
         }
     ],
     "wof:id":1242674621,
-    "wof:lastmodified":1537661083,
+    "wof:lastmodified":1564156317,
     "wof:name":"Kfar Kila",
     "wof:parent_id":1108691437,
     "wof:placetype":"locality",

@@ -25,11 +25,20 @@
     "iso:country":"LB",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0646\u0628\u064a \u0634\u064a\u062a"
+    ],
+    "name:ita_x_preferred":[
+        "Al Nabi Sheet"
+    ],
     "name:und_x_variant":[
         "An Nab\u012b Sh\u012bt",
         "En Nabi Ch\u00eet",
         "Nabi Chit",
         "Al-Nabi Shayth"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0644\u0646\u0628\u06cc \u0634\u06cc\u062a"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1260260939,
-    "wof:lastmodified":1537661220,
+    "wof:lastmodified":1564156201,
     "wof:name":"En Nabi Chit",
     "wof:parent_id":421171405,
     "wof:placetype":"locality",

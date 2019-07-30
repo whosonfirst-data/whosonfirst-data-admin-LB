@@ -28,6 +28,12 @@
     "name:ara_x_preferred":[
         "\u0643\u0641\u0631 \u062d\u0632\u064a\u0631"
     ],
+    "name:ita_x_preferred":[
+        "Kfarhazir"
+    ],
+    "name:nno_x_preferred":[
+        "Kfarhazir"
+    ],
     "name:und_x_variant":[
         "Kafr \u1e28az\u012br",
         "Kfar Haz\u00eer"
@@ -56,7 +62,7 @@
         }
     ],
     "wof:id":1343557533,
-    "wof:lastmodified":1537661084,
+    "wof:lastmodified":1564155930,
     "wof:name":"Kfar Hazir",
     "wof:parent_id":1108691423,
     "wof:placetype":"locality",

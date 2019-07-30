@@ -31,6 +31,12 @@
     "name:ara_x_variant":[
         "\u062d\u0627\u0631\u0629 \u0627\u0644\u0641\u0648\u0627\u0631"
     ],
+    "name:ita_x_preferred":[
+        "Haret el Fouar"
+    ],
+    "name:nno_x_preferred":[
+        "Haret Al Fawar"
+    ],
     "name:und_x_variant":[
         "Al Faww\u0101r",
         "El Faou\u00e2r",
@@ -61,7 +67,7 @@
         }
     ],
     "wof:id":1310486045,
-    "wof:lastmodified":1537661275,
+    "wof:lastmodified":1564156205,
     "wof:name":"El Faouar",
     "wof:parent_id":1108691445,
     "wof:placetype":"locality",

@@ -31,6 +31,18 @@
     "name:ara_x_variant":[
         "Afq\u0101"
     ],
+    "name:deu_x_preferred":[
+        "Afqa-Grotte"
+    ],
+    "name:fra_x_preferred":[
+        "Grotte d'Afqa"
+    ],
+    "name:ita_x_preferred":[
+        "Grotte d'Afqa"
+    ],
+    "name:nno_x_preferred":[
+        "Afqa"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":1259974011,
-    "wof:lastmodified":1537661324,
+    "wof:lastmodified":1564156361,
     "wof:name":"Afqa",
     "wof:parent_id":1108691427,
     "wof:placetype":"locality",

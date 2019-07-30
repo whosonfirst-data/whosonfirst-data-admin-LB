@@ -28,6 +28,9 @@
     "name:ara_x_preferred":[
         "\u0628\u0632\u064a\u0632\u0627"
     ],
+    "name:nno_x_preferred":[
+        "Bziza"
+    ],
     "name:und_x_variant":[
         "Baz\u012bz\u0101",
         "Bz\u012bz\u0101",
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1276323581,
-    "wof:lastmodified":1537661142,
+    "wof:lastmodified":1564156080,
     "wof:name":"Bziza",
     "wof:parent_id":1108691423,
     "wof:placetype":"locality",

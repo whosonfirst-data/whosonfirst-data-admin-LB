@@ -28,6 +28,18 @@
     "name:ara_x_preferred":[
         "\u0628\u062a\u0631\u0648\u0645\u064a\u0646"
     ],
+    "name:ceb_x_preferred":[
+        "Batro\u00fbm\u00eene"
+    ],
+    "name:ita_x_preferred":[
+        "Batroumine"
+    ],
+    "name:nno_x_preferred":[
+        "Batroumine"
+    ],
+    "name:swe_x_preferred":[
+        "Batro\u00fbm\u00eene"
+    ],
     "name:und_x_variant":[
         "Batr\u016bm\u016bn",
         "Batr\u016bm\u012bn",
@@ -57,7 +69,7 @@
         }
     ],
     "wof:id":1310099987,
-    "wof:lastmodified":1537661171,
+    "wof:lastmodified":1564156215,
     "wof:name":"Batroumine",
     "wof:parent_id":1108691423,
     "wof:placetype":"locality",

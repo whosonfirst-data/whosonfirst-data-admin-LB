@@ -28,6 +28,12 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u062a \u0644\u064a\u0641"
     ],
+    "name:ita_x_preferred":[
+        "Beit Lif"
+    ],
+    "name:nor_x_preferred":[
+        "Beit Lif"
+    ],
     "name:und_x_variant":[
         "Beit Leef",
         "Bayt L\u012bf",
@@ -57,7 +63,7 @@
         }
     ],
     "wof:id":1276679717,
-    "wof:lastmodified":1537661166,
+    "wof:lastmodified":1564156078,
     "wof:name":"Beit Lif",
     "wof:parent_id":1108691417,
     "wof:placetype":"locality",

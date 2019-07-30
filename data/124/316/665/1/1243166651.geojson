@@ -28,6 +28,21 @@
     "name:ara_x_preferred":[
         "\u062d\u0635\u0631\u0648\u0646"
     ],
+    "name:ceb_x_preferred":[
+        "Hasro\u00fbn"
+    ],
+    "name:ita_x_preferred":[
+        "Hasroun"
+    ],
+    "name:nno_x_preferred":[
+        "Hasroun"
+    ],
+    "name:spa_x_preferred":[
+        "Hasroun"
+    ],
+    "name:swe_x_preferred":[
+        "Hasro\u00fbn"
+    ],
     "name:und_x_variant":[
         "\u1e28a\u015fr\u016bn",
         "Hasro\u00fbn"
@@ -56,7 +71,7 @@
         }
     ],
     "wof:id":1243166651,
-    "wof:lastmodified":1537661111,
+    "wof:lastmodified":1564156342,
     "wof:name":"Hasroun",
     "wof:parent_id":1108691411,
     "wof:placetype":"locality",

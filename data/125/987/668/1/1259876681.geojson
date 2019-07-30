@@ -28,6 +28,12 @@
     "name:ara_x_preferred":[
         "\u0631\u0634\u0627\u0641"
     ],
+    "name:ita_x_preferred":[
+        "Rchaf"
+    ],
+    "name:nno_x_preferred":[
+        "Rachaf"
+    ],
     "name:und_x_variant":[
         "Rsh\u0101f",
         "Rach\u00e2f",
@@ -58,7 +64,7 @@
         }
     ],
     "wof:id":1259876681,
-    "wof:lastmodified":1537661024,
+    "wof:lastmodified":1564156386,
     "wof:name":"Rachaf",
     "wof:parent_id":1108691417,
     "wof:placetype":"locality",

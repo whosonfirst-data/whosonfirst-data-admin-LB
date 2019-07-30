@@ -28,6 +28,12 @@
     "name:ara_x_preferred":[
         "\u0635\u0648\u0641\u0631"
     ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05d0\u05d5\u05e4\u05e8"
+    ],
+    "name:nno_x_preferred":[
+        "Saoufar"
+    ],
     "name:und_x_variant":[
         "\u015eawfar",
         "Saoufar"
@@ -56,7 +62,7 @@
         }
     ],
     "wof:id":1343457901,
-    "wof:lastmodified":1537661019,
+    "wof:lastmodified":1564155971,
     "wof:name":"Saoufar",
     "wof:parent_id":421202301,
     "wof:placetype":"locality",

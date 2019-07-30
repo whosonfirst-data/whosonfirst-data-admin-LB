@@ -28,6 +28,15 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u062e\u064a\u0651\u0627\u0645"
     ],
+    "name:deu_x_preferred":[
+        "El Khiam"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u062e\u06cc\u0627\u0645"
+    ],
+    "name:fra_x_preferred":[
+        "El Khiam"
+    ],
     "name:und_x_variant":[
         "Al Khayy\u0101m",
         "El Khi\u00e2m"
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1343358213,
-    "wof:lastmodified":1537661256,
+    "wof:lastmodified":1564155956,
     "wof:name":"El Khiam",
     "wof:parent_id":1108691419,
     "wof:placetype":"locality",

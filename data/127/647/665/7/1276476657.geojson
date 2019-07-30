@@ -28,6 +28,9 @@
     "name:ara_x_preferred":[
         "\u062f\u0644\u0628\u062a\u0627"
     ],
+    "name:ita_x_preferred":[
+        "Dlebta"
+    ],
     "name:und_x_variant":[
         "Dalibt\u0101",
         "Dlabta",
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1276476657,
-    "wof:lastmodified":1537661131,
+    "wof:lastmodified":1564156090,
     "wof:name":"Dlebta",
     "wof:parent_id":421172015,
     "wof:placetype":"locality",

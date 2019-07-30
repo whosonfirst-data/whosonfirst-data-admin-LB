@@ -28,12 +28,72 @@
     "name:ara_x_preferred":[
         "\u0628\u0646\u062a \u062c\u0628\u064a\u0644"
     ],
+    "name:deu_x_preferred":[
+        "Bint Dschubail"
+    ],
+    "name:est_x_preferred":[
+        "Bint Jubayl"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0646\u062a \u062c\u0628\u06cc\u0644"
+    ],
+    "name:fin_x_preferred":[
+        "Bint Jbeil"
+    ],
+    "name:fra_x_preferred":[
+        "Bint-Jbeil"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d9\u05e0\u05ea \u05d2'\u05d1\u05d9\u05d9\u05dc"
+    ],
+    "name:hye_x_preferred":[
+        "\u0532\u056b\u0576\u057f \u054b\u0561\u0562\u056b\u056c"
+    ],
+    "name:hyw_x_preferred":[
+        "\u054a\u056b\u0576\u0569 \u0543\u0561\u057a\u056b\u056c"
+    ],
+    "name:ita_x_preferred":[
+        "Bent Jbail"
+    ],
+    "name:lit_x_preferred":[
+        "Bint D\u017ebeilas"
+    ],
+    "name:nld_x_preferred":[
+        "Bent Jbeil"
+    ],
+    "name:nno_x_preferred":[
+        "Bint Jbeil"
+    ],
+    "name:nor_x_preferred":[
+        "Bint Jbeil"
+    ],
+    "name:pol_x_preferred":[
+        "Bint D\u017cubajl"
+    ],
+    "name:por_x_preferred":[
+        "Bint Jbeil"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0438\u043d\u0442-\u0414\u0436\u0443\u0431\u0430\u0439\u043b\u044c"
+    ],
+    "name:sco_x_preferred":[
+        "Bint Jbeil"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0456\u043d\u0442-\u0414\u0436\u0431\u0435\u0439\u043b\u044c"
+    ],
     "name:und_x_variant":[
         "Bent Jbeil",
         "Bennt Jbail",
         "Bint Jubayl",
         "Bint Umm Jubail",
         "Bent Jba\u00efl"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0646\u062a \u062c\u0628\u06cc\u0644"
+    ],
+    "name:zho_x_preferred":[
+        "\u8cd3\u7279\u6731\u62dc\u52d2"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -59,7 +119,7 @@
         }
     ],
     "wof:id":1276653557,
-    "wof:lastmodified":1537661161,
+    "wof:lastmodified":1564156102,
     "wof:name":"Bent Jbail",
     "wof:parent_id":1108691417,
     "wof:placetype":"locality",

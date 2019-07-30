@@ -28,6 +28,12 @@
     "name:ara_x_preferred":[
         "\u062e\u0646\u062f\u0642"
     ],
+    "name:fas_x_preferred":[
+        "\u062e\u0646\u062f\u0642"
+    ],
+    "name:msa_x_preferred":[
+        "Khandaq"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632533
@@ -45,7 +51,7 @@
         }
     ],
     "wof:id":1209313555,
-    "wof:lastmodified":1537661076,
+    "wof:lastmodified":1564156109,
     "wof:name":"Khandaq",
     "wof:parent_id":85632533,
     "wof:placetype":"locality",

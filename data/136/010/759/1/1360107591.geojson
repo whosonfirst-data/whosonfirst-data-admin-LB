@@ -28,6 +28,9 @@
     "name:ara_x_preferred":[
         "\u062d\u0635\u0627\u0631\u0627\u062a"
     ],
+    "name:nno_x_preferred":[
+        "Hsarat"
+    ],
     "name:und_x_variant":[
         "Hsarale",
         "\u1e28a\u015fr\u0101t",
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1360107591,
-    "wof:lastmodified":1537661103,
+    "wof:lastmodified":1564156259,
     "wof:name":"Hsarat",
     "wof:parent_id":421194845,
     "wof:placetype":"locality",

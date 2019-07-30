@@ -28,6 +28,12 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0634\u0631\u0642\u064a\u0629"
     ],
+    "name:fra_x_preferred":[
+        "Charkieh"
+    ],
+    "name:ita_x_preferred":[
+        "Charkiyeh"
+    ],
     "name:und_x_variant":[
         "Esh-Sharqiyah",
         "Charkiy\u00e9",
@@ -58,7 +64,7 @@
         }
     ],
     "wof:id":1259480163,
-    "wof:lastmodified":1537661207,
+    "wof:lastmodified":1564156364,
     "wof:name":"Ech Charqiye",
     "wof:parent_id":1108691429,
     "wof:placetype":"locality",

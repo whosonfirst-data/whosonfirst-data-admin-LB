@@ -28,6 +28,30 @@
     "name:ara_x_preferred":[
         "\u0634\u062a\u0648\u0631\u0629"
     ],
+    "name:ara_x_variant":[
+        "\u0634\u062a\u0648\u0631\u0627"
+    ],
+    "name:ceb_x_preferred":[
+        "Chtaura"
+    ],
+    "name:deu_x_preferred":[
+        "Chtoura"
+    ],
+    "name:fra_x_preferred":[
+        "Chtaura"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e9\u05ea\u05d5\u05e8\u05d0"
+    ],
+    "name:ita_x_preferred":[
+        "Chtaura"
+    ],
+    "name:nno_x_preferred":[
+        "Chtaura"
+    ],
+    "name:swe_x_preferred":[
+        "Chtaura"
+    ],
     "name:und_x_variant":[
         "Shtawrah",
         "Chtaura",
@@ -57,7 +81,7 @@
         }
     ],
     "wof:id":1226339137,
-    "wof:lastmodified":1551727603,
+    "wof:lastmodified":1564156408,
     "wof:name":"Chtaura",
     "wof:parent_id":421172017,
     "wof:placetype":"locality",

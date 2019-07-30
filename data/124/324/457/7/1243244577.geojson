@@ -25,6 +25,18 @@
     "iso:country":"LB",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062f\u064a\u0631 \u0627\u0644\u0623\u062d\u0645\u0631"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u06cc\u0631 \u0627\u0644\u0623\u062d\u0645\u0631"
+    ],
+    "name:ita_x_preferred":[
+        "Deir el Ahmar"
+    ],
+    "name:pol_x_preferred":[
+        "Dajr al-Ahmar"
+    ],
     "name:und_x_variant":[
         "Dayr al A\u1e29mar",
         "Deir el Ahmar"
@@ -53,7 +65,7 @@
         }
     ],
     "wof:id":1243244577,
-    "wof:lastmodified":1537661136,
+    "wof:lastmodified":1564156321,
     "wof:name":"Deir el Ahmar",
     "wof:parent_id":421171405,
     "wof:placetype":"locality",

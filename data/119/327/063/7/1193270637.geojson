@@ -31,6 +31,9 @@
     "name:ara_x_variant":[
         "\u0635\u0631\u0641\u0646\u062f"
     ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05e8\u05e4\u05e0\u05d3"
+    ],
     "name:und_x_variant":[
         "Es-Sarafand",
         "A\u015f \u015earafand",
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1193270637,
-    "wof:lastmodified":1537661202,
+    "wof:lastmodified":1564156177,
     "wof:name":"Sarafand",
     "wof:parent_id":890451987,
     "wof:placetype":"locality",

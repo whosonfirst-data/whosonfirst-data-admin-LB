@@ -31,6 +31,9 @@
     "name:ara_x_variant":[
         "\u015eurubb\u012bn"
     ],
+    "name:ita_x_preferred":[
+        "Serbine"
+    ],
     "name:und_x_variant":[
         "\u015eribb\u012bn",
         "Srobb\u00eene"
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1293581055,
-    "wof:lastmodified":1537661009,
+    "wof:lastmodified":1564156031,
     "wof:name":"Srobbine",
     "wof:parent_id":1108691417,
     "wof:placetype":"locality",

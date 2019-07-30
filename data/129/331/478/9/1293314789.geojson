@@ -28,6 +28,27 @@
     "name:ara_x_preferred":[
         "\u0628\u0631\u062a\u064a"
     ],
+    "name:dan_x_preferred":[
+        "Berti"
+    ],
+    "name:deu_x_preferred":[
+        "Berti"
+    ],
+    "name:fra_x_preferred":[
+        "Berti"
+    ],
+    "name:ita_x_preferred":[
+        "Berti"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u0440\u0442\u0438"
+    ],
+    "name:slv_x_preferred":[
+        "Berti"
+    ],
+    "name:spa_x_preferred":[
+        "Berti"
+    ],
     "name:und_x_variant":[
         "Bart\u012b",
         "Berti"
@@ -55,7 +76,7 @@
         }
     ],
     "wof:id":1293314789,
-    "wof:lastmodified":1537661173,
+    "wof:lastmodified":1564155996,
     "wof:name":"Berti",
     "wof:parent_id":890451987,
     "wof:placetype":"locality",

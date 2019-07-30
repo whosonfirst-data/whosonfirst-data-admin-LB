@@ -32,6 +32,12 @@
         "\u0639\u064a\u0646 \u062d\u0631\u0634\u0647",
         "\u0639\u064a\u0646 \u062d\u0631\u0634\u064a"
     ],
+    "name:fas_x_preferred":[
+        "\u0639\u06cc\u0646 \u0647\u0631\u0634\u0647"
+    ],
+    "name:ita_x_preferred":[
+        "Ain Harcha"
+    ],
     "name:und_x_variant":[
         "\u2018A\u00efn Hirsha",
         "\u2018Ayn \u1e28irshah",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1343752597,
-    "wof:lastmodified":1537661187,
+    "wof:lastmodified":1564155978,
     "wof:name":"Ain Horche",
     "wof:parent_id":1108691439,
     "wof:placetype":"locality",

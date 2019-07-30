@@ -25,6 +25,9 @@
     "iso:country":"LB",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Nahle"
+    ],
     "name:und_x_variant":[
         "Na\u1e29lah",
         "Nahl\u00e9"
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1293577685,
-    "wof:lastmodified":1537661037,
+    "wof:lastmodified":1564156029,
     "wof:name":"Nahle",
     "wof:parent_id":421171405,
     "wof:placetype":"locality",

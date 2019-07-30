@@ -28,6 +28,9 @@
     "name:ara_x_preferred":[
         "\u0641\u064a\u0639"
     ],
+    "name:ita_x_preferred":[
+        "Fih"
+    ],
     "name:und_x_variant":[
         "F\u012b\u2018\u0101",
         "Fih",
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1193127059,
-    "wof:lastmodified":1551727614,
+    "wof:lastmodified":1564156166,
     "wof:name":"Fiaa",
     "wof:parent_id":1108691423,
     "wof:placetype":"locality",

@@ -25,6 +25,12 @@
     "iso:country":"LB",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u063a\u064a\u0631\u0629"
+    ],
+    "name:ita_x_preferred":[
+        "Mghayreh"
+    ],
     "name:und_x_variant":[
         "Mghaireh"
     ],
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1242970219,
-    "wof:lastmodified":1537661319,
+    "wof:lastmodified":1564156340,
     "wof:name":"Mghaire",
     "wof:parent_id":1108691419,
     "wof:placetype":"locality",

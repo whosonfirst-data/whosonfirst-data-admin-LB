@@ -28,6 +28,12 @@
     "name:ara_x_preferred":[
         "\u0623\u0633\u0644\u0648\u062a"
     ],
+    "name:ita_x_preferred":[
+        "Aslout"
+    ],
+    "name:nno_x_preferred":[
+        "Aslout"
+    ],
     "name:und_x_variant":[
         "Asl\u016bt",
         "Aslo\u00fbte",
@@ -57,7 +63,7 @@
         }
     ],
     "wof:id":1344246811,
-    "wof:lastmodified":1537661205,
+    "wof:lastmodified":1564155939,
     "wof:name":"Aslout",
     "wof:parent_id":1108691445,
     "wof:placetype":"locality",

@@ -28,6 +28,33 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0642\u0631\u0639\u0648\u0646"
     ],
+    "name:ara_x_variant":[
+        "\u0642\u0631\u0639\u0648\u0646"
+    ],
+    "name:ceb_x_preferred":[
+        "El Qaraaoun"
+    ],
+    "name:fas_x_preferred":[
+        "\u0642\u0631\u0639\u0648\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Qaraoun"
+    ],
+    "name:ita_x_preferred":[
+        "Qaraoun"
+    ],
+    "name:nno_x_preferred":[
+        "Qaraoun"
+    ],
+    "name:por_x_preferred":[
+        "Karaoun"
+    ],
+    "name:spa_x_preferred":[
+        "Karaoun"
+    ],
+    "name:swe_x_preferred":[
+        "El Qaraaoun"
+    ],
     "name:und_x_variant":[
         "Al Qar\u2018\u016bn",
         "Qaraaoun",
@@ -62,7 +89,7 @@
         }
     ],
     "wof:id":1209906933,
-    "wof:lastmodified":1551727602,
+    "wof:lastmodified":1564156117,
     "wof:name":"El Qaraaoun",
     "wof:parent_id":421173359,
     "wof:placetype":"locality",

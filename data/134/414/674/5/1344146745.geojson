@@ -28,6 +28,15 @@
     "name:ara_x_preferred":[
         "\u0639\u064a\u0646\u0637\u0648\u0631\u064a\u0646"
     ],
+    "name:fas_x_preferred":[
+        "\u0639\u06cc\u0646\u0637\u0648\u0631\u06cc\u0646"
+    ],
+    "name:ita_x_preferred":[
+        "Aintourine"
+    ],
+    "name:nno_x_preferred":[
+        "Aintourine"
+    ],
     "name:und_x_variant":[
         "Am To\u00fbr\u00eene",
         "A\u00efn To\u00fbr\u00eene",
@@ -59,7 +68,7 @@
         }
     ],
     "wof:id":1344146745,
-    "wof:lastmodified":1537661183,
+    "wof:lastmodified":1564155935,
     "wof:name":"Aaintourine",
     "wof:parent_id":1108691445,
     "wof:placetype":"locality",

@@ -28,6 +28,12 @@
     "name:ara_x_preferred":[
         "\u0645\u0639\u0631\u0643\u0629"
     ],
+    "name:ita_x_preferred":[
+        "Maarake"
+    ],
+    "name:nno_x_preferred":[
+        "Maarakeh"
+    ],
     "name:und_x_variant":[
         "Ma\u2018rak\u012b",
         "Ma\u2018rakah",
@@ -57,7 +63,7 @@
         }
     ],
     "wof:id":1310103123,
-    "wof:lastmodified":1537661061,
+    "wof:lastmodified":1564156228,
     "wof:name":"Maarake",
     "wof:parent_id":1108691441,
     "wof:placetype":"locality",

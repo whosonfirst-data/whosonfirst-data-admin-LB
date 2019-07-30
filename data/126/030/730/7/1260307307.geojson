@@ -31,6 +31,9 @@
     "name:ara_x_variant":[
         "\u062d\u0644\u062a\u0627"
     ],
+    "name:deu_x_preferred":[
+        "Titularbistum Hilta"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1260307307,
-    "wof:lastmodified":1537661304,
+    "wof:lastmodified":1564156184,
     "wof:name":"Hilta",
     "wof:parent_id":1108691431,
     "wof:placetype":"locality",

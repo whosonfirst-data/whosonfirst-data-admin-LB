@@ -28,6 +28,12 @@
     "name:ara_x_preferred":[
         "\u0631\u0634\u0639\u064a\u0646"
     ],
+    "name:ita_x_preferred":[
+        "Rachiine"
+    ],
+    "name:nno_x_preferred":[
+        "Rachiine"
+    ],
     "name:und_x_variant":[
         "Rish\u2018\u012bn",
         "Rachaa\u00efne",
@@ -57,7 +63,7 @@
         }
     ],
     "wof:id":1309790269,
-    "wof:lastmodified":1537661024,
+    "wof:lastmodified":1564156269,
     "wof:name":"Rachaaine",
     "wof:parent_id":1108691445,
     "wof:placetype":"locality",

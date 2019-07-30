@@ -28,6 +28,24 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0634\u064a\u0627\u062d"
     ],
+    "name:ara_x_variant":[
+        "\u0634\u064a\u0627\u062d"
+    ],
+    "name:fra_x_preferred":[
+        "Chiyah"
+    ],
+    "name:ita_x_preferred":[
+        "Chiyah"
+    ],
+    "name:nno_x_preferred":[
+        "Chiyah"
+    ],
+    "name:pam_x_preferred":[
+        "Chyah"
+    ],
+    "name:tur_x_preferred":[
+        "Chyah"
+    ],
     "name:und_x_variant":[
         "Ech Ch\u00eey\u00e2h",
         "Chiah",
@@ -60,7 +78,7 @@
         }
     ],
     "wof:id":1326853235,
-    "wof:lastmodified":1537661205,
+    "wof:lastmodified":1564155904,
     "wof:name":"Chiyah",
     "wof:parent_id":421202301,
     "wof:placetype":"locality",

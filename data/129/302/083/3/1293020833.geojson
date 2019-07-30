@@ -28,10 +28,19 @@
     "name:ara_x_preferred":[
         "\u0642\u0628 \u0625\u0644\u064a\u0627\u0633"
     ],
+    "name:ara_x_variant":[
+        "\u0642\u0628 \u0627\u0644\u064a\u0627\u0633"
+    ],
+    "name:nno_x_preferred":[
+        "Kabelias"
+    ],
     "name:und_x_variant":[
         "Qabb Ily\u0101s",
         "Qabb Eli\u00e2s",
         "Qubb Ily\u0101s"
+    ],
+    "name:urd_x_preferred":[
+        "\u0642\u0628 \u0627\u0644\u06cc\u0627\u0633"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":1293020833,
-    "wof:lastmodified":1537661036,
+    "wof:lastmodified":1564156036,
     "wof:name":"Qabb Elias",
     "wof:parent_id":421172017,
     "wof:placetype":"locality",

@@ -28,6 +28,9 @@
     "name:ara_x_preferred":[
         "\u0633\u064a\u0631 \u0627\u0644\u063a\u0631\u0628\u064a\u0629"
     ],
+    "name:ita_x_preferred":[
+        "Sir el Gharbiyeh"
+    ],
     "name:und_x_variant":[
         "S\u012br al Gharb\u012byah",
         "S\u00eer el Gharbiy\u00e9"
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":1259804841,
-    "wof:lastmodified":1537661010,
+    "wof:lastmodified":1564156387,
     "wof:name":"Sir el Gharbiye",
     "wof:parent_id":1108691429,
     "wof:placetype":"locality",

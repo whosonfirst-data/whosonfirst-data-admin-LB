@@ -28,11 +28,68 @@
     "name:ara_x_preferred":[
         "\u062c\u0632\u064a\u0646"
     ],
+    "name:bel_x_preferred":[
+        "\u0414\u0436\u044d\u0437\u0456\u043d"
+    ],
+    "name:ceb_x_preferred":[
+        "Jezz\u00eene"
+    ],
+    "name:deu_x_preferred":[
+        "Jezzine"
+    ],
+    "name:fas_x_preferred":[
+        "\u062c\u0632\u06cc\u0646"
+    ],
+    "name:fra_x_preferred":[
+        "Jezzine"
+    ],
+    "name:glg_x_preferred":[
+        "Xasin"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d2'\u05d6\u05d9\u05df"
+    ],
+    "name:ita_x_preferred":[
+        "Jezzin"
+    ],
+    "name:lit_x_preferred":[
+        "D\u017eezinas"
+    ],
+    "name:mzn_x_preferred":[
+        "\u062c\u0632\u06cc\u0646"
+    ],
+    "name:nld_x_preferred":[
+        "Jezzine"
+    ],
+    "name:nno_x_preferred":[
+        "Jezzine"
+    ],
+    "name:nor_x_preferred":[
+        "Jezzine"
+    ],
+    "name:pol_x_preferred":[
+        "D\u017cazzin"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0436\u0435\u0437\u0437\u0438\u043d"
+    ],
+    "name:srp_x_preferred":[
+        "\u040f\u0435\u0437\u0438\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Jezz\u00eene"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0436\u0435\u0437\u0437\u0456\u043d"
+    ],
     "name:und_x_variant":[
         "Djezzin",
         "Jazz\u012bn",
         "Djezzine",
         "Jezz\u00eene"
+    ],
+    "name:urd_x_preferred":[
+        "\u062c\u0632\u06cc\u0646"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +115,7 @@
         }
     ],
     "wof:id":1225939157,
-    "wof:lastmodified":1537661094,
+    "wof:lastmodified":1564156393,
     "wof:name":"Jezzine",
     "wof:parent_id":1108691435,
     "wof:placetype":"locality",

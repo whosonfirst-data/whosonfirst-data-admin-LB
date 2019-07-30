@@ -28,6 +28,27 @@
     "name:ara_x_preferred":[
         "\u0628\u0631\u062c\u0627"
     ],
+    "name:deu_x_preferred":[
+        "Bardscha"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0631\u062c\u0627 \u0627\u0644\u0634\u0648\u0641"
+    ],
+    "name:fra_x_preferred":[
+        "Barja"
+    ],
+    "name:ita_x_preferred":[
+        "Barja"
+    ],
+    "name:nld_x_preferred":[
+        "Barja"
+    ],
+    "name:nno_x_preferred":[
+        "Barja"
+    ],
+    "name:pol_x_preferred":[
+        "Bard\u017ca"
+    ],
     "name:und_x_variant":[
         "Barj\u0101"
     ],
@@ -55,7 +76,7 @@
         }
     ],
     "wof:id":1243559405,
-    "wof:lastmodified":1537661173,
+    "wof:lastmodified":1564156305,
     "wof:name":"Barja",
     "wof:parent_id":1108691419,
     "wof:placetype":"locality",

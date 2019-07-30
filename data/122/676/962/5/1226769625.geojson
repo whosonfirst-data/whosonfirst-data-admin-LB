@@ -28,6 +28,9 @@
     "name:ara_x_preferred":[
         "\u0643\u0641\u0631 \u062f\u0646\u064a\u0633"
     ],
+    "name:ita_x_preferred":[
+        "Kfardaniss"
+    ],
     "name:und_x_variant":[
         "Kafr Dan\u012bs",
         "Kfarden\u00ees"
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":1226769625,
-    "wof:lastmodified":1551727603,
+    "wof:lastmodified":1564156425,
     "wof:name":"Kfardenis",
     "wof:parent_id":1108691439,
     "wof:placetype":"locality",

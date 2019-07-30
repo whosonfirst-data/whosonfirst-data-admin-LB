@@ -28,9 +28,30 @@
     "name:ara_x_preferred":[
         "\u0645\u0634\u063a\u0631\u0629"
     ],
+    "name:ceb_x_preferred":[
+        "Machghara"
+    ],
+    "name:deu_x_preferred":[
+        "Mashgara"
+    ],
+    "name:fra_x_preferred":[
+        "Machghara"
+    ],
+    "name:ita_x_preferred":[
+        "Machghara"
+    ],
+    "name:nno_x_preferred":[
+        "Machgara"
+    ],
+    "name:swe_x_preferred":[
+        "Machghara"
+    ],
     "name:und_x_variant":[
         "Mashgharah",
         "Machghara"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0634\u063a\u0631\u06c1"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -56,7 +77,7 @@
         }
     ],
     "wof:id":1292986463,
-    "wof:lastmodified":1537661057,
+    "wof:lastmodified":1564156039,
     "wof:name":"Machghara",
     "wof:parent_id":421173359,
     "wof:placetype":"locality",

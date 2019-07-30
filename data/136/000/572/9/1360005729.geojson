@@ -28,6 +28,15 @@
     "name:ara_x_preferred":[
         "\u0628\u0631 \u0627\u0644\u064a\u0627\u0633"
     ],
+    "name:deu_x_preferred":[
+        "Barelias"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0631 \u0627\u0644\u06cc\u0627\u0633"
+    ],
+    "name:nno_x_preferred":[
+        "Barelias"
+    ],
     "name:und_x_variant":[
         "Berr Ely\u0101s",
         "Bar Elias",
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":1360005729,
-    "wof:lastmodified":1551727597,
+    "wof:lastmodified":1564156243,
     "wof:name":"Barr Elias",
     "wof:parent_id":421172017,
     "wof:placetype":"locality",

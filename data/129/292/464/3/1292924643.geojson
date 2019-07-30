@@ -31,6 +31,9 @@
     "name:ara_x_variant":[
         "\u062d\u0648\u0642\u0627 \u0627\u0644\u0646\u0647\u0631"
     ],
+    "name:nno_x_preferred":[
+        "Hawqa"
+    ],
     "name:und_x_variant":[
         "Al \u1e28awq\u0101",
         "Ho\u00fbka",
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1292924643,
-    "wof:lastmodified":1537661267,
+    "wof:lastmodified":1564156005,
     "wof:name":"Haouqa",
     "wof:parent_id":1108691445,
     "wof:placetype":"locality",

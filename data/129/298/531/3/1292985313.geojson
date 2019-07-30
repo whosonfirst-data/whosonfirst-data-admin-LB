@@ -28,6 +28,9 @@
     "name:ara_x_preferred":[
         "\u0646\u062d\u0644\u0629"
     ],
+    "name:deu_x_preferred":[
+        "Nahle"
+    ],
     "name:und_x_variant":[
         "Aakb el Bellene",
         "Aaqb el Ball\u00e2ne",
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1292985313,
-    "wof:lastmodified":1537661037,
+    "wof:lastmodified":1564156038,
     "wof:name":"Nahle",
     "wof:parent_id":421204111,
     "wof:placetype":"locality",

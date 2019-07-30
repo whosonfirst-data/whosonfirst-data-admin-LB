@@ -28,12 +28,45 @@
     "name:ara_x_preferred":[
         "\u0639\u0645\u0634\u064a\u062a"
     ],
+    "name:bul_x_preferred":[
+        "\u0410\u043c\u0448\u0438\u0442"
+    ],
+    "name:epo_x_preferred":[
+        "Am\u0109it"
+    ],
+    "name:fas_x_preferred":[
+        "\u0639\u0645\u0634\u06cc\u062a"
+    ],
+    "name:fra_x_preferred":[
+        "Amchit"
+    ],
+    "name:ita_x_preferred":[
+        "Amchit"
+    ],
+    "name:kab_x_preferred":[
+        "\u0190amcit"
+    ],
+    "name:nno_x_preferred":[
+        "Amsheet"
+    ],
+    "name:nor_x_preferred":[
+        "Amsheet"
+    ],
+    "name:pol_x_preferred":[
+        "Amszit"
+    ],
+    "name:tur_x_preferred":[
+        "Am\u015fit"
+    ],
     "name:und_x_variant":[
         "Aamchite",
         "\u2018Amsheet",
         "Amchitt",
         "\u2018Amsh\u012bt",
         "Amch\u00eet"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u59c6\u5e0c\u7279"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -53,7 +86,7 @@
         }
     ],
     "wof:id":1209437615,
-    "wof:lastmodified":1537661223,
+    "wof:lastmodified":1564156153,
     "wof:name":"Amchit",
     "wof:parent_id":85632533,
     "wof:placetype":"locality",

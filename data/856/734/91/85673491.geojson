@@ -35,6 +35,9 @@
     "name:arg_x_preferred":[
         "Mont de Liban"
     ],
+    "name:bel_x_preferred":[
+        "\u041b\u0456\u0432\u0430\u043d"
+    ],
     "name:bul_x_preferred":[
         "\u041b\u0438\u0432\u0430\u043d"
     ],
@@ -50,8 +53,14 @@
     "name:cym_x_preferred":[
         "Mynydd Libanus"
     ],
+    "name:dan_x_preferred":[
+        "Libanonbjerget"
+    ],
     "name:deu_x_preferred":[
         "Libanon"
+    ],
+    "name:deu_x_variant":[
+        "Libanongebirge"
     ],
     "name:ell_x_preferred":[
         "\u039f\u03c1\u03bf\u03c3\u03b5\u03b9\u03c1\u03ac \u03c4\u03bf\u03c5 \u039b\u03b9\u03b2\u03ac\u03bd\u03bf\u03c5"
@@ -89,6 +98,12 @@
     "name:hun_x_preferred":[
         "Libanon-hegys\u00e9g"
     ],
+    "name:hun_x_variant":[
+        "Libanoni-hegys\u00e9g"
+    ],
+    "name:hye_x_preferred":[
+        "\u053c\u056b\u0562\u0561\u0576\u0561\u0576\u056b \u056c\u0565\u057c\u0576\u0565\u0580"
+    ],
     "name:ind_x_preferred":[
         "Gunung Lebanon"
     ],
@@ -105,6 +120,9 @@
     "name:kor_x_preferred":[
         "\uc790\ubc1c\ub8e8\ube0c\ub09c",
         "\ub808\ubc14\ub17c \uc0b0\ub9e5"
+    ],
+    "name:kor_x_variant":[
+        "\ub808\ubc14\ub17c\uc0b0\ub9e5"
     ],
     "name:lit_x_preferred":[
         "Libano kalnai"
@@ -278,7 +296,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1553550415,
+    "wof:lastmodified":1564155990,
     "wof:name":"Mount Lebanon",
     "wof:parent_id":85632533,
     "wof:placetype":"region",

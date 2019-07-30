@@ -28,6 +28,18 @@
     "name:ara_x_preferred":[
         "\u062c\u0628\u0634\u064a\u062a"
     ],
+    "name:fra_x_preferred":[
+        "Jebchit"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d2'\u05d1\u05e9\u05d9\u05ea"
+    ],
+    "name:ita_x_preferred":[
+        "Jebchit"
+    ],
+    "name:nno_x_preferred":[
+        "Jebchit"
+    ],
     "name:und_x_variant":[
         "Jibsh\u012bt",
         "Jibch\u00eet",
@@ -57,7 +69,7 @@
         }
     ],
     "wof:id":1292897571,
-    "wof:lastmodified":1537661093,
+    "wof:lastmodified":1564156004,
     "wof:name":"Jibchit",
     "wof:parent_id":1108691429,
     "wof:placetype":"locality",

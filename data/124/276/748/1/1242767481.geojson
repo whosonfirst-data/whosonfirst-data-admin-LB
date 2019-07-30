@@ -28,6 +28,18 @@
     "name:ara_x_preferred":[
         "\u0625\u064a\u0639\u0627\u0644"
     ],
+    "name:ara_x_variant":[
+        "\u0627\u064a\u0639\u0627\u0644"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u06cc\u0639\u0627\u0644"
+    ],
+    "name:ita_x_preferred":[
+        "Iaal"
+    ],
+    "name:nno_x_preferred":[
+        "Iaal"
+    ],
     "name:und_x_variant":[
         "Ee\u2018al",
         "\u012a\u2018\u0101l",
@@ -57,7 +69,7 @@
         }
     ],
     "wof:id":1242767481,
-    "wof:lastmodified":1537661100,
+    "wof:lastmodified":1564156335,
     "wof:name":"Iaal",
     "wof:parent_id":1108691445,
     "wof:placetype":"locality",

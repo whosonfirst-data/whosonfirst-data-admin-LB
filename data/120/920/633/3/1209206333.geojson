@@ -28,6 +28,12 @@
     "name:ara_x_preferred":[
         "\u062f\u064a\u0631 \u0633\u0631\u064a\u0627\u0646"
     ],
+    "name:ita_x_preferred":[
+        "Deir Syriane"
+    ],
+    "name:pol_x_preferred":[
+        "Dajr Sirjan"
+    ],
     "name:und_x_variant":[
         "Dayr as Siry\u0101n",
         "Dayr Siry\u0101n",
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1209206333,
-    "wof:lastmodified":1537661132,
+    "wof:lastmodified":1564156143,
     "wof:name":"Deir Siriane",
     "wof:parent_id":85632533,
     "wof:placetype":"locality",

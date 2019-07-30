@@ -28,6 +28,21 @@
     "name:ara_x_preferred":[
         "\u0634\u0628\u0639\u0627"
     ],
+    "name:deu_x_preferred":[
+        "Schebaa"
+    ],
+    "name:fra_x_preferred":[
+        "Chebaa"
+    ],
+    "name:ita_x_preferred":[
+        "Chebaa"
+    ],
+    "name:nno_x_preferred":[
+        "Chebaa"
+    ],
+    "name:nor_x_preferred":[
+        "Chebaa"
+    ],
     "name:und_x_variant":[
         "Che\u2018ba\u00e2",
         "Cheba\u00e2",
@@ -60,7 +75,7 @@
         }
     ],
     "wof:id":1276863295,
-    "wof:lastmodified":1537661015,
+    "wof:lastmodified":1564156063,
     "wof:name":"Shebaa",
     "wof:parent_id":1108691431,
     "wof:placetype":"locality",

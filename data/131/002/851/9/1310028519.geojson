@@ -28,6 +28,15 @@
     "name:ara_x_preferred":[
         "\u0634\u0645\u0644\u0627\u0646"
     ],
+    "name:fra_x_preferred":[
+        "Chemlane"
+    ],
+    "name:ita_x_preferred":[
+        "Shimlan"
+    ],
+    "name:nno_x_preferred":[
+        "Shemlan"
+    ],
     "name:und_x_variant":[
         "Chaml\u00e2ne",
         "Shiml\u0101n",
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":1310028519,
-    "wof:lastmodified":1537661014,
+    "wof:lastmodified":1564156236,
     "wof:name":"Chemlane",
     "wof:parent_id":1108691409,
     "wof:placetype":"locality",

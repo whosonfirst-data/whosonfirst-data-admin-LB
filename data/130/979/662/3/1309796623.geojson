@@ -28,6 +28,15 @@
     "name:ara_x_preferred":[
         "\u062e\u0631\u0628\u0629 \u0631\u0648\u062d\u0627"
     ],
+    "name:ara_x_variant":[
+        "\u062e\u0631\u0628\u0629 \u0631\u0648\u062d\u0647"
+    ],
+    "name:ita_x_preferred":[
+        "Kherbet Rouha"
+    ],
+    "name:nor_x_preferred":[
+        "Kherbet Rouha"
+    ],
     "name:und_x_variant":[
         "Khirbat R\u016b\u1e29\u0101",
         "Khirbet Ro\u00fbha"
@@ -56,7 +65,7 @@
         }
     ],
     "wof:id":1309796623,
-    "wof:lastmodified":1537661074,
+    "wof:lastmodified":1564156269,
     "wof:name":"Khirbet Rouha",
     "wof:parent_id":1108691439,
     "wof:placetype":"locality",

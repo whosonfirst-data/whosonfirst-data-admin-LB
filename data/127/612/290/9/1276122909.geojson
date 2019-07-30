@@ -28,6 +28,15 @@
     "name:ara_x_preferred":[
         "\u0628\u0633\u0648\u0633"
     ],
+    "name:ceb_x_preferred":[
+        "Bsous"
+    ],
+    "name:fra_x_preferred":[
+        "Bsous"
+    ],
+    "name:nno_x_preferred":[
+        "Bsous"
+    ],
     "name:und_x_variant":[
         "Bas\u016bs",
         "Bso\u00fbss",
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":1276122909,
-    "wof:lastmodified":1537661149,
+    "wof:lastmodified":1564156094,
     "wof:name":"Bsous",
     "wof:parent_id":1108691409,
     "wof:placetype":"locality",

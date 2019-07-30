@@ -28,6 +28,12 @@
     "name:ara_x_preferred":[
         "\u062d\u062f\u062b \u0627\u0644\u062c\u0628\u0629"
     ],
+    "name:ita_x_preferred":[
+        "Hadath"
+    ],
+    "name:nno_x_preferred":[
+        "Hadath El Jebbeh"
+    ],
     "name:und_x_variant":[
         "Hadeth esh Shibbe",
         "Hadath el-Jubbah",
@@ -60,7 +66,7 @@
         }
     ],
     "wof:id":1259974149,
-    "wof:lastmodified":1537661122,
+    "wof:lastmodified":1564156360,
     "wof:name":"Hadet ej Jobbe",
     "wof:parent_id":1108691411,
     "wof:placetype":"locality",

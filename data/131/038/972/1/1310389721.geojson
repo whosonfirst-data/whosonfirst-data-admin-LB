@@ -31,6 +31,15 @@
     "name:ara_x_variant":[
         "\u0100\u015fiy\u0101"
     ],
+    "name:fra_x_preferred":[
+        "Assia"
+    ],
+    "name:ita_x_preferred":[
+        "Assia"
+    ],
+    "name:ron_x_preferred":[
+        "Assia"
+    ],
     "name:und_x_variant":[
         "A\u015fy\u0101",
         "Assia"
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":1310389721,
-    "wof:lastmodified":1537661197,
+    "wof:lastmodified":1564156214,
     "wof:name":"Assia",
     "wof:parent_id":421204111,
     "wof:placetype":"locality",

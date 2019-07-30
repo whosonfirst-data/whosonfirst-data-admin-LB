@@ -28,6 +28,9 @@
     "name:ara_x_preferred":[
         "\u062d\u062c\u0648\u0644\u0627"
     ],
+    "name:ita_x_preferred":[
+        "Hjoula"
+    ],
     "name:und_x_variant":[
         "Hejoula",
         "\u1e28uj\u016bl\u0101",
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1326753169,
-    "wof:lastmodified":1537661103,
+    "wof:lastmodified":1564155874,
     "wof:name":"Hjoula",
     "wof:parent_id":421194845,
     "wof:placetype":"locality",

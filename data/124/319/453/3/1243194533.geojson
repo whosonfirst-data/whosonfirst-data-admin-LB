@@ -28,6 +28,12 @@
     "name:ara_x_preferred":[
         "\u062f\u064a\u0631 \u0642\u0627\u0646\u0648\u0646 \u0627\u0644\u0646\u0647\u0631"
     ],
+    "name:fra_x_preferred":[
+        "Deir Qanoun Al Naher"
+    ],
+    "name:ita_x_preferred":[
+        "Deir Kanoun Naher"
+    ],
     "name:und_x_variant":[
         "De\u00efr Q\u00e2moun enn Nahr",
         "Deir Kanoun Nahr",
@@ -59,7 +65,7 @@
         }
     ],
     "wof:id":1243194533,
-    "wof:lastmodified":1537661133,
+    "wof:lastmodified":1564156347,
     "wof:name":"Deir Qanoun en Nahr",
     "wof:parent_id":1108691441,
     "wof:placetype":"locality",

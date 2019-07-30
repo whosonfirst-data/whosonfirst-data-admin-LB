@@ -25,6 +25,15 @@
     "iso:country":"LB",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0634\u0639\u062b"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0639\u062b"
+    ],
+    "name:ita_x_preferred":[
+        "Chaat"
+    ],
     "name:und_x_variant":[
         "Chaate",
         "Sha\u2018th",
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1310283197,
-    "wof:lastmodified":1537661016,
+    "wof:lastmodified":1564156227,
     "wof:name":"Chaat",
     "wof:parent_id":421171405,
     "wof:placetype":"locality",

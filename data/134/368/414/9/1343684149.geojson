@@ -28,6 +28,9 @@
     "name:ara_x_preferred":[
         "\u0645\u062c\u062f\u0644 \u0628\u0644\u0647\u064a\u0635"
     ],
+    "name:ara_x_variant":[
+        "\u0645\u062c\u062f\u0644 \u0628\u0644\u062d\u064a\u0633"
+    ],
     "name:und_x_variant":[
         "Majdal Balh\u012b\u015f",
         "Majdal Balh\u00eess"
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":1343684149,
-    "wof:lastmodified":1537661069,
+    "wof:lastmodified":1564155955,
     "wof:name":"Majdal Balhiss",
     "wof:parent_id":1108691439,
     "wof:placetype":"locality",

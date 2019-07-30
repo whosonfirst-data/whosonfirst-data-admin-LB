@@ -31,6 +31,12 @@
     "name:ara_x_variant":[
         "J\u0101j"
     ],
+    "name:ita_x_preferred":[
+        "Jaj"
+    ],
+    "name:nno_x_preferred":[
+        "Jaj"
+    ],
     "name:und_x_variant":[
         "Jage",
         "J\u00e2j"
@@ -59,7 +65,7 @@
         }
     ],
     "wof:id":1343560273,
-    "wof:lastmodified":1537661096,
+    "wof:lastmodified":1564155959,
     "wof:name":"Jaj",
     "wof:parent_id":421194845,
     "wof:placetype":"locality",

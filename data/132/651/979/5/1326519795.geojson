@@ -28,6 +28,21 @@
     "name:ara_x_preferred":[
         "\u0634\u064a\u0631\u0627"
     ],
+    "name:ceb_x_preferred":[
+        "Chira"
+    ],
+    "name:deu_x_preferred":[
+        "Chira"
+    ],
+    "name:ita_x_preferred":[
+        "Chira"
+    ],
+    "name:nor_x_preferred":[
+        "Chira"
+    ],
+    "name:ron_x_preferred":[
+        "Chira"
+    ],
     "name:und_x_variant":[
         "Sh\u012br\u0101",
         "Ch\u00eera"
@@ -55,7 +70,7 @@
         }
     ],
     "wof:id":1326519795,
-    "wof:lastmodified":1537661013,
+    "wof:lastmodified":1564155877,
     "wof:name":"Chira",
     "wof:parent_id":1108691411,
     "wof:placetype":"locality",

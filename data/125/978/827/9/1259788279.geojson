@@ -28,6 +28,15 @@
     "name:ara_x_preferred":[
         "\u0631\u0634\u0645\u064a\u0627"
     ],
+    "name:fas_x_preferred":[
+        "\u0631\u0634\u0645\u06cc\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Rechmaya"
+    ],
+    "name:ita_x_preferred":[
+        "Rechmaya"
+    ],
     "name:und_x_variant":[
         "Rishmayy\u0101",
         "Rechma\u00eeya"
@@ -56,7 +65,7 @@
         }
     ],
     "wof:id":1259788279,
-    "wof:lastmodified":1537661024,
+    "wof:lastmodified":1564156370,
     "wof:name":"Rechmaiya",
     "wof:parent_id":1108691409,
     "wof:placetype":"locality",

@@ -28,6 +28,18 @@
     "name:ara_x_preferred":[
         "\u0645\u0632\u0647\u0631"
     ],
+    "name:ceb_x_preferred":[
+        "Mezher"
+    ],
+    "name:fra_x_preferred":[
+        "Mezher"
+    ],
+    "name:nno_x_preferred":[
+        "Mezher"
+    ],
+    "name:swe_x_preferred":[
+        "Mezher"
+    ],
     "name:und_x_variant":[
         "Muzhir"
     ],
@@ -55,7 +67,7 @@
         }
     ],
     "wof:id":1293588329,
-    "wof:lastmodified":1537661314,
+    "wof:lastmodified":1564156032,
     "wof:name":"Mezher",
     "wof:parent_id":1108691425,
     "wof:placetype":"locality",

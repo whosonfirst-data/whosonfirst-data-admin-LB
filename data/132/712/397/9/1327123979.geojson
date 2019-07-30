@@ -31,6 +31,75 @@
     "name:ara_x_variant":[
         "Buw\u0101r"
     ],
+    "name:ceb_x_preferred":[
+        "Bouar"
+    ],
+    "name:dan_x_preferred":[
+        "Bouar"
+    ],
+    "name:deu_x_preferred":[
+        "Bouar"
+    ],
+    "name:fra_x_preferred":[
+        "Bouar"
+    ],
+    "name:frr_x_preferred":[
+        "Bouar"
+    ],
+    "name:ind_x_preferred":[
+        "Bouar"
+    ],
+    "name:ita_x_preferred":[
+        "Bouar"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d6\u30ef\u30eb"
+    ],
+    "name:kor_x_preferred":[
+        "\ubd80\uc544\ub974"
+    ],
+    "name:lit_x_preferred":[
+        "Bvaras"
+    ],
+    "name:nds_x_preferred":[
+        "Bouar"
+    ],
+    "name:nld_x_preferred":[
+        "Bouar"
+    ],
+    "name:pol_x_preferred":[
+        "Bouar"
+    ],
+    "name:ron_x_preferred":[
+        "Bouar"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0443\u0430\u0440"
+    ],
+    "name:sag_x_preferred":[
+        "Bu\u00e2ra"
+    ],
+    "name:sqi_x_preferred":[
+        "Bouar"
+    ],
+    "name:swe_x_preferred":[
+        "Bouar"
+    ],
+    "name:tur_x_preferred":[
+        "Bouar"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0443\u0430\u0440"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0624\u0627\u0631"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10d1\u10e3\u10d0\u10e0\u10d8"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e03\u963f\u723e"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -54,7 +123,7 @@
         }
     ],
     "wof:id":1327123979,
-    "wof:lastmodified":1537661325,
+    "wof:lastmodified":1564155886,
     "wof:name":"Bouar",
     "wof:parent_id":421194845,
     "wof:placetype":"locality",

@@ -28,6 +28,12 @@
     "name:ara_x_preferred":[
         "\u0639\u064a\u0646 \u0628\u0639\u0627\u0644"
     ],
+    "name:ita_x_preferred":[
+        "Ain Baal"
+    ],
+    "name:nno_x_preferred":[
+        "Ain Baal"
+    ],
     "name:und_x_variant":[
         "\u2018Ayn Ba\u2018\u0101l",
         "\u2018Ain B\u2018al",
@@ -58,7 +64,7 @@
         }
     ],
     "wof:id":1344149477,
-    "wof:lastmodified":1537661188,
+    "wof:lastmodified":1564155936,
     "wof:name":"Ain Baal",
     "wof:parent_id":1108691441,
     "wof:placetype":"locality",

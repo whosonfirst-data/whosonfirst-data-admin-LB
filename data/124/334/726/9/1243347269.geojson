@@ -28,6 +28,12 @@
     "name:ara_x_preferred":[
         "\u0628\u0628\u064a\u0646"
     ],
+    "name:ara_x_variant":[
+        "\u0628\u0628\u0646\u064a\u0646"
+    ],
+    "name:ita_x_preferred":[
+        "Bebnine"
+    ],
     "name:und_x_variant":[
         "Bibn\u012bn",
         "Bebn\u00eene"
@@ -56,7 +62,7 @@
         }
     ],
     "wof:id":1243347269,
-    "wof:lastmodified":1551727672,
+    "wof:lastmodified":1564156328,
     "wof:name":"Bebnine",
     "wof:parent_id":1108691407,
     "wof:placetype":"locality",

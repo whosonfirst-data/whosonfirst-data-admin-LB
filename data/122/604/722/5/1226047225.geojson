@@ -28,11 +28,47 @@
     "name:ara_x_preferred":[
         "\u0628\u0631\u0645\u0651\u0627\u0646\u0627"
     ],
+    "name:ara_x_variant":[
+        "\u0628\u0631\u0645\u0627\u0646\u0627"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03c1\u03bf\u03c5\u03bc\u03ac\u03bd\u03b1"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0631\u0645\u0627\u0646\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Broummana"
+    ],
+    "name:ita_x_preferred":[
+        "Brummana"
+    ],
+    "name:nno_x_preferred":[
+        "Broummana"
+    ],
+    "name:nor_x_preferred":[
+        "Brummana"
+    ],
+    "name:pam_x_preferred":[
+        "Brummana"
+    ],
+    "name:pol_x_preferred":[
+        "Burummana"
+    ],
+    "name:por_x_preferred":[
+        "Brumana"
+    ],
+    "name:spa_x_preferred":[
+        "Brummana"
+    ],
     "name:und_x_variant":[
         "Burumm\u0101n\u0101",
         "Brumana",
         "Brumm\u0101n\u0101",
         "Broumm\u00e2na"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0631\u0645\u0627\u0646\u0627"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +94,7 @@
         }
     ],
     "wof:id":1226047225,
-    "wof:lastmodified":1537661152,
+    "wof:lastmodified":1564156413,
     "wof:name":"Broummana",
     "wof:parent_id":1108691425,
     "wof:placetype":"locality",

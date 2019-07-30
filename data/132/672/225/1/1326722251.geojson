@@ -28,6 +28,18 @@
     "name:ara_x_preferred":[
         "\u0643\u0641\u0631 \u0641\u064a\u0644\u0627"
     ],
+    "name:ara_x_variant":[
+        "\u0643\u0641\u0631\u0641\u064a\u0644\u0627"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0641\u0631\u0641\u06cc\u0644\u0627"
+    ],
+    "name:ita_x_preferred":[
+        "Kfarfila"
+    ],
+    "name:nno_x_preferred":[
+        "Kfarfila"
+    ],
     "name:und_x_variant":[
         "Kafr F\u012bl\u0101",
         "Kfar F\u00eela"
@@ -55,7 +67,7 @@
         }
     ],
     "wof:id":1326722251,
-    "wof:lastmodified":1537661086,
+    "wof:lastmodified":1564155873,
     "wof:name":"Kfar Fila",
     "wof:parent_id":1108691429,
     "wof:placetype":"locality",

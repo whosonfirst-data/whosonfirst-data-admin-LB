@@ -28,6 +28,21 @@
     "name:ara_x_preferred":[
         "\u062f\u064a\u0631 \u0645\u064a\u0645\u0627\u0633"
     ],
+    "name:fas_x_preferred":[
+        "\u062f\u06cc\u0631 \u0645\u06cc\u0645\u0627\u0633"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d3\u05d9\u05e8 \u05de\u05d9\u05de\u05d0\u05e1"
+    ],
+    "name:ita_x_preferred":[
+        "Deir Mimass"
+    ],
+    "name:nno_x_preferred":[
+        "Deir Mimas"
+    ],
+    "name:pol_x_preferred":[
+        "Dajr Mimas"
+    ],
     "name:und_x_variant":[
         "De\u00efr Mimass",
         "Deir Mimas",
@@ -59,7 +74,7 @@
         }
     ],
     "wof:id":1242572151,
-    "wof:lastmodified":1537661133,
+    "wof:lastmodified":1564156312,
     "wof:name":"Deir Mimass",
     "wof:parent_id":1108691437,
     "wof:placetype":"locality",

@@ -28,6 +28,15 @@
     "name:ara_x_preferred":[
         "\u0628\u062c\u0629"
     ],
+    "name:ara_x_variant":[
+        "\u0628\u062c\u0647"
+    ],
+    "name:fra_x_preferred":[
+        "Bejjeh"
+    ],
+    "name:ita_x_preferred":[
+        "Bejjeh"
+    ],
     "name:und_x_variant":[
         "Bajjah",
         "Bajj\u00e9",
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":1209913175,
-    "wof:lastmodified":1537661161,
+    "wof:lastmodified":1564156113,
     "wof:name":"Bejje",
     "wof:parent_id":421194845,
     "wof:placetype":"locality",

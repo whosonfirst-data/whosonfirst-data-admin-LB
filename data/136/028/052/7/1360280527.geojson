@@ -28,6 +28,9 @@
     "name:ara_x_preferred":[
         "\u0637\u0648\u0631\u0627"
     ],
+    "name:ita_x_preferred":[
+        "Toura"
+    ],
     "name:und_x_variant":[
         "\u0162\u016br\u0101",
         "To\u00fbra"
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":1360280527,
-    "wof:lastmodified":1537661002,
+    "wof:lastmodified":1564156257,
     "wof:name":"Toura",
     "wof:parent_id":1108691441,
     "wof:placetype":"locality",

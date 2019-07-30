@@ -28,6 +28,15 @@
     "name:ara_x_preferred":[
         "\u0643\u0641\u0631\u0627"
     ],
+    "name:ara_x_variant":[
+        "\u0643\u0641\u0631\u0629"
+    ],
+    "name:ita_x_preferred":[
+        "Kafra"
+    ],
+    "name:pol_x_preferred":[
+        "Kafra"
+    ],
     "name:und_x_variant":[
         "A\u00efn Kafra",
         "\u2018Ayn Kafr\u0101",
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":1226752355,
-    "wof:lastmodified":1537661186,
+    "wof:lastmodified":1564156395,
     "wof:name":"Kafra",
     "wof:parent_id":1108691425,
     "wof:placetype":"locality",

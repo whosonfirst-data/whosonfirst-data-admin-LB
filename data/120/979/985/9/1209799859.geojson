@@ -28,6 +28,24 @@
     "name:ara_x_preferred":[
         "\u0623\u0646\u0641\u0629"
     ],
+    "name:ara_x_variant":[
+        "\u0627\u0646\u0641\u0647"
+    ],
+    "name:cat_x_preferred":[
+        "Enfeh"
+    ],
+    "name:fra_x_preferred":[
+        "Anfeh"
+    ],
+    "name:ita_x_preferred":[
+        "Anfeh"
+    ],
+    "name:nno_x_preferred":[
+        "Enfeh"
+    ],
+    "name:spa_x_preferred":[
+        "Enfeh"
+    ],
     "name:und_x_variant":[
         "Infah",
         "Ennf\u00e9",
@@ -59,7 +77,7 @@
         }
     ],
     "wof:id":1209799859,
-    "wof:lastmodified":1551727623,
+    "wof:lastmodified":1564156123,
     "wof:name":"Enfe",
     "wof:parent_id":1108691423,
     "wof:placetype":"locality",

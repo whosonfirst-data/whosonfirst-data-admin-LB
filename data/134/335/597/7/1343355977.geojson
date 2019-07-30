@@ -28,12 +28,75 @@
     "name:ara_x_preferred":[
         "\u0645\u0631\u062c\u0639\u064a\u0648\u0646"
     ],
+    "name:arz_x_preferred":[
+        "\u0645\u0631\u062c\u0639\u064a\u0648\u0646"
+    ],
+    "name:ceb_x_preferred":[
+        "Marjayo\u00fbn"
+    ],
+    "name:deu_x_preferred":[
+        "Mardsch Uyun"
+    ],
+    "name:est_x_preferred":[
+        "Marji\u2018y\u016bn"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0631\u062c\u0639\u06cc\u0648\u0646"
+    ],
+    "name:fin_x_preferred":[
+        "Marjayoun"
+    ],
+    "name:fra_x_preferred":[
+        "Marjayoun"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05e8\u05d2' \u05e2\u05d9\u05d5\u05df"
+    ],
+    "name:ita_x_preferred":[
+        "Marjayoun"
+    ],
+    "name:mzn_x_preferred":[
+        "\u0645\u0631\u062c\u0639\u06cc\u0648\u0646"
+    ],
+    "name:nld_x_preferred":[
+        "Marjeyoun"
+    ],
+    "name:nno_x_preferred":[
+        "Marjeyoun"
+    ],
+    "name:nor_x_preferred":[
+        "Marjayoun"
+    ],
+    "name:pam_x_preferred":[
+        "Marjayoun"
+    ],
+    "name:pol_x_preferred":[
+        "Mard\u017c Ujun"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0440\u0434\u0436\u044a\u0443\u044e\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Marjayoun"
+    ],
+    "name:srp_x_preferred":[
+        "\u041c\u0430\u0440\u045f \u0423\u0458\u0443\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Marjayun"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u0440\u0434\u0436\u0430\u044e\u043d"
+    ],
     "name:und_x_variant":[
         "Djedeideh",
         "El Judeide",
         "Marji\u2018y\u016bn",
         "Marjayo\u00fbn",
         "Marjaayoun"
+    ],
+    "name:zho_x_preferred":[
+        "\u9081\u723e\u5b63\u6b50\u96f2"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -59,7 +122,7 @@
         }
     ],
     "wof:id":1343355977,
-    "wof:lastmodified":1537661060,
+    "wof:lastmodified":1564155957,
     "wof:name":"Marjayoun",
     "wof:parent_id":1108691437,
     "wof:placetype":"locality",

@@ -28,6 +28,12 @@
     "name:ara_x_preferred":[
         "\u062a\u0631\u062a\u062c"
     ],
+    "name:fra_x_preferred":[
+        "Tartej"
+    ],
+    "name:ita_x_preferred":[
+        "Tartej"
+    ],
     "name:und_x_variant":[
         "Tartij",
         "Tartej"
@@ -56,7 +62,7 @@
         }
     ],
     "wof:id":1226247447,
-    "wof:lastmodified":1537661004,
+    "wof:lastmodified":1564156430,
     "wof:name":"Tartej",
     "wof:parent_id":421194845,
     "wof:placetype":"locality",

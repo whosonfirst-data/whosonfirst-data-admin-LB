@@ -25,6 +25,18 @@
     "iso:country":"LB",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0636\u0628\u064a\u0629"
+    ],
+    "name:fra_x_preferred":[
+        "Dbaiyeh"
+    ],
+    "name:nno_x_preferred":[
+        "Dbayeh"
+    ],
+    "name:sco_x_preferred":[
+        "Dbayeh"
+    ],
     "name:und_x_variant":[
         "Dbayeh",
         "A\u1e11 \u1e10abiyyah",
@@ -59,7 +71,7 @@
         }
     ],
     "wof:id":1293103689,
-    "wof:lastmodified":1537661294,
+    "wof:lastmodified":1564156051,
     "wof:name":"Dbaiye",
     "wof:parent_id":1108691425,
     "wof:placetype":"locality",

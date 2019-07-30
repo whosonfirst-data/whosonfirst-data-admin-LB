@@ -28,6 +28,9 @@
     "name:ara_x_preferred":[
         "\u0628\u0631\u064a\u062d"
     ],
+    "name:nno_x_preferred":[
+        "Breeh"
+    ],
     "name:und_x_variant":[
         "Breeh",
         "Briha",
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1326935053,
-    "wof:lastmodified":1537661152,
+    "wof:lastmodified":1564155878,
     "wof:name":"Brih",
     "wof:parent_id":1108691419,
     "wof:placetype":"locality",

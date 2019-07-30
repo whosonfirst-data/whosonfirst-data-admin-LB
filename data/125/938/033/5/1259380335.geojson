@@ -31,6 +31,15 @@
     "name:ara_x_variant":[
         "\u062c\u0648\u064a\u0651\u0627"
     ],
+    "name:fas_x_preferred":[
+        "\u062c\u0648\u06cc\u0627"
+    ],
+    "name:ita_x_preferred":[
+        "Jwaya"
+    ],
+    "name:mzn_x_preferred":[
+        "\u062c\u0648\u06cc\u0627"
+    ],
     "name:und_x_variant":[
         "Jwayy\u0101",
         "Joua\u00efya",
@@ -61,7 +70,7 @@
         }
     ],
     "wof:id":1259380335,
-    "wof:lastmodified":1537661088,
+    "wof:lastmodified":1564156354,
     "wof:name":"Jouaiya",
     "wof:parent_id":1108691441,
     "wof:placetype":"locality",

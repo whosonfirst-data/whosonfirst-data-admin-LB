@@ -28,6 +28,21 @@
     "name:ara_x_preferred":[
         "\u0628\u0644\u064a\u062f\u0627"
     ],
+    "name:deu_x_preferred":[
+        "Blida"
+    ],
+    "name:fra_x_preferred":[
+        "Blida"
+    ],
+    "name:ita_x_preferred":[
+        "Blida"
+    ],
+    "name:nor_x_preferred":[
+        "Blida"
+    ],
+    "name:pol_x_preferred":[
+        "Blida"
+    ],
     "name:und_x_variant":[
         "Bleeda",
         "Blida",
@@ -57,7 +72,7 @@
         }
     ],
     "wof:id":1276572963,
-    "wof:lastmodified":1537661156,
+    "wof:lastmodified":1564156083,
     "wof:name":"Blida",
     "wof:parent_id":1108691437,
     "wof:placetype":"locality",

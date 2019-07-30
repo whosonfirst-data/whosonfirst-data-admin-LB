@@ -31,6 +31,63 @@
     "name:ara_x_variant":[
         "R\u0101m"
     ],
+    "name:bre_x_preferred":[
+        "Ram"
+    ],
+    "name:cat_x_preferred":[
+        "Ram"
+    ],
+    "name:ceb_x_preferred":[
+        "Ram"
+    ],
+    "name:ces_x_preferred":[
+        "Ram"
+    ],
+    "name:cym_x_preferred":[
+        "Ram"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a1\u03b1\u03bc"
+    ],
+    "name:est_x_preferred":[
+        "Ram"
+    ],
+    "name:fin_x_preferred":[
+        "Ram"
+    ],
+    "name:hun_x_preferred":[
+        "Ram"
+    ],
+    "name:lmo_x_preferred":[
+        "Ram"
+    ],
+    "name:nld_x_preferred":[
+        "Ram"
+    ],
+    "name:nor_x_preferred":[
+        "Ram"
+    ],
+    "name:pol_x_preferred":[
+        "Ram"
+    ],
+    "name:ron_x_preferred":[
+        "Ram"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0430\u043c"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u0430\u043c"
+    ],
+    "name:swe_x_preferred":[
+        "Ram"
+    ],
+    "name:tgl_x_preferred":[
+        "Ram"
+    ],
+    "name:ukr_x_preferred":[
+        "Ram"
+    ],
     "name:und_x_variant":[
         "Jaoua",
         "Er Ram",
@@ -59,7 +116,7 @@
         }
     ],
     "wof:id":1293673489,
-    "wof:lastmodified":1537661028,
+    "wof:lastmodified":1564156034,
     "wof:name":"Ram",
     "wof:parent_id":421204111,
     "wof:placetype":"locality",

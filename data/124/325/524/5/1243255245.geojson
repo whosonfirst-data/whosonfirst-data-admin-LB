@@ -28,6 +28,15 @@
     "name:ara_x_preferred":[
         "\u062e\u0631\u0628\u0629 \u0633\u0644\u0645"
     ],
+    "name:fas_x_preferred":[
+        "\u062e\u0631\u0628\u062a \u0633\u0644\u0645"
+    ],
+    "name:ita_x_preferred":[
+        "Khirbet Selm"
+    ],
+    "name:nno_x_preferred":[
+        "Khirbet Selm"
+    ],
     "name:und_x_variant":[
         "Khirbat Silm",
         "Khirbet Selm",
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":1243255245,
-    "wof:lastmodified":1537661074,
+    "wof:lastmodified":1564156326,
     "wof:name":"Khirbet Selm",
     "wof:parent_id":1108691417,
     "wof:placetype":"locality",

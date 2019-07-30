@@ -28,6 +28,12 @@
     "name:ara_x_preferred":[
         "\u0639\u064a\u0646 \u0632\u062d\u0644\u062a\u0627"
     ],
+    "name:ita_x_preferred":[
+        "Ain Zhalta"
+    ],
+    "name:nno_x_preferred":[
+        "Ain Zhalta"
+    ],
     "name:und_x_variant":[
         "Ain Zehalte",
         "\u2018Ayn Za\u1e29altah",
@@ -60,7 +66,7 @@
         }
     ],
     "wof:id":1360084089,
-    "wof:lastmodified":1537661183,
+    "wof:lastmodified":1564156245,
     "wof:name":"Ain Zhalta",
     "wof:parent_id":1108691419,
     "wof:placetype":"locality",

@@ -29,7 +29,14 @@
         "\u0645\u064a\u0629 \u0648 \u0645\u064a\u0629"
     ],
     "name:ara_x_variant":[
-        "\u0645\u064a\u0651\u0647 \u0648 \u0645\u064a\u0651\u0647"
+        "\u0645\u064a\u0651\u0647 \u0648 \u0645\u064a\u0651\u0647",
+        "\u0627\u0644\u0645\u064a\u0629 \u0648\u0645\u064a\u0629"
+    ],
+    "name:ita_x_preferred":[
+        "Mieh Mieh"
+    ],
+    "name:nno_x_preferred":[
+        "Miye ou Miye"
     ],
     "name:und_x_variant":[
         "Al M\u012byah Um\u012bah",
@@ -61,7 +68,7 @@
         }
     ],
     "wof:id":1259977191,
-    "wof:lastmodified":1537661242,
+    "wof:lastmodified":1564156362,
     "wof:name":"Miye ou Miye",
     "wof:parent_id":890451987,
     "wof:placetype":"locality",

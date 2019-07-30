@@ -29,7 +29,17 @@
         "\u0627\u0644\u0645\u0631\u0648\u062c"
     ],
     "name:ara_x_variant":[
-        "Al Mur\u016bj"
+        "Al Mur\u016bj",
+        "\u0645\u0631\u0648\u062c"
+    ],
+    "name:fra_x_preferred":[
+        "Mrouj"
+    ],
+    "name:ita_x_preferred":[
+        "Mrouj"
+    ],
+    "name:nno_x_preferred":[
+        "Mrouj"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +64,7 @@
         }
     ],
     "wof:id":1242773659,
-    "wof:lastmodified":1537661324,
+    "wof:lastmodified":1564156331,
     "wof:name":"Mrouj",
     "wof:parent_id":421194845,
     "wof:placetype":"locality",

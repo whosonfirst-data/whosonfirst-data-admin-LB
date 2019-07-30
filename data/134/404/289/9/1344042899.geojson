@@ -28,6 +28,9 @@
     "name:ara_x_preferred":[
         "\u064a\u0646\u0637\u0627"
     ],
+    "name:ita_x_preferred":[
+        "Yanta"
+    ],
     "name:und_x_variant":[
         "Yan\u0163\u0101"
     ],
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1344042899,
-    "wof:lastmodified":1537660996,
+    "wof:lastmodified":1564155971,
     "wof:name":"Yanta",
     "wof:parent_id":1108691439,
     "wof:placetype":"locality",

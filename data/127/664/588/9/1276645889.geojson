@@ -28,6 +28,12 @@
     "name:ara_x_preferred":[
         "\u062f\u0648\u0645\u0627"
     ],
+    "name:fas_x_preferred":[
+        "\u062f\u0648\u0645\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Douma"
+    ],
     "name:und_x_variant":[
         "D\u016bm\u0101",
         "Dom\u00e9",
@@ -57,7 +63,7 @@
         }
     ],
     "wof:id":1276645889,
-    "wof:lastmodified":1537661129,
+    "wof:lastmodified":1564156097,
     "wof:name":"Douma",
     "wof:parent_id":421204111,
     "wof:placetype":"locality",

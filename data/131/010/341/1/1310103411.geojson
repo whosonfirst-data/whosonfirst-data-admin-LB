@@ -28,6 +28,15 @@
     "name:ara_x_preferred":[
         "\u0635\u0631\u064a\u0641\u0627"
     ],
+    "name:fas_x_preferred":[
+        "\u0635\u0631\u06cc\u0641\u0627"
+    ],
+    "name:ita_x_preferred":[
+        "Srifa"
+    ],
+    "name:por_x_preferred":[
+        "Srifa"
+    ],
     "name:und_x_variant":[
         "Sr\u00eefa",
         "\u015eurayf\u0101"
@@ -56,7 +65,7 @@
         }
     ],
     "wof:id":1310103411,
-    "wof:lastmodified":1537661009,
+    "wof:lastmodified":1564156228,
     "wof:name":"Srifa",
     "wof:parent_id":1108691441,
     "wof:placetype":"locality",

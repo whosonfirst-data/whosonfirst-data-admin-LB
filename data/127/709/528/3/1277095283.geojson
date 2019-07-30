@@ -28,6 +28,27 @@
     "name:ara_x_preferred":[
         "\u0634\u0643\u0627"
     ],
+    "name:fas_x_preferred":[
+        "\u0634\u06a9\u0627"
+    ],
+    "name:fra_x_preferred":[
+        "Chekka"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e9\u05db\u05d0"
+    ],
+    "name:ita_x_preferred":[
+        "Chekka"
+    ],
+    "name:nno_x_preferred":[
+        "Chekka"
+    ],
+    "name:nor_x_preferred":[
+        "Chekka"
+    ],
+    "name:pol_x_preferred":[
+        "Szikka"
+    ],
     "name:und_x_variant":[
         "Shakk\u0101"
     ],
@@ -55,7 +76,7 @@
         }
     ],
     "wof:id":1277095283,
-    "wof:lastmodified":1537661318,
+    "wof:lastmodified":1564156058,
     "wof:name":"Chekka",
     "wof:parent_id":421204111,
     "wof:placetype":"locality",

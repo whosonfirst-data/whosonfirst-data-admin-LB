@@ -28,11 +28,38 @@
     "name:ara_x_preferred":[
         "\u062f\u0631\u064a\u0627"
     ],
+    "name:ceb_x_preferred":[
+        "Diri\u00e1"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03c4\u03b9\u03c1\u03b9\u03ac"
+    ],
+    "name:fra_x_preferred":[
+        "Diri\u00e1"
+    ],
+    "name:ita_x_preferred":[
+        "Diri\u00e1"
+    ],
+    "name:spa_x_preferred":[
+        "Diri\u00e1"
+    ],
+    "name:swe_x_preferred":[
+        "Diri\u00e1"
+    ],
     "name:und_x_variant":[
         "D\u00e9ria",
         "Daria",
         "Diry\u0101",
         "Diria"
+    ],
+    "name:urd_x_preferred":[
+        "\u062f\u06cc\u0631\u06cc\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Diri\u00e1"
+    ],
+    "name:zho_x_preferred":[
+        "\u8fea\u91cc\u4e9e"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +84,7 @@
         }
     ],
     "wof:id":1225834937,
-    "wof:lastmodified":1551727616,
+    "wof:lastmodified":1564156449,
     "wof:name":"Diria",
     "wof:parent_id":421204111,
     "wof:placetype":"locality",

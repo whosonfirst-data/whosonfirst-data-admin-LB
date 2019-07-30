@@ -31,6 +31,12 @@
     "name:ara_x_variant":[
         "\u0628\u064a\u0646 \u0627\u0644\u0646\u0647\u0631\u064a\u0646"
     ],
+    "name:ceb_x_preferred":[
+        "Mazraat en Nahr"
+    ],
+    "name:nno_x_preferred":[
+        "Mazraat En Nahr"
+    ],
     "name:und_x_variant":[
         "Be\u00efn enn Nahra\u00efne",
         "Mazra\u2018at an Nahr",
@@ -61,7 +67,7 @@
         }
     ],
     "wof:id":1327118867,
-    "wof:lastmodified":1537661050,
+    "wof:lastmodified":1564155921,
     "wof:name":"Mazraat en Nahr",
     "wof:parent_id":1108691445,
     "wof:placetype":"locality",

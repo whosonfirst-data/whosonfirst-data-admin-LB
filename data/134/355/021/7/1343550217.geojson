@@ -25,10 +25,43 @@
     "iso:country":"LB",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0631\u0648\u064a\u0633"
+    ],
+    "name:ceb_x_preferred":[
+        "Ar Ru'ays"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u0631\u0648\u06cc\u0633"
+    ],
+    "name:gle_x_preferred":[
+        "Ar Ru'ays"
+    ],
+    "name:lit_x_preferred":[
+        "Ruajisas"
+    ],
+    "name:nno_x_preferred":[
+        "Ar Ru'ays"
+    ],
+    "name:pol_x_preferred":[
+        "Ar-Ruwajs"
+    ],
+    "name:por_x_preferred":[
+        "Ar Ru'ays"
+    ],
+    "name:tgl_x_preferred":[
+        "Ar Ru'ays"
+    ],
+    "name:tur_x_preferred":[
+        "Er R\u00fcveys"
+    ],
     "name:und_x_variant":[
         "Er Roua\u00efss",
         "Er-Rweis",
         "Ar Ru\u2019ays"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10d4\u10e0-\u10e0\u10e3\u10d4\u10d8\u10e1\u10d8"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -53,7 +86,7 @@
         }
     ],
     "wof:id":1343550217,
-    "wof:lastmodified":1537661211,
+    "wof:lastmodified":1564155931,
     "wof:name":"Ar Ru'ays",
     "wof:parent_id":1108691407,
     "wof:placetype":"locality",

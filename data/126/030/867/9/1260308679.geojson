@@ -28,6 +28,12 @@
     "name:ara_x_preferred":[
         "\u0628\u0634\u062a\u0644\u064a\u062f\u0627"
     ],
+    "name:ara_x_variant":[
+        "\u0641\u064a\u062f\u0627\u0631"
+    ],
+    "name:ita_x_preferred":[
+        "Fidar"
+    ],
     "name:und_x_variant":[
         "Bachtalid\u00e9",
         "Bashtleedih",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1260308679,
-    "wof:lastmodified":1537661173,
+    "wof:lastmodified":1564156186,
     "wof:name":"Bechtelida",
     "wof:parent_id":421194845,
     "wof:placetype":"locality",

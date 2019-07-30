@@ -28,6 +28,9 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0628\u064a\u0627\u0636"
     ],
+    "name:ita_x_preferred":[
+        "Bayyad"
+    ],
     "name:und_x_variant":[
         "Bay\u0101\u1e11ah",
         "Al Bay\u0101\u1e11",
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1193270713,
-    "wof:lastmodified":1537661280,
+    "wof:lastmodified":1564156176,
     "wof:name":"El Biyad",
     "wof:parent_id":1108691441,
     "wof:placetype":"locality",

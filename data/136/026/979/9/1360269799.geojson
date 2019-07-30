@@ -29,7 +29,11 @@
         "\u0645\u0631\u062d \u0643\u0641\u0631 \u0635\u063a\u0627\u0628"
     ],
     "name:ara_x_variant":[
-        "\u0643\u0641\u0631 \u0635\u063a\u0627\u0628"
+        "\u0643\u0641\u0631 \u0635\u063a\u0627\u0628",
+        "\u0645\u0631\u0627\u062d \u0643\u0641\u0631 \u0635\u063a\u0627\u0628"
+    ],
+    "name:nno_x_preferred":[
+        "Morh Kfarsghab"
     ],
     "name:und_x_variant":[
         "Mur\u1e29 Kafr \u015egh\u0101b",
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1360269799,
-    "wof:lastmodified":1551727613,
+    "wof:lastmodified":1564156259,
     "wof:name":"Morh Kfar Sghab",
     "wof:parent_id":1108691445,
     "wof:placetype":"locality",

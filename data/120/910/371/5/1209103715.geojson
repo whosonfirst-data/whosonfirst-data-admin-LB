@@ -28,6 +28,12 @@
     "name:ara_x_preferred":[
         "\u062d\u0644\u0648\u0633\u064a\u0629 \u0627\u0644\u062a\u062d\u062a\u0627"
     ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u062d\u0644\u0648\u0633\u064a\u0629"
+    ],
+    "name:ita_x_preferred":[
+        "Halloussieh"
+    ],
     "name:und_x_variant":[
         "Hallo\u00fbss\u00eeyet ett Tahta",
         "\u1e28all\u016bs\u012byat at Ta\u1e29t\u0101",
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1209103715,
-    "wof:lastmodified":1537661121,
+    "wof:lastmodified":1564156151,
     "wof:name":"Halloussiyet et Tahta",
     "wof:parent_id":85632533,
     "wof:placetype":"locality",

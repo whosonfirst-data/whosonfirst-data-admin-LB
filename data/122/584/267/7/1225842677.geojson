@@ -28,6 +28,9 @@
     "name:ara_x_preferred":[
         "\u0645\u0644\u064a\u062e"
     ],
+    "name:ita_x_preferred":[
+        "Mlikh"
+    ],
     "name:und_x_variant":[
         "Ml\u00eekh",
         "Ml\u012bkh"
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1225842677,
-    "wof:lastmodified":1537661040,
+    "wof:lastmodified":1564156447,
     "wof:name":"Mlikh",
     "wof:parent_id":1108691435,
     "wof:placetype":"locality",
