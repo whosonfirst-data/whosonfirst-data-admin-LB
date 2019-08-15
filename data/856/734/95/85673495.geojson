@@ -13,6 +13,9 @@
     "label:eng_x_preferred_longname":[
         "Nabatieh Province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "NA"
+    ],
     "lbl:latitude":33.289853,
     "lbl:longitude":35.494079,
     "mps:latitude":33.3141,
@@ -220,7 +223,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1564155987,
+    "wof:lastmodified":1565726506,
     "wof:name":"Nabatieh",
     "wof:parent_id":85632533,
     "wof:placetype":"region",

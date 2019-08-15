@@ -10,6 +10,9 @@
     "geom:latitude":34.548553,
     "geom:longitude":36.182736,
     "iso:country":"LB",
+    "label:eng_x_preferred_shortcode":[
+        "AK"
+    ],
     "lbl:latitude":34.536017,
     "lbl:longitude":36.186513,
     "mps:latitude":34.536017,
@@ -49,13 +52,14 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1551727675,
+    "wof:lastmodified":1565910501,
     "wof:name":"Akkar",
     "wof:parent_id":85632533,
     "wof:placetype":"region",
     "wof:population":389899,
     "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:shortcode":"AK",
     "wof:superseded_by":[],
     "wof:supersedes":[
         85673483

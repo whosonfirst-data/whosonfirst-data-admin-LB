@@ -14,6 +14,9 @@
     "label:eng_x_preferred_longname":[
         "Mount Lebanon Province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "JL"
+    ],
     "lbl:latitude":33.881174,
     "lbl:longitude":35.684419,
     "mps:latitude":33.902806,
@@ -287,16 +290,13 @@
         }
     ],
     "wof:id":85673491,
-    "wof:lang":[
-        "ara"
-    ],
     "wof:lang_x_official":[
         "ara"
     ],
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1564155990,
+    "wof:lastmodified":1565726507,
     "wof:name":"Mount Lebanon",
     "wof:parent_id":85632533,
     "wof:placetype":"region",

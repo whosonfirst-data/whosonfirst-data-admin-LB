@@ -10,6 +10,9 @@
     "geom:latitude":33.64317,
     "geom:longitude":35.852007,
     "iso:country":"LB",
+    "label:eng_x_preferred_shortcode":[
+        "BQ"
+    ],
     "lbl:latitude":33.589483,
     "lbl:longitude":35.814982,
     "mps:latitude":33.589483,
@@ -72,13 +75,14 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1564156262,
+    "wof:lastmodified":1565910506,
     "wof:name":"Beqaa",
     "wof:parent_id":85632533,
     "wof:placetype":"region",
     "wof:population":536768,
     "wof:population_rank":11,
     "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:shortcode":"BQ",
     "wof:superseded_by":[],
     "wof:supersedes":[
         85673479

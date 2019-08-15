@@ -10,6 +10,9 @@
     "geom:latitude":34.313772,
     "geom:longitude":35.921862,
     "iso:country":"LB",
+    "label:eng_x_preferred_shortcode":[
+        "NL"
+    ],
     "lbl:latitude":34.309459,
     "lbl:longitude":35.925844,
     "mps:latitude":34.309459,
@@ -65,13 +68,14 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1551727663,
+    "wof:lastmodified":1565910513,
     "wof:name":"North Lebanon",
     "wof:parent_id":85632533,
     "wof:placetype":"region",
     "wof:population":782436,
     "wof:population_rank":11,
     "wof:repo":"whosonfirst-data-admin-lb",
+    "wof:shortcode":"NL",
     "wof:superseded_by":[],
     "wof:supersedes":[
         85673483

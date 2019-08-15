@@ -13,6 +13,9 @@
     "label:eng_x_preferred_longname":[
         "Beirut Province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "BA"
+    ],
     "lbl:latitude":33.88432,
     "lbl:longitude":35.501527,
     "mps:latitude":33.88592,
@@ -584,16 +587,13 @@
         }
     ],
     "wof:id":85673487,
-    "wof:lang":[
-        "ara"
-    ],
     "wof:lang_x_official":[
         "ara"
     ],
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1564155989,
+    "wof:lastmodified":1565726507,
     "wof:name":"Beirut",
     "wof:parent_id":85632533,
     "wof:placetype":"region",

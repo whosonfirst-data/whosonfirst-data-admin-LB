@@ -14,6 +14,9 @@
     "label:eng_x_preferred_longname":[
         "South Lebanon Province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "JA"
+    ],
     "lbl:latitude":33.261151,
     "lbl:longitude":35.298235,
     "mps:latitude":33.263077,
@@ -280,16 +283,13 @@
         }
     ],
     "wof:id":85673499,
-    "wof:lang":[
-        "ara"
-    ],
     "wof:lang_x_official":[
         "ara"
     ],
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1553550415,
+    "wof:lastmodified":1565726507,
     "wof:name":"South Lebanon",
     "wof:parent_id":85632533,
     "wof:placetype":"region",
