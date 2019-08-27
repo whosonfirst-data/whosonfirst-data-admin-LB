@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Beirut",
     "iso:country":"LB",
+    "lbl:bbox":"35.75221,34.1849,35.79221,34.2249",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0639\u0644\u0627\u0644\u064a"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1343246559,
-    "wof:lastmodified":1537661288,
+    "wof:lastmodified":1566593791,
     "wof:name":"El Aalale",
     "wof:parent_id":421204111,
     "wof:placetype":"locality",

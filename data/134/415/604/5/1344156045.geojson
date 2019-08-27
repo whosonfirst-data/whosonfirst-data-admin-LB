@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Beirut",
     "iso:country":"LB",
+    "lbl:bbox":"35.87583,34.085,35.91583,34.125",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "S\u0101qiyat ad Dulb",
         "S\u00e2qiet ed Delb"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1344156045,
-    "wof:lastmodified":1537661020,
+    "wof:lastmodified":1566593787,
     "wof:name":"Saqiet ed Delb",
     "wof:parent_id":421194845,
     "wof:placetype":"locality",

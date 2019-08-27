@@ -23,19 +23,22 @@
     "gn:population":0,
     "gn:timezone":"Asia/Beirut",
     "iso:country":"LB",
+    "lbl:bbox":"35.84667,34.41833,35.85667,34.42833",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "name:und_x_variant":[
         "\u1e28\u0101rat ash Sharafah",
         "H\u00e2ret ech Charf\u00e9"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        1377074355,
         102191569,
         85632533,
         1125791429,
-        1108691443,
-        1377074355
+        1108691443
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1377074375,
-    "wof:lastmodified":1551727700,
+    "wof:lastmodified":1566593983,
     "wof:name":"Haret ech Charfe",
     "wof:parent_id":1125791429,
     "wof:placetype":"neighbourhood",

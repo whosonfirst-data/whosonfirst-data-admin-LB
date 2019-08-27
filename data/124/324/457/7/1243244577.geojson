@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Beirut",
     "iso:country":"LB",
+    "lbl:bbox":"36.11111,34.10528,36.15111,34.14528",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062f\u064a\u0631 \u0627\u0644\u0623\u062d\u0645\u0631"
     ],
@@ -38,8 +42,7 @@
         "Dajr al-Ahmar"
     ],
     "name:und_x_variant":[
-        "Dayr al A\u1e29mar",
-        "Deir el Ahmar"
+        "Dayr al A\u1e29mar"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":1243244577,
-    "wof:lastmodified":1564156321,
+    "wof:lastmodified":1566594020,
     "wof:name":"Deir el Ahmar",
     "wof:parent_id":421171405,
     "wof:placetype":"locality",

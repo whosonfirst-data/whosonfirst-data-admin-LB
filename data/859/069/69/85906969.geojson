@@ -11,8 +11,10 @@
     "geom:longitude":35.502081,
     "gn:id":"",
     "iso:country":"LB",
+    "lbl:bbox":"35.497081,33.89574,35.507081,33.90574",
     "lbl:latitude":33.90074,
     "lbl:longitude":35.502081,
+    "lbl:max_zoom":18.0,
     "mps:latitude":33.910087,
     "mps:longitude":35.504818,
     "mz:hierarchy_label":0,
@@ -40,9 +42,6 @@
         "Beirut Central District"
     ],
     "name:nld_x_preferred":[
-        "Beirut Central District"
-    ],
-    "name:unk_x_variant":[
         "Beirut Central District"
     ],
     "name:zho_x_preferred":[
@@ -75,9 +74,8 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":11673,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         102191569,
         890442383,
@@ -87,7 +85,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22724447,
-        "qs:id":425357,
         "qs_pg:id":425357,
         "wd:id":"Q2944781"
     },
@@ -106,7 +103,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1563279973,
+    "wof:lastmodified":1566593816,
     "wof:name":"Beirut Central District",
     "wof:parent_id":890442383,
     "wof:placetype":"neighbourhood",

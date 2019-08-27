@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Beirut",
     "iso:country":"LB",
+    "lbl:bbox":"36.06,34.4275,36.1,34.4675",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Bzayt\u0101",
         "Bza\u00efta"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1276639489,
-    "wof:lastmodified":1537661142,
+    "wof:lastmodified":1566593884,
     "wof:name":"Bzaita",
     "wof:parent_id":1108691407,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":34.007709,
     "geom:longitude":35.788509,
     "iso:country":"LB",
+    "lbl:bbox":"35.768509,33.987709,35.808509,34.027709",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -42,7 +46,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1962090,
-        "qs:id":1119764
+        "qs_pg:id":1119764
     },
     "wof:country":"LB",
     "wof:created":1459009662,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":421190597,
-    "wof:lastmodified":1527716394,
+    "wof:lastmodified":1566593999,
     "wof:name":"Kalaat",
     "wof:parent_id":421172015,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Beirut",
     "iso:country":"LB",
+    "lbl:bbox":"36.17028,34.46639,36.21028,34.50639",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "A\u00efn el Qatro\u00fbn",
         "Az\u0327 Z\u0327\u0101hir",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1344046353,
-    "wof:lastmodified":1537661181,
+    "wof:lastmodified":1566593808,
     "wof:name":"Ed Daher",
     "wof:parent_id":1108691407,
     "wof:placetype":"locality",

@@ -9,16 +9,19 @@
     "geom:bbox":"35.49361,33.89583,35.49361,33.89583",
     "geom:latitude":33.89583,
     "geom:longitude":35.49361,
-    "gn:gn_country":"LB",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"LB",
+    "gn:fcode":"PPLX",
     "gn:latitude":33.89673,
     "gn:longitude":35.49396,
+    "gn:population":0,
     "iso:country":"LB",
+    "lbl:bbox":"35.48861,33.89083,35.49861,33.90083",
     "lbl:latitude":33.89583,
     "lbl:longitude":35.49361,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "Kantari"
@@ -26,9 +29,8 @@
     "name:ara_x_variant":[
         "\u0627\u0644\u0642\u0646\u0637\u0627\u0631\u064a"
     ],
-    "name:unk_x_variant":[
-        "Qantari",
-        "Kantari"
+    "name:und_x_variant":[
+        "Qantari"
     ],
     "qs_pg:aaroncc":"LB",
     "qs_pg:gn_country":"LB",
@@ -51,7 +53,7 @@
     "qs_pg:woe_adm0":23424873,
     "qs_pg:woe_id":22724407,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424873,
     "woe:name_adm0":"\u0644\u0628\u0646\u0627\u0646",
     "woe:name_adm1":"\u0628\u064a\u0631\u0648\u062a",
@@ -66,7 +68,6 @@
     "wof:concordances":{
         "gn:id":6275211,
         "gp:id":22724407,
-        "qs:id":230056,
         "qs_pg:id":230056
     },
     "wof:country":"LB",
@@ -82,7 +83,7 @@
         }
     ],
     "wof:id":1126095639,
-    "wof:lastmodified":1551727709,
+    "wof:lastmodified":1566594005,
     "wof:name":"Kantari",
     "wof:parent_id":890442383,
     "wof:placetype":"neighbourhood",

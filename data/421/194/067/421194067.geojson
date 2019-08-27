@@ -10,13 +10,16 @@
     "geom:latitude":34.06417,
     "geom:longitude":35.84889,
     "iso:country":"LB",
+    "lbl:bbox":"35.84389,34.05917,35.85389,34.06917",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:fra_x_preferred":[
         "Mazraat el Chouf"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Al Mazra\u2018ah"
     ],
     "qs:gn_country":"LB",
@@ -40,16 +43,16 @@
     "src:geom":"quattroshapes",
     "wd:wordcount":137,
     "wof:belongsto":[
+        85673491,
         102191569,
         85632533,
-        421194845,
-        85673491
+        421194845
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":279423,
         "gp:id":22724451,
-        "qs:id":352940
+        "qs_pg:id":352940
     },
     "wof:country":"LB",
     "wof:created":1459009793,
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":421194067,
-    "wof:lastmodified":1531858725,
+    "wof:lastmodified":1566593995,
     "wof:name":"Mazraa",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

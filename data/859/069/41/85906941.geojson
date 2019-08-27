@@ -11,8 +11,10 @@
     "geom:longitude":35.471837,
     "gn:id":"",
     "iso:country":"LB",
+    "lbl:bbox":"35.466837,33.88286,35.476837,33.89286",
     "lbl:latitude":33.88786,
     "lbl:longitude":35.471837,
+    "lbl:max_zoom":18.0,
     "mps:latitude":33.884831,
     "mps:longitude":35.470653,
     "mz:hierarchy_label":0,
@@ -38,9 +40,6 @@
     ],
     "name:ind_x_preferred":[
         "Raouch\u00e9"
-    ],
-    "name:unk_x_variant":[
-        "\u0627\u0644\u0631\u0648\u0634\u0629"
     ],
     "qs:gn_adm0_cc":"LB",
     "qs:gn_id":0,
@@ -69,8 +68,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191569,
         890442383,
@@ -80,7 +78,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22724413,
-        "qs:id":1187504,
         "qs_pg:id":1187504
     },
     "wof:country":"LB",
@@ -98,7 +95,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1551727705,
+    "wof:lastmodified":1566593818,
     "wof:name":"\u0627\u0644\u0631\u0648\u0634\u0629",
     "wof:parent_id":890442383,
     "wof:placetype":"neighbourhood",

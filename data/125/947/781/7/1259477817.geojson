@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Beirut",
     "iso:country":"LB",
+    "lbl:bbox":"35.97861,34.22,36.01861,34.26",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\u1e28\u0101rat \u2018Ar\u012b\u1e11\u0101",
         "H\u00e2ret Aar\u00eeda"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1259477817,
-    "wof:lastmodified":1537661115,
+    "wof:lastmodified":1566594046,
     "wof:name":"Haret Aarida",
     "wof:parent_id":1108691411,
     "wof:placetype":"locality",

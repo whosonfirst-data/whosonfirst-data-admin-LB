@@ -11,8 +11,10 @@
     "geom:longitude":35.53743,
     "gn:id":"",
     "iso:country":"LB",
+    "lbl:bbox":"35.53243,33.887162,35.54243,33.897162",
     "lbl:latitude":33.892162,
     "lbl:longitude":35.53743,
+    "lbl:max_zoom":18.0,
     "mps:latitude":33.895773,
     "mps:longitude":35.548647,
     "mz:hierarchy_label":0,
@@ -49,9 +51,6 @@
     "name:nno_x_preferred":[
         "Kobayat"
     ],
-    "name:unk_x_variant":[
-        "Qobaiyat"
-    ],
     "qs:gn_adm0_cc":"LB",
     "qs:gn_id":0,
     "qs:gn_local":276781,
@@ -79,7 +78,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wk:wordcount":749,
     "wof:belongsto":[
         85673491,
@@ -90,7 +89,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22724440,
-        "qs:id":366750,
         "qs_pg:id":366750,
         "wd:id":"Q4704645"
     },
@@ -110,7 +108,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1563279975,
+    "wof:lastmodified":1566593817,
     "wof:name":"Qobaiyat",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Beirut",
     "iso:country":"LB",
+    "lbl:bbox":"35.74806,33.96861,35.78806,34.00861",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Qa\u0163\u0163\u012bn al Marj",
         "Qatt\u00eene el Marj"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1209720327,
-    "wof:lastmodified":1537661032,
+    "wof:lastmodified":1566593919,
     "wof:name":"Qattine el Marj",
     "wof:parent_id":421172015,
     "wof:placetype":"locality",

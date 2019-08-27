@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Beirut",
     "iso:country":"LB",
+    "lbl:bbox":"36.32778,34.555,36.36778,34.595",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mar\u0101\u1e29 al Bas\u0101t\u012bn",
         "Mrah el Bsatine"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1277094481,
-    "wof:lastmodified":1537661066,
+    "wof:lastmodified":1566593861,
     "wof:name":"Mrah el Bsatine",
     "wof:parent_id":1108691407,
     "wof:placetype":"locality",

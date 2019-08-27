@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Beirut",
     "iso:country":"LB",
+    "lbl:bbox":"36.07694,34.42889,36.11694,34.46889",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Qab\u2018\u012bt",
         "Qabaa\u00eft"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1292994537,
-    "wof:lastmodified":1537661036,
+    "wof:lastmodified":1566593850,
     "wof:name":"Qabaait",
     "wof:parent_id":1108691407,
     "wof:placetype":"locality",

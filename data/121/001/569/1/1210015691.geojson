@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Beirut",
     "iso:country":"LB",
+    "lbl:bbox":"35.65861,33.93778,35.69861,33.97778",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Namm\u016brah",
         "Nammo\u00fbra"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1210015691,
-    "wof:lastmodified":1537661036,
+    "wof:lastmodified":1566593920,
     "wof:name":"Nammoura",
     "wof:parent_id":421172015,
     "wof:placetype":"locality",

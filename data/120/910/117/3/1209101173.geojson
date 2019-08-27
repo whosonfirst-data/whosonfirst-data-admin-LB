@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Beirut",
     "iso:country":"LB",
+    "lbl:bbox":"36.09722,34.59917,36.13722,34.63917",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Che\u00efkh Hamme\u00efr\u00eene",
         "Sh\u012br \u1e28umayr\u012bn",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1209101173,
-    "wof:lastmodified":1551727668,
+    "wof:lastmodified":1566593916,
     "wof:name":"Chir Hmairine",
     "wof:parent_id":1108691407,
     "wof:placetype":"locality",

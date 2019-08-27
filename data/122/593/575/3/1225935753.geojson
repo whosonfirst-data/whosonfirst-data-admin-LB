@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Beirut",
     "iso:country":"LB",
+    "lbl:bbox":"35.44361,33.25333,35.48361,33.29333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0642\u0646\u0637\u0631\u0629"
     ],
@@ -42,7 +46,6 @@
         "El Qanntara",
         "Al Qan\u0163arah",
         "Qantara",
-        "Kantara",
         "Qan\u0163arah"
     ],
     "src:geom":"geonames",
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":1225935753,
-    "wof:lastmodified":1564156393,
+    "wof:lastmodified":1566594055,
     "wof:name":"Qantara",
     "wof:parent_id":1108691437,
     "wof:placetype":"locality",

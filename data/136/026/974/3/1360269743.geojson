@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Beirut",
     "iso:country":"LB",
+    "lbl:bbox":"35.86556,34.17,35.90556,34.21",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Bayt ash Sh\u0101\u2018ir",
         "Be\u00eft ech Chaaer"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1360269743,
-    "wof:lastmodified":1551727613,
+    "wof:lastmodified":1566593982,
     "wof:name":"Beit ech Chaaer",
     "wof:parent_id":421204111,
     "wof:placetype":"locality",

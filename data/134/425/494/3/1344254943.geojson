@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Beirut",
     "iso:country":"LB",
+    "lbl:bbox":"35.3138,33.32338,35.3538,33.36338",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0632\u0631\u0627\u0631\u064a\u0651\u0629"
     ],
@@ -43,7 +47,6 @@
         "Az Zar\u012br\u012byah",
         "Az Zr\u0101r\u012byah",
         "Ez Zr\u00e2r\u00eey\u00e9",
-        "Zrarieh",
         "Az Zar\u0101r\u012by\u012bah"
     ],
     "src:geom":"geonames",
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":1344254943,
-    "wof:lastmodified":1564155934,
+    "wof:lastmodified":1566593786,
     "wof:name":"Ez Zrariye",
     "wof:parent_id":890451987,
     "wof:placetype":"locality",

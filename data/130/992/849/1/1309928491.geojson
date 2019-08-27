@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Beirut",
     "iso:country":"LB",
+    "lbl:bbox":"35.53944,33.65694,35.57944,33.69694",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0639\u0642\u0644\u064a\u0646"
     ],
@@ -56,12 +60,9 @@
         "Baaql\u00eene"
     ],
     "name:und_x_variant":[
-        "Baaklin",
         "B\u2018aqleen",
-        "Baakline",
         "Ba\u2018aql\u012bn",
-        "B\u2018aql\u012bn",
-        "Baaql\u00eene"
+        "B\u2018aql\u012bn"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -87,7 +88,7 @@
         }
     ],
     "wof:id":1309928491,
-    "wof:lastmodified":1564156272,
+    "wof:lastmodified":1566593990,
     "wof:name":"Baaqline",
     "wof:parent_id":1108691419,
     "wof:placetype":"locality",

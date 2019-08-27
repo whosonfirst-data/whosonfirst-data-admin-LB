@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Beirut",
     "iso:country":"LB",
+    "lbl:bbox":"35.78806,34.21611,35.82806,34.25611",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mazra\u2018at as Sal\u0101fin\u012b",
         "Mazraat es Sl\u00e2fni"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1260064659,
-    "wof:lastmodified":1537661049,
+    "wof:lastmodified":1566593937,
     "wof:name":"Mazraat es Slafni",
     "wof:parent_id":421204111,
     "wof:placetype":"locality",

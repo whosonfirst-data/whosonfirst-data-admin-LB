@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Beirut",
     "iso:country":"LB",
+    "lbl:bbox":"35.80139,33.60028,35.84139,33.64028",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0627\u0645\u062f \u0627\u0644\u0644\u0648\u0632"
     ],
@@ -54,8 +58,7 @@
     ],
     "name:und_x_variant":[
         "K\u0101mid al Lawz",
-        "kamedos",
-        "K\u00e2med el L\u00f4z"
+        "kamedos"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":1260273895,
-    "wof:lastmodified":1564156191,
+    "wof:lastmodified":1566593938,
     "wof:name":"Kamed el Loz",
     "wof:parent_id":421173359,
     "wof:placetype":"locality",

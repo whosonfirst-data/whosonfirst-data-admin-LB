@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Beirut",
     "iso:country":"LB",
+    "lbl:bbox":"35.67462,34.00692,35.71462,34.04692",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0647\u0631\u0647\u0631\u064a\u0627"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1310524177,
-    "wof:lastmodified":1537661323,
+    "wof:lastmodified":1566593956,
     "wof:name":"Harhraiya",
     "wof:parent_id":421172015,
     "wof:placetype":"locality",

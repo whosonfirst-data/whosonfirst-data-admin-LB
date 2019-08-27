@@ -11,8 +11,11 @@
     "geom:longitude":35.48389,
     "gn:country":"LB",
     "gn:fcode":"PPLA",
-    "gn:pop":120000,
+    "gn:population":120000,
     "iso:country":"LB",
+    "lbl:bbox":"35.46389,33.35889,35.50389,33.39889",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":9.0,
@@ -112,7 +115,7 @@
     "name:ukr_x_preferred":[
         "\u041d\u0430\u0431\u0430\u0442\u0456\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "An Naba\u0163\u012byah at Ta\u1e29t\u0101"
     ],
     "name:vie_x_preferred":[
@@ -228,7 +231,7 @@
     "wof:concordances":{
         "gn:id":278913,
         "gp:id":1959853,
-        "qs:id":273761,
+        "qs_pg:id":273761,
         "wd:id":"Q26134"
     },
     "wof:country":"LB",
@@ -244,7 +247,7 @@
         }
     ],
     "wof:id":890435355,
-    "wof:lastmodified":1563280271,
+    "wof:lastmodified":1566594005,
     "wof:name":"Nabat\u00eey\u00e9 et Tahta",
     "wof:parent_id":1108691429,
     "wof:placetype":"locality",

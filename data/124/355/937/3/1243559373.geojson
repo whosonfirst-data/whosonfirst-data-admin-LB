@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Beirut",
     "iso:country":"LB",
+    "lbl:bbox":"35.51589,33.83534,35.55589,33.87534",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062d\u0627\u0632\u0645\u064a\u0629"
     ],
@@ -33,9 +37,6 @@
     ],
     "name:nno_x_preferred":[
         "Hazmiyeh"
-    ],
-    "name:und_x_variant":[
-        "Hazmieh"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -61,7 +62,7 @@
         }
     ],
     "wof:id":1243559373,
-    "wof:lastmodified":1564156305,
+    "wof:lastmodified":1566594011,
     "wof:name":"Hazmiyeh",
     "wof:parent_id":421202301,
     "wof:placetype":"locality",

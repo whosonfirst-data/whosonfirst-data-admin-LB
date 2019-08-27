@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Beirut",
     "iso:country":"LB",
+    "lbl:bbox":"36.03389,34.5725,36.07389,34.6125",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "El Heesa",
         "El Heesah",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1343479301,
-    "wof:lastmodified":1537661265,
+    "wof:lastmodified":1566593794,
     "wof:name":"El Haissa",
     "wof:parent_id":1108691407,
     "wof:placetype":"locality",

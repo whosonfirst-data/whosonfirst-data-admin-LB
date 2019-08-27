@@ -9,25 +9,24 @@
     "geom:bbox":"35.53333,33.9,35.53333,33.9",
     "geom:latitude":33.9,
     "geom:longitude":35.53333,
-    "gn:gn_country":"LB",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"LB",
+    "gn:fcode":"PPLX",
     "gn:latitude":33.9,
     "gn:longitude":35.53333,
+    "gn:population":0,
     "iso:country":"LB",
+    "lbl:bbox":"35.52833,33.895,35.53833,33.905",
     "lbl:latitude":33.9,
     "lbl:longitude":35.53333,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "Al Mudawwar"
     ],
     "name:ara_x_variant":[
-        "El Moudawar"
-    ],
-    "name:unk_x_variant":[
-        "Al Mudawwar",
         "El Moudawar"
     ],
     "qs_pg:aaroncc":"LB",
@@ -51,7 +50,7 @@
     "qs_pg:woe_adm0":23424873,
     "qs_pg:woe_id":1959678,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424873,
     "woe:name_adm0":"\u0644\u0628\u0646\u0627\u0646",
     "woe:name_adm1":"\u0628\u064a\u0631\u0648\u062a",
@@ -66,7 +65,6 @@
     "wof:concordances":{
         "gn:id":279363,
         "gp:id":1959678,
-        "qs:id":249536,
         "qs_pg:id":249536
     },
     "wof:country":"LB",
@@ -82,7 +80,7 @@
         }
     ],
     "wof:id":1126104143,
-    "wof:lastmodified":1551727709,
+    "wof:lastmodified":1566594005,
     "wof:name":"Al Mudawwar",
     "wof:parent_id":890442383,
     "wof:placetype":"neighbourhood",

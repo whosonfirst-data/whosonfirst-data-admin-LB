@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Beirut",
     "iso:country":"LB",
+    "lbl:bbox":"35.75472,33.9975,35.79472,34.0375",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "A\u1e11 \u1e10ay\u2018ah",
         "Ed Da\u00efaa"
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1209313813,
-    "wof:lastmodified":1537661295,
+    "wof:lastmodified":1566593891,
     "wof:name":"Ed Daiaa",
     "wof:parent_id":85632533,
     "wof:placetype":"locality",

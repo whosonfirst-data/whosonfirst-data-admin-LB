@@ -15,10 +15,12 @@
     ],
     "lbl:latitude":33.589483,
     "lbl:longitude":35.814982,
+    "lbl:min_zoom":8.0,
     "mps:latitude":33.589483,
     "mps:longitude":35.814982,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":4.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0628\u0642\u0627\u0639"
     ],
@@ -75,7 +77,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1565910506,
+    "wof:lastmodified":1566593984,
     "wof:name":"Beqaa",
     "wof:parent_id":85632533,
     "wof:placetype":"region",

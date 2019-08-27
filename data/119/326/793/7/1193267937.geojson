@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Beirut",
     "iso:country":"LB",
+    "lbl:bbox":"36.04111,34.38694,36.08111,34.42694",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Al Maq\u0163\u016b\u2018ah",
         "El Maqto\u00fbaa"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1193267937,
-    "wof:lastmodified":1551727617,
+    "wof:lastmodified":1566593932,
     "wof:name":"El Maqtouaa",
     "wof:parent_id":1108691427,
     "wof:placetype":"locality",

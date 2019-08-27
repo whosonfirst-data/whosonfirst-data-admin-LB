@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Beirut",
     "iso:country":"LB",
+    "lbl:bbox":"36.1425,34.50972,36.1825,34.54972",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Be\u00eft Mell\u00e2te",
         "Beit Millat",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1226237737,
-    "wof:lastmodified":1551727675,
+    "wof:lastmodified":1566594073,
     "wof:name":"Beit Mellat",
     "wof:parent_id":1108691407,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Beirut",
     "iso:country":"LB",
+    "lbl:bbox":"36.05833,34.39611,36.09833,34.43611",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "J\u016brat al Mar\u0101\u1e29",
         "Jo\u00fbret el Mr\u00e2h"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1243549045,
-    "wof:lastmodified":1551727625,
+    "wof:lastmodified":1566594010,
     "wof:name":"Jouret el Mrah",
     "wof:parent_id":1108691427,
     "wof:placetype":"locality",

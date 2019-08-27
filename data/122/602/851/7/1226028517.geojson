@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Beirut",
     "iso:country":"LB",
+    "lbl:bbox":"36.13972,34.57167,36.17972,34.61167",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "El Moussa\u00eflha",
         "Al Mu\u015fall\u00e1",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1226028517,
-    "wof:lastmodified":1551727672,
+    "wof:lastmodified":1566594064,
     "wof:name":"Msalla",
     "wof:parent_id":1108691407,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Beirut",
     "iso:country":"LB",
+    "lbl:bbox":"35.76417,33.60694,35.80417,33.64694",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062c\u0628 \u062c\u0646\u064a\u0646"
     ],
@@ -61,7 +65,6 @@
     "name:und_x_variant":[
         "Djeb Djennin",
         "Jubb Jann\u012bn",
-        "Joub Jannine",
         "Joubb Jann\u00eene"
     ],
     "name:zho_x_preferred":[
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1210036421,
-    "wof:lastmodified":1564156161,
+    "wof:lastmodified":1566593921,
     "wof:name":"Joubb Jannine",
     "wof:parent_id":421173359,
     "wof:placetype":"locality",

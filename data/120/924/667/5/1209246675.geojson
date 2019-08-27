@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Beirut",
     "iso:country":"LB",
+    "lbl:bbox":"35.70861,34.11417,35.74861,34.15417",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632533
@@ -34,7 +38,7 @@
         "gn:id":6280302
     },
     "wof:country":"LB",
-    "wof:geomhash":"368c9a40f4dd4c8fa64b56f952b44a1b",
+    "wof:geomhash":"24065c7297ebc4a358436ee8a780d7fd",
     "wof:hierarchy":[
         {
             "country_id":85632533,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209246675,
-    "wof:lastmodified":1536293140,
+    "wof:lastmodified":1566593901,
     "wof:name":"Ech Chmis",
     "wof:parent_id":85632533,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     35.72861,
-    34.134170000000005,
+    34.13417,
     35.72861,
-    34.134170000000005
+    34.13417
 ],
   "geometry": {"coordinates":[35.72861,34.13417],"type":"Point"}
 }

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Beirut",
     "iso:country":"LB",
+    "lbl:bbox":"35.85874,34.34716,35.89874,34.38716",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0641\u0631 \u0632\u064a\u0646\u0627"
     ],
@@ -39,8 +43,7 @@
     ],
     "name:und_x_variant":[
         "Kafr Zayn\u0101",
-        "Kfar Za\u00efna",
-        "Kfarzeina"
+        "Kfar Za\u00efna"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":1310685587,
-    "wof:lastmodified":1564156235,
+    "wof:lastmodified":1566593967,
     "wof:name":"Kfar Zaina",
     "wof:parent_id":1108691445,
     "wof:placetype":"locality",

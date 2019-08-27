@@ -10,8 +10,10 @@
     "geom:latitude":33.878227,
     "geom:longitude":35.545924,
     "iso:country":"LB",
+    "lbl:bbox":"35.540924,33.873227,35.550924,33.883227",
     "lbl:latitude":33.878227,
     "lbl:longitude":35.545924,
+    "lbl:max_zoom":18.0,
     "mps:latitude":33.874776,
     "mps:longitude":35.541142,
     "mz:hierarchy_label":0,
@@ -138,9 +140,6 @@
     "name:ukr_x_preferred":[
         "\u0421\u0430\u043b\u043e\u043c\u0456\u044f"
     ],
-    "name:unk_x_variant":[
-        "Salome"
-    ],
     "name:urd_x_preferred":[
         "\u0633\u0644\u0648\u0645\u06cc"
     ],
@@ -180,7 +179,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":2890,
     "wof:belongsto":[
         85673491,
@@ -209,7 +208,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1563279974,
+    "wof:lastmodified":1566593817,
     "wof:name":"Salome",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

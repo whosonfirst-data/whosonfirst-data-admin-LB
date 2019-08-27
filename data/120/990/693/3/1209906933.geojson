@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Beirut",
     "iso:country":"LB",
+    "lbl:bbox":"35.70194,33.54278,35.74194,33.58278",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0642\u0631\u0639\u0648\u0646"
     ],
@@ -62,8 +66,7 @@
         "El-Qer\u2018ann",
         "Al Qir\u2018awn",
         "El Qaraoun",
-        "El Qar\u2018aun",
-        "El Qaraaoun"
+        "El Qar\u2018aun"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":1209906933,
-    "wof:lastmodified":1564156117,
+    "wof:lastmodified":1566593895,
     "wof:name":"El Qaraaoun",
     "wof:parent_id":421173359,
     "wof:placetype":"locality",

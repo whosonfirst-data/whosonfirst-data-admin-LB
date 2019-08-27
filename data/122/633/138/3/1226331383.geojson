@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Beirut",
     "iso:country":"LB",
+    "lbl:bbox":"36.01861,34.57778,36.05861,34.61778",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Tall Kar\u012b",
         "Tall Kirr\u012b",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1226331383,
-    "wof:lastmodified":1551727673,
+    "wof:lastmodified":1566594063,
     "wof:name":"Tell Kiri",
     "wof:parent_id":1108691407,
     "wof:placetype":"locality",

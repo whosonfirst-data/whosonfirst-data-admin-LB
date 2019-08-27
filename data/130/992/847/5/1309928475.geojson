@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Beirut",
     "iso:country":"LB",
+    "lbl:bbox":"35.635,33.97306,35.675,34.01306",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Deir Mar Youssef",
         "De\u00efr Madrasse",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1309928475,
-    "wof:lastmodified":1537661021,
+    "wof:lastmodified":1566593990,
     "wof:name":"Sahel Aalma",
     "wof:parent_id":421172015,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Beirut",
     "iso:country":"LB",
+    "lbl:bbox":"36.32111,34.58417,36.36111,34.62417",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Es-Sahlah",
         "As Sahlah",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1326825321,
-    "wof:lastmodified":1537661203,
+    "wof:lastmodified":1566593767,
     "wof:name":"Es Sahle",
     "wof:parent_id":1108691407,
     "wof:placetype":"locality",

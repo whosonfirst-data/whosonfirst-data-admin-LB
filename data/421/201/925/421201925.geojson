@@ -10,8 +10,11 @@
     "geom:latitude":33.899735,
     "geom:longitude":35.486311,
     "iso:country":"LB",
+    "lbl:bbox":"35.481311,33.8947355,35.491311,33.9047355",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u062c\u0627\u0645\u0639\u0629"
@@ -66,7 +69,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22724403,
-        "qs:id":215942
+        "qs_pg:id":215942
     },
     "wof:country":"LB",
     "wof:created":1459010092,
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":421201925,
-    "wof:lastmodified":1551727709,
+    "wof:lastmodified":1566594001,
     "wof:name":"Jamaa",
     "wof:parent_id":890442383,
     "wof:placetype":"neighbourhood",

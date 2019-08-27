@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Beirut",
     "iso:country":"LB",
+    "lbl:bbox":"36.18,34.17028,36.22,34.21028",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mar\u0101\u1e29 al Khawkh",
         "Mr\u00e2h el Khaoukh"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1310479729,
-    "wof:lastmodified":1537661065,
+    "wof:lastmodified":1566593954,
     "wof:name":"Mrah el Khaoukh",
     "wof:parent_id":421171405,
     "wof:placetype":"locality",

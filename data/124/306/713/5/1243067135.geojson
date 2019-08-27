@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Beirut",
     "iso:country":"LB",
+    "lbl:bbox":"35.466,33.83151,35.506,33.87151",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "Al Awz\u0101\u2018\u012b"
     ],
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1243067135,
-    "wof:lastmodified":1537661221,
+    "wof:lastmodified":1566594011,
     "wof:name":"El Ouzaai",
     "wof:parent_id":421202301,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Beirut",
     "iso:country":"LB",
+    "lbl:bbox":"35.73417,33.89083,35.77417,33.93083",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ra\u2019s al Mur\u016bj",
         "R\u00e2s el Mro\u00fbj"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1343784763,
-    "wof:lastmodified":1537661027,
+    "wof:lastmodified":1566593795,
     "wof:name":"Ras el Mrouj",
     "wof:parent_id":1108691425,
     "wof:placetype":"locality",

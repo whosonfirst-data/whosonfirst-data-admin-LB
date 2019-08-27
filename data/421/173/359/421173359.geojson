@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":33.611543,
     "lbl:longitude":35.728568,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Bekaa",
     "meso:dissme":"West BekaaBekaa",
     "meso:gadm_admin":"West Bekaa",
@@ -33,6 +35,7 @@
     "mps:longitude":35.728568,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Bekaa-West"
@@ -65,9 +68,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2004-01-01",
+    "src:population_date":"2004-01-01",
     "statoids:area_km":"470.0",
     "statoids:as_of_date":"2004-01-01",
     "statoids:capital":"Joub Jannine",
@@ -87,7 +90,7 @@
     "wof:concordances":{
         "gp:id":56049625,
         "hasc:id":"LB.BQ.BW",
-        "qs:id":287612
+        "qs_pg:id":287612
     },
     "wof:country":"LB",
     "wof:created":1459008980,
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":421173359,
-    "wof:lastmodified":1553717349,
+    "wof:lastmodified":1566593997,
     "wof:name":"West Bekaa",
     "wof:parent_id":1377074351,
     "wof:placetype":"county",
