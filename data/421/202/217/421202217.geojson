@@ -10,8 +10,11 @@
     "geom:latitude":33.90151,
     "geom:longitude":35.52369,
     "iso:country":"LB",
+    "lbl:bbox":"35.51869,33.89651,35.52869,33.90651",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0645\u0627\u0631 \u0645\u062e\u0627\u064a\u0644"
@@ -52,7 +55,7 @@
     "wof:concordances":{
         "gn:id":7838979,
         "gp:id":22724464,
-        "qs:id":9617,
+        "qs_pg:id":9617,
         "wd:id":"Q18352478"
     },
     "wof:country":"LB",
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":421202217,
-    "wof:lastmodified":1563280249,
+    "wof:lastmodified":1566593996,
     "wof:name":"Mar Mikhael",
     "wof:parent_id":890442383,
     "wof:placetype":"neighbourhood",

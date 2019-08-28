@@ -15,10 +15,12 @@
     ],
     "lbl:latitude":34.309459,
     "lbl:longitude":35.925844,
+    "lbl:min_zoom":8.0,
     "mps:latitude":34.309459,
     "mps:longitude":35.925844,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":4.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0634\u0645\u0627\u0644"
     ],
@@ -38,7 +40,7 @@
     "name:pol_x_preferred":[
         "North Lebanon"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mohafazat ech Chim\u00e2l"
     ],
     "src:geom":"whosonfirst",
@@ -68,7 +70,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1565910513,
+    "wof:lastmodified":1566593984,
     "wof:name":"North Lebanon",
     "wof:parent_id":85632533,
     "wof:placetype":"region",

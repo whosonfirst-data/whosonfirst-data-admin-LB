@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Beirut",
     "iso:country":"LB",
+    "lbl:bbox":"35.69278,33.95139,35.73278,33.99139",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Al Qulay\u2018\u0101t",
         "Qla\u00efa\u00e2t"
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1209337239,
-    "wof:lastmodified":1537661230,
+    "wof:lastmodified":1566593909,
     "wof:name":"Qlaiaat",
     "wof:parent_id":85632533,
     "wof:placetype":"locality",

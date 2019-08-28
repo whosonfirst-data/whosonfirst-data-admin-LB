@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Beirut",
     "iso:country":"LB",
+    "lbl:bbox":"35.75306,34.10194,35.79306,34.14194",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\u1e28ayy Sayyidat an Naj\u0101",
         "Ha\u00ef Sa\u00efdet en Naja"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1243362811,
-    "wof:lastmodified":1537661105,
+    "wof:lastmodified":1566594007,
     "wof:name":"Hai Saidet en Naja",
     "wof:parent_id":421194845,
     "wof:placetype":"locality",

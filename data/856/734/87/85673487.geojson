@@ -18,6 +18,7 @@
     ],
     "lbl:latitude":33.88432,
     "lbl:longitude":35.501527,
+    "lbl:min_zoom":8.0,
     "mps:latitude":33.88592,
     "mps:longitude":35.50309,
     "mz:hierarchy_label":1,
@@ -451,7 +452,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0435\u0439\u0440\u0443\u0442"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Muh\u0101faz\u0327at Bayr\u016bt"
     ],
     "name:urd_x_preferred":[
@@ -559,7 +560,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "unlc:subdivision":"LB-BA",
     "wof:belongsto":[
         102191569,
@@ -571,7 +572,7 @@
         "gn:id":276780,
         "gp:id":2346016,
         "hasc:id":"LB.BA",
-        "qs:id":1135133,
+        "qs_pg:id":1135133,
         "unlc:id":"LB-BA"
     },
     "wof:coterminous":[
@@ -593,7 +594,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1565726507,
+    "wof:lastmodified":1566593819,
     "wof:name":"Beirut",
     "wof:parent_id":85632533,
     "wof:placetype":"region",

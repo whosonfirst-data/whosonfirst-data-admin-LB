@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Beirut",
     "iso:country":"LB",
+    "lbl:bbox":"36.05,34.39833,36.09,34.43833",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Bayt \u1e28\u0101w\u012bk",
         "Be\u00eft H\u00e2ou\u00eek"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1193007961,
-    "wof:lastmodified":1551727615,
+    "wof:lastmodified":1566593923,
     "wof:name":"Beit Haouik",
     "wof:parent_id":1108691427,
     "wof:placetype":"locality",

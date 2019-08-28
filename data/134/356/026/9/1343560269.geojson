@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Beirut",
     "iso:country":"LB",
+    "lbl:bbox":"35.70944,33.91556,35.74944,33.95556",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Al \u2018Aqabah",
         "El Aaqb\u00e9"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1343560269,
-    "wof:lastmodified":1537661286,
+    "wof:lastmodified":1566593802,
     "wof:name":"El Aaqbe",
     "wof:parent_id":1108691425,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":33.884667,
     "geom:longitude":35.621109,
     "iso:country":"LB",
+    "lbl:bbox":"35.601109,33.864667,35.641109,33.904667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -41,7 +45,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1961745,
-        "qs:id":1119757
+        "qs_pg:id":1119757
     },
     "wof:country":"LB",
     "wof:created":1459009662,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":421190593,
-    "wof:lastmodified":1500013137,
+    "wof:lastmodified":1566593999,
     "wof:name":"R\u00f8myah",
     "wof:parent_id":1108691425,
     "wof:placetype":"locality",

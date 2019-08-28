@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Beirut",
     "iso:country":"LB",
+    "lbl:bbox":"35.62972,34.04389,35.66972,34.08389",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0646\u0647\u0631 \u0625\u0628\u0631\u0627\u0647\u064a\u0645"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1327133481,
-    "wof:lastmodified":1537661037,
+    "wof:lastmodified":1566593754,
     "wof:name":"Nahr Ibrahim",
     "wof:parent_id":421194845,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Beirut",
     "iso:country":"LB",
+    "lbl:bbox":"36.45444,34.32417,36.49444,34.36417",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0642\u0627\u0639"
     ],
@@ -47,7 +51,6 @@
         "Al Q\u0101\u2018ah",
         "Al Q\u0101\u2018",
         "El Kaa",
-        "Qaa",
         "El Q\u00e2a"
     ],
     "src:geom":"geonames",
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1344045331,
-    "wof:lastmodified":1564155970,
+    "wof:lastmodified":1566593808,
     "wof:name":"El Qaa",
     "wof:parent_id":421171405,
     "wof:placetype":"locality",

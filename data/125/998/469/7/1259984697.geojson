@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Beirut",
     "iso:country":"LB",
+    "lbl:bbox":"35.73008,34.15052,35.77008,34.19052",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062d\u0627\u0642\u0644"
     ],
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1259984697,
-    "wof:lastmodified":1537661119,
+    "wof:lastmodified":1566594038,
     "wof:name":"Haqel",
     "wof:parent_id":421194845,
     "wof:placetype":"locality",

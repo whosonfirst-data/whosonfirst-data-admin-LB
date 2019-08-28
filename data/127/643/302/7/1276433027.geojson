@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Beirut",
     "iso:country":"LB",
+    "lbl:bbox":"35.4525,33.29972,35.4925,33.33972",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0632\u0648\u0637\u0631 \u0627\u0644\u0634\u0631\u0642\u064a\u0629"
     ],
@@ -65,7 +69,7 @@
         }
     ],
     "wof:id":1276433027,
-    "wof:lastmodified":1564156065,
+    "wof:lastmodified":1566593865,
     "wof:name":"Zaoutar ech Charqiye",
     "wof:parent_id":1108691429,
     "wof:placetype":"locality",

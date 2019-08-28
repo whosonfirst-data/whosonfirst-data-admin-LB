@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Beirut",
     "iso:country":"LB",
+    "lbl:bbox":"35.71083,34.3375,35.75083,34.3775",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0623\u0646\u0641\u0629"
     ],
@@ -49,7 +53,6 @@
     "name:und_x_variant":[
         "Infah",
         "Ennf\u00e9",
-        "Enfeh",
         "Anfah",
         "Enf\u00e9"
     ],
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1209799859,
-    "wof:lastmodified":1564156123,
+    "wof:lastmodified":1566593899,
     "wof:name":"Enfe",
     "wof:parent_id":1108691423,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Beirut",
     "iso:country":"LB",
+    "lbl:bbox":"36.11167,34.1525,36.15167,34.1925",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mar\u0101\u1e29 ash Sha\u2018\u012br",
         "Mr\u00e2h ech Chiaa\u00efr"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1226827327,
-    "wof:lastmodified":1551727657,
+    "wof:lastmodified":1566594072,
     "wof:name":"Mrah ech Chiaair",
     "wof:parent_id":421171405,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Beirut",
     "iso:country":"LB",
+    "lbl:bbox":"36.12944,34.48028,36.16944,34.52028",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Esh-Shareefah",
         "Cher\u00eefa",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1243063085,
-    "wof:lastmodified":1551727672,
+    "wof:lastmodified":1566594011,
     "wof:name":"Esh Shraife",
     "wof:parent_id":1108691407,
     "wof:placetype":"locality",

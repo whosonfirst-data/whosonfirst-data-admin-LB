@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Beirut",
     "iso:country":"LB",
+    "lbl:bbox":"35.54444,33.70611,35.58444,33.74611",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062c\u0633\u0631 \u0627\u0644\u0642\u0627\u0636\u064a"
     ],
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1226346959,
-    "wof:lastmodified":1537661092,
+    "wof:lastmodified":1566594064,
     "wof:name":"Jisr al Qadi",
     "wof:parent_id":1108691419,
     "wof:placetype":"locality",

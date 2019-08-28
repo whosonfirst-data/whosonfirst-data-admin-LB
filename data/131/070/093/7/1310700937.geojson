@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Beirut",
     "iso:country":"LB",
+    "lbl:bbox":"35.435,33.69694,35.475,33.73694",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u0627\u0631 \u0645\u062e\u0627\u064a\u0644"
     ],
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1310700937,
-    "wof:lastmodified":1537661059,
+    "wof:lastmodified":1566593951,
     "wof:name":"Mar Mkhayel",
     "wof:parent_id":1108691419,
     "wof:placetype":"locality",

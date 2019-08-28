@@ -5,18 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":9750920.371956,
+    "geom:area_square_m":0.0,
     "geom:bbox":"35.508629,33.865145,35.508629,33.865145",
     "geom:latitude":33.865145,
     "geom:longitude":35.508629,
-    "gn:gn_country":"LB",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"LB",
+    "gn:fcode":"PPL",
     "gn:latitude":33.85933,
     "gn:longitude":35.50409,
+    "gn:population":0,
     "iso:country":"LB",
+    "lbl:bbox":"35.503629,33.860145,35.513629,33.870145",
     "lbl:latitude":33.865145,
     "lbl:longitude":35.508629,
+    "lbl:max_zoom":18.0,
     "mps:latitude":33.859545,
     "mps:longitude":35.510355,
     "mz:hierarchy_label":0,
@@ -29,9 +31,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":2,
     "name:ara_x_preferred":[
-        "Ghobeiri"
-    ],
-    "name:unk_x_variant":[
         "Ghobeiri"
     ],
     "qs:gn_adm0_cc":"LB",
@@ -82,7 +81,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85673491,
         102191569,
@@ -93,7 +92,6 @@
     "wof:concordances":{
         "gn:id":7838988,
         "gp:id":22724429,
-        "qs:id":502175,
         "qs_pg:id":502175
     },
     "wof:country":"LB",
@@ -112,7 +110,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1534379375,
+    "wof:lastmodified":1566593816,
     "wof:name":"Ghobeiri",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -10,8 +10,11 @@
     "geom:latitude":33.893344,
     "geom:longitude":35.497153,
     "iso:country":"LB",
+    "lbl:bbox":"35.492153,33.8883435,35.502153,33.8983435",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:afr_x_preferred":[
         "Zarif"
@@ -276,7 +279,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22724408,
-        "qs:id":1262791,
+        "qs_pg:id":1262791,
         "wd:id":"Q14594778"
     },
     "wof:country":"LB",
@@ -292,7 +295,7 @@
         }
     ],
     "wof:id":421171327,
-    "wof:lastmodified":1563280262,
+    "wof:lastmodified":1566594003,
     "wof:name":"Zarif",
     "wof:parent_id":890442383,
     "wof:placetype":"neighbourhood",

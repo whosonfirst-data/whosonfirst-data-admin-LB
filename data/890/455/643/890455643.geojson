@@ -11,11 +11,15 @@
     "geom:longitude":36.27306,
     "gn:country":"LB",
     "gn:fcode":"PPL",
-    "gn:pop":500,
+    "gn:population":500,
     "iso:country":"LB",
+    "lbl:bbox":"36.25306,34.60111,36.29306,34.64111",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Esh-Sheikh Lar"
     ],
     "qs:name":"Che\u00efkhlar",
@@ -32,7 +36,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":267478,
-        "qs:id":546973
+        "qs_pg:id":546973
     },
     "wof:country":"LB",
     "wof:created":1469052965,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":890455643,
-    "wof:lastmodified":1551727669,
+    "wof:lastmodified":1566594004,
     "wof:name":"Che\u00efkhlar",
     "wof:parent_id":1108691407,
     "wof:placetype":"locality",

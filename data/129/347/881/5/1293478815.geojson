@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Beirut",
     "iso:country":"LB",
+    "lbl:bbox":"35.99667,34.56222,36.03667,34.60222",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "El-Qlei\u2018at",
         "El Kulat",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1293478815,
-    "wof:lastmodified":1537661230,
+    "wof:lastmodified":1566593837,
     "wof:name":"El Qlaiaat",
     "wof:parent_id":1108691407,
     "wof:placetype":"locality",

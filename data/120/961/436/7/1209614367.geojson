@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Beirut",
     "iso:country":"LB",
+    "lbl:bbox":"35.54361,33.67778,35.58361,33.71778",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u062f\u064a\u0631 \u0627\u0644\u0642\u0645\u0631"
     ],
@@ -88,8 +92,7 @@
     "name:und_x_variant":[
         "Deir el Qamer",
         "Deir el Kamer",
-        "Dayr al Qamar",
-        "De\u00efr el Qamar"
+        "Dayr al Qamar"
     ],
     "name:urd_x_preferred":[
         "\u062f\u06cc\u0631 \u0627\u0644\u0642\u0645\u0631"
@@ -112,7 +115,7 @@
         }
     ],
     "wof:id":1209614367,
-    "wof:lastmodified":1564156133,
+    "wof:lastmodified":1566593904,
     "wof:name":"Deir el Qamar",
     "wof:parent_id":85632533,
     "wof:placetype":"locality",

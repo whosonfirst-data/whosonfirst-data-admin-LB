@@ -9,14 +9,16 @@
     "geom:bbox":"35.477428,33.904613,35.477428,33.904613",
     "geom:latitude":33.904613,
     "geom:longitude":35.477428,
-    "gn:gn_country":"LB",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"LB",
+    "gn:fcode":"PPLX",
     "gn:latitude":33.89905,
     "gn:longitude":35.4747,
+    "gn:population":0,
     "iso:country":"LB",
+    "lbl:bbox":"35.472428,33.899613,35.482428,33.909613",
     "lbl:latitude":33.904613,
     "lbl:longitude":35.477428,
+    "lbl:max_zoom":18.0,
     "mps:latitude":33.909295,
     "mps:longitude":35.474162,
     "mz:hierarchy_label":0,
@@ -38,9 +40,8 @@
     "name:eng_x_preferred":[
         "Ras Beirut"
     ],
-    "name:unk_x_variant":[
-        "Ras Beyrouth",
-        "Ras Beirut"
+    "name:und_x_variant":[
+        "Ras Beyrouth"
     ],
     "name:vie_x_preferred":[
         "Ras Beirut"
@@ -96,9 +97,8 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":1874,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         102191569
     ],
@@ -106,7 +106,6 @@
     "wof:concordances":{
         "gn:id":6274904,
         "gp:id":22724404,
-        "qs:id":230054,
         "qs_pg:id":230054,
         "wd:id":"Q7294643",
         "wk:page":"Ras Beirut"
@@ -126,7 +125,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1563279975,
+    "wof:lastmodified":1566593817,
     "wof:name":"Ras Beirut",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

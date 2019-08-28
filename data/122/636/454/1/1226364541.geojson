@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Beirut",
     "iso:country":"LB",
+    "lbl:bbox":"35.37167,33.52222,35.41167,33.56222",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0631\u0648\u0633"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1226364541,
-    "wof:lastmodified":1537661303,
+    "wof:lastmodified":1566594080,
     "wof:name":"Er Rous",
     "wof:parent_id":890451987,
     "wof:placetype":"locality",

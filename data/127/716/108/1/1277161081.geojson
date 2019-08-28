@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Beirut",
     "iso:country":"LB",
+    "lbl:bbox":"36.24,34.55972,36.28,34.59972",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Qubayy\u0101t al Bharb\u012byah",
         "Qba\u00efyat el Gharbiy\u00e9"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1277161081,
-    "wof:lastmodified":1537661030,
+    "wof:lastmodified":1566593889,
     "wof:name":"Qbaiyat el Gharbiye",
     "wof:parent_id":1108691407,
     "wof:placetype":"locality",

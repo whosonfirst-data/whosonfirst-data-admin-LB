@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Beirut",
     "iso:country":"LB",
+    "lbl:bbox":"35.70639,33.83528,35.74639,33.87528",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0642\u0631\u0646\u0627\u064a\u0644"
     ],
@@ -47,8 +51,7 @@
         "Qorn\u00e2yel"
     ],
     "name:und_x_variant":[
-        "Qurn\u0101yil",
-        "Qorn\u00e2yel"
+        "Qurn\u0101yil"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1209105107,
-    "wof:lastmodified":1564156150,
+    "wof:lastmodified":1566593915,
     "wof:name":"Qornayel",
     "wof:parent_id":85632533,
     "wof:placetype":"locality",

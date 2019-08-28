@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Beirut",
     "iso:country":"LB",
+    "lbl:bbox":"35.54528,33.54806,35.58528,33.58806",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0635\u0628\u0651\u0627\u062d"
     ],
@@ -38,8 +42,7 @@
         "\u0421\u0430\u0431\u0431\u0430\u0445"
     ],
     "name:und_x_variant":[
-        "\u015eabb\u0101\u1e29",
-        "Sabbah"
+        "\u015eabb\u0101\u1e29"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1209412733,
-    "wof:lastmodified":1564156124,
+    "wof:lastmodified":1566593899,
     "wof:name":"Sabbah",
     "wof:parent_id":85632533,
     "wof:placetype":"locality",

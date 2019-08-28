@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Beirut",
     "iso:country":"LB",
+    "lbl:bbox":"35.68083,34.15972,35.72083,34.19972",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\u1e10ahr a\u015f \u015eulayyib",
         "Dahr es Sla\u00efyeb"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1277004827,
-    "wof:lastmodified":1537661139,
+    "wof:lastmodified":1566593863,
     "wof:name":"Dahr es Slaiyeb",
     "wof:parent_id":421194845,
     "wof:placetype":"locality",

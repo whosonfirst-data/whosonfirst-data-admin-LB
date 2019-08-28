@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Beirut",
     "iso:country":"LB",
+    "lbl:bbox":"35.55056,33.78833,35.59056,33.82833",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u062f\u0627\u062f\u0648\u0646"
     ],
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":1343980875,
-    "wof:lastmodified":1564155926,
+    "wof:lastmodified":1566593781,
     "wof:name":"Bdedoun",
     "wof:parent_id":1108691409,
     "wof:placetype":"locality",

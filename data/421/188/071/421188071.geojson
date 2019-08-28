@@ -10,8 +10,11 @@
     "geom:latitude":33.867707,
     "geom:longitude":35.506095,
     "iso:country":"LB",
+    "lbl:bbox":"35.501095,33.862707,35.511095,33.872707",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -41,7 +44,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22724430,
-        "qs:id":1087553
+        "qs_pg:id":1087553
     },
     "wof:country":"LB",
     "wof:created":1459009533,
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":421188071,
-    "wof:lastmodified":1551727707,
+    "wof:lastmodified":1566593997,
     "wof:name":"Horj",
     "wof:parent_id":890442383,
     "wof:placetype":"neighbourhood",

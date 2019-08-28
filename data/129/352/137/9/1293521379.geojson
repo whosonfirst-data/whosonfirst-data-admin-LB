@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Beirut",
     "iso:country":"LB",
+    "lbl:bbox":"35.60861,34.01611,35.64861,34.05611",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ad Daq\u0101r\u012bn",
         "Ed Dq\u00e2r\u00eene"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1293521379,
-    "wof:lastmodified":1537661296,
+    "wof:lastmodified":1566593827,
     "wof:name":"Ed Dqarine",
     "wof:parent_id":421172015,
     "wof:placetype":"locality",

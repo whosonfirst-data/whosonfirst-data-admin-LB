@@ -11,8 +11,10 @@
     "geom:longitude":35.483241,
     "gn:id":"",
     "iso:country":"LB",
+    "lbl:bbox":"35.478241,33.875845,35.488241,33.885845",
     "lbl:latitude":33.880845,
     "lbl:longitude":35.483241,
+    "lbl:max_zoom":18.0,
     "mps:latitude":33.871129,
     "mps:longitude":35.476255,
     "mz:hierarchy_label":0,
@@ -32,9 +34,6 @@
     ],
     "name:fra_x_preferred":[
         "Ramlat el Baidae"
-    ],
-    "name:unk_x_variant":[
-        "\u0631\u0645\u0644\u0629 \u0627\u0644\u0628\u064a\u0636\u0627\u0621"
     ],
     "qs:gn_adm0_cc":"LB",
     "qs:gn_id":0,
@@ -63,7 +62,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191569,
         890442383,
@@ -73,7 +72,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22724420,
-        "qs:id":1262793,
         "qs_pg:id":1262793
     },
     "wof:country":"LB",
@@ -91,7 +89,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1551727706,
+    "wof:lastmodified":1566593817,
     "wof:name":"\u0631\u0645\u0644\u0629 \u0627\u0644\u0628\u064a\u0636\u0627\u0621",
     "wof:parent_id":890442383,
     "wof:placetype":"neighbourhood",

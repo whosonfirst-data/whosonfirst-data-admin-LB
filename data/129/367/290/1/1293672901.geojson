@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Beirut",
     "iso:country":"LB",
+    "lbl:bbox":"36.04,34.47694,36.08,34.51694",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Qul\u016bd al B\u0101qiyah",
         "Qlo\u00fbd el B\u00e2qi\u00e9"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1293672901,
-    "wof:lastmodified":1537661029,
+    "wof:lastmodified":1566593846,
     "wof:name":"Qloud el Baqie",
     "wof:parent_id":1108691407,
     "wof:placetype":"locality",

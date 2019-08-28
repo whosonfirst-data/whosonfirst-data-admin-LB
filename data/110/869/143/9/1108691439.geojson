@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":33.519076,
     "lbl:longitude":35.847162,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Bekaa",
     "meso:dissme":"RachayaBekaa",
     "meso:gadm_admin":"Rachiaya",
@@ -33,6 +35,7 @@
     "mps:longitude":35.847162,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Rachaya"
     ],
@@ -43,9 +46,9 @@
         "\u0631\u0627\u0634\u064a\u0627"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2004-01-01",
+    "src:population_date":"2004-01-01",
     "statoids:area_km":"545.0",
     "statoids:as_of_date":"2004-01-01",
     "statoids:capital":"Rachaiya",
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1108691439,
-    "wof:lastmodified":1553718183,
+    "wof:lastmodified":1566593945,
     "wof:name":"Rachaya",
     "wof:parent_id":1377074351,
     "wof:placetype":"county",

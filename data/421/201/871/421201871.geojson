@@ -10,8 +10,12 @@
     "geom:latitude":33.570598,
     "geom:longitude":35.387735,
     "iso:country":"LB",
+    "lbl:bbox":"35.367735,33.550598,35.407735,33.590598",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -41,7 +45,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1961779,
-        "qs:id":215091
+        "qs_pg:id":215091
     },
     "wof:country":"LB",
     "wof:created":1459010090,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":421201871,
-    "wof:lastmodified":1500013145,
+    "wof:lastmodified":1566594001,
     "wof:name":"\u0635\u064a\u062f\u0627",
     "wof:parent_id":890451987,
     "wof:placetype":"locality",

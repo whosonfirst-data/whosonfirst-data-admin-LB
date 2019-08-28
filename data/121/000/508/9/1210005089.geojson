@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Beirut",
     "iso:country":"LB",
+    "lbl:bbox":"36.0875,33.8375,36.1275,33.8775",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Jennta",
         "Jant\u0101",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1210005089,
-    "wof:lastmodified":1551727647,
+    "wof:lastmodified":1566593920,
     "wof:name":"Jenta",
     "wof:parent_id":421171405,
     "wof:placetype":"locality",

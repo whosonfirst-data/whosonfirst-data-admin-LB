@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Beirut",
     "iso:country":"LB",
+    "lbl:bbox":"36.20778,34.17917,36.24778,34.21917",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Qal\u012blah",
         "Qal\u00efl\u00e9"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1309784007,
-    "wof:lastmodified":1537661235,
+    "wof:lastmodified":1566593988,
     "wof:name":"Qalile",
     "wof:parent_id":421171405,
     "wof:placetype":"locality",

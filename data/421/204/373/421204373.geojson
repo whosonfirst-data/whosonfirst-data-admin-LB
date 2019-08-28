@@ -10,8 +10,12 @@
     "geom:latitude":34.095,
     "geom:longitude":35.84778,
     "iso:country":"LB",
+    "lbl:bbox":"35.82778,34.075,35.86778,34.115",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0642\u0631\u0637\u0628\u0627"
@@ -35,9 +39,6 @@
         "Qartaba"
     ],
     "name:nno_x_preferred":[
-        "Qartaba"
-    ],
-    "name:unk_x_variant":[
         "Qartaba"
     ],
     "qs:gn_country":"LB",
@@ -69,7 +70,7 @@
     "wof:concordances":{
         "gn:id":269265,
         "gp:id":1962093,
-        "qs:id":1189765,
+        "qs_pg:id":1189765,
         "wd:id":"Q4116009",
         "wk:page":"Qartaba"
     },
@@ -86,7 +87,7 @@
         }
     ],
     "wof:id":421204373,
-    "wof:lastmodified":1563280248,
+    "wof:lastmodified":1566593996,
     "wof:name":"\u0642\u0631\u0637\u0628\u0627",
     "wof:parent_id":421194845,
     "wof:placetype":"locality",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":33.254048,
     "lbl:longitude":35.496016,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"El Nabatieh",
     "meso:dissme":"MarjaayounEl Nabatieh",
     "meso:gadm_admin":"Marjaayoun",
@@ -33,6 +35,7 @@
     "mps:longitude":35.496016,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Marjayoun"
     ],
@@ -43,9 +46,9 @@
         "\u0645\u0631\u062c\u0639\u064a\u0648\u0646"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2004-01-01",
+    "src:population_date":"2004-01-01",
     "statoids:area_km":"313.0",
     "statoids:as_of_date":"2004-01-01",
     "statoids:capital":"Marjaayoun",
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1108691437,
-    "wof:lastmodified":1553718183,
+    "wof:lastmodified":1566593945,
     "wof:name":"Marjaayoun",
     "wof:parent_id":85673495,
     "wof:placetype":"county",

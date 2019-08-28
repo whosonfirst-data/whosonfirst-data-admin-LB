@@ -10,8 +10,12 @@
     "geom:latitude":33.943644,
     "geom:longitude":35.641354,
     "iso:country":"LB",
+    "lbl:bbox":"35.621354,33.923644,35.661354,33.963644",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -41,7 +45,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1959336,
-        "qs:id":44501
+        "qs_pg:id":44501
     },
     "wof:country":"LB",
     "wof:created":1459009172,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":421178153,
-    "wof:lastmodified":1500013135,
+    "wof:lastmodified":1566594002,
     "wof:name":"Al Bayy\u0101\u1e11",
     "wof:parent_id":1108691425,
     "wof:placetype":"locality",

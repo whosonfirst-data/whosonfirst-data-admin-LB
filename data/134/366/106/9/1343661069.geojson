@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Beirut",
     "iso:country":"LB",
+    "lbl:bbox":"35.62139,34.02361,35.66139,34.06361",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\u1e28ayy M\u0101r Y\u016b\u1e29ann\u0101",
         "Ha\u00ef M\u00e2r Youhanna"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1343661069,
-    "wof:lastmodified":1537661105,
+    "wof:lastmodified":1566593798,
     "wof:name":"Hai Mar Youhanna",
     "wof:parent_id":421172015,
     "wof:placetype":"locality",

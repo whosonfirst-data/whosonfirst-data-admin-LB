@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Beirut",
     "iso:country":"LB",
+    "lbl:bbox":"35.9875,34.41306,36.0275,34.45306",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "El Ou\u00e2t\u00eey\u00e9",
         "Al W\u0101\u0163i\u2019ah",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1293573661,
-    "wof:lastmodified":1537661224,
+    "wof:lastmodified":1566593843,
     "wof:name":"El Ouatie",
     "wof:parent_id":1108691427,
     "wof:placetype":"locality",

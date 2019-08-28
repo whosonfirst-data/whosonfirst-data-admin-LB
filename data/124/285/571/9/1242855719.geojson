@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Beirut",
     "iso:country":"LB",
+    "lbl:bbox":"36.21528,33.91639,36.25528,33.95639",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "An Nab\u012b Sb\u0101\u0163",
         "En Nabi Chb\u00e2t"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1242855719,
-    "wof:lastmodified":1551727652,
+    "wof:lastmodified":1566594029,
     "wof:name":"En Nabi Chbat",
     "wof:parent_id":421171405,
     "wof:placetype":"locality",

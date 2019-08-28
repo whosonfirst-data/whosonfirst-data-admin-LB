@@ -19,6 +19,7 @@
     ],
     "lbl:latitude":33.261151,
     "lbl:longitude":35.298235,
+    "lbl:min_zoom":8.0,
     "mps:latitude":33.263077,
     "mps:longitude":35.297106,
     "mz:hierarchy_label":1,
@@ -174,7 +175,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0456\u0432\u0434\u0435\u043d\u043d\u0438\u0439 \u041b\u0456\u0432\u0430\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Aj Jeanoub"
     ],
     "name:urd_x_preferred":[
@@ -258,7 +259,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632533
@@ -271,7 +272,7 @@
         "gn:id":279894,
         "gp:id":2346014,
         "hasc:id":"LB.JA",
-        "qs:id":1135131
+        "qs_pg:id":1135131
     },
     "wof:country":"LB",
     "wof:geomhash":"051e3ecadd90c45e2be9f1f173f08de3",
@@ -289,7 +290,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1565726507,
+    "wof:lastmodified":1566593820,
     "wof:name":"South Lebanon",
     "wof:parent_id":85632533,
     "wof:placetype":"region",

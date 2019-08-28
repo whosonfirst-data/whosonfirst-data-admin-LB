@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Beirut",
     "iso:country":"LB",
+    "lbl:bbox":"36.26917,34.60667,36.30917,34.64667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Khirbat ar Rumm\u0101n",
         "Khirbet er Roummane"
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1293872709,
-    "wof:lastmodified":1537661075,
+    "wof:lastmodified":1566593853,
     "wof:name":"Khirbet er Roummane",
     "wof:parent_id":1108691407,
     "wof:placetype":"locality",

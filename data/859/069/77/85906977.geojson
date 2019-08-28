@@ -11,8 +11,10 @@
     "geom:longitude":35.515094,
     "gn:id":"",
     "iso:country":"LB",
+    "lbl:bbox":"35.510094,33.883229,35.520094,33.893229",
     "lbl:latitude":33.888229,
     "lbl:longitude":35.515094,
+    "lbl:max_zoom":18.0,
     "mps:latitude":33.887909,
     "mps:longitude":35.516815,
     "mz:hierarchy_label":0,
@@ -32,9 +34,6 @@
     ],
     "name:fra_x_preferred":[
         "Forn el Haik"
-    ],
-    "name:unk_x_variant":[
-        "\u0641\u0631\u0646 \u0627\u0644\u062d\u0627\u064a\u0643"
     ],
     "qs:gn_adm0_cc":"LB",
     "qs:gn_id":0,
@@ -63,7 +62,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191569,
         890442383,
@@ -73,7 +72,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22724456,
-        "qs:id":996621,
         "qs_pg:id":996621
     },
     "wof:country":"LB",
@@ -91,7 +89,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1551727706,
+    "wof:lastmodified":1566593818,
     "wof:name":"\u0641\u0631\u0646 \u0627\u0644\u062d\u0627\u064a\u0643",
     "wof:parent_id":890442383,
     "wof:placetype":"neighbourhood",

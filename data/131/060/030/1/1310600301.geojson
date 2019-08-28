@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Beirut",
     "iso:country":"LB",
+    "lbl:bbox":"35.70002,33.99095,35.74002,34.03095",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0631\u0639\u0634\u064a\u0646"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1310600301,
-    "wof:lastmodified":1537661026,
+    "wof:lastmodified":1566593971,
     "wof:name":"Raachine",
     "wof:parent_id":421172015,
     "wof:placetype":"locality",
