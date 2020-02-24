@@ -127,6 +127,9 @@
         "qs:id":1135132
     },
     "wof:country":"LB",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"1d50d9f1c11298318614d228fda488dc",
     "wof:hierarchy":[
         {
@@ -145,7 +148,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1551727687,
+    "wof:lastmodified":1582318495,
     "wof:name":"North Lebanon",
     "wof:parent_id":85632533,
     "wof:placetype":"region",

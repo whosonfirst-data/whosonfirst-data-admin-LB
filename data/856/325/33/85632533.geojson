@@ -1041,6 +1041,12 @@
     },
     "wof:country":"LB",
     "wof:country_alpha3":"LBN",
+    "wof:geom_alt":[
+        "meso",
+        "naturalearth",
+        "quattroshapes",
+        "naturalearth-display-terrestrial-zoom6"
+    ],
     "wof:geomhash":"c596403385e0f1fc6ec47fb7bf04ea1b",
     "wof:hierarchy":[
         {
@@ -1055,7 +1061,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1566593818,
+    "wof:lastmodified":1582318494,
     "wof:name":"Lebanon",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

@@ -89,6 +89,10 @@
         "wd:id":"Q2944781"
     },
     "wof:country":"LB",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5dcf89418622f9e1a9996c192d51fdc6",
     "wof:hierarchy":[
         {
@@ -103,7 +107,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1566593816,
+    "wof:lastmodified":1582318493,
     "wof:name":"Beirut Central District",
     "wof:parent_id":890442383,
     "wof:placetype":"neighbourhood",

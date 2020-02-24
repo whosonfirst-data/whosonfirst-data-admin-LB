@@ -209,6 +209,9 @@
         "qs_pg:id":996715
     },
     "wof:country":"LB",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"13c511619e1ca666689a457f1aa67075",
     "wof:hierarchy":[
         {
@@ -224,7 +227,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1566593819,
+    "wof:lastmodified":1582318495,
     "wof:name":"Nabatieh",
     "wof:parent_id":85632533,
     "wof:placetype":"region",

@@ -79,6 +79,9 @@
         "qs:id":249536
     },
     "wof:country":"LB",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"cfae8362d8dc8d274697006fe62336c6",
     "wof:hierarchy":[
         {
@@ -94,7 +97,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1534379375,
+    "wof:lastmodified":1582318493,
     "wof:name":"Al Mudawwar",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

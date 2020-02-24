@@ -69,6 +69,10 @@
         "qs_pg:id":1121102
     },
     "wof:country":"LB",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"81391c770a26aecca10a427a84b51b54",
     "wof:hierarchy":[
         {
@@ -84,7 +88,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1566593818,
+    "wof:lastmodified":1582318494,
     "wof:name":"Jall Ed Did",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

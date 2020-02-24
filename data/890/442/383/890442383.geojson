@@ -662,6 +662,9 @@
     ],
     "wof:country":"LB",
     "wof:created":1469052360,
+    "wof:geom_alt":[
+        "unknown"
+    ],
     "wof:geomhash":"0eaba196377b9ebb35b06c7a172804af",
     "wof:hierarchy":[
         {
@@ -672,7 +675,7 @@
         }
     ],
     "wof:id":890442383,
-    "wof:lastmodified":1566594004,
+    "wof:lastmodified":1582318499,
     "wof:name":"Beirut",
     "wof:parent_id":85673487,
     "wof:placetype":"locality",

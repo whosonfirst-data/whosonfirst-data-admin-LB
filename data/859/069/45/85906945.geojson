@@ -75,6 +75,10 @@
         "qs_pg:id":1262793
     },
     "wof:country":"LB",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"c74fc60a6f6d830d6402390c22ae226b",
     "wof:hierarchy":[
         {
@@ -89,7 +93,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1566593817,
+    "wof:lastmodified":1582318494,
     "wof:name":"\u0631\u0645\u0644\u0629 \u0627\u0644\u0628\u064a\u0636\u0627\u0621",
     "wof:parent_id":890442383,
     "wof:placetype":"neighbourhood",

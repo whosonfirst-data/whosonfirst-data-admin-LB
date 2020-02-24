@@ -153,6 +153,9 @@
     },
     "wof:country":"LB",
     "wof:created":1459008892,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"fa79518c7f8718efa2e9822dc6fa16f1",
     "wof:hierarchy":[
         {
@@ -163,7 +166,7 @@
         }
     ],
     "wof:id":421171405,
-    "wof:lastmodified":1566594003,
+    "wof:lastmodified":1582318498,
     "wof:name":"Baalbek",
     "wof:parent_id":1377074353,
     "wof:placetype":"county",
