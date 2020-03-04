@@ -128,6 +128,9 @@
         "qs:id":1135130
     },
     "wof:country":"LB",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b6775a3270788b116f67e2d820960ed9",
     "wof:hierarchy":[
         {
@@ -143,7 +146,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1551727682,
+    "wof:lastmodified":1582318495,
     "wof:name":"Beqaa",
     "wof:parent_id":85632533,
     "wof:placetype":"region",

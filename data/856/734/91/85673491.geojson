@@ -282,6 +282,9 @@
         "unlc:id":"LB-JL"
     },
     "wof:country":"LB",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"153102beba100b17bafca8505f5aae8e",
     "wof:hierarchy":[
         {
@@ -297,7 +300,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1566593820,
+    "wof:lastmodified":1582318495,
     "wof:name":"Mount Lebanon",
     "wof:parent_id":85632533,
     "wof:placetype":"region",

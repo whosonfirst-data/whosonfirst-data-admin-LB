@@ -94,6 +94,9 @@
     },
     "wof:country":"LB",
     "wof:created":1459009821,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"93804c8a23e525a2b8a962d522d31a11",
     "wof:hierarchy":[
         {
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":421194845,
-    "wof:lastmodified":1566593995,
+    "wof:lastmodified":1582318498,
     "wof:name":"Jbeil",
     "wof:parent_id":85673491,
     "wof:placetype":"county",

@@ -93,6 +93,10 @@
         "wd:id":"Q4704645"
     },
     "wof:country":"LB",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"5ef923020ac4db38fa160548bbbc64c2",
     "wof:hierarchy":[
         {
@@ -108,7 +112,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1566593817,
+    "wof:lastmodified":1582318494,
     "wof:name":"Qobaiyat",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -193,6 +193,9 @@
         "wd:id":"Q228896"
     },
     "wof:country":"LB",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"aaf59c688c6171112ddf680bbe6a73b4",
     "wof:hierarchy":[
         {
@@ -208,7 +211,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1566593817,
+    "wof:lastmodified":1582318493,
     "wof:name":"Salome",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

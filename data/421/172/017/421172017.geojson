@@ -157,6 +157,9 @@
     },
     "wof:country":"LB",
     "wof:created":1459008916,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b9c10cbd6e59fcb1ddb1bd6b531f1568",
     "wof:hierarchy":[
         {
@@ -167,7 +170,7 @@
         }
     ],
     "wof:id":421172017,
-    "wof:lastmodified":1566593997,
+    "wof:lastmodified":1582318498,
     "wof:name":"Zahle",
     "wof:parent_id":1377074351,
     "wof:placetype":"county",

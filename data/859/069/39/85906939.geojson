@@ -79,6 +79,9 @@
         "qs:id":230056
     },
     "wof:country":"LB",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3a1e673ecc382f94f24b50d84b4378b7",
     "wof:hierarchy":[
         {
@@ -94,7 +97,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1534379375,
+    "wof:lastmodified":1582318494,
     "wof:name":"Kantari",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

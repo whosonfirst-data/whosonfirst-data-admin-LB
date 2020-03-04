@@ -69,6 +69,10 @@
         "qs_pg:id":1262789
     },
     "wof:country":"LB",
+    "wof:geom_alt":[
+        "quattroshapes_pg",
+        "quattroshapes"
+    ],
     "wof:geomhash":"6e9fae0178f637dd0b49b432d2e2c2b9",
     "wof:hierarchy":[
         {
@@ -83,7 +87,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1566593817,
+    "wof:lastmodified":1582318494,
     "wof:name":"Patriarcat",
     "wof:parent_id":890442383,
     "wof:placetype":"neighbourhood",

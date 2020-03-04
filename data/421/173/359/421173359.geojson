@@ -94,6 +94,9 @@
     },
     "wof:country":"LB",
     "wof:created":1459008980,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"dc27a757d9dbaf2f06751cc38681645e",
     "wof:hierarchy":[
         {
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":421173359,
-    "wof:lastmodified":1566593997,
+    "wof:lastmodified":1582318498,
     "wof:name":"West Bekaa",
     "wof:parent_id":1377074351,
     "wof:placetype":"county",

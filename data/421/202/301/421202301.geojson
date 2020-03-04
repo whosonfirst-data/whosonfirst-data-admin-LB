@@ -172,6 +172,9 @@
     },
     "wof:country":"LB",
     "wof:created":1459010112,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a5515d5cef62a94e133b41c9e84509ab",
     "wof:hierarchy":[
         {
@@ -182,7 +185,7 @@
         }
     ],
     "wof:id":421202301,
-    "wof:lastmodified":1566593996,
+    "wof:lastmodified":1582318498,
     "wof:name":"Baabda",
     "wof:parent_id":85673491,
     "wof:placetype":"county",

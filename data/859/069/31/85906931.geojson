@@ -111,6 +111,9 @@
         "wk:page":"Ras Beirut"
     },
     "wof:country":"LB",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"acbf95bf28a51daf01b553c011a24499",
     "wof:hierarchy":[
         {
@@ -125,7 +128,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1566593817,
+    "wof:lastmodified":1582318494,
     "wof:name":"Ras Beirut",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -94,6 +94,9 @@
     },
     "wof:country":"LB",
     "wof:created":1459008916,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"eb052413ca8848644eb01061825ca507",
     "wof:hierarchy":[
         {
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":421172015,
-    "wof:lastmodified":1566593997,
+    "wof:lastmodified":1582318498,
     "wof:name":"Kesrwane",
     "wof:parent_id":85673491,
     "wof:placetype":"county",

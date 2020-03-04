@@ -69,6 +69,10 @@
         "qs_pg:id":1184295
     },
     "wof:country":"LB",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"19cecef3f8d78f599b65bdc9c5593948",
     "wof:hierarchy":[
         {
@@ -83,7 +87,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1566593817,
+    "wof:lastmodified":1582318493,
     "wof:name":"Remeil",
     "wof:parent_id":890442383,
     "wof:placetype":"neighbourhood",

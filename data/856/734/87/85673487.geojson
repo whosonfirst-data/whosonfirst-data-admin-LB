@@ -579,6 +579,9 @@
         890442383
     ],
     "wof:country":"LB",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"0eaba196377b9ebb35b06c7a172804af",
     "wof:hierarchy":[
         {
@@ -594,7 +597,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1566593819,
+    "wof:lastmodified":1582318495,
     "wof:name":"Beirut",
     "wof:parent_id":85632533,
     "wof:placetype":"region",
