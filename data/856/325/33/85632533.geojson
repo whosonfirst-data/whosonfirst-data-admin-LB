@@ -1017,9 +1017,7 @@
     ],
     "wof:concordances":{
         "dbp:id":"Lebanon",
-        "digitalenvoy:country_code":[
-            422
-        ],
+        "digitalenvoy:country_code":422,
         "fb:id":"en.lebanon",
         "fifa:id":"LIB",
         "fips:code":"LE",
@@ -1064,7 +1062,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1583529174,
+    "wof:lastmodified":1583797380,
     "wof:name":"Lebanon",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
