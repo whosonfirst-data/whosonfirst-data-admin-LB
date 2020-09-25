@@ -17,6 +17,12 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0639\u0645\u0634\u064a\u062a"
+    ],
+    "name:eng_x_preferred":[
+        "Amsheet"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -60,8 +66,8 @@
         }
     ],
     "wof:id":421177639,
-    "wof:lastmodified":1566594002,
-    "wof:name":"\u0639\u0645\u0634\u064a\u062a",
+    "wof:lastmodified":1601068398,
+    "wof:name":"Amsheet",
     "wof:parent_id":421194845,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-lb",

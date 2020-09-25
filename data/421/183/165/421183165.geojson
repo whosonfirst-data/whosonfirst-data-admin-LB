@@ -17,6 +17,12 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0632\u063a\u0631\u062a\u0627"
+    ],
+    "name:eng_x_preferred":[
+        "Zgharta"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -60,8 +66,8 @@
         }
     ],
     "wof:id":421183165,
-    "wof:lastmodified":1566594002,
-    "wof:name":"\u0632\u063a\u0631\u062a\u0627",
+    "wof:lastmodified":1601068397,
+    "wof:name":"Zgharta",
     "wof:parent_id":1108691445,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-lb",

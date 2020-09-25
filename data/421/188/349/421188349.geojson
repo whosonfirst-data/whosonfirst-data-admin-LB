@@ -13,6 +13,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0639\u0627\u0644\u064a\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Aliah"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -44,7 +50,7 @@
     },
     "wof:country":"LB",
     "wof:created":1459009542,
-    "wof:geomhash":"fa6b9464cb3cf3a09f739078b017afea",
+    "wof:geomhash":"0af9804f6e7410885d86949b3813b7e4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -54,8 +60,8 @@
         }
     ],
     "wof:id":421188349,
-    "wof:lastmodified":1474311210,
-    "wof:name":"\u0639\u0627\u0644\u064a\u0629",
+    "wof:lastmodified":1601068398,
+    "wof:name":"Aliah",
     "wof:parent_id":85673491,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-lb",

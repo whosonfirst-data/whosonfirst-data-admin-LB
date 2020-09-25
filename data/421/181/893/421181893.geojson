@@ -16,6 +16,12 @@
     "mz:is_current":-1,
     "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u062a\u0644\u0629 \u0627\u0644\u062e\u064a\u0627\u0637"
+    ],
+    "name:eng_x_preferred":[
+        "Tallet Al Khayat"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -59,8 +65,8 @@
         }
     ],
     "wof:id":421181893,
-    "wof:lastmodified":1566593998,
-    "wof:name":"\u062a\u0644\u0629 \u0627\u0644\u062e\u064a\u0627\u0637",
+    "wof:lastmodified":1601068395,
+    "wof:name":"Tallet Al Khayat",
     "wof:parent_id":890442383,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-lb",

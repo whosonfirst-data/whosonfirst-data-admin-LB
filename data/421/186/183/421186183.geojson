@@ -17,6 +17,12 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0639\u0646\u062c\u0631"
+    ],
+    "name:eng_x_preferred":[
+        "Anjar"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -60,8 +66,8 @@
         }
     ],
     "wof:id":421186183,
-    "wof:lastmodified":1566593998,
-    "wof:name":"\u0639\u0646\u062c\u0631",
+    "wof:lastmodified":1601068398,
+    "wof:name":"Anjar",
     "wof:parent_id":421172017,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-lb",

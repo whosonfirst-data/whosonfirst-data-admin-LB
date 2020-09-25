@@ -17,6 +17,12 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0635\u064a\u062f\u0627"
+    ],
+    "name:eng_x_preferred":[
+        "Sayda"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -60,8 +66,8 @@
         }
     ],
     "wof:id":421201871,
-    "wof:lastmodified":1566594001,
-    "wof:name":"\u0635\u064a\u062f\u0627",
+    "wof:lastmodified":1601068398,
+    "wof:name":"Sayda",
     "wof:parent_id":890451987,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-lb",
