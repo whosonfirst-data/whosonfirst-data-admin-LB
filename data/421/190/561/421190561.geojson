@@ -45,8 +45,8 @@
     "wof:belongsto":[
         102191569,
         85632533,
-        85673491,
-        1108691425
+        1108691425,
+        85673491
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,7 +66,7 @@
         }
     ],
     "wof:id":421190561,
-    "wof:lastmodified":1601068398,
+    "wof:lastmodified":1601423088,
     "wof:name":"Dbayeh",
     "wof:parent_id":1108691425,
     "wof:placetype":"locality",

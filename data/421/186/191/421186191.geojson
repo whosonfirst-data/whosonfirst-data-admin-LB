@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"35.56361,33.6987075,35.56361,33.6987075",
+    "geom:bbox":"35.56361,33.698707,35.56361,33.698707",
     "geom:latitude":33.698707,
     "geom:longitude":35.56361,
     "iso:country":"LB",
@@ -45,8 +45,8 @@
     "wof:belongsto":[
         102191569,
         85632533,
-        85673491,
-        1108691419
+        1108691419,
+        85673491
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,7 +55,7 @@
     },
     "wof:country":"LB",
     "wof:created":1459009473,
-    "wof:geomhash":"7e2c4296eb6a1f2a38ec3b9635ff448f",
+    "wof:geomhash":"9817680a920fb5a48a6c3f0932dbeb95",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -66,7 +66,7 @@
         }
     ],
     "wof:id":421186191,
-    "wof:lastmodified":1601068396,
+    "wof:lastmodified":1601423088,
     "wof:name":"Deir Al Qamar",
     "wof:parent_id":1108691419,
     "wof:placetype":"locality",
@@ -77,9 +77,9 @@
 },
   "bbox": [
     35.56361,
-    33.6987075,
+    33.698707,
     35.56361,
-    33.6987075
+    33.698707
 ],
-  "geometry": {"coordinates":[35.56361,33.6987075],"type":"Point"}
+  "geometry": {"coordinates":[35.56361,33.698707],"type":"Point"}
 }

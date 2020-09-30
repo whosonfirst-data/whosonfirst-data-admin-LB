@@ -41,8 +41,8 @@
     "wof:belongsto":[
         102191569,
         85632533,
-        85673487,
-        1108691413
+        1108691413,
+        85673487
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,7 +62,7 @@
         }
     ],
     "wof:id":421175231,
-    "wof:lastmodified":1601068395,
+    "wof:lastmodified":1601423087,
     "wof:name":"Beirut",
     "wof:parent_id":1108691413,
     "wof:placetype":"locality",

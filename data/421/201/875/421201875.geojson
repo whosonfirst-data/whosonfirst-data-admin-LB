@@ -41,8 +41,8 @@
     "wof:belongsto":[
         102191569,
         85632533,
-        1377074355,
-        1108691443
+        1108691443,
+        1377074355
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,7 +62,7 @@
         }
     ],
     "wof:id":421201875,
-    "wof:lastmodified":1601068398,
+    "wof:lastmodified":1601423094,
     "wof:name":"Tripoli",
     "wof:parent_id":1108691443,
     "wof:placetype":"locality",

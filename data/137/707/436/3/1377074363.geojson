@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"35.8248705,34.439123,35.8248705,34.439123",
+    "geom:bbox":"35.824871,34.439123,35.824871,34.439123",
     "geom:latitude":34.439123,
     "geom:longitude":35.824871,
     "iso:country":"LB",
@@ -42,11 +42,11 @@
     "qs:woe_id":1959661,
     "src:geom":"quattroshapes",
     "wof:belongsto":[
-        1377074355,
         102191569,
         85632533,
+        1108691443,
         1125791429,
-        1108691443
+        1377074355
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,7 +55,7 @@
     },
     "wof:country":"LB",
     "wof:created":1459009662,
-    "wof:geomhash":"d34d094fbfa0d1b9a064bea5eaf5655e",
+    "wof:geomhash":"813040e19f1eb1f3d29a6e3b2d44fc20",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -67,7 +67,7 @@
         }
     ],
     "wof:id":1377074363,
-    "wof:lastmodified":1601068392,
+    "wof:lastmodified":1601423085,
     "wof:name":"Al Mina",
     "wof:parent_id":1125791429,
     "wof:placetype":"neighbourhood",
@@ -79,10 +79,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    35.8248705,
+    35.824871,
     34.439123,
-    35.8248705,
+    35.824871,
     34.439123
 ],
-  "geometry": {"coordinates":[35.8248705,34.439123],"type":"Point"}
+  "geometry": {"coordinates":[35.824871,34.439123],"type":"Point"}
 }

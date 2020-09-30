@@ -45,8 +45,8 @@
     "wof:belongsto":[
         102191569,
         85632533,
-        85673499,
-        1108691441
+        1108691441,
+        85673499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,7 +66,7 @@
         }
     ],
     "wof:id":421201873,
-    "wof:lastmodified":1601068397,
+    "wof:lastmodified":1601423094,
     "wof:name":"Tyre",
     "wof:parent_id":1108691441,
     "wof:placetype":"locality",

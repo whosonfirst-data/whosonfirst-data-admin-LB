@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"35.482492,33.4171855,35.482492,33.4171855",
+    "geom:bbox":"35.482492,33.417186,35.482492,33.417186",
     "geom:latitude":33.417186,
     "geom:longitude":35.482492,
     "iso:country":"LB",
@@ -45,8 +45,8 @@
     "wof:belongsto":[
         102191569,
         85632533,
-        85673495,
-        1108691429
+        1108691429,
+        85673495
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,7 +55,7 @@
     },
     "wof:country":"LB",
     "wof:created":1459008855,
-    "wof:geomhash":"6cbe28bcf5926b060cf960ec44f2e8da",
+    "wof:geomhash":"1e29e86027d8b512ff35f2858f583f06",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -66,7 +66,7 @@
         }
     ],
     "wof:id":421170477,
-    "wof:lastmodified":1601068395,
+    "wof:lastmodified":1601423089,
     "wof:name":"Habbouch",
     "wof:parent_id":1108691429,
     "wof:placetype":"locality",
@@ -77,9 +77,9 @@
 },
   "bbox": [
     35.482492,
-    33.4171855,
+    33.417186,
     35.482492,
-    33.4171855
+    33.417186
 ],
-  "geometry": {"coordinates":[35.482492,33.4171855],"type":"Point"}
+  "geometry": {"coordinates":[35.482492,33.417186],"type":"Point"}
 }

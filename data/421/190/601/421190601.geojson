@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"35.632511,33.9735445,35.632511,33.9735445",
+    "geom:bbox":"35.632511,33.973545,35.632511,33.973545",
     "geom:latitude":33.973545,
     "geom:longitude":35.632511,
     "iso:country":"LB",
@@ -45,8 +45,8 @@
     "wof:belongsto":[
         102191569,
         85632533,
-        85673491,
-        421172015
+        421172015,
+        85673491
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,7 +55,7 @@
     },
     "wof:country":"LB",
     "wof:created":1459009663,
-    "wof:geomhash":"18eeab07941da349ec786b7fcef5be02",
+    "wof:geomhash":"3c1d2044752ea945d7b0eb4c40f7c78e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -66,7 +66,7 @@
         }
     ],
     "wof:id":421190601,
-    "wof:lastmodified":1601068395,
+    "wof:lastmodified":1601423089,
     "wof:name":"Jounieh",
     "wof:parent_id":421172015,
     "wof:placetype":"locality",
@@ -77,9 +77,9 @@
 },
   "bbox": [
     35.632511,
-    33.9735445,
+    33.973545,
     35.632511,
-    33.9735445
+    33.973545
 ],
-  "geometry": {"coordinates":[35.632511,33.9735445],"type":"Point"}
+  "geometry": {"coordinates":[35.632511,33.973545],"type":"Point"}
 }

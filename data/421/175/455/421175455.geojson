@@ -45,8 +45,8 @@
     "wof:belongsto":[
         102191569,
         85632533,
-        1377074351,
-        421172017
+        421172017,
+        1377074351
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,7 +66,7 @@
         }
     ],
     "wof:id":421175455,
-    "wof:lastmodified":1601068396,
+    "wof:lastmodified":1601423094,
     "wof:name":"Zahle",
     "wof:parent_id":421172017,
     "wof:placetype":"locality",

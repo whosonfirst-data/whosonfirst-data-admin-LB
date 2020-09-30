@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"35.3717925,33.567144,35.3717925,33.567144",
+    "geom:bbox":"35.371792,33.567144,35.371792,33.567144",
     "geom:latitude":33.567144,
     "geom:longitude":35.371792,
     "iso:country":"LB",
@@ -45,8 +45,8 @@
     "wof:belongsto":[
         102191569,
         85632533,
-        85673499,
-        890451987
+        890451987,
+        85673499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,7 +55,7 @@
     },
     "wof:country":"LB",
     "wof:created":1459010116,
-    "wof:geomhash":"595f81ff6c8e2d6b03e3a45bfe72bece",
+    "wof:geomhash":"75d518c5a892db5a54d0abc526c8f134",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -66,7 +66,7 @@
         }
     ],
     "wof:id":421202377,
-    "wof:lastmodified":1601068398,
+    "wof:lastmodified":1601423092,
     "wof:name":"Sayda Al Wastani",
     "wof:parent_id":890451987,
     "wof:placetype":"locality",
@@ -76,10 +76,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    35.3717925,
+    35.371792,
     33.567144,
-    35.3717925,
+    35.371792,
     33.567144
 ],
-  "geometry": {"coordinates":[35.3717925,33.567144],"type":"Point"}
+  "geometry": {"coordinates":[35.371792,33.567144],"type":"Point"}
 }

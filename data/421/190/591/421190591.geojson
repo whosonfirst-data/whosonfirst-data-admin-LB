@@ -45,8 +45,8 @@
     "wof:belongsto":[
         102191569,
         85632533,
-        85673499,
-        890451987
+        890451987,
+        85673499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,7 +66,7 @@
         }
     ],
     "wof:id":421190591,
-    "wof:lastmodified":1601068394,
+    "wof:lastmodified":1601423088,
     "wof:name":"Bramiye Et Tahta",
     "wof:parent_id":890451987,
     "wof:placetype":"locality",

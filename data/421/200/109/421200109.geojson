@@ -45,8 +45,8 @@
     "wof:belongsto":[
         102191569,
         85632533,
-        1377074355,
-        1108691443
+        1108691443,
+        1377074355
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,7 +66,7 @@
         }
     ],
     "wof:id":421200109,
-    "wof:lastmodified":1601068392,
+    "wof:lastmodified":1601423085,
     "wof:name":"Al Qalamoun",
     "wof:parent_id":1108691443,
     "wof:placetype":"locality",

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"35.6681435,34.249814,35.6681435,34.249814",
+    "geom:bbox":"35.668143,34.249814,35.668143,34.249814",
     "geom:latitude":34.249814,
     "geom:longitude":35.668143,
     "iso:country":"LB",
@@ -45,8 +45,8 @@
     "wof:belongsto":[
         102191569,
         85632533,
-        1377074355,
-        421204111
+        421204111,
+        1377074355
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,7 +55,7 @@
     },
     "wof:country":"LB",
     "wof:created":1459009662,
-    "wof:geomhash":"6a04e6f41c7876f06590e0e2d951f6aa",
+    "wof:geomhash":"a74f08ecf9ca8c6f3af8a555b9765f98",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -66,7 +66,7 @@
         }
     ],
     "wof:id":421190575,
-    "wof:lastmodified":1601068388,
+    "wof:lastmodified":1601423087,
     "wof:name":"Batroun",
     "wof:parent_id":421204111,
     "wof:placetype":"locality",
@@ -76,10 +76,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    35.6681435,
+    35.668143,
     34.249814,
-    35.6681435,
+    35.668143,
     34.249814
 ],
-  "geometry": {"coordinates":[35.6681435,34.249814],"type":"Point"}
+  "geometry": {"coordinates":[35.668143,34.249814],"type":"Point"}
 }
