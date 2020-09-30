@@ -17,6 +17,12 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0635\u0648\u0631"
+    ],
+    "name:eng_x_preferred":[
+        "Tyre"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -39,8 +45,8 @@
     "wof:belongsto":[
         102191569,
         85632533,
-        85673499,
-        1108691441
+        1108691441,
+        85673499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,8 +66,8 @@
         }
     ],
     "wof:id":421201873,
-    "wof:lastmodified":1566594001,
-    "wof:name":"\u0635\u0648\u0631",
+    "wof:lastmodified":1601423094,
+    "wof:name":"Tyre",
     "wof:parent_id":1108691441,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-lb",

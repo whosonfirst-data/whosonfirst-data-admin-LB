@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"35.833087,34.0950065,35.833087,34.0950065",
+    "geom:bbox":"35.833087,34.095006,35.833087,34.095006",
     "geom:latitude":34.095006,
     "geom:longitude":35.833087,
     "iso:country":"LB",
@@ -17,6 +17,12 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u062c\u0646\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Janneh"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -39,8 +45,8 @@
     "wof:belongsto":[
         102191569,
         85632533,
-        85673491,
-        421194845
+        421194845,
+        85673491
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,7 +55,7 @@
     },
     "wof:country":"LB",
     "wof:created":1459008854,
-    "wof:geomhash":"6ad071cd62b6031a7e001e46d9a953ed",
+    "wof:geomhash":"c06b33d42872afe3e65cc1ec1a7ef1ac",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -60,8 +66,8 @@
         }
     ],
     "wof:id":421170465,
-    "wof:lastmodified":1566594001,
-    "wof:name":"\u062c\u0646\u0629",
+    "wof:lastmodified":1601423089,
+    "wof:name":"Janneh",
     "wof:parent_id":421194845,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-lb",
@@ -71,9 +77,9 @@
 },
   "bbox": [
     35.833087,
-    34.0950065,
+    34.095006,
     35.833087,
-    34.0950065
+    34.095006
 ],
-  "geometry": {"coordinates":[35.833087,34.0950065],"type":"Point"}
+  "geometry": {"coordinates":[35.833087,34.095006],"type":"Point"}
 }

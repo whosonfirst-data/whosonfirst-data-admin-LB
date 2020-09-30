@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"35.63768,34.0425495,35.63768,34.0425495",
+    "geom:bbox":"35.63768,34.042549,35.63768,34.042549",
     "geom:latitude":34.042549,
     "geom:longitude":35.63768,
     "iso:country":"LB",
@@ -17,6 +17,12 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0635\u0641\u0631\u0627"
+    ],
+    "name:eng_x_preferred":[
+        "As Safra"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -39,8 +45,8 @@
     "wof:belongsto":[
         102191569,
         85632533,
-        85673491,
-        421172015
+        421172015,
+        85673491
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,7 +55,7 @@
     },
     "wof:country":"LB",
     "wof:created":1459009391,
-    "wof:geomhash":"23e228acd7a1aea5ef0d1de932d420cf",
+    "wof:geomhash":"363908037170bc0175da7d9d2f7e4d2f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -60,8 +66,8 @@
         }
     ],
     "wof:id":421183895,
-    "wof:lastmodified":1566594002,
-    "wof:name":"\u0627\u0644\u0635\u0641\u0631\u0627",
+    "wof:lastmodified":1601423087,
+    "wof:name":"As Safra",
     "wof:parent_id":421172015,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-lb",
@@ -71,9 +77,9 @@
 },
   "bbox": [
     35.63768,
-    34.0425495,
+    34.042549,
     35.63768,
-    34.0425495
+    34.042549
 ],
-  "geometry": {"coordinates":[35.63768,34.0425495],"type":"Point"}
+  "geometry": {"coordinates":[35.63768,34.042549],"type":"Point"}
 }

@@ -17,6 +17,12 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0645\u0631\u062c\u0639\u064a\u0648\u0646"
+    ],
+    "name:eng_x_preferred":[
+        "Marjayoun"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -39,8 +45,8 @@
     "wof:belongsto":[
         102191569,
         85632533,
-        85673495,
-        1108691437
+        1108691437,
+        85673495
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,8 +66,8 @@
         }
     ],
     "wof:id":421170475,
-    "wof:lastmodified":1566594001,
-    "wof:name":"\u0645\u0631\u062c\u0639\u064a\u0648\u0646",
+    "wof:lastmodified":1601423090,
+    "wof:name":"Marjayoun",
     "wof:parent_id":1108691437,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-lb",

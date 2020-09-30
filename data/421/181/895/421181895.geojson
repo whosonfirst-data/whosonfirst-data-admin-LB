@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"35.5270515,33.8934725,35.5270515,33.8934725",
+    "geom:bbox":"35.527051,33.893473,35.527051,33.893473",
     "geom:latitude":33.893473,
     "geom:longitude":35.527051,
     "iso:country":"LB",
@@ -16,6 +16,12 @@
     "mz:is_current":-1,
     "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0645\u0633\u062a\u0634\u0641\u0649 \u0627\u0644\u0631\u0648\u0645 \u0627\u0644\u0627\u0648\u0631\u062b\u0648\u0630\u0643\u0633"
+    ],
+    "name:eng_x_preferred":[
+        "Saint George Hospital"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -37,8 +43,8 @@
     "src:geom":"quattroshapes",
     "wof:belongsto":[
         102191569,
-        890442383,
         85632533,
+        890442383,
         85673487
     ],
     "wof:breaches":[],
@@ -48,7 +54,7 @@
     },
     "wof:country":"LB",
     "wof:created":1459009312,
-    "wof:geomhash":"b485911d48d98121c63bedfdceede4ca",
+    "wof:geomhash":"dde1649863b8fc5b0853fd4aed6cf5cc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -59,8 +65,8 @@
         }
     ],
     "wof:id":421181895,
-    "wof:lastmodified":1566593998,
-    "wof:name":"\u0645\u0633\u062a\u0634\u0641\u0649 \u0627\u0644\u0631\u0648\u0645 \u0627\u0644\u0627\u0648\u0631\u062b\u0648\u0630\u0643\u0633",
+    "wof:lastmodified":1601423092,
+    "wof:name":"Saint George Hospital",
     "wof:parent_id":890442383,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-lb",
@@ -69,10 +75,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    35.5270515,
-    33.8934725,
-    35.5270515,
-    33.8934725
+    35.527051,
+    33.893473,
+    35.527051,
+    33.893473
 ],
-  "geometry": {"coordinates":[35.5270515,33.8934725],"type":"Point"}
+  "geometry": {"coordinates":[35.527051,33.893473],"type":"Point"}
 }

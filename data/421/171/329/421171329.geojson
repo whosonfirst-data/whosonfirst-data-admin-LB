@@ -16,6 +16,12 @@
     "mz:is_current":-1,
     "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0648\u0637\u0649"
+    ],
+    "name:eng_x_preferred":[
+        "Wata"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -37,8 +43,8 @@
     "src:geom":"quattroshapes",
     "wof:belongsto":[
         102191569,
-        890442383,
         85632533,
+        890442383,
         85673487
     ],
     "wof:breaches":[],
@@ -59,8 +65,8 @@
         }
     ],
     "wof:id":421171329,
-    "wof:lastmodified":1566594003,
-    "wof:name":"\u0648\u0637\u0649",
+    "wof:lastmodified":1601423094,
+    "wof:name":"Wata",
     "wof:parent_id":890442383,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-lb",

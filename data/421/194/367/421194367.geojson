@@ -16,6 +16,12 @@
     "mz:is_current":-1,
     "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0642\u0631\u064a\u0637\u0645"
+    ],
+    "name:eng_x_preferred":[
+        "Kraytem"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -37,8 +43,8 @@
     "src:geom":"quattroshapes",
     "wof:belongsto":[
         102191569,
-        890442383,
         85632533,
+        890442383,
         85673487
     ],
     "wof:breaches":[],
@@ -59,8 +65,8 @@
         }
     ],
     "wof:id":421194367,
-    "wof:lastmodified":1566593995,
-    "wof:name":"\u0642\u0631\u064a\u0637\u0645",
+    "wof:lastmodified":1601423090,
+    "wof:name":"Kraytem",
     "wof:parent_id":890442383,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-lb",

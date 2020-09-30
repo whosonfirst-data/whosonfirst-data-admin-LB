@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"35.8564355,34.113612,35.8564355,34.113612",
+    "geom:bbox":"35.856436,34.113612,35.856436,34.113612",
     "geom:latitude":34.113612,
     "geom:longitude":35.856436,
     "iso:country":"LB",
@@ -17,6 +17,12 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0645\u0632\u0631\u0639\u0629 \u0627\u0644\u0633\u064a\u0627\u062f"
+    ],
+    "name:eng_x_preferred":[
+        "Mazraat Es Siyad"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -39,8 +45,8 @@
     "wof:belongsto":[
         102191569,
         85632533,
-        85673491,
-        421194845
+        421194845,
+        85673491
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,7 +55,7 @@
     },
     "wof:country":"LB",
     "wof:created":1459008857,
-    "wof:geomhash":"eddc5c7e76cdce9da23cfd1b4a4999e8",
+    "wof:geomhash":"2f92bcd2ef962e8e9668402ca75e80f7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -60,8 +66,8 @@
         }
     ],
     "wof:id":421170531,
-    "wof:lastmodified":1566594001,
-    "wof:name":"\u0645\u0632\u0631\u0639\u0629 \u0627\u0644\u0633\u064a\u0627\u062f",
+    "wof:lastmodified":1601423090,
+    "wof:name":"Mazraat Es Siyad",
     "wof:parent_id":421194845,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-lb",
@@ -70,10 +76,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    35.8564355,
+    35.856436,
     34.113612,
-    35.8564355,
+    35.856436,
     34.113612
 ],
-  "geometry": {"coordinates":[35.8564355,34.113612],"type":"Point"}
+  "geometry": {"coordinates":[35.856436,34.113612],"type":"Point"}
 }

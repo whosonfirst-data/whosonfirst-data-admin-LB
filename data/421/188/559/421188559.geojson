@@ -16,6 +16,12 @@
     "mz:is_current":-1,
     "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0639\u064a\u0646 \u0627\u0644\u062a\u064a\u0646\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Ain At Tina"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -37,8 +43,8 @@
     "src:geom":"quattroshapes",
     "wof:belongsto":[
         102191569,
-        890442383,
         85632533,
+        890442383,
         85673487
     ],
     "wof:breaches":[],
@@ -59,8 +65,8 @@
         }
     ],
     "wof:id":421188559,
-    "wof:lastmodified":1566593997,
-    "wof:name":"\u0639\u064a\u0646 \u0627\u0644\u062a\u064a\u0646\u0629",
+    "wof:lastmodified":1601423083,
+    "wof:name":"Ain At Tina",
     "wof:parent_id":890442383,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-lb",

@@ -7,13 +7,19 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"35.8248705,34.439123,35.8248705,34.439123",
+    "geom:bbox":"35.824871,34.439123,35.824871,34.439123",
     "geom:latitude":34.439123,
     "geom:longitude":35.824871,
     "iso:country":"LB",
     "mz:hierarchy_label":1,
     "mz:is_current":0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u064a\u0646\u0627\u0621"
+    ],
+    "name:eng_x_preferred":[
+        "Al Mina"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -36,8 +42,8 @@
     "wof:belongsto":[
         102191569,
         85632533,
-        1377074355,
-        1108691443
+        1108691443,
+        1377074355
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,7 +52,7 @@
     },
     "wof:country":"LB",
     "wof:created":1459009662,
-    "wof:geomhash":"d34d094fbfa0d1b9a064bea5eaf5655e",
+    "wof:geomhash":"813040e19f1eb1f3d29a6e3b2d44fc20",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -57,8 +63,8 @@
         }
     ],
     "wof:id":421190569,
-    "wof:lastmodified":1551727703,
-    "wof:name":"\u0627\u0644\u0645\u064a\u0646\u0627\u0621",
+    "wof:lastmodified":1601423085,
+    "wof:name":"Al Mina",
     "wof:parent_id":1108691443,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-lb",
@@ -69,10 +75,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    35.8248705,
+    35.824871,
     34.439123,
-    35.8248705,
+    35.824871,
     34.439123
 ],
-  "geometry": {"coordinates":[35.8248705,34.439123],"type":"Point"}
+  "geometry": {"coordinates":[35.824871,34.439123],"type":"Point"}
 }
