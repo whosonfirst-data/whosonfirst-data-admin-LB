@@ -27,6 +27,9 @@
     "name:eng_x_preferred":[
         "Akkar"
     ],
+    "name:fra_x_preferred":[
+        "Akkar"
+    ],
     "src:geom":"whosonfirst",
     "src:population":"wk",
     "src:population_year":2015,
@@ -57,7 +60,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1608007159,
+    "wof:lastmodified":1614895021,
     "wof:name":"Akkar",
     "wof:parent_id":85632533,
     "wof:placetype":"region",
