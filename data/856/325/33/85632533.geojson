@@ -1098,7 +1098,8 @@
     "src:geom_alt":[
         "naturalearth",
         "meso",
-        "quattroshapes"
+        "quattroshapes",
+        "whosonfirst"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
@@ -1159,7 +1160,8 @@
         "meso",
         "naturalearth",
         "quattroshapes",
-        "naturalearth-display-terrestrial-zoom6"
+        "naturalearth-display-terrestrial-zoom6",
+        "whosonfirst-interior"
     ],
     "wof:geomhash":"9e35c81fb210807bf99ba1cd3c8a7a77",
     "wof:hierarchy":[
@@ -1175,7 +1177,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1617827402,
+    "wof:lastmodified":1618362159,
     "wof:name":"Lebanon",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
