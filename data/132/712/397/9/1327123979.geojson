@@ -50,6 +50,12 @@
     "name:frr_x_preferred":[
         "Bouar"
     ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d5\u05d0\u05e8"
+    ],
+    "name:hun_x_preferred":[
+        "Bouar"
+    ],
     "name:ind_x_preferred":[
         "Bouar"
     ],
@@ -116,7 +122,7 @@
         "gn:id":8717868
     },
     "wof:country":"LB",
-    "wof:geomhash":"227e2bb1743b978943cc8d949ec01daa",
+    "wof:geomhash":"a287121a01e9329a7f07ba85320014d0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -127,7 +133,7 @@
         }
     ],
     "wof:id":1327123979,
-    "wof:lastmodified":1566593756,
+    "wof:lastmodified":1636495618,
     "wof:name":"Bouar",
     "wof:parent_id":421194845,
     "wof:placetype":"locality",
@@ -137,10 +143,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    35.66392000000001,
+    35.66392,
     34.16491,
-    35.66392000000001,
+    35.66392,
     34.16491
 ],
-  "geometry": {"coordinates":[35.66392000000001,34.16491],"type":"Point"}
+  "geometry": {"coordinates":[35.66392,34.16491],"type":"Point"}
 }

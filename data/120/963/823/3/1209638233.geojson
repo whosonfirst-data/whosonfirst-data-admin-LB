@@ -41,6 +41,12 @@
     "name:fra_x_preferred":[
         "Batha"
     ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d0\u05d8\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Batha"
+    ],
     "name:ita_x_preferred":[
         "Batha"
     ],
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1209638233,
-    "wof:lastmodified":1566593895,
+    "wof:lastmodified":1636495619,
     "wof:name":"Batha",
     "wof:parent_id":85632533,
     "wof:placetype":"locality",

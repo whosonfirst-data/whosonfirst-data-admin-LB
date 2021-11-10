@@ -38,6 +38,12 @@
     "name:fra_x_preferred":[
         "Blida"
     ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05dc\u05d9\u05d3\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Blida"
+    ],
     "name:ita_x_preferred":[
         "Blida"
     ],
@@ -64,7 +70,7 @@
         "wk:page":"Blida,_Lebanon"
     },
     "wof:country":"LB",
-    "wof:geomhash":"043fed7fa54ef4e6b9bbbfc85392a945",
+    "wof:geomhash":"51fd3e657e2b211aa95309e73e81ec89",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -75,7 +81,7 @@
         }
     ],
     "wof:id":1276572963,
-    "wof:lastmodified":1566593875,
+    "wof:lastmodified":1636495619,
     "wof:name":"Blida",
     "wof:parent_id":1108691437,
     "wof:placetype":"locality",
@@ -85,10 +91,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    35.51472000000001,
+    35.51472,
     33.14,
-    35.51472000000001,
+    35.51472,
     33.14
 ],
-  "geometry": {"coordinates":[35.51472000000001,33.14],"type":"Point"}
+  "geometry": {"coordinates":[35.51472,33.14],"type":"Point"}
 }

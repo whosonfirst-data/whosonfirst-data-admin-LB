@@ -177,6 +177,9 @@
         "Khartoum"
     ],
     "name:hun_x_preferred":[
+        "Khartoum"
+    ],
+    "name:hun_x_variant":[
         "Kart\u00fam"
     ],
     "name:hye_x_preferred":[
@@ -438,7 +441,7 @@
         }
     ],
     "wof:id":1193129687,
-    "wof:lastmodified":1566593926,
+    "wof:lastmodified":1636495619,
     "wof:name":"Khartoum",
     "wof:parent_id":890451987,
     "wof:placetype":"locality",
