@@ -40,6 +40,18 @@
     "name:eng_x_preferred":[
         "Ras Beirut"
     ],
+    "name:fra_x_preferred":[
+        "Ras Beirut"
+    ],
+    "name:hyw_x_preferred":[
+        "\u054c\u0561\u057d \u054a\u0567\u0575\u0580\u0578\u0582\u0569"
+    ],
+    "name:nld_x_preferred":[
+        "Ras Beirut"
+    ],
+    "name:ron_x_preferred":[
+        "Ras Beirut"
+    ],
     "name:und_x_variant":[
         "Ras Beyrouth"
     ],
@@ -128,7 +140,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1582318494,
+    "wof:lastmodified":1690938510,
     "wof:name":"Ras Beirut",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

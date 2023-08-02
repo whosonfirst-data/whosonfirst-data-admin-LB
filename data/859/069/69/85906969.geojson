@@ -44,6 +44,9 @@
     "name:nld_x_preferred":[
         "Beirut Central District"
     ],
+    "name:slv_x_preferred":[
+        "Osrednje okro\u017eje Bejruta"
+    ],
     "name:zho_x_preferred":[
         "\u8d1d\u9c81\u7279\u4e2d\u592e\u533a"
     ],
@@ -107,7 +110,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1582318493,
+    "wof:lastmodified":1690938510,
     "wof:name":"Beirut Central District",
     "wof:parent_id":890442383,
     "wof:placetype":"neighbourhood",

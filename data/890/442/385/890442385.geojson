@@ -37,6 +37,9 @@
     "name:bel_x_variant":[
         "\u0411\u0430\u0430\u043b\u044c\u0431\u0435\u043a"
     ],
+    "name:ben_x_preferred":[
+        "\u09ac\u09be\u09b2\u09be\u09ac\u09c7\u0995"
+    ],
     "name:bul_x_preferred":[
         "\u0411\u0430\u0430\u043b\u0431\u0435\u043a"
     ],
@@ -59,6 +62,9 @@
         "\u039c\u03c0\u03ac\u03b1\u03bb\u03bc\u03c0\u03b5\u03ba"
     ],
     "name:eng_x_preferred":[
+        "Baalbek"
+    ],
+    "name:epo_x_preferred":[
         "Baalbek"
     ],
     "name:est_x_preferred":[
@@ -127,6 +133,9 @@
     "name:mal_x_preferred":[
         "\u0d2c\u0d3e\u0d7d\u0d2c\u0d46\u0d15\u0d4d\u0d15\u0d4d"
     ],
+    "name:mya_x_preferred":[
+        "\u1018\u102c\u1038\u101c\u103a\u1018\u1000\u103a\u1001\u103a\u1019\u103c\u102d\u102f\u1037"
+    ],
     "name:mzn_x_preferred":[
         "\u0628\u0639\u0644\u0628\u06a9"
     ],
@@ -178,14 +187,23 @@
     "name:srp_x_preferred":[
         "\u0411\u0430\u0430\u043b\u0431\u0435\u043a"
     ],
+    "name:swa_x_preferred":[
+        "Baalbek"
+    ],
     "name:swe_x_preferred":[
         "Baalbek"
     ],
     "name:tgk_x_preferred":[
         "\u0411\u0430\u0430\u043b\u0431\u0430\u043a"
     ],
+    "name:tgk_x_variant":[
+        "\u0411\u0430\u044a\u043b\u0430\u0431\u0430\u043a"
+    ],
     "name:tur_x_preferred":[
         "Baalbek"
+    ],
+    "name:uig_x_preferred":[
+        "\u0628\u06d5\u0626\u0644\u06d5\u0628\u06d5\u0643"
     ],
     "name:ukr_x_preferred":[
         "\u0411\u0430\u0430\u043b\u044c\u0431\u0435\u043a"
@@ -199,11 +217,17 @@
     "name:uzb_x_preferred":[
         "Baalbek"
     ],
+    "name:uzb_x_variant":[
+        "Ba\u02bclabak"
+    ],
     "name:vie_x_preferred":[
         "Baalbek"
     ],
     "name:war_x_preferred":[
         "Baalbek"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5df4\u52d2\u8d1d\u514b"
     ],
     "name:xmf_x_preferred":[
         "\u10d1\u10d0\u10d0\u10da\u10d1\u10d4\u10e5\u10d8"
@@ -246,7 +270,7 @@
         }
     ],
     "wof:id":890442385,
-    "wof:lastmodified":1566594004,
+    "wof:lastmodified":1690938519,
     "wof:name":"Baalbek",
     "wof:parent_id":421171405,
     "wof:placetype":"locality",

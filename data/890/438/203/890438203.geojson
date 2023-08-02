@@ -28,8 +28,14 @@
     "name:eng_x_preferred":[
         "Habbo\u00fbch"
     ],
+    "name:fas_x_preferred":[
+        "\u062d\u0628\u0648\u0634"
+    ],
     "name:fra_x_preferred":[
         "Habbouche"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d7\u05d1\u05d5\u05e9"
     ],
     "name:ita_x_preferred":[
         "Habbouch"
@@ -82,7 +88,7 @@
         }
     ],
     "wof:id":890438203,
-    "wof:lastmodified":1566594004,
+    "wof:lastmodified":1690938518,
     "wof:name":"Habbo\u00fbch",
     "wof:parent_id":1108691429,
     "wof:placetype":"locality",
