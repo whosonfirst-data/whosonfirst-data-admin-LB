@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0642\u0631\u0637\u0628\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0642\u0631\u0637\u0628\u0627"
+    ],
     "name:eng_x_preferred":[
         "Qartaba"
     ],
@@ -40,6 +43,9 @@
     ],
     "name:nno_x_preferred":[
         "Qartaba"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u0442\u0430\u0431\u0430"
     ],
     "qs:gn_country":"LB",
     "qs:gn_fcode":"PPL",
@@ -87,7 +93,7 @@
         }
     ],
     "wof:id":421204373,
-    "wof:lastmodified":1566593996,
+    "wof:lastmodified":1690938515,
     "wof:name":"\u0642\u0631\u0637\u0628\u0627",
     "wof:parent_id":421194845,
     "wof:placetype":"locality",

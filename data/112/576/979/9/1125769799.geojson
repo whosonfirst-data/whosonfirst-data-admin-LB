@@ -25,6 +25,15 @@
     "name:ara_x_preferred":[
         "\u0628\u0634\u0631\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u0634\u0631\u0649"
+    ],
+    "name:ast_x_preferred":[
+        "Bsharri"
+    ],
+    "name:aze_x_preferred":[
+        "Bi\u015fari"
+    ],
     "name:bul_x_preferred":[
         "\u0411\u0438\u0448\u0430\u0440\u0438"
     ],
@@ -46,6 +55,12 @@
     "name:eng_x_preferred":[
         "Bsharri"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0634\u0631\u06cc"
+    ],
+    "name:fin_x_preferred":[
+        "B\u00e9charr\u00e9"
+    ],
     "name:fra_x_preferred":[
         "Bcharr\u00e9"
     ],
@@ -58,8 +73,14 @@
     "name:hye_x_preferred":[
         "\u0532\u056b\u0577\u0561\u0580\u056b"
     ],
+    "name:hyw_x_preferred":[
+        "\u054a\u0577\u0561\u0580\u056b"
+    ],
     "name:ita_x_preferred":[
         "Bsharre"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d6\u30b7\u30e3\u30c3\u30ec"
     ],
     "name:kat_x_preferred":[
         "\u10d1\u10d8\u10e8\u10d0\u10e0\u10d8"
@@ -79,17 +100,26 @@
     "name:pol_x_preferred":[
         "Baszarri"
     ],
+    "name:ron_x_preferred":[
+        "Bsharri"
+    ],
     "name:rus_x_preferred":[
         "\u0411\u0438\u0448\u0430\u0440\u0438"
     ],
     "name:sco_x_preferred":[
         "Bsharri"
     ],
+    "name:slv_x_preferred":[
+        "B\u0161ari"
+    ],
     "name:spa_x_preferred":[
         "Bisharri"
     ],
     "name:swe_x_preferred":[
         "Bcharr\u00e9"
+    ],
+    "name:tur_x_preferred":[
+        "Bi\u015ferri"
     ],
     "name:ukr_x_preferred":[
         "\u0411\u0456\u0448\u0430\u0440\u0456"
@@ -139,7 +169,7 @@
         }
     ],
     "wof:id":1125769799,
-    "wof:lastmodified":1566594005,
+    "wof:lastmodified":1690938521,
     "wof:name":"Bcharr\u00e9",
     "wof:parent_id":1108691411,
     "wof:placetype":"locality",

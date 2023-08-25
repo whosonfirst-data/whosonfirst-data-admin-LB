@@ -32,6 +32,9 @@
     "name:ara_x_variant":[
         "\u0633\u0627\u0644\u0648\u0645\u0629"
     ],
+    "name:arz_x_preferred":[
+        "\u0633\u0627\u0644\u0648\u0645\u0649"
+    ],
     "name:bel_x_preferred":[
         "\u0421\u0430\u043b\u0430\u043c\u0435\u044f"
     ],
@@ -44,11 +47,17 @@
     "name:cat_x_preferred":[
         "Salom\u00e9 III"
     ],
+    "name:cat_x_variant":[
+        "Salom\u00e9"
+    ],
     "name:ces_x_preferred":[
         "Salome"
     ],
     "name:chv_x_preferred":[
         "\u0421\u0430\u043b\u043e\u043c\u0435\u044f"
+    ],
+    "name:cym_x_preferred":[
+        "Salome"
     ],
     "name:dan_x_preferred":[
         "Salome"
@@ -65,6 +74,9 @@
     "name:epo_x_preferred":[
         "Salomeo"
     ],
+    "name:est_x_preferred":[
+        "Salom\u00e9"
+    ],
     "name:eus_x_preferred":[
         "Salome"
     ],
@@ -76,6 +88,9 @@
     ],
     "name:fra_x_preferred":[
         "Salom\u00e9"
+    ],
+    "name:gle_x_preferred":[
+        "Sal\u00f3mae"
     ],
     "name:glg_x_preferred":[
         "Salom\u00e9"
@@ -89,6 +104,9 @@
     "name:hrv_x_preferred":[
         "Saloma"
     ],
+    "name:hun_x_preferred":[
+        "Salom\u00e9"
+    ],
     "name:hye_x_preferred":[
         "\u054d\u0561\u056c\u0578\u0574\u0565"
     ],
@@ -101,14 +119,26 @@
     "name:jpn_x_preferred":[
         "\u30b5\u30ed\u30e1"
     ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d0\u10da\u10dd\u10db\u10d4"
+    ],
     "name:kor_x_preferred":[
         "\uc0b4\ub85c\uba54"
     ],
     "name:lat_x_preferred":[
         "Salome"
     ],
+    "name:mkd_x_preferred":[
+        "\u0421\u0430\u043b\u043e\u043c\u0438\u0458\u0430"
+    ],
     "name:nld_x_preferred":[
         "Salom\u00e9 II"
+    ],
+    "name:nld_x_variant":[
+        "Salom\u00e9"
+    ],
+    "name:nno_x_preferred":[
+        "Salome"
     ],
     "name:nob_x_preferred":[
         "Salome"
@@ -119,8 +149,14 @@
     "name:pol_x_preferred":[
         "Salome III"
     ],
+    "name:pol_x_variant":[
+        "Salome"
+    ],
     "name:por_x_preferred":[
         "Salom\u00e9"
+    ],
+    "name:ron_x_preferred":[
+        "Salomeea"
     ],
     "name:rus_x_preferred":[
         "\u0421\u0430\u043b\u043e\u043c\u0435\u044f"
@@ -128,10 +164,16 @@
     "name:spa_x_preferred":[
         "Salom\u00e9"
     ],
+    "name:sqi_x_preferred":[
+        "Salome"
+    ],
     "name:srp_x_preferred":[
         "\u0421\u0430\u043b\u043e\u043c\u0430"
     ],
     "name:swe_x_preferred":[
+        "Salome"
+    ],
+    "name:tgl_x_preferred":[
         "Salome"
     ],
     "name:tha_x_preferred":[
@@ -211,7 +253,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1582318493,
+    "wof:lastmodified":1690938510,
     "wof:name":"Salome",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
