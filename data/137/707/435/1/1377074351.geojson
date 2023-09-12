@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.136638,
-    "geom:area_square_m":1406562545.436347,
+    "geom:area_square_m":1406562352.072631,
     "geom:bbox":"35.604319,33.339199,36.09397,33.934048",
     "geom:latitude":33.64317,
     "geom:longitude":35.852007,
     "iso:country":"LB",
+    "label:eng_x_preferred_longname":[
+        "Beqaa Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "label:eng_x_preferred_shortcode":[
         "BQ"
     ],
@@ -56,16 +62,29 @@
     "src:geom":"whosonfirst",
     "src:population":"wk",
     "src:population_year":2015,
+    "statoids:areakm":1271,
+    "statoids:areami":491,
+    "statoids:capital":"Zahlah",
+    "statoids:country":"LB",
+    "statoids:date":"2005-01-01",
+    "statoids:gec":"LE08",
+    "statoids:hasc":"LB.BQ",
+    "statoids:iso":"BI",
+    "statoids:name":"Beqaa",
+    "statoids:population":471209,
+    "statoids:timezone":"+2~",
+    "statoids:type":"province",
     "wof:belongsto":[
         102191569,
         85632533
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"LB.BQ",
         "iso:id":"LB-BI"
     },
     "wof:country":"LB",
-    "wof:geomhash":"49ab261ae3e1a3de2ee0bbb09404fd5d",
+    "wof:geomhash":"fa7df2dc7f023dc965f81dcbd15d0c6f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,7 +99,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1636495620,
+    "wof:lastmodified":1694493256,
     "wof:name":"Beqaa",
     "wof:parent_id":85632533,
     "wof:placetype":"region",

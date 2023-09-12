@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.281789,
-    "geom:area_square_m":2883406836.908985,
+    "geom:area_square_m":2883407411.519027,
     "geom:bbox":"35.876683,33.812915,36.62372,34.521094",
     "geom:latitude":34.15444,
     "geom:longitude":36.271344,
     "iso:country":"LB",
+    "label:eng_x_preferred_longname":[
+        "Baalbek-Hermel Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "label:eng_x_preferred_shortcode":[
         "BH"
     ],
@@ -36,16 +42,26 @@
     "src:geom":"whosonfirst",
     "src:population":"wk",
     "src:population_year":2015,
+    "statoids:areakm":3009,
+    "statoids:areami":1162,
+    "statoids:country":"LB",
+    "statoids:gec":"LE11",
+    "statoids:hasc":"LB.BH",
+    "statoids:iso":"BH",
+    "statoids:name":"Baalbek-Hermel",
+    "statoids:timezone":"+2~",
+    "statoids:type":"province",
     "wof:belongsto":[
         102191569,
         85632533
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"LB.BH",
         "iso:id":"LB-BH"
     },
     "wof:country":"LB",
-    "wof:geomhash":"9ca50a527f6647413c1713df1dd61977",
+    "wof:geomhash":"f1a91a9e621b954bd172b2e83550cbe8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -60,7 +76,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1614895022,
+    "wof:lastmodified":1694493174,
     "wof:name":"Baalbek-Hermel",
     "wof:parent_id":85632533,
     "wof:placetype":"region",
