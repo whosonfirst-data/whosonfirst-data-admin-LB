@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.116162,
-    "geom:area_square_m":1186379220.055952,
+    "geom:area_square_m":1186379108.562918,
     "geom:bbox":"35.647385,34.135677,36.182529,34.513638",
     "geom:latitude":34.313772,
     "geom:longitude":35.921862,
     "iso:country":"LB",
+    "label:eng_x_preferred_longname":[
+        "North Lebanon Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "label:eng_x_preferred_shortcode":[
         "NL"
     ],
@@ -47,16 +53,29 @@
     "src:geom":"whosonfirst",
     "src:population":"wk",
     "src:population_year":2015,
+    "statoids:areakm":1205,
+    "statoids:areami":465,
+    "statoids:capital":"Tarabulus (Tripoli)",
+    "statoids:country":"LB",
+    "statoids:date":"2005-01-01",
+    "statoids:gec":"LE09",
+    "statoids:hasc":"LB.NL",
+    "statoids:iso":"AS",
+    "statoids:name":"North Lebanon",
+    "statoids:population":768709,
+    "statoids:timezone":"+2~",
+    "statoids:type":"province",
     "wof:belongsto":[
         102191569,
         85632533
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"LB.NL",
         "iso:id":"LB-AS"
     },
     "wof:country":"LB",
-    "wof:geomhash":"f7983b015a07f68f2ca7a9098cc6b339",
+    "wof:geomhash":"2b1ec6ab0f36ff4066ae9dbd26c7dd52",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -71,7 +90,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1614895022,
+    "wof:lastmodified":1694493174,
     "wof:name":"North Lebanon",
     "wof:parent_id":85632533,
     "wof:placetype":"region",

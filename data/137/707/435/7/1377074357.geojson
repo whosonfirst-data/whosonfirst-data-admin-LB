@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.076818,
-    "geom:area_square_m":782352467.33659,
+    "geom:area_square_m":782352467.336659,
     "geom:bbox":"35.955362,34.413176,36.46269,34.69208",
     "geom:latitude":34.548553,
     "geom:longitude":36.182736,
     "iso:country":"LB",
+    "label:eng_x_preferred_longname":[
+        "Akkar Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "label:eng_x_preferred_shortcode":[
         "AK"
     ],
@@ -33,19 +39,29 @@
     "src:geom":"whosonfirst",
     "src:population":"wk",
     "src:population_year":2015,
+    "statoids:areakm":776,
+    "statoids:areami":300,
+    "statoids:country":"LB",
+    "statoids:gec":"LE10",
+    "statoids:hasc":"LB.AA",
+    "statoids:iso":"AK",
+    "statoids:name":"Aakkar",
+    "statoids:timezone":"+2~",
+    "statoids:type":"province",
     "wof:belongsto":[
         102191569,
         85632533
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"LB.AA",
         "iso:id":"LB-AK"
     },
     "wof:coterminous":[
         1108691407
     ],
     "wof:country":"LB",
-    "wof:geomhash":"8fdf963bc81677b87749893aef7a5e95",
+    "wof:geomhash":"aefd44e74a0100972355c54b845123b1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -60,7 +76,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1614895021,
+    "wof:lastmodified":1694493174,
     "wof:name":"Akkar",
     "wof:parent_id":85632533,
     "wof:placetype":"region",

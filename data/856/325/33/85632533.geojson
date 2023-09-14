@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.997028,
-    "geom:area_square_m":10229928695.188868,
+    "geom:area_square_m":10229928695.188307,
     "geom:bbox":"35.103668,33.055026,36.62372,34.69208",
     "geom:latitude":33.921502,
     "geom:longitude":35.893878,
@@ -14,6 +14,9 @@
     "iso:country":"LB",
     "itu:country_code":[
         "961"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "country"
     ],
     "label:eng_x_preferred_shortcode":[
         "LB"
@@ -1183,7 +1186,8 @@
         "whosonfirst"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
+    "src:population":"naturalearth",
+    "src:population_date":"2019",
     "statoids:dial":"961",
     "statoids:ds":"RL",
     "statoids:fifa":"LIB",
@@ -1244,7 +1248,7 @@
         "naturalearth-display-terrestrial-zoom6",
         "whosonfirst-interior"
     ],
-    "wof:geomhash":"9e35c81fb210807bf99ba1cd3c8a7a77",
+    "wof:geomhash":"c97952c936c19568020682814bdac790",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -1258,12 +1262,12 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1690938511,
+    "wof:lastmodified":1694639596,
     "wof:name":"Lebanon",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
-    "wof:population":4467390,
-    "wof:population_rank":12,
+    "wof:population":6855713,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-lb",
     "wof:shortcode":"LB",
     "wof:superseded_by":[],

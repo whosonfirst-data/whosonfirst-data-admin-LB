@@ -5,13 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.103413,
-    "geom:area_square_m":1068801149.204851,
+    "geom:area_square_m":1068801119.360096,
     "geom:bbox":"35.297715,33.055026,35.794508,33.512688",
     "geom:latitude":33.29665,
     "geom:longitude":35.510888,
     "iso:country":"LB",
     "label:eng_x_preferred_longname":[
         "Nabatieh Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
     ],
     "label:eng_x_preferred_shortcode":[
         "NA"
@@ -212,7 +215,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"2f1477820eebcb93d008bbd7fef08efe",
+    "wof:geomhash":"b57da2efe727a46d025a42c5bc1039c1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -227,7 +230,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1614895021,
+    "wof:lastmodified":1694493174,
     "wof:name":"Nabatieh",
     "wof:parent_id":85632533,
     "wof:placetype":"region",
