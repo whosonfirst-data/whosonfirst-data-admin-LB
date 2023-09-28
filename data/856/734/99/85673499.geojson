@@ -278,8 +278,10 @@
         "gn:id":279894,
         "gp:id":2346014,
         "hasc:id":"LB.JA",
+        "iso:code":"LB-JA",
         "qs_pg:id":1135131
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"LB",
     "wof:geom_alt":[
         "quattroshapes"
@@ -299,7 +301,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1694493127,
+    "wof:lastmodified":1695884286,
     "wof:name":"South Lebanon",
     "wof:parent_id":85632533,
     "wof:placetype":"region",

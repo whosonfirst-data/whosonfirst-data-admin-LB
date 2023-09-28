@@ -209,8 +209,10 @@
         "gn:id":444191,
         "gp:id":56049597,
         "hasc:id":"LB.NA",
+        "iso:code":"LB-NA",
         "qs_pg:id":996715
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"LB",
     "wof:geom_alt":[
         "quattroshapes"
@@ -230,7 +232,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1694493174,
+    "wof:lastmodified":1695884520,
     "wof:name":"Nabatieh",
     "wof:parent_id":85632533,
     "wof:placetype":"region",

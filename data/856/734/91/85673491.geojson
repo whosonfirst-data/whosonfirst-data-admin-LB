@@ -281,9 +281,11 @@
         "gn:id":273607,
         "gp:id":2346017,
         "hasc:id":"LB.JL",
+        "iso:code":"LB-JL",
         "qs_pg:id":1115650,
         "unlc:id":"LB-JL"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"LB",
     "wof:geom_alt":[
         "quattroshapes"
@@ -303,7 +305,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1694493125,
+    "wof:lastmodified":1695884281,
     "wof:name":"Mount Lebanon",
     "wof:parent_id":85632533,
     "wof:placetype":"region",
