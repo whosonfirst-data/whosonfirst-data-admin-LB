@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.029753,
-    "geom:area_square_m":307168702.115307,
+    "geom:area_square_m":307168693.871318,
     "geom:bbox":"35.313549,33.293332,35.550359,33.512688",
     "geom:latitude":33.391598,
     "geom:longitude":35.452169,
@@ -127,9 +127,10 @@
         "hasc:id":"LB.NA.NA",
         "wd:id":"Q680602"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LB",
     "wof:created":1474310287,
-    "wof:geomhash":"165cf467723e30a02b7b9564b8a71b51",
+    "wof:geomhash":"b15c3738adf35a612163f12251f22e34",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -139,7 +140,7 @@
         }
     ],
     "wof:id":1108691429,
-    "wof:lastmodified":1690938512,
+    "wof:lastmodified":1695886706,
     "wof:name":"El Nabatieh",
     "wof:parent_id":85673495,
     "wof:placetype":"county",

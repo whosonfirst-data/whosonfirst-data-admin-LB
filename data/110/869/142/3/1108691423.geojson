@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016653,
-    "geom:area_square_m":170059951.319096,
+    "geom:area_square_m":170059874.898369,
     "geom:bbox":"35.707823,34.244782,35.870242,34.419529",
     "geom:latitude":34.324675,
     "geom:longitude":35.798684,
@@ -132,9 +132,10 @@
         "hasc:id":"LB.NL.KO",
         "wd:id":"Q2414816"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LB",
     "wof:created":1474310282,
-    "wof:geomhash":"fb704078292030c8eb373279bcd5fc53",
+    "wof:geomhash":"198ad115873373641deb2eae1c14d1d5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -144,7 +145,7 @@
         }
     ],
     "wof:id":1108691423,
-    "wof:lastmodified":1690938513,
+    "wof:lastmodified":1695886706,
     "wof:name":"El Koura",
     "wof:parent_id":1377074355,
     "wof:placetype":"county",

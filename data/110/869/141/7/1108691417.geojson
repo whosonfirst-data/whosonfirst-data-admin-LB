@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02649,
-    "geom:area_square_m":274242039.487861,
+    "geom:area_square_m":274242126.946013,
     "geom:bbox":"35.297715,33.055026,35.506799,33.312788",
     "geom:latitude":33.150796,
     "geom:longitude":35.401282,
@@ -72,9 +72,10 @@
     "wof:concordances":{
         "hasc:id":"LB.NA.BJ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LB",
     "wof:created":1474310278,
-    "wof:geomhash":"4461068ec24f7fc9e4c819ed48267a03",
+    "wof:geomhash":"6c5564071c7a6f395324c44fec2ea499",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -84,7 +85,7 @@
         }
     ],
     "wof:id":1108691417,
-    "wof:lastmodified":1627522325,
+    "wof:lastmodified":1695886786,
     "wof:name":"Bent Jbeil",
     "wof:parent_id":85673495,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.076818,
-    "geom:area_square_m":782352467.33659,
+    "geom:area_square_m":782352467.336659,
     "geom:bbox":"35.955362,34.413176,36.46269,34.69208",
     "geom:latitude":34.548553,
     "geom:longitude":36.182736,
@@ -138,12 +138,13 @@
         "hasc:id":"LB.AA.AK",
         "wd:id":"Q419697"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:coterminous":[
         1377074357
     ],
     "wof:country":"LB",
     "wof:created":1474310271,
-    "wof:geomhash":"8fdf963bc81677b87749893aef7a5e95",
+    "wof:geomhash":"aefd44e74a0100972355c54b845123b1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -153,7 +154,7 @@
         }
     ],
     "wof:id":1108691407,
-    "wof:lastmodified":1690938514,
+    "wof:lastmodified":1695886415,
     "wof:name":"Akkar",
     "wof:parent_id":1377074357,
     "wof:placetype":"county",

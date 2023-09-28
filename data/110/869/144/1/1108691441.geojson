@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.039493,
-    "geom:area_square_m":408562668.586716,
+    "geom:area_square_m":408562529.931804,
     "geom:bbox":"35.103668,33.085197,35.43226,33.338436",
     "geom:latitude":33.213357,
     "geom:longitude":35.273975,
@@ -71,9 +71,10 @@
     "wof:concordances":{
         "hasc:id":"LB.JA.SU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LB",
     "wof:created":1474310294,
-    "wof:geomhash":"122c619104cba45cb4aeabfeabb43dea",
+    "wof:geomhash":"f9294f2c1029aca5538cd95e052b3369",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -83,7 +84,7 @@
         }
     ],
     "wof:id":1108691441,
-    "wof:lastmodified":1627522326,
+    "wof:lastmodified":1695886787,
     "wof:name":"Sour",
     "wof:parent_id":85673499,
     "wof:placetype":"county",

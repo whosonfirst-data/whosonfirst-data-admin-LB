@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.051778,
-    "geom:area_square_m":533737165.452973,
+    "geom:area_square_m":533737450.327156,
     "geom:bbox":"35.683235,33.339199,36.05307,33.688773",
     "geom:latitude":33.524906,
     "geom:longitude":35.865363,
@@ -71,9 +71,10 @@
     "wof:concordances":{
         "hasc:id":"LB.BQ.RA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LB",
     "wof:created":1474310293,
-    "wof:geomhash":"aa2bedfb10426335165c4600ac90f5ad",
+    "wof:geomhash":"4f76fe509f2e007307db38f91ca6baf3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -83,7 +84,7 @@
         }
     ],
     "wof:id":1108691439,
-    "wof:lastmodified":1627522326,
+    "wof:lastmodified":1695886787,
     "wof:name":"Rachaya",
     "wof:parent_id":1377074351,
     "wof:placetype":"county",

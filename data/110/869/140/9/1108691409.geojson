@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025766,
-    "geom:area_square_m":264841068.876557,
+    "geom:area_square_m":264841122.286282,
     "geom:bbox":"35.459272,33.705671,35.812583,33.829217",
     "geom:latitude":33.771047,
     "geom:longitude":35.611458,
@@ -138,9 +138,10 @@
         "hasc:id":"LB.JL.AL",
         "wd:id":"Q246077"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LB",
     "wof:created":1474310273,
-    "wof:geomhash":"866568f372adc2ffb84e21a4e7c0c774",
+    "wof:geomhash":"0cf16d76481b40015bdd785f7e6e7071",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -150,7 +151,7 @@
         }
     ],
     "wof:id":1108691409,
-    "wof:lastmodified":1690938514,
+    "wof:lastmodified":1695886706,
     "wof:name":"Aley",
     "wof:parent_id":85673491,
     "wof:placetype":"county",

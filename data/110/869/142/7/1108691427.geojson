@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.035894,
-    "geom:area_square_m":366301348.396631,
+    "geom:area_square_m":366301460.281723,
     "geom:bbox":"35.854078,34.274239,36.182529,34.513638",
     "geom:latitude":34.381042,
     "geom:longitude":36.04035,
@@ -71,9 +71,10 @@
     "wof:concordances":{
         "hasc:id":"LB.NL.MD"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LB",
     "wof:created":1474310285,
-    "wof:geomhash":"05aba899f33aa3e2dc8e7e4b6fc50a0d",
+    "wof:geomhash":"d5d99d90edbd3cb84088f412c46eedc7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -83,7 +84,7 @@
         }
     ],
     "wof:id":1108691427,
-    "wof:lastmodified":1627522325,
+    "wof:lastmodified":1695886786,
     "wof:name":"El Minieh-Dennie",
     "wof:parent_id":1377074355,
     "wof:placetype":"county",

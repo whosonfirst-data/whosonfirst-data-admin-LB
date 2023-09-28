@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.016262,
-    "geom:area_square_m":166220955.535744,
+    "geom:area_square_m":166221251.814045,
     "geom:bbox":"35.819276,34.180854,36.140401,34.309456",
     "geom:latitude":34.248402,
     "geom:longitude":35.985315,
@@ -71,9 +71,10 @@
     "wof:concordances":{
         "hasc:id":"LB.NL.BC"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LB",
     "wof:created":1474310275,
-    "wof:geomhash":"d75ef8c4b4730281907246e66757e687",
+    "wof:geomhash":"b838f96bb786bf98779c5613df8e757c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -83,7 +84,7 @@
         }
     ],
     "wof:id":1108691411,
-    "wof:lastmodified":1627522325,
+    "wof:lastmodified":1695886786,
     "wof:name":"Bcharre",
     "wof:parent_id":1377074355,
     "wof:placetype":"county",

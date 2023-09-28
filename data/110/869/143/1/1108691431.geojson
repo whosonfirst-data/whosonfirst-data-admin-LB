@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.021842,
-    "geom:area_square_m":225532961.97166,
+    "geom:area_square_m":225532961.971627,
     "geom:bbox":"35.6052855507,33.2712927582,35.7945084623,33.4817931498",
     "geom:latitude":33.377899,
     "geom:longitude":35.697668,
@@ -114,9 +114,10 @@
     "wof:concordances":{
         "hasc:id":"LB.NA.HA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LB",
     "wof:created":1474310288,
-    "wof:geomhash":"4a9b78e7825ca0524c4bd898abf45deb",
+    "wof:geomhash":"0375f943338b7fcc3350e0f6889aa3b6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -126,7 +127,7 @@
         }
     ],
     "wof:id":1108691431,
-    "wof:lastmodified":1566593945,
+    "wof:lastmodified":1695886706,
     "wof:name":"Hasbaya",
     "wof:parent_id":85673495,
     "wof:placetype":"county",

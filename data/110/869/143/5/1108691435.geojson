@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022609,
-    "geom:area_square_m":233136314.478272,
+    "geom:area_square_m":233136157.997422,
     "geom:bbox":"35.419216,33.357445,35.633794,33.59634",
     "geom:latitude":33.49448,
     "geom:longitude":35.548451,
@@ -129,9 +129,10 @@
         "hasc:id":"LB.JA.JE",
         "wd:id":"Q2210780"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LB",
     "wof:created":1474310290,
-    "wof:geomhash":"43a2fa38ab9a28b993ae7e5bef2ffac8",
+    "wof:geomhash":"fa1b70e332184e8230a095a3343976a3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -141,7 +142,7 @@
         }
     ],
     "wof:id":1108691435,
-    "wof:lastmodified":1690938513,
+    "wof:lastmodified":1695886706,
     "wof:name":"Jezzine",
     "wof:parent_id":85673499,
     "wof:placetype":"county",

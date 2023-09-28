@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002717,
-    "geom:area_square_m":27717795.417502,
+    "geom:area_square_m":27717753.131281,
     "geom:bbox":"35.769316,34.373427,35.870987,34.458668",
     "geom:latitude":34.421611,
     "geom:longitude":35.834056,
@@ -147,9 +147,10 @@
         "hasc:id":"LB.NL.TR",
         "wd:id":"Q2484819"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LB",
     "wof:created":1474310296,
-    "wof:geomhash":"f0fa4070b3450e54d5d9d8110975e37c",
+    "wof:geomhash":"c1c60d48cb7d4def5c762110273b25bf",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -159,7 +160,7 @@
         }
     ],
     "wof:id":1108691443,
-    "wof:lastmodified":1690938513,
+    "wof:lastmodified":1695886659,
     "wof:name":"Tripoli",
     "wof:parent_id":1377074355,
     "wof:placetype":"county",

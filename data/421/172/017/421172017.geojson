@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.04269,
-    "geom:area_square_m":438583758.526224,
+    "geom:area_square_m":438583300.339817,
     "geom:bbox":"35.767494,33.682862,36.09397,33.934048",
     "geom:latitude":33.81268,
     "geom:longitude":35.927789,
@@ -161,12 +161,13 @@
         "qs_pg:id":1291278,
         "wd:id":"Q2484830"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LB",
     "wof:created":1459008916,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"61d8b1a547f00688d129a8d83f41a96f",
+    "wof:geomhash":"722e770318d202199aab944de5d5600c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -176,7 +177,7 @@
         }
     ],
     "wof:id":421172017,
-    "wof:lastmodified":1690938516,
+    "wof:lastmodified":1695886594,
     "wof:name":"Zahle",
     "wof:parent_id":1377074351,
     "wof:placetype":"county",
