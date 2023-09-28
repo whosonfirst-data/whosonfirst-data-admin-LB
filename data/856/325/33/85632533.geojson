@@ -1225,6 +1225,7 @@
         "hasc:id":"LB",
         "icao:code":"OD",
         "ioc:id":"LIB",
+        "iso:code":"LB",
         "itu:id":"LBN",
         "loc:id":"n79090014",
         "m49:code":"422",
@@ -1239,6 +1240,7 @@
         "wk:page":"Lebanon",
         "wmo:id":"LB"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"LB",
     "wof:country_alpha3":"LBN",
     "wof:geom_alt":[
@@ -1262,7 +1264,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1694639596,
+    "wof:lastmodified":1695881257,
     "wof:name":"Lebanon",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
