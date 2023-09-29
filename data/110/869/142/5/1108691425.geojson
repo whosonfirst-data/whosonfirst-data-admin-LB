@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025541,
-    "geom:area_square_m":262093186.665546,
+    "geom:area_square_m":262093403.458945,
     "geom:bbox":"35.528118,33.839597,35.903654,33.986356",
     "geom:latitude":33.912912,
     "geom:longitude":35.710156,
@@ -160,9 +160,10 @@
         "hasc:id":"LB.JL.MT",
         "wd:id":"Q246074"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LB",
     "wof:created":1474310284,
-    "wof:geomhash":"4cbfad6daff5db348f5d7122de8632e0",
+    "wof:geomhash":"9d0c9bbec27cfd344182923fc3bd3280",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -172,7 +173,7 @@
         }
     ],
     "wof:id":1108691425,
-    "wof:lastmodified":1690938513,
+    "wof:lastmodified":1695886706,
     "wof:name":"El Meten",
     "wof:parent_id":85673491,
     "wof:placetype":"county",

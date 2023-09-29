@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.017231,
-    "geom:area_square_m":175892730.181827,
+    "geom:area_square_m":175892663.38711,
     "geom:bbox":"35.852405,34.26579,36.030623,34.453832",
     "geom:latitude":34.35563,
     "geom:longitude":35.920379,
@@ -129,9 +129,10 @@
         "hasc:id":"LB.NL.ZG",
         "wd:id":"Q197116"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LB",
     "wof:created":1474310297,
-    "wof:geomhash":"df9039eb592319f264a456828a9ee6ad",
+    "wof:geomhash":"8e036ce838c79bde7f2d8b28f8297193",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -141,7 +142,7 @@
         }
     ],
     "wof:id":1108691445,
-    "wof:lastmodified":1690938514,
+    "wof:lastmodified":1695886706,
     "wof:name":"Zgharta",
     "wof:parent_id":1377074355,
     "wof:placetype":"county",

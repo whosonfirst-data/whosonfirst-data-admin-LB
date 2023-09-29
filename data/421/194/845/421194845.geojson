@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.041296,
-    "geom:area_square_m":422712362.013772,
+    "geom:area_square_m":422712134.894722,
     "geom:bbox":"35.627945,34.040229,36.017771,34.211799",
     "geom:latitude":34.123831,
     "geom:longitude":35.811183,
@@ -95,12 +95,13 @@
         "hasc:id":"LB.JL.JB",
         "qs_pg:id":9336
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LB",
     "wof:created":1459009821,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"0d473ffded0966cf361ccb21b0ab4dd5",
+    "wof:geomhash":"88a1b9d11123364962c8063f8e5e3e8f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -110,7 +111,7 @@
         }
     ],
     "wof:id":421194845,
-    "wof:lastmodified":1627522326,
+    "wof:lastmodified":1695886786,
     "wof:name":"Jbeil",
     "wof:parent_id":85673491,
     "wof:placetype":"county",

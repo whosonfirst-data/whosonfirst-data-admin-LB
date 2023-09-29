@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019046,
-    "geom:area_square_m":195602694.995599,
+    "geom:area_square_m":195602694.995621,
     "geom:bbox":"35.4803773947,33.7946400355,35.8355955463,33.8901672767",
     "geom:latitude":33.843798,
     "geom:longitude":35.671934,
@@ -170,12 +170,13 @@
         "hasc:id":"LB.JL.BD",
         "qs_pg:id":220662
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LB",
     "wof:created":1459010112,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a5515d5cef62a94e133b41c9e84509ab",
+    "wof:geomhash":"df921c19922545b0bda7f5ad1dea1bda",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -185,7 +186,7 @@
         }
     ],
     "wof:id":421202301,
-    "wof:lastmodified":1582318498,
+    "wof:lastmodified":1695886595,
     "wof:name":"Baabda",
     "wof:parent_id":85673491,
     "wof:placetype":"county",

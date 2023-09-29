@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.027403,
-    "geom:area_square_m":280186439.205216,
+    "geom:area_square_m":280186105.050383,
     "geom:bbox":"35.647385,34.135677,36.031358,34.337949",
     "geom:latitude":34.220815,
     "geom:longitude":35.813503,
@@ -153,12 +153,13 @@
         "qs_pg:id":238183,
         "wd:id":"Q26781"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LB",
     "wof:created":1459010174,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e8d2b0e8cbb076bbc21deb55fcb7a960",
+    "wof:geomhash":"6cdc34e11ec1a97887739d988d738f7d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -168,7 +169,7 @@
         }
     ],
     "wof:id":421204111,
-    "wof:lastmodified":1690938515,
+    "wof:lastmodified":1695886595,
     "wof:name":"El Batroun",
     "wof:parent_id":1377074355,
     "wof:placetype":"county",

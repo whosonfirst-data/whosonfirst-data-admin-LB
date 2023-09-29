@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025328,
-    "geom:area_square_m":261857445.629981,
+    "geom:area_square_m":261857437.424083,
     "geom:bbox":"35.425359,33.116192,35.640199,33.398395",
     "geom:latitude":33.267594,
     "geom:longitude":35.533427,
@@ -71,9 +71,10 @@
     "wof:concordances":{
         "hasc:id":"LB.NA.MJ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LB",
     "wof:created":1474310291,
-    "wof:geomhash":"5884544b51a8e1adcd6cb8889d1d91c2",
+    "wof:geomhash":"45f7dfd66cc00fa833269ce63f2b6a00",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -83,7 +84,7 @@
         }
     ],
     "wof:id":1108691437,
-    "wof:lastmodified":1627522326,
+    "wof:lastmodified":1695886787,
     "wof:name":"Marjaayoun",
     "wof:parent_id":85673495,
     "wof:placetype":"county",

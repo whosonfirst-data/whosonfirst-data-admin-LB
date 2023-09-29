@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.046808,
-    "geom:area_square_m":481787145.807809,
+    "geom:area_square_m":481787440.840914,
     "geom:bbox":"35.384681,33.489365,35.764041,33.763805",
     "geom:latitude":33.652999,
     "geom:longitude":35.563814,
@@ -150,9 +150,10 @@
         "hasc:id":"LB.JL.CH",
         "wd:id":"Q246999"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LB",
     "wof:created":1474310279,
-    "wof:geomhash":"3c87cddac91a500cfbd49b35968aa095",
+    "wof:geomhash":"48918f0dd2d8ab1c7e2bc6f077af7328",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -162,7 +163,7 @@
         }
     ],
     "wof:id":1108691419,
-    "wof:lastmodified":1690938514,
+    "wof:lastmodified":1695886706,
     "wof:name":"Chouf",
     "wof:parent_id":85673491,
     "wof:placetype":"county",

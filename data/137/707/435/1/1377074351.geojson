@@ -81,8 +81,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"LB.BQ",
+        "iso:code":"LB-BI",
         "iso:id":"LB-BI"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"LB",
     "wof:geomhash":"fa7df2dc7f023dc965f81dcbd15d0c6f",
     "wof:hierarchy":[
@@ -99,7 +101,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1694493256,
+    "wof:lastmodified":1695884802,
     "wof:name":"Beqaa",
     "wof:parent_id":85632533,
     "wof:placetype":"region",

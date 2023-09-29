@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.230046,
-    "geom:area_square_m":2355393159.053947,
+    "geom:area_square_m":2355393703.997992,
     "geom:bbox":"35.876683,33.812915,36.62372,34.450104",
     "geom:latitude":34.102577,
     "geom:longitude":36.263515,
@@ -157,12 +157,13 @@
         "qs_pg:id":1249401,
         "wd:id":"Q782804"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"LB",
     "wof:created":1459008892,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ae3ae3081ee5904d0d49b9f43c9640ed",
+    "wof:geomhash":"e590055ad380a9276c9c318d05c6f9ae",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -172,7 +173,7 @@
         }
     ],
     "wof:id":421171405,
-    "wof:lastmodified":1690938517,
+    "wof:lastmodified":1695886594,
     "wof:name":"Baalbek",
     "wof:parent_id":1377074353,
     "wof:placetype":"county",

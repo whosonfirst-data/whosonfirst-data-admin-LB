@@ -58,8 +58,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"LB.BH",
+        "iso:code":"LB-BH",
         "iso:id":"LB-BH"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"LB",
     "wof:geomhash":"f1a91a9e621b954bd172b2e83550cbe8",
     "wof:hierarchy":[
@@ -76,7 +78,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1694493174,
+    "wof:lastmodified":1695884520,
     "wof:name":"Baalbek-Hermel",
     "wof:parent_id":85632533,
     "wof:placetype":"region",
