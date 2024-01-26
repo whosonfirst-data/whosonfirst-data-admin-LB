@@ -55,8 +55,13 @@
     "wof:concordances":{
         "gn:id":275446
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6271305
+        ]
+    },
     "wof:country":"LB",
-    "wof:geomhash":"72190ddf4cd07cd2194b138902857a5f",
+    "wof:geomhash":"ee7dd3c7e51d571fa620d91458f84449",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -67,20 +72,22 @@
         }
     ],
     "wof:id":1293685999,
-    "wof:lastmodified":1566593842,
+    "wof:lastmodified":1706240342,
     "wof:name":"Dahr Ain el Haour",
     "wof:parent_id":1108691419,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-lb",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326534611
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    35.50149000000001,
+    35.50149,
     33.66216,
-    35.50149000000001,
+    35.50149,
     33.66216
 ],
-  "geometry": {"coordinates":[35.50149000000001,33.66216],"type":"Point"}
+  "geometry": {"coordinates":[35.50149,33.66216],"type":"Point"}
 }

@@ -47,6 +47,11 @@
     "wof:concordances":{
         "gn:id":279576
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6275568
+        ]
+    },
     "wof:country":"LB",
     "wof:geomhash":"1fceab0081a358f835c62fe6039bef2e",
     "wof:hierarchy":[
@@ -59,13 +64,15 @@
         }
     ],
     "wof:id":1327050185,
-    "wof:lastmodified":1566593760,
+    "wof:lastmodified":1706240342,
     "wof:name":"El Millaha",
     "wof:parent_id":421172017,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-lb",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327154407
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -47,6 +47,11 @@
     "wof:concordances":{
         "gn:id":274484
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6275567
+        ]
+    },
     "wof:country":"LB",
     "wof:geomhash":"3c037b06406f55fc74673167877f6a03",
     "wof:hierarchy":[
@@ -59,13 +64,15 @@
         }
     ],
     "wof:id":1310195705,
-    "wof:lastmodified":1566593964,
+    "wof:lastmodified":1706240342,
     "wof:name":"Haret el Faouqa",
     "wof:parent_id":421172017,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-lb",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310492289
+    ],
     "wof:tags":[]
 },
   "bbox": [

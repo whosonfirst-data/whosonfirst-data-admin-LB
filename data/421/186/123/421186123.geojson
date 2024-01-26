@@ -9,6 +9,19 @@
     "geom:bbox":"35.52639,33.331668,35.52639,33.331668",
     "geom:latitude":33.331668,
     "geom:longitude":35.52639,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Arnoun",
+    "gn:country_code":"LB",
+    "gn:dem":562,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":278538,
+    "gn:latitude":33.33167,
+    "gn:longitude":35.52639,
+    "gn:modification_date":"2018-01-10",
+    "gn:name":"Arnoun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Beirut",
     "iso:country":"LB",
     "lbl:bbox":"35.50639,33.311668,35.54639,33.351668",
     "lbl:max_zoom":18.0,
@@ -22,6 +35,25 @@
     ],
     "name:eng_x_preferred":[
         "Arnoun"
+    ],
+    "name:fas_x_preferred":[
+        "\u0623\u0631\u0646\u0648\u0646"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05e8\u05e0\u05d5\u05df"
+    ],
+    "name:ita_x_preferred":[
+        "Arnoun"
+    ],
+    "name:nno_x_preferred":[
+        "Arnoun"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0440\u043d\u0443\u043d"
+    ],
+    "name:und_x_variant":[
+        "Arn\u016bn",
+        "Arnao\u00fbn"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -45,13 +77,15 @@
     "wof:belongsto":[
         102191569,
         85632533,
-        1108691429,
-        85673495
+        85673495,
+        1108691429
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":278538,
         "gp:id":1959955,
-        "qs_pg:id":911301
+        "qs_pg:id":911301,
+        "wk:page":"Arnoun"
     },
     "wof:country":"LB",
     "wof:created":1459009471,
@@ -66,13 +100,15 @@
         }
     ],
     "wof:id":421186123,
-    "wof:lastmodified":1601423087,
+    "wof:lastmodified":1706240341,
     "wof:name":"Arnoun",
     "wof:parent_id":1108691429,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-lb",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1292992519
+    ],
     "wof:tags":[]
 },
   "bbox": [
