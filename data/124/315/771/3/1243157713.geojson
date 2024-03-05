@@ -46,6 +46,11 @@
     "wof:concordances":{
         "gn:id":270031
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6275564
+        ]
+    },
     "wof:country":"LB",
     "wof:geomhash":"b9ec59a3962ef882f08188234633e8f8",
     "wof:hierarchy":[
@@ -58,13 +63,15 @@
         }
     ],
     "wof:id":1243157713,
-    "wof:lastmodified":1566594020,
+    "wof:lastmodified":1706240342,
     "wof:name":"Nabaa el Aassal",
     "wof:parent_id":421172017,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-lb",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360182363
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -48,6 +48,11 @@
     "wof:concordances":{
         "gn:id":267224
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6273714
+        ]
+    },
     "wof:country":"LB",
     "wof:geomhash":"c190cda448fd7d25e3bc8de46995215f",
     "wof:hierarchy":[
@@ -60,13 +65,15 @@
         }
     ],
     "wof:id":1210039061,
-    "wof:lastmodified":1566593921,
+    "wof:lastmodified":1706240341,
     "wof:name":"Sibnai",
     "wof:parent_id":421202301,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-lb",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1243195055
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -47,6 +47,11 @@
     "wof:concordances":{
         "gn:id":270767
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6272103
+        ]
+    },
     "wof:country":"LB",
     "wof:geomhash":"315d70310f651ebefa77064138c8599e",
     "wof:hierarchy":[
@@ -59,13 +64,15 @@
         }
     ],
     "wof:id":1226741639,
-    "wof:lastmodified":1566594059,
+    "wof:lastmodified":1706240342,
     "wof:name":"Meiss ej Jabal",
     "wof:parent_id":1108691437,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-lb",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1242769497
+    ],
     "wof:tags":[]
 },
   "bbox": [

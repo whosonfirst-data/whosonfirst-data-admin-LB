@@ -29,6 +29,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u062f\u064a\u0631 \u0632\u0646\u0648\u0646"
+    ],
+    "name:und_x_variant":[
+        "Darzanoun",
+        "De\u00efr Zenoun",
+        "Derzenoun",
+        "Darzayn\u016bn",
+        "De\u00efr Zeno\u00fbn",
+        "Dayr Zan\u016bn"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -39,6 +50,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6274135
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            275759
+        ]
     },
     "wof:country":"LB",
     "wof:geomhash":"0004156d21f4ccd80a67511c0734b2e3",
@@ -52,13 +68,15 @@
         }
     ],
     "wof:id":1226067481,
-    "wof:lastmodified":1566594077,
+    "wof:lastmodified":1706240341,
     "wof:name":"Deir Zenoun",
     "wof:parent_id":421172017,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-lb",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343977981
+    ],
     "wof:tags":[]
 },
   "bbox": [

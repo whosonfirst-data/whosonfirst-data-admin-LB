@@ -48,8 +48,13 @@
     "wof:concordances":{
         "gn:id":272274
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6274137
+        ]
+    },
     "wof:country":"LB",
-    "wof:geomhash":"2341e503172c950ba4d34a168f70496a",
+    "wof:geomhash":"68358e5e8ba86950f86a984c3562a0c7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -60,20 +65,22 @@
         }
     ],
     "wof:id":1209608435,
-    "wof:lastmodified":1566593906,
+    "wof:lastmodified":1706240341,
     "wof:name":"Ksar el Hanach",
     "wof:parent_id":421173359,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-lb",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1225964267
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    35.87667000000001,
+    35.87667,
     33.75248,
-    35.87667000000001,
+    35.87667,
     33.75248
 ],
-  "geometry": {"coordinates":[35.87667000000001,33.75248],"type":"Point"}
+  "geometry": {"coordinates":[35.87667,33.75248],"type":"Point"}
 }

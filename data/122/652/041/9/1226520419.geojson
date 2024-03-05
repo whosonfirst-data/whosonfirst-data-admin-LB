@@ -29,6 +29,11 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Antipatris",
+        "Ra\u2019s al \u2018Ayn",
+        "R\u00e2s el A\u00efn"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -39,6 +44,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6278747
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            268783
+        ]
     },
     "wof:country":"LB",
     "wof:geomhash":"8d8ca4791ae03773835a72d1fe2c883d",
@@ -52,13 +62,15 @@
         }
     ],
     "wof:id":1226520419,
-    "wof:lastmodified":1566594075,
+    "wof:lastmodified":1706240342,
     "wof:name":"Ras el Ain",
     "wof:parent_id":421171405,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-lb",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1226737975
+    ],
     "wof:tags":[]
 },
   "bbox": [
